@@ -28,7 +28,7 @@ CONTENTS:
      JLPT data for words comes from Jonathan Waller (http://www.tanos.co.uk/).<br />
      Pinyin comes from CC-CEDICT (http://www.mdbg.net/chindict/chindict.php?page=cc-cedict).
 
-   Please attribute only the changes and additions of this database to me, by e.g. displaying the following or similar text on your website or the "About" page in your application (and on the iTunes App Store/Google Play Store description):
+   Please attribute only the changes and additions of this database to me, by e.g. displaying the following or similar text on your website or the "About" page in your application (and on the iTunes App Store/Google Play Store description):<br />
      "The pitch accent notation, verb particle data, phonetics, homonyms and other additions or modifications to EDICT, KANJIDIC or KRADFILE were provided by Uros Ozvatic through his free database."
 
 -----------
@@ -36,8 +36,8 @@ CONTENTS:
 2) NOTES
 
    * *kanjidb.sqlite*:<br />
-      'particles' column in compverbs, edict, jukugo tables: join with *sentences.particle* to output sentences containing that particle+word (parse first if multiple particles)<br />
-      'frequency' column in compverbs, edict, jukugo tables: frequencies marked with a * are ambiguous. For example, 七 is read シチ and なな. It is impossible to know which reading the frequency is based on. Frequencies are based on an analysis of over 5,000 novels.<br />
+      '*particles*' column in compverbs, edict, jukugo tables: join with *sentences.particle* to output sentences containing that particle+word (parse first if multiple particles)<br />
+      '*frequency*' column in compverbs, edict, jukugo tables: frequencies marked with a * are ambiguous. For example, 七 is read シチ and なな. It is impossible to know which reading the frequency is based on. Frequencies are based on an analysis of over 5,000 novels.<br />
       * elements table:<br />
              * *elements.grade*: 1=jouyou, 2=jinmeiyou, 3=hyougaiji<br />
              * *elements.idc*: ideographic description character (kanji shape); see *multielements.txt* for mapping table to images in *idc_images* folder<br />
@@ -46,7 +46,7 @@ CONTENTS:
              * *elements.kanji_parts*: list of elements that the kanji is made of (different from *elements.elements*; doesn't show 屶 for example but only 山)<br />
              * *elements.part_of*: list of kanji that contain the particular kanji<br />
       * segments table:<br />
-             * *segments.location*: location where the reading is: J=jukugo, C=compverbs, Y=yojijukugo. Combinations are possible: CY, JC, JY<br />
+             * *segments.location*: location where the reading is: J=jukugo, C=compverbs, Y=yojijukugo. Combinations are also possible: CY, JC, JY<br />
       * kanjidict (note the "T" to separate it from KANJIDIC) table:<br />
              * *kanjidict.reg_on* & *kanjidict.reg_kun*: readings marked with * are less common<br />
              * *kanjidict.frequency*: mean of various frequency lists<br />
@@ -59,8 +59,8 @@ CONTENTS:
       * variants table:<br />
              * *variants.traditional*: traditional Chinese (Taiwan) characters. (C) means the character is frequently used (Common) in Taiwan<br />
              * *variants.simplified*: simplified Chinese characters. (C) means the character is frequently used (Common) in Mainland China<br />
-             * *variants.simplified2*: ultra-simplified Chinese (non-official simplifications, requires Ultra-simplified.woff/svg font to view)<br />
-             * *variants.ryakuji*: common ryakuji characters. Requires ryakuji.woff/svg font to view correctly<br />
+             * *variants.simplified2*: ultra-simplified Chinese (non-official simplifications, requires *Ultra-simplified.woff/svg* font to view)<br />
+             * *variants.ryakuji*: common ryakuji characters. Requires *ryakuji.woff/svg* font to view correctly<br />
       * pinyin table:<br />
              * *pinyin.pinyin*: readings in brackets are exclusive to Taiwan<br />
 
@@ -80,7 +80,7 @@ CONTENTS:
       * *mecab-furigana.rb* & *furigana.rb*: Ruby scripts to generate furigana; author is "lauri_ranta"
       * *word_segmentation.txt*: link to a Python script (Ryuujouji) by Houssam Salem to segment words into individual character readings. The script is not a part of this package due to its GPL license. Also note that the script does not currently take renjou (連声) into account, but there are not a lot of such words in the Japanese language.
 
-   * /misc folder:
+   * */misc* folder:
       * *ghost.txt*: "ghost kanji" - questionable characters that were encoded into the JIS X 02xx standards (and Unicode) by mistake
       * *repeat.txt*: kanji where one element repeats 3 times
       * *xxx_yypercent.txt*: x number of kanji required to read y percent of Wikipedia
@@ -99,4 +99,4 @@ CONTENTS:
 3) TO-DO
 
    For the Japanese sentences, I wanted to include a "difficulty" scale by taking the Hayashi score (http://www.ideosity.com/ourblog/post/ideosphere-blog/2010/01/14/readability-tests-and-formulas#Hayashi) and word frequency into account. I think this would be an interesting bit of information, but I lack the programming skills to do it.<br />
-   An example C# code by Christopher Brochtrup (cb4960) for calculating the Hayashi score can be found here: http://pastebin.com/196BBEpg. Hopefully one of you with the skills required will generate the data and make it or the script available to the public.
+   An example C# code by Christopher Brochtrup (cb4960) for calculating the Hayashi score can be found here: http://pastebin.com/196BBEpg. Hopefully one of you with the skills required will generate the data and make it or the script available to the public, and hopefully merge it with this repository.

@@ -1,0 +1,225 @@
+Official:
+お巡りさん	おまわりさん	policeman
+お神酒	おみき	sacred sake
+父さん	とうさん	father
+母さん	かあさん	mother
+兄さん	にいさん	elder brother
+姉さん	ねえさん	elder sister
+一人	ひとり	one person
+一日	ついたち	first day
+二人	ふたり	two persons
+二日	ふつか	second day
+二十	はた、はたち	twenty
+二十日	はつか	twentieth day
+二十歳	はたち	20 years
+三味線	しゃみせん	shamisen
+五月	さつき	fifth month of the lunar calendar
+五月雨	さみだれ	early Summer rain
+七夕	たなばた	Festival of the Weaver (July 7th)
+八百屋	やおや	greengrocer
+八百長	やおちょう	fixed fight
+十重二十重	とえはたえ	ten and twenty fold
+上手	じょうず	skillfullness
+下手	へた	unskillfullness
+乙女	おとめ	maiden
+乳母	うば、おんば	nursing mother
+今年	ことし	this year
+今日	きょう	today
+今朝	けさ	this morning
+仲人	なこうど	go-between
+伝馬船	てんません	barge
+伯母	おば	aunt
+伯父	おじ	uncle
+凸凹	でこぼこ	unevenness
+博士	はかせ	doctor, expert, learned person
+友達	ともだち	friend
+叔母	おば	aunt
+叔父	おじ	uncle
+名残	なごり	(sorrow of) parting, traces, remains
+吹雪	ふぶき	snowslide
+土産	みやげ	souvenir
+大人	おとな	adult
+大和	やまと	Japan
+太刀	たち	sword
+寄席	よせ	variety house (sim. to music-hall, vaudeville)
+小豆	あずき	red bean
+山車	だし	float
+差し支える	さしつかえる	to have trouble
+師走	しわす、しはす	twelfth month of the lunar calendar
+弥生	やよい	third month of the lunar calendar
+心地	ここち	feeling
+息吹	いぶき	breath
+息子	むすこ	son
+意気地	いくじ	spirit
+手伝う	てつだう	help with
+投網	とあみ	cast net
+数珠	じゅず	rosary
+日和	ひより	weather
+早乙女	さおとめ	rice-planting girl
+早苗	さなえ	rice sprouts
+明日	あす、あした	tomorrow
+昨日	きのう	yesterday
+時計	とけい	clock
+時雨	しぐれ	drizzling rain in early Winter
+景色	けしき	scene
+最寄り	もより	the nearest
+木綿	もめん	cotton
+果物	くだもの	fruit
+桟敷	さじき	gallery
+梅雨	つゆ	rainy season
+母屋	おもや	main house
+母家	おもや	main house
+河原	かわら	dry riverbed
+川原	かわら	dry riverbed
+河岸	かし	riverside
+浮つく	うわつく	be flippant
+浮気	うわき	inconstancy
+浴衣	ゆかた	Summer kimono
+海原	うなばら	the wide sea
+海女	あま	woman diver (collecting pearls, shellfish, etc.)
+海士	あま	male diver, fisherman
+清水	しみず	clear water
+為替	かわせ	exchange
+猛者	もさ	stalwart man
+玄人	くろうと	expert
+田舎	いなか	the country
+白髪	しらが	white hair
+相撲	すもう	sumo
+真っ赤	まっか	deep red
+真っ青	まっさお	deep blue
+眼鏡	めがね	glasses
+砂利	じゃり	gravel
+硫黄	のりと	sulphur
+祝詞	のりと	Shinto prayer
+神楽	かぐら	kagura, Shinto music and dance
+稚児	ちご	child in a festival procession
+立ち退く	たちのく	move out
+竹刀	しない	bamboo sword
+築山	つきやま	miniature hill in a garden
+紅葉	もみじ	maple, autumn colours
+素人	しろうと	amateur
+老舗	しにせ	old shop
+芝生	しばふ	lawn
+若人	わこうど	youth
+草履	ぞうり	sandals
+蚊帳	かや	mosquito net
+行方	ゆくえ	whereabouts
+読経	どきょう	sutra chanting
+足袋	たび	tabi, Japanese socks
+迷子	まいご	lost child
+部屋	へや	room
+野良	のら	farm
+鍛冶	かじ	blacksmith
+雑魚	ざこ	small fish
+雪崩	なだれ	avalanche
+風邪	かぜ	cold (illness)
+固唾	かたず	hold one's breath, with bated breath
+尻尾	しっぽ	tail
+居士	こじ	a Buddhist layman, a person's posthumous Buddhist name
+数寄屋	すきや	teahouse, tea ceremony arbour
+数奇屋	すきや	teahouse, tea ceremony arbour
+波止場	はとば	wharf, pier
+真面目	まじめ	serious, earnest
+笑顔	えがお	a smiling face, a smile
+仮名	かな	kana, Japanese syllabary (e.g. hiragana, katakana)
+
+Unofficial:
+日本	にほん	Japan
+日本語	にほんご	Japanese (language)
+日本酒	にほんしゅ	sake, Japanese rice wine
+日本人	にほんじん	Japanese person, Japanese people
+一寸	ちょっと	one sun (approximately 3.03 cm)
+一昨年	おととし	1 year ago
+一昨日	おととい、おとつい	1 day ago
+一昨昨日	さきおととい	3 days ago
+七五三	しめ	(shinto) rope used to cordon off consecrated areas or as a talisman against evil
+三十路	みそじ	men and women in their 30s
+上手い	うま（い）	skillful, clever, expert, wise, successful
+不味い	まず（い）	unpleasant
+九十九	つくも	many
+五十	い	fifty
+五十日	いか	fiftieth day
+五月晴れ	さつきばれ	fine weather during the rainy season
+亡骸	なきがら	remains, corpse, (dead) body
+仮令	たとえ	even if, if, though, although, supposing, supposing that
+住居	すまい	dwelling, house, residence, address
+何卒	なにとぞ	please, kindly, I beg of you, if it pleases you
+余所	よそ	another place, somewhere else, strange parts
+入梅	つゆいり	entering the rainy season, beginning of the rainy season
+処女	おとめ、おぼこ	virgin
+区々	まちまち	several, various, divergent, conflicting, different, diverse
+十八番	おはこ	one's speciality
+十六夜	いざよい	16-day-old moon
+可惜（身命）	あたら（しんみょう）	valuing one's body and life
+可笑しい	おかし（い）	strange or funny
+台詞	せりふ	lines (words)
+唯一	ゆいつ	only, sole, unique
+団扇	うちわ	fan
+土筆	つくし	horsetail, scouring rush (plant)
+大刀	たち	long sword
+大文字	おおもじ	upper case letters, large characters, capital letter
+大蛇	おろち	giant snake-like creature in Japanese mythology
+女将	おかみ	mistress
+女形	おやま	male actors playing female Kabuki and Noh roles
+女郎花	おみなえし	golden lace, yellow patrinia (plant)
+如何	いかん	how, in what way
+如月	きさらぎ	second month of the lunar calendar
+小文字	こもじ	lower case letters
+小火	ぼや	small fire
+居心地	いごこち	comfort
+布地	きれじ	cloth, fabric
+強者	つわもの	soldier, warrior
+強請る	ねだ（る）	to tease, to coax
+従兄弟	いとこ	cousin
+微笑む	ほほえ（む）	to smile
+心天	ところてん	gelidium jelly strips
+心太	ところてん	gelidium jelly strips
+悪戯	いたずら	mischief, prank, trick, practical joke
+文字	もじ	letter (of alphabet), character
+文字通り	もじどおり	literal
+日向	ひなた	sunny place, in the sun
+明後日	あさって	the day after tomorrow
+明明後日	しあさって	2 days after tomorrow
+昨夜	ゆうべ	last night
+最早	もはや	already, now
+松明	たいまつ	torch
+柳葉魚	ししゃも	shishamo (name of fish)
+桜桃	さくらんぼ	edible cherry
+横文字	よこもじ	European writing, cross-wise writing
+欠伸	あくび	yawning
+気質	かたぎ	spirit, character, trait, temperament
+水母	くらげ	jellyfish
+流石	さすが	as one would expect
+流行	はやり	fashion, fad, vogue, craze
+流行る	はや（る）	to be popular, to come into fashion
+海人	あま	male diver, fisherman
+海月	くらげ	jellyfish
+海老	えび	shrimp
+火傷	やけど	burn, scald
+灰汁	あく	scum (formed when cooking some foods)
+煙草	たばこ	tobacco
+狩人	かりゅうど	hunter
+玄孫	やしゃご	great-great grandchild
+玩具	おもちゃ	human and animal toys
+疾風	はやて	hurricane
+百合	ゆり	lilium
+相応しい	ふさわし（い）	appropriate
+真似	まね	imitating, copying, mimicry
+真似る	まね（る）	to mimic, to imitate
+眼差し	まなざ（し）	(a) look, gaze
+秋刀魚	さんま	pike (fish), Pacific saury
+科白	せりふ	lines (words)
+等閑	なおざり	neglect, negligence, disregard, make light of
+経緯	いきさつ	details, particulars
+美味い	うま（い）	skillful, clever, expert, wise, successful
+美味しい	おいし（い）	delicious
+自棄	やけ	despair, desperation, abandonment
+薬缶	やかん	kettle
+袋小路	ふくろこうじ	blind alley, cul-de-sac
+裸足	はだし	barefoot
+身体	からだ	body
+道程	みちのり	distance, journey, itinerary
+邪馬台国	やまたいこく、やまとこく	an ancient country in Wa (Japan) during the late Yayoi period, ruled by Queen Himiko
+長閑	のどか	tranquil, calm, quiet, peaceful
+陽炎	かげろう	shimmer of hot air
+頭文字	かしらもじ	initials, initialism

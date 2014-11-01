@@ -1,0 +1,73 @@
+乚	乙	5	1	おつにょう	second	Also ⺄.
+⺄	乙	5	1	おつ	second	Also 乚.
+亻	人	9	2	にんべん	man, human	Also 𠆢 when at top (ひとやね, ひとかんむり or ひとがしら).
+𠆢	人	9	2	ひとやね・ひとかんむり・ひとがしら	man, human	Also 亻 (にんべん).
+𠘨	几	16	2	かぜかんむり・かぜがまえ・かざがまえ	table	
+刂	刀	18	2	りっとう	knife, sword	
+㔾	卩	26	2	ふし・ふしづくり・わりふ	kneel	
+⺌	小	42	3	なおがしら	small, insignificant	Also ⺍ (called つ because it looks like katakana ツ).
+⺍	小	42	3	つ	small, insignificant	Also ⺌ (なおがしら).
+尣	尢	43	3	まげあし・だいのまげあし・あう・おうにょう	lame	
+川	巛	47	3	かわ	river	Also 巜.
+巜	巛	47	2	まがりがわ	river	Also 川.
+巳	己	49	3	おのれ・き・つちのと	oneself	
+彐	彑	58	3	けいがしら・いのこがしら	pig snout	
+忄	心	61	3	りっしんべん	heart	Also 㣺 when at bottom (したごころ).
+㣺	心	61	4	したごころ	heart	Also 忄 (りっしんべん).
+戸	戶	63	4	と・とだれ・とかんむり	door, house	Simplified Chinese: 户.
+扌	手	64	3	てへん	hand	
+攵	攴	66	4	ぼくにょう・ぼくづくり・のぶん	rap	
+旡	无	71	5	む・むにょう・すでのつくり	perish	Always uses its variant form as a component in other kanji and has 5 strokes in Jōyō and Jinmeiyō kanji (and in 漑), and 4 as a component in other kanji.
+歺	歹	78	4	がつ・がってん・がつへん・かばね・かばねへん・いちたへん	death, decay	
+母	毋	80	5	はは・ははのかん	mother	
+氵	水	85	4	さんずい	water	Also 氺 when at bottom (したみず).
+氺	水	85	5	したみず	water	Also 氵 (さんずい).
+灬	火	86	4	れっか・れんが	fire	
+爫	爪	87	4	つめかんむり	claw	Also 爫.
+爫	爪	87	4	つめかんむり	claw	Also 爫.
+丬	爿	90	3	しょうへん	split wood	
+牜	牛	93	4	うしへん	cow	Also ⺧.
+⺧	牛	93	4	うし	cow	Also 牜.
+犭	犬	94	3	けものへん	dog	
+王	玉	96	4	おう・おうへん・あうさま	king	Also ⺩.
+⺩	玉	96	4	たまへん	jade	Also 王.
+𤴔	疋	103	5	ひきへん	bolt of cloth	
+礻	示	113	4	しめすへん	sign	Also ⺬.
+⺬	示	113	4	しめすへん	sign	Also 礻.
+⺮	竹	118	6	たけかんむり	bamboo	
+糹	糸	120	6	いとへん	silk	Simplified Chinese: 纟.
+罒	网	122	5	あみがしら・よんかしら	net	
+𦍌	羊	123	6	ひつじかんむり	sheep	Also ⺶ (ひつじへん).
+⺶	羊	123	6	ひつじへん	sheep	Also 𦍌 (ひつじかんむり).
+羽	羽	124	6	はね	feather	
+耂	老	125	4	おいかんむり・おいがしら	old	
+⺺	聿	129	5	ふで	brush	Also ⺻ (ふでがしら).
+⺻	聿	129	5	ふでがしら	brush	Also ⺺ (ふで).
+⺼	肉	130	4	にく・にくづき	meat	
+艹	艸	140	3	くさかんむり	grass	Also 䒑 and rarely 艹 and 艹.
+䒑	艸	140	3	くさかんむり	grass	Also 艹 and rarely 艹 and 艹.
+艹	艸	140	4	くさかんむり	grass	Also 艹, 䒑 and rarely 艹.
+艹	艸	140	4	くさかんむり	grass	Also 艹, 䒑 and rarely 艹.
+虎	虍	141	8	とら	tiger	
+衤	衣	145	5	ころもへん	clothes	
+覀	西	146	6	にし・かなめのかしら・おおいかんむり	west	Also 襾.
+襾	西	146	6	にし・かなめのかしら・おおいかんむり	west	Also 覀.
+訁	言	149	7	ごんべん	speech	Simplified Chinese: 讠.
+𧾷	足	157	7	あしへん	foot	
+辶	辵	162	3	しんにょう・しんにゅう	walk	The old form is 辶.
+辶	辵	162	4	しんにょう・しんにゅう	walk	Also 辶.
+⻏	邑	163	3	おおざとづくり	town	
+釒	金	167	8	かねへん	metal, gold	 Simplified Chinese: 钅.
+镸	長	168	7	ながい	long, grow	Simplified Chinese: 长.
+⻖	阜	170	3	こざとへん	mound, dam	
+⻗	雨	173	8	あめかんむり・あまかんむり	rain	
+靑	青	174	8	あお・あおへん	blue	
+飠	食	184	8	しょくへん	eat, food	Also 𩙿. Simplified Chinese: 饣.
+𩙿	食	184	9	しょくへん	eat, food	Also 飠. Simplified Chinese: 饣.
+麦	麥	199	7	むぎ	wheat	
+黃	黄	201	12	き・きいろ	yellow	
+黒	黑	203	11	くろ・くろい・くろへん	black	
+斉	齊	210	8	さい・せい・ととのえる	even, uniformly	Simplified Chinese: 齐.
+歯	齒	211	12	は・はへん	tooth, molar	
+竜	龍	212	10	りゅう・たつ	dragon	Simplified Chinese: 龙.
+亀	龜	213	11	かめ	turtle, tortoise	Simplified Chinese: 龟.

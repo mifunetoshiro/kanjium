@@ -1,0 +1,214 @@
+一		1	1	いち	one	
+丨		2	1	ぼう・たてぼう	line	
+丶		3	1	てん・ちょぼ・ちゅ・ちゅてん	dot	
+丿		4	1	の・のかんむり・はらいぼう	slash	
+乙	乚	5	1	おつ・おつにょう・つりばり	second	Also ⺄.
+亅		6	1	はねぼう	hook	
+二		7	2	に	two	
+亠		8	2	けいさん・けいさんかんむり・なべぶた	lid	
+人	亻	9	2	ひと・にんべん・ひとやね・ひとかんむり・ひとがしら	man, human	Also 𠆢 when at top (ひとやね, ひとかんむり or ひとがしら).
+儿		10	2	にんにょう・ひとあし	legs	
+入		11	2	いる・にゅう・いりがしら・いりやね	enter	
+八		12	2	はち・は・はちがしら	eight	
+冂		13	2	けいがまえ・まきがまえ・どうがまえ・えんがまえ	open country	
+冖		14	2	わかんむり	cover	
+冫		15	2	にすい	ice	
+几	𠘨	16	2	つくえ・きにょう・つくえきにょう・かぜかんむり・かぜがまえ・かざがまえ	table	
+凵		17	2	かんにょう・うけばこ・かんがまえ	container, open mouth	
+刀	刂	18	2	かたな・りっとう	knife, sword	
+力		19	2	ちから・りきづくり	power, force	
+勹		20	2	つつみがまえ・くがまえ	wrap, embrace	
+匕		21	2	さじ・さじのひ・さじづくり・ひ	spoon	
+匚		22	2	はこ・はこがまえ	box	
+匸		23	2	かくしがまえ	hiding enclosure	
+十		24	2	じゅう・じゅうへん	ten, complete	
+卜		25	2	ぼく・ぼくづくり・ぼくのと・と・うらない	divination	
+卩	㔾	26	2	ふし・ふしづくり・わりふ	kneel	
+厂		27	2	がんだれ	cliff	
+厶		28	2	む	private	
+又		29	2	また	right hand	
+口		30	3	くち・くちへん	mouth, opening	
+囗		31	3	くに・くにがまえ	enclosure	
+土		32	3	つち・つちへん・どへん	earth	
+士		33	3	さむらい	scholar, bachelor	
+夂		34	3	ちかんむり・ふゆがしら	go slowly, winter	
+夊		35	3	なつあし・すいにょう	go slowly	
+夕		36	3	ゆう・ゆうべ・た	evening, sunset	
+大		37	3	だい・おおきい	big, very	
+女		38	3	おんな・おんなへん	woman, female	
+子		39	3	こ・こへん	child, seed	
+宀		40	3	うかんむり	roof	
+寸		41	3	すん・すんづくり	thumb, inch	
+小	⺌	42	3	しょう・ちいさい・なおがしら・つ	small, insignificant	Also ⺍ (called つ because it looks like katakana ツ).
+尢	尣	43	3	まげあし・だいのまげあし・あう・おうにょう	lame	
+尸		44	3	しかばね・かばね・かばねだれ	corpse	
+屮		45	3	くさのめ・めばえ・てつ	sprout	
+山		46	3	やま・やまへん・やまかんむり	mountain	
+巛	川	47	3	かわ・まがりがわ・さんぼんがわ	river	Also 巜.
+工		48	3	こう・たくみ・たくみへん・え	work	
+己	巳	49	3	おのれ・き・つちのと	oneself	
+巾		50	3	はば・はばへん・きんべん	turban, scarf	
+干		51	3	かん・いちじゅう・ほす・ひる・たてかん	pestle	
+幺		52	3	いとがしら・よう	short, tiny	
+广		53	3	まだれ	house on cliff	
+廴		54	3	えんにょう・いんにょう	long stride	
+廾		55	3	にじゅう・にじゅうあし・こまぬき	two hands, twenty	
+弋		56	3	しきがまえ・いぐるみ	shoot, arrow	
+弓		57	3	ゆみ・ゆみへん	bow	
+彑	彐	58	3	けい・けいがしら・いのこがしら	pig snout	
+彡		59	3	さん・さんづくり	bristle, beard	
+彳		60	3	ぎょうにんべん	step	
+心	忄	61	4	こころ・したごころ・りっしんべん	heart	Also 㣺 when at bottom (したごころ).
+戈		62	4	ほこ・ほこづくり・ほこがまえ・かのほこ	spear, halberd	
+戶	戸	63	4	と・とだれ・とかんむり	door, house	Simplified Chinese: 户.
+手	扌	64	4	て・てへん	hand	
+支		65	4	し・しにょう・えだにょう・じゅうまた	branch	
+攴	攵	66	4	ぼくにょう・ぼくづくり・とまた・のぶん・しぶん	rap	
+文		67	4	ぶん・ぶんにょう	script, literature	
+斗		68	4	と・とます・ますづくり	dipper	
+斤		69	4	おの・おのづくり・きん	axe	
+方		70	4	ほう・ほうへん・かた・かたへん	square	
+无	旡	71	4	む・むにょう・すでのつくり	perish	Always uses its variant form as a component in other kanji and has 5 strokes in Jōyō and Jinmeiyō kanji (and in 漑), and 4 as a component in other kanji.
+日		72	4	ひ・ひへん・にち・にちへん	sun, day	
+曰		73	4	ひらび・いわく	say	
+月		74	4	つき・つきへん	moon, month	
+木		75	4	き・きへん	tree	
+欠		76	4	あくび・けんづくり・かける・けつ	lack, yawn	
+止		77	4	とまる・とめる・とめへん	stop	
+歹	歺	78	4	がつ・がってん・がつへん・かばね・かばねへん・いちたへん	death, decay	
+殳		79	4	るまた・ほこづくり	weapon, lance	
+毋	母	80	4	なし・なかれ・はは・ははのかん	mother, do not	
+比		81	4	ひ・くらべる・ならびひ	compare, compete	
+毛		82	4	け	fur, hair	
+氏		83	4	うじ	clan	
+气		84	4	きがまえ	steam, breath	
+水	氵	85	4	みず・したみず・さんずい	water	Also 氺 when at bottom (したみず).
+火	灬	86	4	ひ・ひへん・れっか・れんが	fire	
+爪	爫	87	4	つめ・つめがしら・つめかんむり・そうにょう・のつ	claw	Also 爫.
+父		88	4	ちち	father	
+爻		89	4	こう・めめ	mix, twine, cross	
+爿	丬	90	4	しょうへん	split wood	
+片		91	4	かた・かたへん	slice	
+牙		92	4	きば・きばへん	fang	Has 4 strokes as itself, 5 as a component in Jōyō kanji (and in 冴), and 4 as a component in other kanji.
+牛	牜	93	4	うし・うしへん	cow	Also ⺧.
+犬	犭	94	4	いぬ・けものへん	dog	
+玄		95	4	げん	dark, profound	
+玉	王	96	4	たま・たまへん・おう・おうへん・あうさま	jade, king	Also ⺩ (たまへん).
+瓜		97	5	うり	melon	
+瓦		98	5	かわら	tile	
+甘		99	5	あまい・かん	sweet	
+生		100	5	うむ・うまれる・いきる	life	
+用		101	5	もちいる・よう	use	
+田		102	5	た・たへん	field	
+疋	𤴔	103	5	ひき・ひきへん	bolt of cloth	
+疒		104	5	やまい・やまいだれ	sickness	
+癶		105	5	はつがしら	footsteps	
+白		106	5	しろ・しろへん	white	
+皮		107	5	かわ・けがわ・ひのかわ	skin	
+皿		108	5	さら	dish	
+目		109	5	め・めへん・よこめ	eye	
+矛		110	5	ほこ・ほこへん・むのほこ	spear	
+矢		111	5	や・やへん	arrow	
+石		112	5	いし・いしへん	stone	
+示	礻	113	5	しめす・しめすへん	sign	Also ⺬.
+禸		114	5	あしあと・ぐうのあし	track	
+禾		115	5	のぎ・のぎへん	grain	
+穴		116	5	あな・あなかんむり	cave	
+立		117	5	たつ・たつへん	stand, erect	
+竹	⺮	118	6	たけ・たけかんむり	bamboo	
+米		119	6	こめ・こめへん	rice	
+糸	糹	120	6	いと・いとへん	silk	Simplified Chinese: 纟.
+缶		121	6	ほとぎ・ほとぎへん	jar	
+网	罒	122	6	あみ・あみがしら・あみめ・よこめ・よんかしら	net	
+羊	𦍌	123	6	ひつじ・ひつじへん・ひつじかんむり	sheep	Also ⺶ (ひつじへん).
+羽	羽	124	6	はね	feather	
+老	耂	125	6	おい・おいかんむり・おいがしら	old	
+而		126	6	しかし・しかして・しこうして	beard	
+耒		127	6	すき・すきへん・らいすき・らいへん	plow	
+耳		128	6	みみ・みみへん	ear	
+聿	⺺	129	6	ふで・ふでづくり・ふでがしら	brush	Also ⺻ (ふでがしら).
+肉	⺼	130	6	にく・にくづき	meat	
+臣		131	7	しん・おみ	minster, official	
+自		132	6	みずから	self	
+至		133	6	いたる	arrive	
+臼		134	6	うす	mortar	
+舌		135	6	した・したへん	tongue	
+舛		136	6	ます・まいあし	opposite	Has 6 strokes as itself, 7 as a component in Jōyō and Jinmeiyō kanji and 6 as a component in other kanji.
+舟		137	6	ふね・ふねへん	boat	
+艮		138	6	うしとら・こん・こんづくり・ねづくり	stopping	
+色		139	6	いろ	colour, prettiness	
+艸	艹	140	6	くさ・くさかんむり	grass	Also 䒑 and rarely 艹 and 艹.
+虍	虎	141	6	とら・とらがしら・とらかんむり	tiger, tiger stripes	とらだれ would be more accurate.
+虫		142	6	むし・むしへん	insect	
+血		143	6	ち・ちへん	blood	
+行		144	6	ぎょう・ぎょうがまえ・いく・ゆきがまえ	go, do	
+衣	衤	145	6	ころも・ころもへん	clothes	
+西	覀	146	6	にし・かなめのかしら・おおいかんむり	west	Also 襾.
+見		147	7	みる	see	
+角		148	7	つの・かく・つのへん	horn	
+言	訁	149	7	いう・げん・ごんべん・ことば	speech	Simplified Chinese: 讠.
+谷		150	7	たに・たにへん	valley	
+豆		151	7	まめ・まめへん	bean	
+豕		152	7	いのこ・いのこへん・ぶた	pig	
+豸		153	7	むじな・むじなへん	cat, badger	
+貝		154	7	かい・かいへん・こがい	shell	Simplified Chinese: 贝.
+赤		155	7	あか・あかへん	red, naked	
+走		156	7	はしる・そうにょう	run	
+足	𧾷	157	7	あし・あしへん	foot	
+身		158	7	み・みへん	body	
+車		159	7	くるま・くるまへん	cart, car	Simplified Chinese: 车.
+辛		160	7	しん・からい	bitter	
+辰		161	7	たつ・しんのたつ	morning	
+辵	辶	162	3	しんにょう・しんにゅう	walk	The old form is 辶.
+邑	⻏	163	7	おおざと・おおざとづくり・ゆう	town	
+酉		164	7	とり・とりへん・ひよみのとり・さけのとり	wine, alcohol	
+釆		165	7	のごめ・のごめへん	divide, distinguish, choose	
+里		166	7	さと・さとへん	village, mile	
+金	釒	167	8	かね・かねへん	metal, gold	Simplified Chinese: 钅.
+長	镸	168	8	ながい	long, grow	Simplified Chinese: 长.
+門		169	8	もん・もんがまえ・かどがまえ	gate	Simplified Chinese: 门.
+阜	⻖	170	8	こざと・こざとへん・おか・ぎふのふ	mound, dam	
+隶		171	8	たい・たいづくり・れいづくり・れいのつくり	slave, capture	
+隹		172	8	ふるとり	small bird	
+雨	⻗	173	8	あめ・あめかんむり・あまかんむり	rain	
+青	靑	174	8	あお・あおへん	blue	
+非		175	8	あらず	wrong	
+面		176	9	めん	face	
+革		177	9	かわ・かくのかわ・かわへん・つくりがわ	leather, rawhide	
+韋		178	10	なめしがわ	tanned leather	Simplified Chinese: 韦.
+韭		179	9	にら	leek	
+音		180	9	おと	sound	
+頁		181	9	おおがい・いちのかい	leaf	Simplified Chinese: 页.
+風		182	9	かぜ	wind	Simplified Chinese: 风.
+飛		183	9	とぶ	fly	Simplified Chinese: 飞.
+食	飠	184	9	しょく・しょくへん	eat, food	Also 𩙿. Simplified Chinese: 饣.
+首		185	9	くび	head	
+香		186	9	か・こう・かおり・においこう	fragrance	
+馬		187	10	うま・うまへん	horse	Simplified Chinese: 马.
+骨		188	10	ほね・ほねへん	bone	
+高		189	10	たかい	tall	
+髟		190	10	かみがしら・かみかんむり	long hair	
+鬥		191	10	たたかいがまえ・とうがまえ	fight	
+鬯		192	10	ちょう・においざけ・かおりぐさ	herbs, sacrificial wine	
+鬲		193	10	れき・れきのかなえ	tripod, cauldron	
+鬼		194	10	おに・きにょう	ghost, demon	
+魚		195	11	うお・うおへん・さかな	fish	Simplified Chinese: 鱼.
+鳥		196	11	とり・とりへん	bird	Simplified Chinese: 鸟.
+鹵		197	11	ろ・しお・しおへん	salt	
+鹿		198	11	しか・しかへん	deer	
+麥	麦	199	11	むぎ・ぼく・ばくにょう	wheat	
+麻		200	11	あさ・あさかんむり	hemp, flax	あさだれ would be more accurate.
+黄	黃	201	11	き・きいろ	yellow	
+黍		202	12	きび	millet	
+黑	黒	203	12	くろ・くろい・くろへん	black	
+黹		204	12	ち・ぬいとり・ふつ・ふつへん	embroidery, needlework	
+黽		205	13	おおがえる・べん・ぼう・ひきがえる	frog, amphibian	Simplified Chinese: 黾.
+鼎		206	13	かなえ・てい	tripod	
+鼓		207	13	つづみ	drum	
+鼠		208	13	ねずみ・ねずみへん	rat, mouse	
+鼻		209	14	はな・はなへん	nose	
+齊	斉	210	14	さい・せい・ととのえる	even, uniformly	Simplified Chinese: 齐.
+齒	歯	211	15	は・はへん	tooth, molar	Simplified Chinese: 齿.
+龍	竜	212	16	りゅう・たつ	dragon	Simplified Chinese: 龙.
+龜	亀	213	16	かめ	turtle, tortoise	Simplified Chinese: 龟.
+龠		214	17	やく・やくのふえ	flute	

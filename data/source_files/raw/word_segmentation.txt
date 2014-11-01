@@ -1,0 +1,11 @@
+Download:
+https://github.com/hssm/ryuujouji
+
+Run by:
+python ryuujouji.py -i example.txt -o output.txt
+
+If it does not run, try adding the following to ryuujouji.py:
+
+import locale
+
+sys.stdout = codecs.getwriter(locale.getpreferredencoding())(sys.stdout)

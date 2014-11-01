@@ -1,0 +1,557 @@
+IDC mapping table:
+⿰	=	1.png
+⿱	=	2.png
+⿲	=	3.png
+⿳	=	4.png
+⿴	=	5.png
+⿵	=	6.png
+⿶	=	7.png
+⿷	=	8.png
+⿸	=	9.png
+⿹	=	10.png
+⿺	=	11.png
+囗	=	12.png
+品	=	13.png
+品u	=	14.png
+品l	=	15.png
+品r	=	16.png
+⿱1	=	17.png
+⿰4	=	18.png
+⿰5	=	19.png
+⿰1	=	20.png
+⿰2	=	21.png
+⿰3	=	22.png
+
+Multi-elements lookup (requires MultiElements font):
+kanmuri
+2
+亠
+㆟ = 𠆢	MultiElements.woff
+公 = 八	MultiElements.woff
+冖
+3
+宀
+艹
+䒑
+⺌	MultiElements.woff
+⺍	MultiElements.woff
+屶 = 山
+彐
+彑
+4
+早 = 日
+杏 = 木
+爫	MultiElements.woff
+爫	MultiElements.woff
+5
+癶
+穴
+⺮	MultiElements.woff
+罒
+6
+⺷ = 𦍌	MultiElements.woff
+覀
+8
+⻗	MultiElements.woff
+10
+髟
+rare kanmuri
+4
+艹	MultiElements.woff
+5
+⺻	MultiElements.woff
+
+nyou
+3
+廴
+辶	MultiElements.woff
+4
+辶	MultiElements.woff
+7
+走
+rare nyou
+7
+麦
+11
+麥
+
+tare
+2
+厂
+3
+尸
+广
+4
+戸
+疒
+6
+虍
+11
+麻
+rare tare
+4
+戶
+
+kamae
+2
+冂
+⺇ = 𠘨	MultiElements.woff
+凵
+勹
+匚
+匸
+3
+囗
+弋
+4
+戈
+6
+行
+8
+門
+rare kamae
+4
+气
+10
+鬥
+
+ashi
+2
+儿
+六 = 八
+3
+圣 = 土
+安 = 女
+4
+忌 = 心	MultiElements.woff
+拏 = 手
+旨 = 日
+朶 = 木
+灬
+5
+氺
+皿
+6
+索 = 糸
+蚕 = 虫
+7
+貞 = 貝
+11
+嶌 = 鳥
+rare ashi
+4
+㣺	MultiElements.woff
+災 = 火
+全 = 王
+5
+岩 = 石
+6
+茸 = 耳
+7
+寛 = 見
+詈 = 言
+10
+罵 = 馬
+
+tsukuri
+2
+刂
+卜
+㔾
+3
+⻏	MultiElements.woff
+4
+支
+攵
+斗
+斤
+欠
+殳
+狄 = 火
+任 = 王
+6
+瓜
+7
+俔 = 見
+8
+隶
+准 = 隹
+9
+頁
+11
+嗚 = 鳥
+rare tsukuri
+4
+攴
+坊 = 方
+5
+妬 = 石
+6
+係 = 糸
+色
+
+hen
+2
+亻
+冫
+3
+叶 = 口
+圦 = 土	MultiElements.woff
+奴 = 女
+乢 = 山
+彳
+忄
+扌
+氵
+犭
+⻖	MultiElements.woff
+4
+放 = 方
+旺 = 日
+札 = 木	MultiElements.woff
+歹
+灯 = 火	MultiElements.woff
+爿
+牜
+⺩	MultiElements.woff
+礻
+5
+矼 = 石
+⺬	MultiElements.woff
+利 = 禾	MultiElements.woff
+虲 = 虫
+衤
+6
+籵 = 米	MultiElements.woff
+糹 = 糸
+取 = 耳
+舟
+軋 = 車
+7
+角
+訁
+豸
+則 = 貝
+⻊ = 𧾷	MultiElements.woff
+身
+酊 = 酉
+釒
+8
+革
+飠
+⻞ = 𩙿	MultiElements.woff
+10
+馭 = 馬
+11
+魞 = 魚
+rare hen
+3
+丬
+4
+片
+6
+⺶	MultiElements.woff
+
+middle/other:
+1
+一
+丨
+丶
+丿
+乚
+亅
+㇗ = 𠃊	MultiElements.woff
+㇆ = 𠃌	MultiElements.woff
+㇕ = 𠃍	MultiElements.woff
+2
+二
+人
+入
+八
+几
+刀
+力
+匕
+十
+卩
+厶
+又
+丷
+丁
+七
+⺈	MultiElements.woff
+乞 = 𠂉	MultiElements.woff
+丆
+厷 = 𠂇	MultiElements.woff
+龴	MultiElements.woff
+㐅
+乃
+九
+巜
+3
+巳
+口
+土
+士
+夂
+夕
+大
+女
+子
+寸
+小
+尢
+屮
+山
+巛
+川
+工
+己
+巾
+干
+幺
+廾
+弓
+彡
+下
+上
+亡
+步 = 𣥂	MultiElements.woff
+4
+心
+手
+文
+方
+无
+日
+曰
+月
+木
+止
+毋
+比
+毛
+氏
+水
+火
+父
+爻
+牛
+⺧	MultiElements.woff
+犬
+王
+耂
+⺼	MultiElements.woff
+龷	MultiElements.woff
+井
+廿
+今
+少
+夭
+夫
+巴
+云
+元
+五
+勿
+龰	MultiElements.woff
+哀 = 𧘇	MultiElements.woff
+5
+旡
+母
+玄
+瓦
+甘
+生
+用
+田
+疋
+白
+皮
+目
+矛
+矢
+石
+示
+禸
+禾
+立
+可
+古
+兄
+令
+卯
+㠯
+旦
+由
+且
+央
+戊
+世
+冊
+业
+乍
+奉 = 𡗗	MultiElements.woff
+6
+米
+糸
+缶
+羊
+羽
+羽
+老
+而
+耒
+耳
+聿
+自
+至
+臼
+舌
+舛
+艮
+虫
+衣
+共
+寺
+有
+龹	MultiElements.woff
+兆
+各
+曲
+7
+臣
+見
+言
+谷
+豆
+豕
+貝
+赤
+足
+車
+辛
+辰
+酉
+釆
+里
+镸
+束
+肖
+呂
+甫
+8
+金
+隹
+非
+龺 = 𠦝	MultiElements.woff
+免
+京
+者
+其
+享
+9
+韭
+音
+風
+食
+重
+昜
+柬
+品
+10
+韋
+馬
+骨
+高
+鬼
+兼
+11
+魚
+鳥
+鹿
+12
+黑
+14
+齊
+15
+齒
+16
+龍
+
+less common:
+1
+乙
+⺄	MultiElements.woff
+呉 = 𠃑	MultiElements.woff
+3
+夊
+也
+久
+4
+尣
+爪
+牙
+⺺	MultiElements.woff
+夬
+屯
+5
+歺
+玉
+⺪ = 𤴔	MultiElements.woff
+巨
+6
+竹
+网
+肉
+艸
+血
+西
+襾
+亥
+7
+辵
+邑
+8
+虎
+長
+阜
+雨
+青
+靑
+斉
+岡
+9
+面
+飛
+首
+香
+咼
+10
+鬯
+鬲
+竜
+11
+鹵
+黒
+亀
+黄
+12
+黃
+黍
+黹
+歯
+無
+13
+黽
+鼎
+鼓
+鼠
+14
+鼻
+16
+龜
+17
+龠
+19
+䜌

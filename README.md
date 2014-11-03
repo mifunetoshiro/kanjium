@@ -35,8 +35,10 @@ CONTENTS:
 2) NOTES
 
    * *kanjidb.sqlite*:<br />
-      '*particles*' column in compverbs, edict, jukugo tables: join with *sentences.particle* to output sentences containing that particle+word (parse first if multiple particles)<br />
       '*frequency*' column in compverbs, edict, jukugo tables: frequencies marked with a * are ambiguous. For example, 七 is read シチ and なな. It is impossible to know which reading the frequency is based on. Frequencies are based on an analysis of over 5,000 novels.<br />
+      '*particles*' column in compverbs, edict, jukugo tables: join with *sentences.particle* to output sentences containing that particle+word (parse first if multiple particles)<br />
+      * conjugations table:<br />
+             * *conjugations.search*: each reading is enclosed with ";" to "simulate" full-text-search (FTS) of Japanese without a tokenizer<br />
       * elements table:<br />
              * *elements.grade*: 1=jouyou, 2=jinmeiyou, 3=hyougaiji<br />
              * *elements.idc*: ideographic description character (kanji shape); see *multielements.txt* for mapping table to images in *idc_images* folder<br />
@@ -44,24 +46,24 @@ CONTENTS:
              * *elements.extra_elements*: for input box to search for kanji that contain a certain kanji (non-radicals that are not on the multi-elements lookup system only), for example, search for 合 will return 姶, 恰, etc.<br />
              * *elements.kanji_parts*: list of elements that the kanji is made of (different from *elements.elements*; doesn't show 屶 for example but only 山)<br />
              * *elements.part_of*: list of kanji that contain the particular kanji<br />
-      * segments table:<br />
-             * *segments.location*: location where the reading is: J=jukugo, C=compverbs, Y=yojijukugo. Combinations are also possible: CY, JC, JY<br />
-      * kanjidict (note the "T" to separate it from KANJIDIC) table:<br />
+      * kanjidict table (note the "T" to separate it from KANJIDIC):<br />
              * *kanjidict.reg_on* & *kanjidict.reg_kun*: readings marked with * are less common<br />
              * *kanjidict.frequency*: mean of various frequency lists<br />
              * *kanjidict.meaning*: three labels are appended to some kanji as the last meaning, but they should really be a separate field: *(kokuji)*, *(extended shinjitai)*, *(ghost character)*<br />
              * *kanjidict.compact_meaning*: common meanings (limited to jouyou kanji only)<br />
+      * pinyin table:<br />
+             * *pinyin.pinyin*: readings in brackets are exclusive to Taiwan<br />
       * search table:<br />
              * *search.reg_reading* & *search.reading*: each reading is enclosed with ";" to "simulate" full-text-search (FTS) of Japanese without a tokenizer<br />
-      * conjugations table:<br />
-             * *conjugations.search*: each reading is enclosed with ";" to "simulate" full-text-search (FTS) of Japanese without a tokenizer<br />
+      * segments table:<br />
+             * *segments.location*: location where the reading is: J=jukugo, C=compverbs, Y=yojijukugo. Combinations are also possible: CY, JC, JY<br />
+      * sentences table:<br />
+             * *sentences.hayashi*: this is the Hayashi readability score of the sentence (http://www.ideosity.com/ourblog/post/ideosphere-blog/2010/01/14/readability-tests-and-formulas#Hayashi), where 1 is the most difficult and 100 is the easiest<br /> 
       * variants table:<br />
              * *variants.traditional*: traditional Chinese (Taiwan) characters. (C) means the character is frequently used (Common) in Taiwan<br />
              * *variants.simplified*: simplified Chinese characters. (C) means the character is frequently used (Common) in Mainland China<br />
              * *variants.simplified2*: ultra-simplified Chinese (non-official simplifications, requires *Ultra-simplified.woff/svg* font to view)<br />
              * *variants.ryakuji*: common ryakuji characters. Requires *ryakuji.woff/svg* font to view correctly<br />
-      * pinyin table:<br />
-             * *pinyin.pinyin*: readings in brackets are exclusive to Taiwan<br />
 
    This should cover the ambiguities in the database. Everything else is (hopefully) covered at http://igg.me/at/kanjiproject.
 

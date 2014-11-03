@@ -61,7 +61,7 @@ segments.txt:
 kanji	segment	location
 
 sentences.txt:
-id	japanese	english	particle	word	kanji	furigana
+id	japanese	english	particle	word	kanji	furigana	hayashi
 
 synonyms.txt:
 kanji	synonyms

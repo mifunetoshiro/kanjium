@@ -7,7 +7,6 @@ CONTENTS:
 
   1. License, Copyright and Acknowledgements
   2. Notes
-  3. To-Do
 
 -----------
 
@@ -93,10 +92,3 @@ CONTENTS:
       * *confusing_okurigana.txt*: words where different readings share the same okurigana
       * *irregular_readings.txt*: some words/place names with weird or irregular (missing okurigana) readings
       * *jukujikun.txt*: list of official jukujikun and below a list of unofficial jukujikun
-
------------
-
-3) TO-DO
-
-   For the Japanese sentences, I wanted to include a "difficulty" scale by taking the Hayashi score (http://www.ideosity.com/ourblog/post/ideosphere-blog/2010/01/14/readability-tests-and-formulas#Hayashi) and word frequency into account. I think this would be an interesting bit of information, but I lack the programming skills to do it.<br />
-   An example C# code by Christopher Brochtrup (cb4960) for calculating the Hayashi score can be found here: http://pastebin.com/196BBEpg. Hopefully one of you with the skills required will generate the data and make it or the script available to the public, and hopefully merge it with this repository.

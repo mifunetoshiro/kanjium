@@ -49,37 +49,37 @@ CONTENTS:
       * kanjidict table (note the "T" to separate it from KANJIDIC):<br />
              * *kanjidict.reg_on* & *kanjidict.reg_kun*: readings marked with * are less common<br />
              * *kanjidict.frequency*: mean of various frequency lists<br />
-             * *kanjidict.meaning*: three labels are appended to some kanji as the last meaning, but they should really be a separate field: *(kokuji)*, *(extended shinjitai)*, *(ghost character)*<br />
+             * *kanjidict.meaning*: three labels are appended to some kanji as the last meaning, but they should ideally be a separate field: *(kokuji)*, *(extended shinjitai)*, *(ghost character)*<br />
              * *kanjidict.compact_meaning*: common meanings (limited to jouyou kanji only)<br />
       * pinyin table:<br />
              * *pinyin.pinyin*: readings in brackets are exclusive to Taiwan<br />
       * search table:<br />
              * *search.reg_reading* & *search.reading*: each reading is enclosed with ";" to "simulate" full-text-search (FTS) of Japanese without a tokenizer<br />
       * segments table:<br />
-             * *segments.location*: location where the reading is: J=jukugo, C=compverbs, Y=yojijukugo. Combinations are also possible: CY, JC, JY<br />
+             * *segments.location*: location where the reading is: *J*=jukugo, *C*=compverbs, *Y*=yojijukugo. Combinations are also possible: *CY*, *JC*, *JY*<br />
       * sentences table:<br />
              * *sentences.hayashi*: this is the Hayashi readability score of the sentence (http://www.ideosity.com/ourblog/post/ideosphere-blog/2010/01/14/readability-tests-and-formulas#Hayashi), where 1 is the most difficult and 100 is the easiest<br /> 
       * variants table:<br />
-             * *variants.traditional*: traditional Chinese (Taiwan) characters. (C) means the character is frequently used (Common) in Taiwan<br />
-             * *variants.simplified*: simplified Chinese characters. (C) means the character is frequently used (Common) in Mainland China<br />
+             * *variants.traditional*: traditional Chinese (Taiwan) characters. *(C)* means the character is frequently used (Common) in Taiwan<br />
+             * *variants.simplified*: simplified Chinese characters. *(C)* means the character is frequently used (Common) in Mainland China<br />
              * *variants.simplified2*: ultra-simplified Chinese (non-official simplifications, requires *Ultra-simplified.woff/svg* font to view)<br />
              * *variants.ryakuji*: common ryakuji characters. Requires *ryakuji.woff/svg* font to view correctly<br />
 
    This should cover the ambiguities in the database. Everything else is (hopefully) covered at http://igg.me/at/kanjiproject.
 
    * Other notes:<br />
-      * The following kanji have duplicate index numbers (RTK, KO): 𠮟,叱; 塡,填; 剝,剥; 頰,頬; 喻,喩; 籠,篭.<br />
-      * It is very likely some kanji past the 6355 mark (including the jouyou kanji 𠮟 above), radical variants and phonetics will not render on some mobile devices or even computers because the required fonts are not installed. For some cases, it is required to have the *HanaMinA* & *HanaMinB* (http://fonts.jp/hanazono/) (or similar) fonts installed! 3 phonetics and 1 kanji are not even encoded in Unicode (last 4 in '*kanjidict*' table), and are assigned a Private Use Area code.<br />
+      * The following kanji have duplicate index numbers (RTK, KO): 𠮟,叱; 塡,填; 剝,剥; 頰,頬; 喻,喩; 籠,篭, and 𠮟 & 叱 also have identical frequency ranks<br />
+      * It is very likely some kanji past the 6,355 mark (including the jouyou kanji 𠮟 above), radical variants and phonetics will not render on some mobile devices or even computers because the required fonts are not installed. For some cases, it is required to have the *HanaMinA* & *HanaMinB* (http://fonts.jp/hanazono/) (or similar) fonts installed! 3 phonetics and 1 kanji are not even encoded in Unicode (last 4 in the tables), and are assigned a Private Use Area code<br />
       * Onyomi words (e.g. 一 ichi) in the edict table are written with katakana, as opposed to hiragana in Jim Breen's EDICT/JMdict, thus they need to be converted before trying to synchronize with EDICT/JMdict<br />
-      * */data/accent.css* is an example CSS file to properly render the pitch accent information
+      * */data/accent.css* is an example CSS file to properly render the pitch accent information<br />
 
    * */data/source_files/raw* folder:
-      * *accents.txt*: file containing pitch accent mora locations for 124,137 words. Use this to generate pitch accent data for any other words not in my database.
-      * *particles.txt*: file containing particle+verb pairs, Japanese sentences and English translations (from Tatoeba). Use this to extract particle data for any other verbs not in my database.
+      * *accents.txt*: file containing pitch accent mora locations for 124,137 words. Use this to generate pitch accent data for any other words not in my database
+      * *particles.txt*: file containing particle+verb pairs, Japanese sentences and English translations (from Tatoeba). Use this to extract particle data for any other verbs not in my database
       * *wikipedia_freq.txt*: file containing word frequency based on an analysis of Japanese Wikipedia
       * *novels_freq.txt*: file containing word frequency based on an analysis of over 5,000 novels
       * *mecab-furigana.rb* & *furigana.rb*: Ruby scripts to generate furigana; author is "lauri_ranta"
-      * *word_segmentation.txt*: link to a Python script (Ryuujouji) by Houssam Salem to segment words into individual character readings. The script is not a part of this package due to its GPL license. Also note that the script does not currently take renjou (連声) into account, but there are not a lot of such words in the Japanese language.
+      * *word_segmentation.txt*: link to a Python script (Ryuujouji) by Houssam Salem to segment words into individual character readings. The script is not a part of this package due to its GPL license. Also note that the script does not currently take renjou (連声) into account, but there are not a lot of such words in the Japanese language
 
    * */misc* folder:
       * *ghost.txt*: "ghost kanji" - questionable characters that were encoded into the JIS X 02xx standards (and Unicode) by mistake

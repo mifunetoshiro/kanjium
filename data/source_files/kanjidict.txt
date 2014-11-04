@@ -6778,7 +6778,7 @@
 𫠍	魚			⿲					さより		21	Hyōgaiji				Japanese halfbeak;stickleback;(kokuji)							
 喻	口			⿰1	Phono-semantic compound			ユ	たと（える）、さと（す）		12	Hyōgaiji		2		metaphor			308		1919		
 𥡴	禾			⿰4	Compound ideograph			ケイ、ケ	かんが（える）、とど（める）		16	Hyōgaiji		2		think;consider;quarrel							
-𠮟	口			⿰	Compound ideograph	シツ	しか（る）	シツ(漢)、シチ(呉)	しか（る）		5	Jōyō (high school)	N3 (lower intermediate)	2		scold;reprove	scold	2179	477	1800	1895		44
+𠮟	口			⿰	Compound ideograph	シツ	しか（る）	シツ(漢)、シチ(呉)	しか（る）		5	Jōyō (high school)	N3 (lower intermediate)	2	1920	scold;reprove	scold	2179	477	1800	1895		44
 﨟	艸	艹		品				ロウ(呉)			16	Hyōgaiji		1		year-end sacrifice;dried meat							
 䍃	缶			⿱				ヨウ			10	Hyōgaiji				pitcher;vase;earthenware							
 雚	隹			⿱				カン(呉)	こうのとり		11	Hyōgaiji				heron;small cup							

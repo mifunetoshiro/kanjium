@@ -25,7 +25,7 @@ CONTENTS:
      The copyright, author/s and license information of the fonts is embedded in their metadata. All are free to use.<br />
      ~6,400 kanji stroke order images were generated from the KanjiStrokeOrders font by Tim Eyre (http://www.nihilist.org.uk/). Copyright is held by Ulrich Apel and the Wadoku project (http://www.wadoku.de/).<br />
      JLPT data for words comes from Jonathan Waller (http://www.tanos.co.uk/).<br />
-     Hangul data comes from libhangul (http://code.google.com/p/libhangul/), specifically the hanja.txt file released under the BSD 3-clause license. Copyright and all rights reserved by Choe Hwanjin.
+     Hangul data comes from libhangul (http://code.google.com/p/libhangul/), specifically the hanja.txt file released under the BSD 3-clause license. Copyright and all rights reserved by Choe Hwanjin.<br />
      Pinyin comes from CC-CEDICT (http://www.mdbg.net/chindict/chindict.php?page=cc-cedict).
 
    Please attribute only the changes and additions of this database to me, by e.g. displaying the following or similar text on your website or the "About" page in your application (and on the iTunes App Store/Google Play Store description):<br />

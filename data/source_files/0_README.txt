@@ -39,7 +39,7 @@ id	kanji	kotowaza	reading	meaning	allkanji
 lookalikes.txt:
 kanji	similar
 
-onyomi_stat.txt:
+onyomi_statistics.txt:
 kanji	onyomi
 
 phonetics.txt:
@@ -61,7 +61,7 @@ segments.txt:
 kanji	segment	location
 
 sentences.txt:
-id	japanese	english	particle	word	kanji	furigana	hayashi
+id	japanese	english	particle	word	kanji	furigana	obi2
 
 synonyms.txt:
 kanji	synonyms

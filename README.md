@@ -25,6 +25,7 @@ CONTENTS:
      The copyright, author/s and license information of the fonts is embedded in their metadata. All are free to use.<br />
      ~6,400 kanji stroke order images were generated from the KanjiStrokeOrders font by Tim Eyre (http://www.nihilist.org.uk/). Copyright is held by Ulrich Apel and the Wadoku project (http://www.wadoku.de/).<br />
      JLPT data for words comes from Jonathan Waller (http://www.tanos.co.uk/).<br />
+     Hangul data comes from libhangul (http://code.google.com/p/libhangul/), specifically the hanja.txt file released under the BSD 3-clause license. Copyright and all rights reserved by Choe Hwanjin.
      Pinyin comes from CC-CEDICT (http://www.mdbg.net/chindict/chindict.php?page=cc-cedict).
 
    Please attribute only the changes and additions of this database to me, by e.g. displaying the following or similar text on your website or the "About" page in your application (and on the iTunes App Store/Google Play Store description):<br />
@@ -58,7 +59,7 @@ CONTENTS:
       * segments table:<br />
              * *segments.location*: location where the reading is: *J*=jukugo, *C*=compverbs, *Y*=yojijukugo. Combinations are also possible: *CY*, *JC*, *JY*<br />
       * sentences table:<br />
-             * *sentences.hayashi*: this is the Hayashi readability score of the sentence (http://www.ideosity.com/ourblog/post/ideosphere-blog/2010/01/14/readability-tests-and-formulas#Hayashi), where 1 is the most difficult and 100 is the easiest<br /> 
+             * *sentences.obi2*: this is the Obi-2 readability score of the sentence (http://kotoba.nuee.nagoya-u.ac.jp/sc/obi2/obi_e.html)<br /> 
       * variants table:<br />
              * *variants.traditional*: traditional Chinese (Taiwan) characters. *(C)* means the character is frequently used (Common) in Taiwan<br />
              * *variants.simplified*: simplified Chinese characters. *(C)* means the character is frequently used (Common) in Mainland China<br />

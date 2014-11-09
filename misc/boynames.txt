@@ -1,5 +1,7 @@
+All kanji of top 50 names:
 一, 人, 大, 翔, 太, 蓮, 陸, 颯, 翼, 隼, 和, 健, 輔, 拓, 海, 悠, 斗, 誠, 陽, 樹, 地, 駿, 郎, 奏, 亮, 諒, 響, 優, 遼, 真, 匠, 瑛, 直, 仁, 空, 涼, 輝, 達, 也, 龍, 之, 介, 潤, 啓, 葵
 
+Top 50 names with above kanji:
 翔太	しょうた	Shōta
 蓮	れん	Ren
 陸	りく	Riku
@@ -51,6 +53,7 @@
 太陽	たいよう	Taiyō
 涼	りょう	Ryō
 
+Other names with above kanji (top 51-200):
 陸斗	りくと	Rikuto
 拓也	たくや	Takuya
 和真	かずま	Kazuma

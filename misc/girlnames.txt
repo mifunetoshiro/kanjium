@@ -1,5 +1,7 @@
+All kanji of top 50 names:
 葵, 優, 那, 凛, 奈, 結, 衣, 美, 咲, 楓, 愛, 遥, 陽, 菜, 莉, 子, 七, 海, 真, 央, 花, 音, 舞, 彩, 乃, 千, 尋, 芽, 綾, 杏, 桜, 智, 琴, 茜, 明, 日, 香, 穂, 羽, 緒, 織, 恵, 久, 裕, 和, 奏, 栞, 瑠, 希
 
+Top 50 names with above kanji:
 葵	あおい	Aoi
 優那	ゆうな	Yūna
 凛	りん	Rin
@@ -51,6 +53,7 @@
 美優	みゆ	Miyu
 咲希	さき	Saki
 
+Other names with above kanji (top 51-200):
 莉央	りお	Rio
 優子	ゆうこ	Yūko
 杏	あん	An

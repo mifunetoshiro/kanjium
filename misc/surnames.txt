@@ -1,5 +1,7 @@
+All kanji of top 50 surnames:
 藤, 田, 三, 上, 下, 口, 小, 大, 山, 川, 中, 井, 太, 木, 水, 加, 本, 石, 辺, 伊, 吉, 池, 西, 佐, 坂, 村, 谷, 近, 岡, 松, 林, 長, 阿, 青, 前, 後, 原, 島, 浦, 高, 崎, 斎, 清, 部, 野, 森, 渡, 福, 遠, 鈴, 橋
 
+Top 50 surnames with above kanji:
 佐藤	さとう	Satō
 鈴木	すずき	Suzuki
 高橋	たかはし	Takahashi
@@ -51,6 +53,7 @@
 中川	なかがわ	Nakagawa
 中野	なかの	Nakano
 
+Other surnames with above kanji (top 51-200):
 小野	おの	Ono
 田村	たむら	Tamura
 中山	なかやま	Nakayama

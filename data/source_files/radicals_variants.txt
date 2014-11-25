@@ -44,8 +44,8 @@
 ⺺	聿	129	5	ふで	brush	Also ⺻ (ふでがしら).
 ⺻	聿	129	5	ふでがしら	brush	Also ⺺ (ふで).
 ⺼	肉	130	4	にく・にくづき	meat	
-艹	艸	140	3	くさかんむり	grass	Also 䒑 and rarely 艹 and 艹.
-䒑	艸	140	3	くさかんむり	grass	Also 艹 and rarely 艹 and 艹.
+艹	艸	140	3	くさかんむり	grass	Also 䒑 and rarely 艹 or 艹.
+䒑	艸	140	3	くさかんむり	grass	Also 艹 and rarely 艹 or 艹.
 艹	艸	140	4	くさかんむり	grass	Also 艹, 䒑 and rarely 艹.
 艹	艸	140	4	くさかんむり	grass	Also 艹, 䒑 and rarely 艹.
 虎	虍	141	8	とら	tiger	

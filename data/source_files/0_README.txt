@@ -51,7 +51,7 @@ kanji	pinyin
 radicals.txt:
 radical	radvar	number	strokes	names	meaning	notes
 
-radvars.txt:
+radicals_variants.txt:
 radvar	radical	number	strokes	names	meaning	notes
 
 search.txt:

@@ -2571,7 +2571,7 @@
 冒	9	1	⿱	日目		日,目	帽,瑁	risk
 紡	10	1	⿰	糹糸方坊		糸,方		spinning;spin
 肪	8	1	⿰	⺼月方坊		月,方,⺼		obese;animal fat
-膨	16	1	⿲	⺼月口十土豆䒑彡丷	彭	月,彭,⺼,口,十,土,豆,彡		swell;expand
+膨	16	1	⿲	⺼月口十士豆䒑彡丷	彭	月,彭,⺼,口,十,士,豆,彡		swell;expand
 謀	16	1	品l	甘訁言木	某	言,某,甘,木		conspire;scheme
 貌	14	1	⿰	白日儿豸	皃	豸,皃,白,儿	藐	countenance
 貿	12	1	⿱	貝目八刀厶六貞卯		貝,卯,目,八,刀,厶		trade
@@ -4388,7 +4388,7 @@
 澂	15	3	⿲	王山氵攵		王,山,氵,攵		clear and still water
 潼	15	3	品l	氵里立	童	童,氵,里,立		high
 潘	15	3	品l	氵田釆米	番	番,氵,田,釆,米	藩	water in which rice has been washed
-澎	15	3	⿲	口十氵土豆䒑彡丷	彭	彭,口,十,氵,土,豆,彡		turbulent water
+澎	15	3	⿲	口十氵士豆䒑彡丷	彭	彭,口,十,氵,士,豆,彡		turbulent water
 澑	15	3	品l	丨一氵田		氵,田		slide
 濂	16	3	⿰	丨彐氵兼八广六	廉	廉,彐,氵,兼,八,广		name of Chinese river
 潦	15	3	品l	氵小大日䒑亠丷	尞	尞,氵,小,大,日,亠		heavy rainfall

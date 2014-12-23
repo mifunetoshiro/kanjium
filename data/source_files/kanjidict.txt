@@ -2020,7 +2020,7 @@
 杜	木			⿰				ト(漢)、ズ(呉)	もり、ふさ（ぐ）、やまなし、と（じる）	もり、あかなし	7	Jinmeiyō (used in names)		pre-1	2286	woods;grove		2500	2562				
 渡	水	氵	度	⿰	Phono-semantic compound	ト	わた（る）、わた（す）	ト(漢)、ド(呉)	わた（る）、わた（す）	ただ、わたり、わたる	12	Jōyō (1st grade of junior high school)	N2 (intermediate)	4	436	transit;ford;ferry;cross;import;deliver;diameter;migrate	transit;cross	1195	1279	154	154	695	25
 登	癶		豆	⿱	Phono-semantic compound	トウ、ト	のぼ（る）	トウ(呉)、ト(慣)	のぼ（る）、あ（がる）	たか、ちか、とみ、とも、なり、なる、のぼる、のり、み、みのる	12	Kyōiku-Jōyō (3rd grade of primary school)	N3 (lower intermediate)	8	458	ascend;climb up;climb	ascend;climb	1703	1838	549	549	752	12
-菟	艸	艹		⿱				ト(漢)、ツ(呉)	うさぎ		11	Hyōgaiji		pre-1		dodder (plant)							
+菟	艸	艹		⿱				ト(漢)、ツ(呉)	うさぎ		12	Hyōgaiji		pre-1		dodder (plant)							
 賭	貝		者	品l	Phono-semantic compound	ト	か（ける）	ト(漢)、ツ(呉)	か（ける）、かけ		16	Jōyō (high school)	N1 (advanced)	2	1665	gamble;wager;bet	gamble	1264	1354	1839	1374		45
 途	辵	辶	余	⿺	Phono-semantic compound	ト		ト(漢)、ズ(呉)、ド(呉)	みち	とお、みち	10	Jōyō (1st grade of junior high school)	N2 (intermediate)	4	648	route;way;road	route;way	1661	1790	822	822	957	27
 都	邑	⻏	者	品r	Phono-semantic compound	ト、ツ	みやこ	ト(漢)、ツ(呉)	みやこ、すべ（て）	いち、くに、さと、ひろ、みやこ	11	Kyōiku-Jōyō (3rd grade of primary school)	N4 (basic)	8	250	metropolis;capital;metropolis of Tokyo	metropolis;metropolis of Tokyo	1846	1989	248	248	265	12
@@ -2870,7 +2870,7 @@
 厘	厂			⿸	Compound ideograph	リン		リン(慣)、リ(呉)、テン(漢)、デン(呉)			9	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	2830	rin;1/10sen;1/10bu;thousandth	rin;thousandth	178	190	1662	2101	1117	
 林	木		林	⿰	Compound ideograph	リン	はやし	リン(呉)	はやし、おお（い）	き、きみ、きむ、きん、しげ、しげる、とき、な、はやし、ふさ、もと、もり、よし	8	Kyōiku-Jōyō (1st grade of primary school)	N4 (basic)	10	644	grove;forest;woods	grove;forest;woods	196	208	69	69	197	5
 淋	水	氵	林	⿲	Phono-semantic compound			リン(呉)	さび（しい）、さみ（しい）、りんびょう、そそ（ぐ）、したた（る）		11	Jinmeiyō (used in names)		pre-1	2449	lonely;deserted		2310	2403				
-燐	火			品l				リン(呉)			16	Hyōgaiji		pre-1	2857	phosphorus		2052	2209				
+燐	火			品l				リン(呉)			17	Hyōgaiji		pre-1	2857	phosphorus		2052	2209				
 琳	玉	⺩	林	⿲	Phono-semantic compound			リン(呉)			12	Jinmeiyō (used in names)		pre-1	2978	jewel;tinkling of jewelry		2554	2610				
 臨	臣			⿰1	Compound ideograph	リン	のぞ（む）	リン(呉)	のぞ（む）	み	18	Kyōiku-Jōyō (6th grade of primary school)	N1 (advanced)	5	1260	look to;face;meet;confront;attend;call on;be present at	look to;be present at	854	918	1485	1237	1683	37
 輪	車		侖	品l	Phono-semantic compound	リン	わ	リン(呉)	わ	もと、わ	15	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	799	wheel;ring;circle;link;loop;counter for wheels and flowers	wheel;ring	1822	1963	765	765	942	13

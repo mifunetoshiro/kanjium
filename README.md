@@ -75,24 +75,27 @@ CONTENTS:
       * Onyomi words (e.g. 一 ichi) in the edict table are written with katakana, as opposed to hiragana in Jim Breen's EDICT/JMdict, thus they need to be converted before trying to synchronize with EDICT/JMdict<br />
       * */data/accent.css* is an example CSS file to properly render the pitch accent information<br />
 
-   * */data/source_files/raw* folder:
-      * *accents.txt*: file containing pitch accent mora locations for 124,137 words. Use this to generate pitch accent data for any other words not in my database
-      * *particles.txt*: file containing particle+verb pairs, Japanese sentences and English translations (from Tatoeba). Use this to extract particle data for any other verbs not in my database
-      * *wikipedia_freq.txt*: file containing word frequency based on an analysis of Japanese Wikipedia
-      * *novels_freq.txt*: file containing word frequency based on an analysis of over 5,000 novels
-      * *mecab-furigana.rb* & *furigana.rb*: Ruby scripts to generate furigana; author is "lauri_ranta"
-      * *word_segmentation.txt*: link to a Python script (Ryuujouji) by Houssam Salem to segment words into individual character readings. The script is not a part of this package due to its GPL license. Also note that the script does not currently take renjou (連声) into account, but there are not a lot of such words in the Japanese language
+   * */data/source_files/raw* folder:<br />
+      * *accents.txt*: file containing pitch accent mora locations for 124,137 words. Use this to generate pitch accent data for any other words not in my database<br />
+      * *particles.txt*: file containing particle+verb pairs, Japanese sentences and English translations (from Tatoeba). Use this to extract particle data for any other verbs not in my database<br />
+      * *wikipedia_freq.txt*: file containing word frequency based on an analysis of Japanese Wikipedia<br />
+      * *novels_freq.txt*: file containing word frequency based on an analysis of over 5,000 novels<br />
+      * *mecab-furigana.rb* & *furigana.rb*: Ruby scripts to generate furigana; author is "lauri_ranta"<br />
+      * *word_segmentation.txt*: link to a Python script (Ryuujouji) by Houssam Salem to segment words into individual character readings. The script is not a part of this package due to its GPL license. Also note that the script does not currently take renjou (連声) into account, but there are not a lot of such words in the Japanese language<br />
 
-   * */misc* folder:
-      * *ghost.txt*: "ghost kanji" - questionable characters that were encoded into the JIS X 02xx standards (and Unicode) by mistake
-      * *repeat.txt*: kanji where one element repeats 3 times
-      * *xxx_yypercent.txt*: x number of kanji required to read y percent of Wikipedia
-      * *surnames.txt*: some of the most common Japanese surnames and the kanji required to know how to read them
-      * *boynames.txt*: some of the most common Japanese boy names and the kanji required to know how to read them
-      * *girlnames.txt*: some of the most common Japanese girl names and the kanji required to know how to read them
-      * *unknown.txt*: kanji with no known meaning
-      * *future.txt*: jouyou kanji that should be simplified, but probably won't be
-      * *common_elements.txt*: most frequent elements kanji are composed of
-      * *confusing_okurigana.txt*: words where different readings share the same okurigana
-      * *irregular_readings.txt*: some words/place names with weird or irregular (missing okurigana) readings
-      * *jukujikun.txt*: list of official jukujikun and below a list of unofficial jukujikun
+   * */images* folder:<br />
+      * All the images are saved with a character's decimal numeric character reference as the filename<br />
+
+   * */misc* folder:<br />
+      * *ghost.txt*: "ghost kanji" - questionable characters that were encoded into the JIS X 02xx standards (and Unicode) by mistake<br />
+      * *repeat.txt*: kanji where one element repeats 3 times<br />
+      * *xxx_yypercent.txt*: x number of kanji required to read y percent of Wikipedia<br />
+      * *surnames.txt*: some of the most common Japanese surnames and the kanji required to know how to read them<br />
+      * *boynames.txt*: some of the most common Japanese boy names and the kanji required to know how to read them<br />
+      * *girlnames.txt*: some of the most common Japanese girl names and the kanji required to know how to read them<br />
+      * *unknown.txt*: kanji with no known meaning<br />
+      * *future.txt*: jouyou kanji that should be simplified, but probably won't be<br />
+      * *common_elements.txt*: most frequent elements kanji are composed of<br />
+      * *confusing_okurigana.txt*: words where different readings share the same okurigana<br />
+      * *irregular_readings.txt*: some words/place names with weird or irregular (missing okurigana) readings<br />
+      * *jukujikun.txt*: list of official jukujikun and below a list of unofficial jukujikun<br />

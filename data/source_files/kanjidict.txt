@@ -3601,7 +3601,7 @@
 帶	巾			⿳	Compound ideograph			タイ(呉)	お（びる）、おび	おび、たらし、よ	11	Jinmeiyō (traditional variant of Jōyō)		1		belt;girdle;band;strap;zone							
 帷	巾			⿰				イ(呉)	とばり、かたびら		11	Hyōgaiji		1	2964	curtain;screen							
 幄	巾			⿰				アク(呉)	とばり		12	Hyōgaiji		1		curtain							
-幃	巾			⿰				イ(呉)	とばり		13	Hyōgaiji		1		bag							
+幃	巾			⿰				イ(呉)	とばり		12	Hyōgaiji		1		bag							
 幀	巾			⿰				イ(慣)、トウ(漢)、チョウ(呉)			12	Hyōgaiji		1	3169	making books or scrolls							
 幎	巾			⿰				ベキ(漢)、ミャク(呉)	とばり、おお（う）		13	Hyōgaiji		1		cloth covering							
 幗	巾			⿰				カク(漢)、キャク(呉)	かみかざ（り）		14	Hyōgaiji		1		woman's head covering;veil							

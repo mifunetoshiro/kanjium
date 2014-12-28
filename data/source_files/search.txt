@@ -6778,6 +6778,15 @@
 𫠍	3		;sayori;さより;	Japanese halfbeak;stickleback
 喻	3		;yu;tatoeru;satosu;ユ;たとえる;さとす;	metaphor
 𥡴	3		;kei;ke;kangaeru;todomeru;ケイ;ケ;かんがえる;とどめる;	think;consider;quarrel
+鄧	3		;tou;トウ;	surname
+啞	3		;a;e;aku;yaku;oshi;aa;warau;ア;エ;アク;ヤク;おし;ああ;わらう;osi;	become hoarse;dumb;mute
+麴	3		;kiku;kouji;sake;キク;こうじ;さけ;kouzi;	leaven;malt;yeast
+鹼	3		;ken;kan;sen;aku;shioke;ケン;カン;セン;あく;しおけ;sioke;	alkali;alkaline;lye;salt
+嚙	3		;gyou;gou;kou;kamu;kajiru;ギョウ;ゴウ;コウ;かむ;かじる;kaziru;	chew;bite;gnaw
+搔	3		;sou;kaku;ソウ;かく;	scratch;rake;comb;paddle;behead
+屛	3		;hei;byou;hyou;oou;shirizoku;byoubu;tsuitate;kaki;shirizokeru;ヘイ;ビョウ;ヒョウ;おおう;しりぞく;びょうぶ;ついたて;かき;しりぞける;sirizoku;tuitate;sirizokeru;	wall;fence
+幷	3		;hei;hyou;awaseru;narabu;ヘイ;ヒョウ;あわせる;ならぶ;	put together
+沪	3		;ryo;ro;kosu;リョ;ロ;こす;	filter
 𠮟	1	;shitsu;shikaru;シツ;しかる;situ;sikaru;	;shitsu;shichi;shikaru;シツ;シチ;しかる;situ;siti;sikaru;	scold;reprove
 﨟	3		;rou;ロウ;	year-end sacrifice;dried meat
 䍃	3		;yo;ヨウ;you;	pitcher;vase;earthenware

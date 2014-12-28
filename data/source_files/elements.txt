@@ -532,7 +532,7 @@
 急	9	1	⿳	彐心忌⺈		心,彐		hurry;urgent;sudden
 救	11	1	⿰	氺一丶攵	求	求,攵,氺,丶		salvation;save
 朽	6	1	⿰	一木勹札		木,勹		decay
-求	7	1	囗	一氺丶		丶,氺	救,毬,球,裘,逑	request;seek
+求	7	1	囗	一氺丶		丶,氺	救,毬,球,裘,逑,𩛰	request;seek
 汲	7	2	⿰	丿氵丶乃	及	及,氵,乃		draw (water)
 泣	8	1	⿰	氵立		立,氵		cry
 灸	7	2	⿱	久火災		久,火,入		moxa cautery
@@ -6730,7 +6730,7 @@
 𨦈	14	3	⿰	釒金丨曰曲日囗田		金,曰,曲,日,囗,田		anchor
 𨦻	15	3	品l	釒金田力	男	金,男,田,力		wide blade knife (similar to a machete but not so large)
 𩊱	16	3	品l	革母乞	每	革,每,母		series of articulated plates attached to the back and sides of a Japanese helmet
-𩛰	16	3	⿱	食一氺丶		食,氺		to search for food
+𩛰	16	3	⿱	食一氺丶	求	食,求,氺		to search for food
 𩸽	18	3	⿰1	⺈魚魞艹亻匕	花化	魚,花,化,艹,亻,匕		Arabesque greenling (Pleurogrammus azonus)
 𩸕	19	3	⿰	⺈魚魞長		魚,長		daggertooth pike conger (Muraenesox cinereus)
 𩺊	20	3	⿰4	⺈魚魞亡艹亠川㇗	荒	魚,荒,亡,艹,亠,川		saw-edged perch (Niphon spinosus)

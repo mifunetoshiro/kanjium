@@ -6730,7 +6730,7 @@
 𨦈	金	釒		⿰					いかり		14	Hyōgaiji				anchor;(kokuji)							
 𨦻	金	釒		品l					なた		15	Hyōgaiji				wide blade knife (similar to a machete but not so large);(kokuji)							
 𩊱	革			品l					しころ		16	Hyōgaiji				series of articulated plates attached to the back and sides of a Japanese helmet;(kokuji)							
-𩛰	食			⿱					あさ（る）		16	Hyōgaiji				to search for food;to fish for food;(kokuji)							
+𩛰	食			⿱					あさ（る）		16	Hyōgaiji		1		to search for food;to fish for food;(kokuji)							
 𩸽	魚			⿰1					ほっけ		18	Hyōgaiji				Arabesque greenling (Pleurogrammus azonus);(kokuji)							
 𩸕	魚			⿰					はも		19	Hyōgaiji				daggertooth pike conger (Muraenesox cinereus);conger eel;garden eel;(kokuji)							
 𩺊	魚			⿰4					あら		20	Hyōgaiji				saw-edged perch (Niphon spinosus);(kokuji)							

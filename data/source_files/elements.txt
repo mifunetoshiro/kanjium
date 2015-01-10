@@ -3590,7 +3590,7 @@
 巒	22	3	⿱1	言山糸䜌		山,言,糸		small peak
 巖	23	2	⿳	口山耳厂攵屶	嚴敢	山,嚴,敢,口,耳,厂,攵		rock
 巛	3	3	囗	巛				curving river radical (no. 47)
-巫	7	3	囗	工人	从	工,从,人	筮,覡,誣,靈,鵐	sorcerer
+巫	7	2	囗	工人	从	工,从,人	筮,覡,誣,靈,鵐	sorcerer
 已	3	2	囗	己		己		stop
 巵	7	3	⿸	一厂巴巳丨		巴,厂,巳	梔	large winecup
 帋	7	3	⿱	巾氏		氏,巾		paper

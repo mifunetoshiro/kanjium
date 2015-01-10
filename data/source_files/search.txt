@@ -3590,7 +3590,7 @@
 巒	3		;ran;mine;yamanami;ラン;みね;やまなみ;	small peak
 巖	2		;gan;gen;iwa;iwao;kewashii;gake;ガン;ゲン;いわ;いわお;けわしい;がけ;kewasii;	rock;crag;boulder
 巛	3		;sen;kawa;セン;かわ;	curving river radical (no. 47)
-巫	3		;fu;bu;mu;miko;kannagi;フ;ブ;ム;みこ;かんなぎ;hu;	sorcerer;medium;shrine maiden
+巫	2		;fu;bu;mu;miko;kannagi;フ;ブ;ム;みこ;かんなぎ;hu;	sorcerer;medium;shrine maiden
 已	2		;i;yamu;sudeni;nomi;hanahada;イ;やむ;すでに;のみ;はなはだ;	stop;halt;previously;already;long ago
 巵	3		;shi;sakazuki;シ;さかずき;si;	large winecup;apt;fitting
 帋	3		;shi;kami;シ;かみ;si;	paper;stationary;document

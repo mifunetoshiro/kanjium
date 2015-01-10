@@ -3590,7 +3590,7 @@
 巒	山			⿱1				ラン(呉)	みね、やまなみ		22	Hyōgaiji		1		small peak							
 巖	山			⿳				ガン(漢)、ゲン(呉)	いわ、いわお、けわ（しい）、がけ	いわ、いわお、お、みち、みね、よし	23	Jinmeiyō (traditional variant of Jinmeiyō)		1		rock;crag;boulder							
 巛	巛			囗	Pictograph			セン(呉)	かわ		3	Hyōgaiji		1		curving river radical (no. 47)							
-巫	工			囗	Compound ideograph			フ(慣)、ブ(漢)、ム(呉)	みこ、かんなぎ		7	Hyōgaiji		1	2357	sorcerer;medium;shrine maiden		2930	2937				
+巫	工			囗	Compound ideograph			フ(慣)、ブ(漢)、ム(呉)	みこ、かんなぎ		7	Jinmeiyō (used in names)		1	2357	sorcerer;medium;shrine maiden		2930	2937				
 已	己			囗				イ(呉)	や（む）、すで（に）、のみ、はなはだ、はなは（だ）		3	Jinmeiyō (used in names)		1	2925	stop;halt;previously;already;long ago		2937	2944				
 巵	己	巳		⿸				シ(呉)	さかずき		7	Hyōgaiji		1		large winecup;apt;fitting							
 帋	巾			⿱				シ(呉)	かみ		7	Hyōgaiji		1		paper;stationary;document							

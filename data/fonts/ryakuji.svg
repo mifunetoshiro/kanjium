@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20150102 at Mon Jan 12 09:46:45 2015
+Created by FontForge 20150102 at Mon Jan 12 15:07:11 2015
  By uniteet7
 ume P gothic mod by amogata
 </metadata>
@@ -370,8 +370,5 @@ M766 748v246h-350v-246h350zM590 538l126 -38q-39 -350 -204 -495l-128 98q166 124 2
     <glyph glyph-name="uni6BCD" unicode="&#x6bcd;" vert-adv-y="1760" 
 d="M1480 1496l-370 2l-50 -564l420 2v560zM968 1498l-384 -2l-46 -560l382 2zM1920 808h-288v-96q0 -303 -36 -488h292v-128h-325q-11 -31 -23 -56q-92 -184 -244 -184h-176l-24 128h176q72 0 126 112h-1078l59 712h-251v128h262l58 688h1184v-688h288v-128zM480 224h374
 l52 582l-379 2zM1004 224h438q38 169 38 488v96l-426 -2z" />
-    <glyph glyph-name="uni6BCE" unicode="&#x6bce;" vert-adv-y="1760" 
-d="M480 184h392q35 168 57 352h-391q-23 -184 -58 -352zM1016 184h403q0 2 1 4q28 129 38 348h-390q-21 -181 -52 -352zM608 1648q-26 -96 -58 -184h1210v-120h-1258q-114 -263 -286 -440l-128 96q272 280 376 680zM136 536v120h270q26 234 26 480h1184v-312q0 -88 -2 -168
-h306v-120h-311q-11 -204 -38 -352h245v-120h-273q-65 -208 -223 -208h-136l-32 128h144q50 0 86 80h-1086q62 229 95 472h-255zM960 1016h-384q-7 -187 -24 -360h389q15 173 19 360zM1464 816v200h-360q-7 -184 -23 -360h381q2 75 2 160z" />
   </font>
 </defs></svg>

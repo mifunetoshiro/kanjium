@@ -6418,7 +6418,7 @@
 硏	3		;ken;gen;togu;nori;ケン;ゲン;とぐ;のり;	study of;sharpen;polish
 倂	3		;hei;hyou;awaseru;narabu;shikashi;ヘイ;ヒョウ;あわせる;ならぶ;しかし;sikasi;	unite;join;get together;collective
 雞	3		;kei;ke;niwatori;tori;ケイ;ケ;にわとり;とり;	chickens;domestic fowl
-俠	2		;otokodate;kyan;おとこだて;きゃん;	chivalrous person;chivalry;knight-errant;tomboy
+俠	2		;kyou;gyou;kyan;otokodate;キョウ;ギョウ;きゃん;おとこだて;	chivalrous person;chivalry;knight-errant;tomboy
 俱	2		;ku;gu;tomoni;ク;グ;ともに;	together;all;accompany
 吞	2		;ton;don;nomu;トン;ドン;のむ;	swallow;engulf;annex;absorb
 摑	2		;kyaku;kaku;tsukamu;tsukamaeru;tsukamaru;キャク;カク;つかむ;つかまえる;つかまる;tukamu;tukamaeru;tukamaru;	box one's ears;slap

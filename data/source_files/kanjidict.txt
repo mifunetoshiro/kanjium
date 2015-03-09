@@ -3409,7 +3409,7 @@
 壺	士			⿱	Compound ideograph			コ(漢)、グ(呉)、ゴ(呉)	つぼ		12	Hyōgaiji		1	2003	jar;pot							
 壹	士			⿳				イチ(呉)、イツ(漢)	ひとつ、ひと（つ）		12	Kyūjitai-Hyōgaiji		1		number one							
 壻	士			品l				セイ(漢)、サイ(呉)	むこ		12	Hyōgaiji		1		son-in-law							
-壼	士			⿳				コン(呉)	おく、しきみ		13	Hyōgaiji		1		palace corridor or passageway							
+壼	士			⿳				コン(呉)	おく、しきみ、つぼ		13	Hyōgaiji		1		palace corridor or passageway							
 壽	士			⿳	Compound ideograph			ジュ(呉)、シュウ(漢)	ことぶき、ことぶ（く）、ことほ（ぐ）、とし、ひさ（しい）	いき、かず、ことぶき、たもつ、つね、とし、としなが、なが、のぶ、ひさ、ひさし、ひで、ひろし、ほぎ、やすし、よし	14	Jinmeiyō (traditional variant of Jōyō)		1	3122	longevity;congratulations		2995	2996				
 夂	夂			囗	Pictograph			チ(呉)	しゅう、おく（れる）		3	Hyōgaiji		1		go or walk slowly;winter radical (no. 34)							
 夊	夊			囗	Pictograph			スイ(呉)	ゆき		3	Hyōgaiji		1		go slowly radical (no. 35)							
@@ -4818,7 +4818,7 @@
 窿	穴			品				リュウ(漢)、ル(呉)	ゆみがた		17	Hyōgaiji		1		vault (of sky);dome							
 邃	辵	辶		⿺				スイ(呉)	おくぶか（い）、ふか（い）、とお（い）		18	Hyōgaiji		1		deep;profound							
 竇	穴			⿳				トウ(漢)、ズ(呉)	あな、あなぐら、くぐ（り）、みぞ		20	Hyōgaiji		1		hole;doorway;ditch							
-竊	穴			品				セツ(漢)、セチ(呉)	ぬす（む）、ひそ（かに）		23	Kyūjitai-Hyōgaiji		1		steal;secret;private;hushed							
+竊	穴			品				セツ(漢)、セチ(呉)	ぬす（む）、ひそ（かに）		22	Kyūjitai-Hyōgaiji		1		steal;secret;private;hushed							
 竍	立			⿰					デカリットル		7	Hyōgaiji		1		decalitre;(kokuji)							
 竏	立			⿰					キロリットル		8	Hyōgaiji		1		kilolitre;(kokuji)							
 竕	立			品l					デシリットル		9	Hyōgaiji		1		decilitre;(kokuji)							

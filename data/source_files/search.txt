@@ -3409,7 +3409,7 @@
 壺	3		;ko;gu;go;tsubo;コ;グ;ゴ;つぼ;tubo;	jar;pot
 壹	3		;ichi;itsu;hitotsu;イチ;イツ;ひとつ;iti;itu;hitotu;	number one
 壻	3		;sei;sai;muko;セイ;サイ;むこ;	son-in-law
-壼	3		;kon;oku;shikimi;コン;おく;しきみ;sikimi;	palace corridor or passageway
+壼	3		;kon;oku;shikimi;tsubo;コン;おく;しきみ;つぼ;sikimi;tubo;	palace corridor or passageway
 壽	2		;ju;shuu;kotobuki;kotobuku;kotohogu;toshi;hisashii;ジュ;シュウ;ことぶき;ことぶく;ことほぐ;とし;ひさしい;zyu;syuu;tosi;hisasii;	longevity;congratulations
 夂	3		;chi;shuu;okureru;チ;しゅう;おくれる;ti;syuu;	go or walk slowly;winter radical (no. 34)
 夊	3		;sui;yuki;スイ;ゆき;	go slowly radical (no. 35)

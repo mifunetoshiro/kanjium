@@ -59,8 +59,8 @@
 59	一	日本一	にほんいち	に↱ほ↴んいち	<span class="LH">に</span><span class="HL">ほ</span><span class="L">んいち</span>	L-H-L-L-L	2	[noun, の adjective] Japan's best;number one in Japan		Uncommon			日 に;本 ほん;一 いち
 60	一	一線	いっせん	い↱っせん	<span class="LH">い</span><span class="H">っせん</span>	L-H-H-H	0	[noun] line		Uncommon			一 いっ;線 せん
 61	一	一体	いったい	い↱ったい	<span class="LH">い</span><span class="H">ったい</span>	L-H-H-H	0	[adverb] {1} ...the heck (e.g. "what the heck?");...in the world (e.g. "why in the world?");...on earth (e.g. "who on earth?");[noun] {2} one object;one body;unity;{3} one form;one style;{4} one Buddhist image (or carving, etc.);[adverbial noun] {5} generally;in general	N3 (lower intermediate)	Very common			一 いっ;体 たい
-62	一	一日	いちにち	い↱ちにち↴	<span class="LH">い</span><span class="HL">ちにち</span>	L-H-H-H-(L)	4	[noun] {1} first day of the month;{2} one day	N5 (beginner)	Rare			一 いち;日 にち
-63	一	一日	ついたち	つ↱いたち↴	<span class="LH">つ</span><span class="HL">いたち</span>	L-H-H-H-(L)	4	[noun] {1} first day of the month;{2} (archaism) first ten days of the lunar month	N5 (beginner)	Rare			
+62	一	一日	いちにち	い↱ちにち↴	<span class="LH">い</span><span class="HL">ちにち</span>	L-H-H-H-(L)	4	[noun] {1} first day of the month;{2} one day	N5 (beginner)	Rare	2		一 いち;日 にち
+63	一	一日	ついたち	つ↱いたち↴	<span class="LH">つ</span><span class="HL">いたち</span>	L-H-H-H-(L)	4	[noun] {1} first day of the month;{2} (archaism) first ten days of the lunar month	N5 (beginner)	Rare	2		
 64	一	一方的	いっぽうてき	い↱っぽうてき	<span class="LH">い</span><span class="H">っぽうてき</span>	L-H-H-H-H-H	0	[な adjective] one-sided;unilateral;arbitrary		Uncommon			一 いっ;方 ぽう;的 てき
 65	一	単一	たんいつ	た↱んいつ	<span class="LH">た</span><span class="H">んいつ</span>	L-H-H-H	0	[な adjective, noun, の adjective] single;simple;sole;individual;unitary	N1 (advanced)	Rare			単 たん;一 いつ
 66	一	一新	いっしん	い↱っしん	<span class="LH">い</span><span class="H">っしん</span>	L-H-H-H	0	[noun, する verb] complete change;reform;restoration;remodeling;remodelling;renewal		Rare		を	一 いっ;新 しん
@@ -122,7 +122,7 @@
 122	丁	丁寧	ていねい	て↴いねい	<span class="HL">て</span><span class="L">いねい</span>	H-L-L-L	1	[な adjective, noun] polite;courteous;careful;care;kind;close;thorough;conscientious	N4 (basic)	Very common	46		丁 てい;寧 ねい
 123	丁	八丁	はっちょう	は↴っちょう	<span class="HL">は</span><span class="L">っちょう</span>	H-L-L-L	1	[noun] skillfulness		Rare			八 はっ;丁 ちょう
 124	七	七月	しちがつ	し↱ちがつ↴	<span class="LH">し</span><span class="HL">ちがつ</span>	L-H-H-H-(L)	4	[adverbial noun] July		Very common			七 しち;月 がつ
-125	七	七日	なのか	な↱のか	<span class="LH">な</span><span class="H">のか</span>	L-H-H	0	[adverbial noun] {1} the seventh day of the month;{2} seven days	N5 (beginner)	Rare			七 なの;日 か
+125	七	七日	なのか	な↱のか	<span class="LH">な</span><span class="H">のか</span>	L-H-H	0	[adverbial noun] {1} the seventh day of the month;{2} seven days	N5 (beginner)	Rare	2		七 なの;日 か
 126	七	十七	じゅうしち					[noun] 17;seventeen		Rare			十 じゅう;七 しち
 127	万	万人	ばんにん	ば↱んにん	<span class="LH">ば</span><span class="H">んにん</span>	L-H-H-H	0	[noun] {1} all people;everybody;{2} ten thousand people		Rare	5		万 ばん;人 にん
 128	万	万年	まんねん	ま↱んねん	<span class="LH">ま</span><span class="H">んねん</span>	L-H-H-H	0	[noun] {1} ten thousand years;{2} eternity		Rare			万 まん;年 ねん
@@ -186,7 +186,7 @@
 186	上	上旬	じょうじゅん	じょ↱うじゅん	<span class="LH">じょ</span><span class="H">うじゅん</span>	L-H-H-H	0	[adverbial noun, temporal noun] first 10 days of month	N2 (intermediate)	Rare	37		上 じょう;旬 じゅん
 187	上	至上	しじょう	し↱じょう	<span class="LH">し</span><span class="H">じょう</span>	L-H-H	0	[noun] supremacy		Rare	41		至 し;上 じょう
 188	上	机上	きじょう	き↱じょう	<span class="LH">き</span><span class="H">じょう</span>	L-H-H	0	[noun, の adjective] {1} on the desk;{2} theoretical;academic		Rare			机 き;上 じょう
-189	上	上演	じょうえん	じょ↱うえん	<span class="LH">じょ</span><span class="H">うえん</span>	L-H-H-H	0	[noun, する verb] performance (e.g. music, theatre, opera);staging	N1 (advanced)	Uncommon		を(56%),が(22%),で(22%)	上 じょう;演 えん
+189	上	上演	じょうえん	じょ↱うえん	<span class="LH">じょ</span><span class="H">うえん</span>	L-H-H-H	0	[noun, する verb] performance (e.g. music, theatre, opera);staging	N1 (advanced)	Uncommon	23	を(56%),が(22%),で(22%)	上 じょう;演 えん
 190	上	上手	じょうず	じょ↱うず↴	<span class="LH">じょ</span><span class="HL">うず</span>	L-H-H-(L)	3	[な adjective, noun] {1} skill;skillful;dexterity;[noun] {2} flattery	N5 (beginner)	Very common	2		上 じょう;手 ず
 191	上	上下	うえした	う↱え↴した	<span class="LH">う</span><span class="HL">え</span><span class="L">した</span>	L-H-L-L	2	[noun] {1} top and bottom;up and down;high and low;above and below;upper and lower ends;[の adjective, noun] {2} upside-down	N1 (advanced)	Very common*			上 うえ;下 した
 192	上	上下	じょうげ	じょ↴うげ	<span class="HL">じょ</span><span class="L">うげ</span>	H-L-L	1	[noun] {1} top and bottom;high and low;above and below;upper and lower ends;up and down;[noun, する verb] {2} going up and down;rising and falling;fluctuating;{3} going and coming back;[noun] {4} upper and lower classes;ruler and ruled;the government and the people;{5} first and second volumes		Very common*		で	上 じょう;下 げ
@@ -201,7 +201,7 @@
 201	上	上場	じょうじょう	じょ↱うじょう	<span class="LH">じょ</span><span class="H">うじょう</span>	L-H-H-H	0	[noun, する verb] listing (on the stock exchange, etc.);taking a company public		Rare		に	上 じょう;場 じょう
 202	上	上院	じょういん	じょ↱ういん	<span class="LH">じょ</span><span class="H">ういん</span>	L-H-H-H	0	[noun, の adjective] Upper House;Senate;Lords		Rare			上 じょう;院 いん
 203	上	路上	ろじょう	ろ↱じょう	<span class="LH">ろ</span><span class="H">じょう</span>	L-H-H	0	[noun] (on the) road;(on the) way		Common			路 ろ;上 じょう
-204	上	屋上	おくじょう	お↱くじょう	<span class="LH">お</span><span class="H">くじょう</span>	L-H-H-H	0	[noun] rooftop	N4 (basic)	Very common			屋 おく;上 じょう
+204	上	屋上	おくじょう	お↱くじょう	<span class="LH">お</span><span class="H">くじょう</span>	L-H-H-H	0	[noun] rooftop	N4 (basic)	Very common	11		屋 おく;上 じょう
 205	上	水上	すいじょう	す↱いじょう	<span class="LH">す</span><span class="H">いじょう</span>	L-H-H-H	0	[noun] aquatic;on the water		Common			水 すい;上 じょう
 206	上	計上	けいじょう	け↱いじょう	<span class="LH">け</span><span class="H">いじょう</span>	L-H-H-H	0	[noun, する verb] {1} including a sum of money in one's calculations;{2} appropriation (a sum of money)		Rare		を(60%),が(20%),に(20%)	計 けい;上 じょう
 207	上	上半身	じょうはんしん	じょ↱うは↴んしん	<span class="LH">じょ</span><span class="HL">うは</span><span class="L">んしん</span>	L-H-H-L-L-L	3	[noun] upper half of body;bust		Common			上 じょう;半 はん;身 しん
@@ -319,7 +319,7 @@
 319	不	不気味	ぶきみ	ぶ↱きみ	<span class="LH">ぶ</span><span class="H">きみ</span>	L-H-H	0	[な adjective, noun] weird;ominous;eerie;uncanny;ghastly		Very common			不 ぶ;気 き;味 み
 320	不	不可解	ふかかい	ふ↱か↴かい	<span class="LH">ふ</span><span class="HL">か</span><span class="L">かい</span>	L-H-L-L	2	[な adjective, noun] mystery;baffling;inexplicable;incomprehensible		Common			不 ふ;可 か;解 かい
 321	不	不本意	ふほんい	ふ↱ほ↴んい	<span class="LH">ふ</span><span class="HL">ほ</span><span class="L">んい</span>	L-H-L-L	2	[な adjective, noun] reluctance;unwilling		Uncommon			不 ふ;本 ほん;意 い
-322	不	不自由	ふじゆう	ふ↴じゆう	<span class="HL">ふ</span><span class="L">じゆう</span>	H-L-L-L	1	[な adjective, noun, する verb] {1} discomfort;inconvenience;{2} poverty;want;destitution;{3} disability;impairment (physical, mental, etc.)	N3 (lower intermediate)	Common		に(67%),と(33%)	不 ふ;自 じ;由 ゆう
+322	不	不自由	ふじゆう	ふ↴じゆう	<span class="HL">ふ</span><span class="L">じゆう</span>	H-L-L-L	1	[な adjective, noun, する verb] {1} discomfort;inconvenience;{2} poverty;want;destitution;{3} disability;impairment (physical, mental, etc.)	N3 (lower intermediate)	Common	9	に(67%),と(33%)	不 ふ;自 じ;由 ゆう
 323	不	不服	ふふく	ふ↱ふく	<span class="LH">ふ</span><span class="H">ふく</span>	L-H-H	0	[な adjective, noun] dissatisfaction;discontent;disapproval;objection;complaint;protest;disagreement	N1 (advanced)	Uncommon			不 ふ;服 ふく
 324	不	不和	ふわ	ふ↴わ	<span class="HL">ふ</span><span class="L">わ</span>	H-L	1	[な adjective, noun, の adjective] friction;discord;trouble;dissension;disagreement		Rare			不 ふ;和 わ
 325	不	心不全	しんふぜん	し↱んふ↴ぜん	<span class="LH">し</span><span class="HL">んふ</span><span class="L">ぜん</span>	L-H-H-L-L	3	[noun] heart failure		Rare			心 しん;不 ふ;全 ぜん
@@ -338,7 +338,7 @@
 338	与	給与	きゅうよ	きゅ↴うよ	<span class="HL">きゅ</span><span class="L">うよ</span>	H-L-L	1	[noun, する verb] pay;salary;wages;allowance;grant;supply	N2 (intermediate)	Rare	27		給 きゅう;与 よ
 339	与	付与	ふよ	ふ↴よ	<span class="HL">ふ</span><span class="L">よ</span>	H-L	1	[noun, する verb] grant;allowance;endowment;bestowal;assignment;conferment		Rare		を	付 ふ;与 よ
 340	与	授与	じゅよ	じゅ↴よ	<span class="HL">じゅ</span><span class="L">よ</span>	H-L	1	[noun, する verb] award;conferment		Rare		を(60%),が(20%),に(20%)	授 じゅ;与 よ
-341	与	寄与	きよ	き↴よ	<span class="HL">き</span><span class="L">よ</span>	H-L	1	[noun, する verb] contribution;service	N1 (advanced)	Rare		に	寄 き;与 よ
+341	与	寄与	きよ	き↴よ	<span class="HL">き</span><span class="L">よ</span>	H-L	1	[noun, する verb] contribution;service	N1 (advanced)	Rare	29	に	寄 き;与 よ
 342	与	投与	とうよ	と↴うよ	<span class="HL">と</span><span class="L">うよ</span>	H-L-L	1	[noun, する verb] prescribing medicine;administering (medicine)		Rare		を	投 とう;与 よ
 343	与	貸与	たいよ	た↴いよ	<span class="HL">た</span><span class="L">いよ</span>	H-L-L	1	[noun, する verb] loan;lending		Rare			貸 たい;与 よ
 344	与	与党	よとう	よ↴とう	<span class="HL">よ</span><span class="L">とう</span>	H-L-L	1	[noun, の adjective] ruling party;government party;party in power;government	N1 (advanced)	Rare			与 よ;党 とう
@@ -437,7 +437,7 @@
 437	中	中退	ちゅうたい	ちゅ↱うたい	<span class="LH">ちゅ</span><span class="H">うたい</span>	L-H-H-H	0	[noun, する verb] leaving school during a term		Rare		を	中 ちゅう;退 たい
 438	中	命中	めいちゅう	め↱いちゅう	<span class="LH">め</span><span class="H">いちゅう</span>	L-H-H-H	0	[noun, する verb] a hit;hitting something that was aimed at	N1 (advanced)	Common		で(50%),を(50%)	命 めい;中 ちゅう
 439	中	中学生	ちゅうがくせい	ちゅ↱うが↴くせい	<span class="LH">ちゅ</span><span class="HL">うが</span><span class="L">くせい</span>	L-H-H-L-L-L	3	[noun] junior high school student;middle school pupil		Very common	7		中 ちゅう;学 がく;生 せい
-440	中	地中海	ちちゅうかい	ち↱ちゅ↴うかい	<span class="LH">ち</span></span><span class="HL">ちゅ</span><span class="L">うかい</span>	L-H-L-L-L	2	[noun] Mediterranean Sea		Uncommon			地 ち;中 ちゅう;海 かい
+440	中	地中海	ちちゅうかい	ち↱ちゅ↴うかい	<span class="LH">ち</span></span><span class="HL">ちゅ</span><span class="L">うかい</span>	L-H-L-L-L	2	[noun] Mediterranean Sea		Uncommon	8		地 ち;中 ちゅう;海 かい
 441	中	空中	くうちゅう	く↱うちゅう	<span class="LH">く</span><span class="H">うちゅう</span>	L-H-H-H	0	[noun] sky;air	N2 (intermediate)	Very common			空 くう;中 ちゅう
 442	中	中東	ちゅうとう	ちゅ↱うとう	<span class="LH">ちゅ</span></span><span class="H">うとう</span>	L-H-H-H	0	[noun, の adjective] Middle East		Rare	6		中 ちゅう;東 とう
 443	中	中国人	ちゅうごくじん	ちゅ↱うごく↴じん	<span class="LH">ちゅ</span></span><span class="HL">うごく</span><span class="L">じん</span>	L-H-H-H-L-L	4	[noun] Chinese person		Common			中 ちゅう;国 ごく;人 じん
@@ -471,7 +471,7 @@
 471	中	中絶	ちゅうぜつ	ちゅ↱うぜつ	<span class="LH">ちゅ</span><span class="H">うぜつ</span>	L-H-H-H	0	[noun, の adjective] {1} abortion;[する verb] {2} to have an abortion;{3} interruption;discontinuance;suspension;abeyance		Rare			中 ちゅう;絶 ぜつ
 472	中	心中	しんじゅう	し↱んじゅう	<span class="LH">し</span><span class="H">んじゅう</span>	L-H-H-H	0	[noun, する verb] double suicide;lovers suicide	N1 (advanced)	Very common*			心 しん;中 じゅう
 473	中	心中	しんちゅう	し↴んちゅう	<span class="HL">し</span><span class="L">んちゅう</span>	H-L-L-L	1	[noun] in one's heart;true motives;mind		Very common*			心 しん;中 ちゅう
-474	中	中指	なかゆび	な↱か↴ゆび	<span class="LH">な</span><span class="HL">か</span><span class="L">ゆび</span>	L-H-L-L	2	[noun] middle finger	N2 (intermediate)	Uncommon			中 なか;指 ゆび
+474	中	中指	なかゆび	な↱か↴ゆび	<span class="LH">な</span><span class="HL">か</span><span class="L">ゆび</span>	L-H-L-L	2	[noun] middle finger	N2 (intermediate)	Uncommon	11		中 なか;指 ゆび
 475	中	市中	しちゅう	し↱ちゅう	<span class="LH">し</span><span class="H">ちゅう</span>	L-H-H	0	[noun] in the city		Uncommon			市 し;中 ちゅう
 476	中	一晩中	ひとばんじゅう					[noun, adverbial noun] all night long;all through the night		Uncommon			一 ひと;晩 ばん;中 じゅう
 477	中	中級	ちゅうきゅう	ちゅ↱うきゅう	<span class="LH">ちゅ</span><span class="H">うきゅう</span>	L-H-H-H	0	[noun, の adjective] intermediate level		Rare	11		中 ちゅう;級 きゅう
@@ -820,7 +820,7 @@
 820	人	旅人	たびびと	た↱びびと	<span class="LH">た</span><span class="H">びびと</span>	L-H-H-H	0	[noun] traveller;traveler;wayfarer;tourist		Very common			旅 たび;人 びと
 821	人	国人	くにびと	く↱にびと	<span class="LH">く</span></span><span class="H">にびと</span>	L-H-H-H	0	[noun] indigenous person;inhabitant of a country		Rare			国 くに;人 びと
 822	人	人間性	にんげんせい	に↱んげんせい	<span class="LH">に</span><span class="H">んげんせい</span>	L-H-H-H-H-H	0	[noun] humanity;human nature		Uncommon			人 にん;間 げん;性 せい
-823	人	人工	じんこう	じ↱んこう	<span class="LH">じ</span><span class="H">んこう</span>	L-H-H-H	0	[noun, の adjective] artificial;man-made;human work;human skill;artificiality	N3 (lower intermediate)	Common			人 じん;工 こう
+823	人	人工	じんこう	じ↱んこう	<span class="LH">じ</span><span class="H">んこう</span>	L-H-H-H	0	[noun, の adjective] artificial;man-made;human work;human skill;artificiality	N3 (lower intermediate)	Common	1		人 じん;工 こう
 824	人	悪人	あくにん	あ↱くにん	<span class="LH">あ</span><span class="H">くにん</span>	L-H-H-H	0	[noun, の adjective] bad person;villain;scoundrel;wrongdoer;wicked person		Common	12		悪 あく;人 にん
 825	人	人気者	にんきもの	に↱んきもの	<span class="LH">に</span><span class="H">んきもの</span>	L-H-H-H-H	0	[noun] popular person;favorite;favourite		Uncommon			人 にん;気 き;者 もの
 826	人	要人	ようじん	よ↱うじん	<span class="LH">よ</span><span class="H">うじん</span>	L-H-H-H	0	[noun] important person		Rare			要 よう;人 じん
@@ -842,7 +842,7 @@
 842	人	人前	ひとまえ	ひ↱とまえ	<span class="LH">ひ</span><span class="H">とまえ</span>	L-H-H-H	0	[noun] the public;company		Common*			人 ひと;前 まえ
 843	人	人選	じんせん	じ↱んせん	<span class="LH">じ</span><span class="H">んせん</span>	L-H-H-H	0	[noun, する verb] personnel selection		Rare			人 じん;選 せん
 844	人	個人用	こじんよう					[noun] for personal use		Rare			個 こ;人 じん;用 よう
-845	人	人々	ひとびと	ひ↱と↴びと	<span class="LH">ひ</span><span class="HL">と</span><span class="L">びと</span>	L-H-L-L	2	[noun, の adjective] each person;people;men;human;everybody		Very common			人 ひと;々 びと
+845	人	人々	ひとびと	ひ↱と↴びと	<span class="LH">ひ</span><span class="HL">と</span><span class="L">びと</span>	L-H-L-L	2	[noun, の adjective] each person;people;men;human;everybody		Very common	2		人 ひと;々 びと
 846	人	成人病	せいじんびょう	せ↱いじんびょう	<span class="LH">せ</span><span class="H">いじんびょう</span>	L-H-H-H-H-H	0	[noun] adult diseases		Rare			成 せい;人 じん;病 びょう
 847	人	二人組	ふたりぐみ	ふ↱たりぐみ	<span class="LH">ふ</span></span><span class="H">たりぐみ</span>	L-H-H-H-H	0	[noun] {1} twosome;duo;{2} pair (of criminals)		Uncommon			
 848	人	保証人	ほしょうにん	ほ↱しょうにん	<span class="LH">ほ</span><span class="H">しょうにん</span>	L-H-H-H-H	0	[noun] guarantor;bondsman		Rare			保 ほ;証 しょう;人 にん
@@ -1046,10 +1046,10 @@
 1046	会	会議	かいぎ	か↴いぎ	<span class="HL">か</span><span class="L">いぎ</span>	H-L-L	1	[noun, する verb, の adjective] meeting;conference;session;assembly;council;convention;congress	N4 (basic)	Very common	20		会 かい;議 ぎ
 1047	会	会話	かいわ	か↱いわ	<span class="LH">か</span><span class="H">いわ</span>	L-H-H	0	[noun, する verb] conversation	N4 (basic)	Very common	8	で	会 かい;話 わ
 1048	会	協会	きょうかい	きょ↱うかい	<span class="LH">きょ</span><span class="H">うかい</span>	L-H-H-H	0	[noun] association;society;organization;organisation	N1 (advanced)	Common	14		協 きょう;会 かい
-1049	会	博覧会	はくらんかい	は↱くら↴んかい	<span class="LH">は</span><span class="HL">くら</span><span class="L">んかい</span>	L-H-H-L-L-L	3	[noun] fair;exhibition;exposition		Rare	28		博 はく;覧 らん;会 かい
+1049	会	博覧会	はくらんかい	は↱くら↴んかい	<span class="LH">は</span><span class="HL">くら</span><span class="L">んかい</span>	L-H-H-L-L-L	3	[noun] fair;exhibition;exposition		Rare	30		博 はく;覧 らん;会 かい
 1050	会	司会	しかい	し↱かい	<span class="LH">し</span><span class="H">かい</span>	L-H-H	0	[noun, する verb] chairmanship;leading a meeting;presenter;host	N2 (intermediate)	Rare			司 し;会 かい
 1051	会	司会者	しかいしゃ	し↱か↴いしゃ	<span class="LH">し</span><span class="HL">か</span><span class="L">いしゃ</span>	L-H-L-L	2	[noun] chairman;moderator;toastmaster;master of ceremonies;chairperson;host (of a TV show, etc.)		Uncommon			司 し;会 かい;者 しゃ
-1052	会	会員	かいいん	か↱いいん	<span class="LH">か</span><span class="H">いいん</span>	L-H-H-H	0	[noun] member;the membership	N3 (lower intermediate)	Common			会 かい;員 いん
+1052	会	会員	かいいん	か↱いいん	<span class="LH">か</span><span class="H">いいん</span>	L-H-H-H	0	[noun] member;the membership	N3 (lower intermediate)	Common	12		会 かい;員 いん
 1053	会	委員会	いいんかい	い↱い↴んかい	<span class="LH">い</span><span class="HL">い</span><span class="L">んかい</span>	L-H-L-L-L	2	[noun] committee;commission;board;panel;committee meeting		Common	23		委 い;員 いん;会 かい
 1054	会	社会党	しゃかいとう	しゃ↱かいとう	<span class="LH">しゃ</span><span class="H">かいとう</span>	L-H-H-H-H	0	[noun] Socialist Party		Rare	32		社 しゃ;会 かい;党 とう
 1055	会	取締役会	とりしまりやくかい	と↱りしまりやく↴かい	<span class="LH">と</span><span class="HL">りしまりやく</span><span class="L">かい</span>	L-H-H-H-H-H-H-L-L	7	[noun] {1} board of directors;{2} board of directors' meeting		Rare			取 とり;締 しまり;役 やく;会 かい
@@ -1072,7 +1072,7 @@
 1072	会	面会	めんかい	め↱んかい	<span class="LH">め</span><span class="H">んかい</span>	L-H-H-H	0	[noun, する verb, の adjective] meeting (face-to-face);interview	N1 (advanced)	Common		に(75%),と(25%)	面 めん;会 かい
 1073	会	社会学	しゃかいがく	しゃ↱か↴いがく	<span class="LH">しゃ</span><span class="HL">か</span><span class="L">いがく</span>	L-H-L-L-L	2	[noun] sociology		Rare			社 しゃ;会 かい;学 がく
 1074	会	総会	そうかい	そ↱うかい	<span class="LH">そ</span><span class="H">うかい</span>	L-H-H-H	0	[noun] general meeting	N1 (advanced)	Rare			総 そう;会 かい
-1075	会	都会	とかい	と↱かい	<span class="LH">と</span><span class="H">かい</span>	L-H-H	0	[noun, の adjective] city	N3 (lower intermediate)	Very common			都 と;会 かい
+1075	会	都会	とかい	と↱かい	<span class="LH">と</span><span class="H">かい</span>	L-H-H	0	[noun, の adjective] city	N3 (lower intermediate)	Very common	12		都 と;会 かい
 1076	会	市議会	しぎかい	し↱ぎ↴かい	<span class="LH">し</span><span class="HL">ぎ</span><span class="L">かい</span>	L-H-L-L	2	[noun] city council		Rare			市 し;議 ぎ;会 かい
 1077	会	会計	かいけい	か↱いけい	<span class="LH">か</span><span class="H">いけい</span>	L-H-H-H	0	[noun, の adjective] account;finance;accountant;treasurer;paymaster;reckoning;bill	N3 (lower intermediate)	Uncommon			会 かい;計 けい
 1078	会	運動会	うんどうかい	う↱んど↴うかい	<span class="LH">う</span><span class="HL">んど</span><span class="L">うかい</span>	L-H-H-L-L-L	3	[noun] athletic meet;sports day		Uncommon			運 うん;動 どう;会 かい
@@ -1099,7 +1099,7 @@
 1099	伝	遺伝	いでん	い↱でん	<span class="LH">い</span><span class="H">でん</span>	L-H-H	0	[な adjective, noun, する verb, の adjective] heredity;inherent		Uncommon	36	に	遺 い;伝 でん
 1100	伝	伝染病	でんせんびょう	で↱んせんびょう	<span class="LH">で</span><span class="H">んせんびょう</span>	L-H-H-H-H-H	0	[noun] infectious disease;contagious disease;epidemic		Rare	32		伝 でん;染 せん;病 びょう
 1101	伝	伝道	でんどう	で↱んどう	<span class="LH">で</span><span class="H">んどう</span>	L-H-H-H	0	[noun, する verb] proselytizing;evangelism;missionary work		Rare			伝 でん;道 どう
-1102	伯	伯父	おじ	お↱じ	<span class="LH">お</span><span class="H">じ</span>	L-H	0	[noun] uncle	N5 (beginner)	Very common			
+1102	伯	伯父	おじ	お↱じ	<span class="LH">お</span><span class="H">じ</span>	L-H	0	[noun] uncle	N5 (beginner)	Very common	50		
 1103	伯	伯爵	はくしゃく	は↱くしゃく	<span class="LH">は</span><span class="H">くしゃく</span>	L-H-H-H	0	[noun] count;earl		Very common			伯 はく;爵 しゃく
 1104	伯	伯叔	はくしゅく	は↱くしゅく	<span class="LH">は</span><span class="H">くしゅく</span>	L-H-H-H	0	[noun] brothers;one's father's brothers		Rare			伯 はく;叔 しゅく
 1105	伴	伴奏	ばんそう	ば↱んそう	<span class="LH">ば</span><span class="H">んそう</span>	L-H-H-H	0	[noun, する verb] (musical) accompaniment		Uncommon		で	伴 ばん;奏 そう
@@ -1259,7 +1259,7 @@
 1259	作	動作	どうさ	ど↴うさ	<span class="HL">ど</span><span class="L">うさ</span>	H-L-L	1	[noun, する verb] action;movements;motions;bearing;behaviour;behavior;execution;actuation;operation;manners	N2 (intermediate)	Very common		に	動 どう;作 さ
 1260	作	作戦	さくせん	さ↱くせん	<span class="LH">さ</span><span class="H">くせん</span>	L-H-H-H	0	[noun] {1} tactics;strategy;{2} military or naval operations	N1 (advanced)	Very common	11		作 さく;戦 せん
 1261	作	代表作	だいひょうさく	だ↱いひょ↴うさく	<span class="LH">だ</span><span class="HL">いひょ</span><span class="L">うさく</span>	L-H-H-L-L-L	3	[noun] masterpiece;representative work		Rare			代 だい;表 ひょう;作 さく
-1262	作	作業	さぎょう	さ↴ぎょう	<span class="HL">さ</span><span class="L">ぎょう</span>	H-L-L	1	[noun, する verb] work;operation;manufacturing;fatigue duty	N3 (lower intermediate)	Very common			作 さ;業 ぎょう
+1262	作	作業	さぎょう	さ↴ぎょう	<span class="HL">さ</span><span class="L">ぎょう</span>	H-L-L	1	[noun, する verb] work;operation;manufacturing;fatigue duty	N3 (lower intermediate)	Very common	10		作 さ;業 ぎょう
 1263	作	作用	さよう	さ↴よう	<span class="HL">さ</span><span class="L">よう</span>	H-L-L	1	[noun, する verb] action;operation;effect;function	N1 (advanced)	Very common	5	に(80%),が(20%)	作 さ;用 よう
 1264	作	新作	しんさく	し↱んさく	<span class="LH">し</span><span class="H">んさく</span>	L-H-H-H	0	[noun, する verb] new work;new production		Uncommon			新 しん;作 さく
 1265	作	著作権	ちょさくけん	ちょ↱さく↴けん	<span class="LH">ちょ</span><span class="HL">さく</span><span class="L">けん</span>	L-H-H-L-L	3	[noun] copyright		Rare	35		著 ちょ;作 さく;権 けん
@@ -1330,7 +1330,7 @@
 1330	依	依頼	いらい	い↱らい	<span class="LH">い</span><span class="H">らい</span>	L-H-H	0	[noun, する verb] {1} request;commission;dispatch;despatch;{2} dependence;trust	N3 (lower intermediate)	Very common	36	に(56%),を(33%),が(11%)	依 い;頼 らい
 1331	依	依然	いぜん	い↱ぜん	<span class="LH">い</span><span class="H">ぜん</span>	L-H-H	0	[たる adjective, adverb taking the と particle, adverb] still;as yet;as it has been	N1 (advanced)	Uncommon			依 い;然 ぜん
 1332	依	帰依	きえ	き↴え	<span class="HL">き</span><span class="L">え</span>	H-L	1	[noun, する verb] devotion;(religious) conversion		Rare			帰 き;依 え
-1333	価	評価	ひょうか	ひょ↴うか	<span class="HL">ひょ</span><span class="L">うか</span>	H-L-L	1	[noun] {1} valuation;estimation;assessment;evaluation;[する verb] {2} to value;to assess;to estimate value;{3} to appreciate;to value highly;to acknowledge the value (of something)	N3 (lower intermediate)	Very common	21	に(50%),を(39%),で(6%),と(6%)	評 ひょう;価 か
+1333	価	評価	ひょうか	ひょ↴うか	<span class="HL">ひょ</span><span class="L">うか</span>	H-L-L	1	[noun] {1} valuation;estimation;assessment;evaluation;[する verb] {2} to value;to assess;to estimate value;{3} to appreciate;to value highly;to acknowledge the value (of something)	N3 (lower intermediate)	Very common	22	に(50%),を(39%),で(6%),と(6%)	評 ひょう;価 か
 1334	価	価格	かかく	か↱かく	<span class="LH">か</span><span class="H">かく</span>	L-H-H	0	[noun] price;value;cost	N3 (lower intermediate)	Uncommon			価 か;格 かく
 1335	価	価値	かち	か↴ち	<span class="HL">か</span><span class="L">ち</span>	H-L	1	[noun] value;worth;merit	N3 (lower intermediate)	Very common	22		価 か;値 ち
 1336	価	安価	あんか	あ↴んか	<span class="HL">あ</span><span class="L">んか</span>	H-L-L	1	[な adjective, noun, の adjective] low price;cheapness		Rare			安 あん;価 か
@@ -1600,8 +1600,8 @@
 1600	像	現像	げんぞう	げ↱んぞう	<span class="LH">げ</span><span class="H">んぞう</span>	L-H-H-H	0	[noun, する verb] developing (film)	N1 (advanced)	Rare		を	現 げん;像 ぞう
 1601	僕	公僕	こうぼく	こ↱うぼく	<span class="LH">こ</span><span class="H">うぼく</span>	L-H-H-H	0	[noun] public servant		Rare			公 こう;僕 ぼく
 1602	僚	閣僚	かくりょう	か↱くりょう	<span class="LH">か</span><span class="H">くりょう</span>	L-H-H-H	0	[noun] cabinet ministers		Uncommon	29		閣 かく;僚 りょう
-1603	僚	同僚	どうりょう	ど↱うりょう	<span class="LH">ど</span><span class="H">うりょう</span>	L-H-H-H	0	[noun] coworker;co-worker;colleague;associate	N3 (lower intermediate)	Very common	28		同 どう;僚 りょう
-1604	僚	官僚	かんりょう	か↱んりょう	<span class="LH">か</span><span class="H">んりょう</span>	L-H-H-H	0	[noun] bureaucrat;bureaucracy	N1 (advanced)	Common	28		官 かん;僚 りょう
+1603	僚	同僚	どうりょう	ど↱うりょう	<span class="LH">ど</span><span class="H">うりょう</span>	L-H-H-H	0	[noun] coworker;co-worker;colleague;associate	N3 (lower intermediate)	Very common	29		同 どう;僚 りょう
+1604	僚	官僚	かんりょう	か↱んりょう	<span class="LH">か</span><span class="H">んりょう</span>	L-H-H-H	0	[noun] bureaucrat;bureaucracy	N1 (advanced)	Common	29		官 かん;僚 りょう
 1605	僧	小僧	こぞう	こ↱ぞ↴う	<span class="LH">こ</span><span class="HL">ぞ</span><span class="L">う</span>	L-H-L	2	[noun] {1} youngster;{2} young Buddhist priest;{3} young shopboy;errand boy;apprentice		Very common			小 こ;僧 ぞう
 1606	僧	僧侶	そうりょ	そ↴うりょ	<span class="HL">そ</span><span class="L">うりょ</span>	H-L-L	1	[noun, の adjective] (Buddhist term) priest;monk		Common			僧 そう;侶 りょ
 1607	僧	尼僧	にそう	に↱そう	<span class="LH">に</span><span class="H">そう</span>	L-H-H	0	[noun] nun;priestess		Uncommon	49		尼 に;僧 そう
@@ -2160,7 +2160,7 @@
 2160	刀	小刀	こがたな	こ↱がた↴な	<span class="LH">こ</span><span class="HL">がた</span><span class="L">な</span>	L-H-H-L	3	[noun] small knife;short sword		Uncommon			小 こ;刀 がたな
 2161	刃	刃物	はもの	は↴もの	<span class="HL">は</span><span class="L">もの</span>	H-L-L	1	[noun] edged tool;cutlery		Common	44		刃 は;物 もの
 2162	刃	凶刃	きょうじん	きょ↱うじん	<span class="LH">きょ</span><span class="H">うじん</span>	L-H-H-H	0	[noun] assassin's dagger		Rare			凶 きょう;刃 じん
-2163	分	部分	ぶぶん	ぶ↴ぶん	<span class="HL">ぶ</span><span class="L">ぶん</span>	H-L-L	1	[noun] portion;section;part	N3 (lower intermediate)	Very common			部 ぶ;分 ぶん
+2163	分	部分	ぶぶん	ぶ↴ぶん	<span class="HL">ぶ</span><span class="L">ぶん</span>	H-L-L	1	[noun] portion;section;part	N3 (lower intermediate)	Very common	9		部 ぶ;分 ぶん
 2164	分	自分	じぶん	じ↱ぶん	<span class="LH">じ</span><span class="H">ぶん</span>	L-H-H	0	[pronoun, の adjective] {1} myself;yourself;oneself;himself;herself;{2} I;me	N5 (beginner)	Very common	5		自 じ;分 ぶん
 2165	分	分類	ぶんるい	ぶ↱んるい	<span class="LH">ぶ</span><span class="H">んるい</span>	L-H-H-H	0	[noun, する verb] classification;categorization;sorting	N2 (intermediate)	Common	18	に(58%),を(33%),が(8%)	分 ぶん;類 るい
 2166	分	分野	ぶんや	ぶ↴んや	<span class="HL">ぶ</span><span class="L">んや</span>	H-L-L	1	[noun] field;sphere;realm;division;branch	N3 (lower intermediate)	Common			分 ぶん;野 や
@@ -2392,7 +2392,7 @@
 2392	前	午前	ごぜん	ご↴ぜん	<span class="HL">ご</span><span class="L">ぜん</span>	H-L-L	1	[adverbial noun, temporal noun] morning;a.m.	N5 (beginner)	Very common	6		午 ご;前 ぜん
 2393	前	駅前	えきまえ	え↱きま↴え	<span class="LH">え</span><span class="H">きま</span><span class="L">え</span>	L-H-H-L	3	[noun] in front of station		Very common	13		駅 えき;前 まえ
 2394	前	腕前	うでまえ	う↱でまえ	<span class="LH">う</span><span class="H">でまえ</span>	L-H-H-H	0	[noun] ability;skill;facility	N1 (advanced)	Uncommon			腕 うで;前 まえ
-2395	前	寸前	すんぜん	す↱んぜん	<span class="LH">す</span><span class="H">んぜん</span>	L-H-H-H	0	[noun, suffix] on the verge;on the brink;just in front of;just before		Very common			寸 すん;前 ぜん
+2395	前	寸前	すんぜん	す↱んぜん	<span class="LH">す</span><span class="H">んぜん</span>	L-H-H-H	0	[noun, suffix] on the verge;on the brink;just in front of;just before		Very common	44		寸 すん;前 ぜん
 2396	前	前年	ぜんねん	ぜ↱んねん	<span class="LH">ぜ</span><span class="H">んねん</span>	L-H-H-H	0	[adverbial noun, temporal noun] the preceding year;the previous year;last year		Uncommon			前 ぜん;年 ねん
 2397	前	戦前	せんぜん	せ↱んぜん	<span class="LH">せ</span><span class="H">んぜん</span>	L-H-H-H	0	[adverbial noun, temporal noun, の adjective] pre-war days;before the war		Common			戦 せん;前 ぜん
 2398	前	前面	ぜんめん	ぜ↱んめん	<span class="LH">ぜ</span><span class="H">んめん</span>	L-H-H-H	0	[noun] {1} front part;frontage;facade;{2} initial pledge (e.g. election);opening slogan		Uncommon	16		前 ぜん;面 めん
@@ -2480,7 +2480,7 @@
 2480	力	努力	どりょく	ど↴りょく	<span class="HL">ど</span><span class="L">りょく</span>	H-L-L	1	[noun, する verb] great effort;exertion;endeavour;endeavor;effort	N3 (lower intermediate)	Very common	11	に(54%),と(46%)	努 ど;力 りょく
 2481	力	尽力	じんりょく	じ↴んりょく	<span class="HL">じ</span><span class="L">んりょく</span>	H-L-L-L	1	[noun, する verb] efforts;assistance		Uncommon	48	に	尽 じん;力 りょく
 2482	力	威力	いりょく	い↴りょく	<span class="HL">い</span><span class="L">りょく</span>	H-L-L	1	[noun] power;might;authority;influence	N1 (advanced)	Common			威 い;力 りょく
-2483	力	魅力	みりょく	み↱りょく	<span class="LH">み</span><span class="H">りょく</span>	L-H-H	0	[noun] charm;fascination;glamour;glamor;attraction;appeal	N3 (lower intermediate)	Very common	29		魅 み;力 りょく
+2483	力	魅力	みりょく	み↱りょく	<span class="LH">み</span><span class="H">りょく</span>	L-H-H	0	[noun] charm;fascination;glamour;glamor;attraction;appeal	N3 (lower intermediate)	Very common	30		魅 み;力 りょく
 2484	力	火力	かりょく	か↱りょく	<span class="LH">か</span><span class="H">りょく</span>	L-H-H	0	[noun] heating power;steam power		Rare			火 か;力 りょく
 2485	力	暴力	ぼうりょく	ぼ↴うりょく	<span class="HL">ぼ</span><span class="L">うりょく</span>	H-L-L-L	1	[noun] violence;mayhem	N1 (advanced)	Very common	19		暴 ぼう;力 りょく
 2486	力	筋力	きんりょく	き↴んりょく	<span class="HL">き</span><span class="L">んりょく</span>	H-L-L-L	1	[noun] physical strength;muscle strength		Rare			筋 きん;力 りょく
@@ -2595,7 +2595,7 @@
 2595	動	動植物	どうしょくぶつ	ど↱うしょく↴ぶつ	<span class="LH">ど</span><span class="HL">うしょく</span><span class="L">ぶつ</span>	L-H-H-H-L-L	4	[noun] plants and animals;flora and fauna		Rare			動 どう;植 しょく;物 ぶつ
 2596	動	動乱	どうらん	ど↱うらん	<span class="LH">ど</span><span class="H">うらん</span>	L-H-H-H	0	[noun, する verb, の adjective] disturbance;agitation;commotion;upheaval;riot		Rare			動 どう;乱 らん
 2597	動	動詞	どうし	ど↱うし	<span class="LH">ど</span><span class="H">うし</span>	L-H-H	0	[noun, の adjective] (linguistics) verb	N3 (lower intermediate)	Rare	19		動 どう;詞 し
-2598	動	動物園	どうぶつえん	ど↱うぶつ↴えん	<span class="LH">ど</span><span class="HL">うぶつ</span><span class="L">えん</span>	L-H-H-H-L-L	4	[noun] zoo;zoological gardens	N4 (basic)	Uncommon			動 どう;物 ぶつ;園 えん
+2598	動	動物園	どうぶつえん	ど↱うぶつ↴えん	<span class="LH">ど</span><span class="HL">うぶつ</span><span class="L">えん</span>	L-H-H-H-L-L	4	[noun] zoo;zoological gardens	N4 (basic)	Uncommon	16		動 どう;物 ぶつ;園 えん
 2599	動	大動脈	だいどうみゃく	だ↱いど↴うみゃく	<span class="LH">だ</span><span class="HL">いど</span><span class="L">うみゃく</span>	L-H-H-L-L-L	3	[noun, の adjective] {1} aorta;[noun] {2} important traffic route		Rare			大 だい;動 どう;脈 みゃく
 2600	動	駆動	くどう	く↱どう	<span class="LH">く</span><span class="H">どう</span>	L-H-H	0	[noun, する verb] driving force		Rare			駆 く;動 どう
 2601	動	感動	かんどう	か↱んどう	<span class="LH">か</span><span class="H">んどう</span>	L-H-H-H	0	[noun, する verb] being deeply moved emotionally;excitement;passion;deep emotion;impression	N3 (lower intermediate)	Very common		に	感 かん;動 どう
@@ -2881,7 +2881,7 @@
 2881	単	単調	たんちょう	た↱んちょう	<span class="LH">た</span><span class="H">んちょう</span>	L-H-H-H	0	[な adjective, noun] monotony;monotone;dullness	N1 (advanced)	Common			単 たん;調 ちょう
 2882	単	単語帳	たんごちょう					[noun] vocabulary notebook;ring of vocabulary flash cards		Rare			単 たん;語 ご;帳 ちょう
 2883	単	単線	たんせん	た↱んせん	<span class="LH">た</span><span class="H">んせん</span>	L-H-H-H	0	[noun, の adjective] single line;solid wire;single track		Rare			単 たん;線 せん
-2884	博	博覧会	はくらんかい	は↱くら↴んかい	<span class="LH">は</span><span class="HL">くら</span><span class="L">んかい</span>	L-H-H-L-L-L	3	[noun] fair;exhibition;exposition		Rare	28		博 はく;覧 らん;会 かい
+2884	博	博覧会	はくらんかい	は↱くら↴んかい	<span class="LH">は</span><span class="HL">くら</span><span class="L">んかい</span>	L-H-H-L-L-L	3	[noun] fair;exhibition;exposition		Rare	30		博 はく;覧 らん;会 かい
 2885	博	博士	はかせ	は↴かせ	<span class="HL">は</span><span class="L">かせ</span>	H-L-L	1	[noun, noun used as a suffix, の adjective] {1} doctorate;PhD;Dr (as a title);[noun] {2} expert;learned person	N3 (lower intermediate)	Very common			
 2886	博	博物館	はくぶつかん	は↱くぶつ↴かん	<span class="LH">は</span><span class="HL">くぶつ</span><span class="L">かん</span>	L-H-H-H-L-L	4	[noun] museum	N3 (lower intermediate)	Common	28		博 はく;物 ぶつ;館 かん
 2887	博	賭博	とばく	と↱ばく	<span class="LH">と</span><span class="H">ばく</span>	L-H-H	0	[noun, する verb] gambling		Uncommon			賭 と;博 ばく
@@ -3121,7 +3121,7 @@
 3121	古	古墳	こふん	こ↱ふん	<span class="LH">こ</span><span class="H">ふん</span>	L-H-H	0	[noun] ancient (mound) tomb		Very common	50		古 こ;墳 ふん
 3122	古	稽古	けいこ	け↴いこ	<span class="HL">け</span><span class="L">いこ</span>	H-L-L	1	[noun, する verb] practice;practising;training;study	N2 (intermediate)	Very common			稽 けい;古 こ
 3123	古	古巣	ふるす	ふ↱るす	<span class="LH">ふ</span><span class="H">るす</span>	L-H-H	0	[noun] old haunts;former homes		Rare			古 ふる;巣 す
-3124	古	考古学	こうこがく	こ↱うこ↴がく	<span class="LH">こ</span><span class="HL">うこ</span><span class="L">がく</span>	L-H-H-L-L	3	[noun, の adjective] archaeology;archeology	N1 (advanced)	Rare			考 こう;古 こ;学 がく
+3124	古	考古学	こうこがく	こ↱うこ↴がく	<span class="LH">こ</span><span class="HL">うこ</span><span class="L">がく</span>	L-H-H-L-L	3	[noun, の adjective] archaeology;archeology	N1 (advanced)	Rare	7		考 こう;古 こ;学 がく
 3125	古	中古	ちゅうこ	ちゅ↱うこ	<span class="LH">ちゅ</span><span class="H">うこ</span>	L-H-H	0	[temporal noun, の adjective] {1} used;second-hand;old;[noun] {2} Middle Ages	N3 (lower intermediate)	Uncommon	3		中 ちゅう;古 こ
 3126	古	古文書	こもんじょ	こ↱もんじょ	<span class="LH">こ</span><span class="H">もんじょ</span>	L-H-H-H	0	[noun] {1} ancient document;archives;ancient manuscript;paleograph;{2} document addressed to someone in particular (jargon used in paleography)		Rare			古 こ;文 もん;書 じょ
 3127	古	太古	たいこ	た↴いこ	<span class="HL">た</span><span class="L">いこ</span>	H-L-L	1	[adverbial noun, noun] ancient times		Uncommon			太 たい;古 こ
@@ -3155,7 +3155,7 @@
 3155	台	台湾	たいわん	た↱いわ↴ん	<span class="LH">た</span><span class="HL">いわ</span><span class="L">ん</span>	L-H-H-L	3	[noun, の adjective] Taiwan		Common	37		台 たい;湾 わん
 3156	台	台車	だいしゃ	だ↱いしゃ	<span class="LH">だ</span><span class="H">いしゃ</span>	L-H-H	0	[noun] push car;flatcar;bogie		Rare			台 だい;車 しゃ
 3157	台	台頭	たいとう	た↱いとう	<span class="LH">た</span><span class="H">いとう</span>	L-H-H-H	0	[noun, する verb] rise of;appearance of;raising one's head;coming to power;becoming famous;(being in the) forefront;prominence		Rare		が	台 たい;頭 とう
-3158	台	台風	たいふう	た↱いふ↴う	<span class="LH">た</span><span class="HL">いふ</span><span class="L">う</span>	L-H-H-L	3	[noun] typhoon;hurricane	N4 (basic)	Common			台 たい;風 ふう
+3158	台	台風	たいふう	た↱いふ↴う	<span class="LH">た</span><span class="HL">いふ</span><span class="L">う</span>	L-H-H-L	3	[noun] typhoon;hurricane	N4 (basic)	Common	7		台 たい;風 ふう
 3159	台	初舞台	はつぶたい	は↱つぶ↴たい	<span class="LH">は</span><span class="HL">つぶ</span><span class="L">たい</span>	L-H-H-L-L	3	[noun] debut;initial stage appearance		Rare			初 はつ;舞 ぶ;台 たい
 3160	台	灯台	とうだい	と↱うだい	<span class="LH">と</span><span class="H">うだい</span>	L-H-H-H	0	[noun] {1} lighthouse;{2} old-fashioned interior light fixture comprising a wooden pole with an oil-filled dish and a wick atop it	N2 (intermediate)	Rare			灯 とう;台 だい
 3161	台	寝台	しんだい	し↱んだい	<span class="LH">し</span><span class="H">んだい</span>	L-H-H-H	0	[noun] bed;couch	N2 (intermediate)	Very common			寝 しん;台 だい
@@ -3277,7 +3277,7 @@
 3277	同	同郷	どうきょう	ど↱うきょう	<span class="LH">ど</span><span class="H">うきょう</span>	L-H-H-H	0	[noun] same village;same town;same province		Rare			同 どう;郷 きょう
 3278	同	同級生	どうきゅうせい	ど↱うきゅ↴うせい	<span class="LH">ど</span><span class="HL">うきゅ</span><span class="L">うせい</span>	L-H-H-L-L-L	3	[noun] classmate;classmates		Common			同 どう;級 きゅう;生 せい
 3279	同	同窓会	どうそうかい	ど↱うそ↴うかい	<span class="LH">ど</span><span class="HL">うそ</span><span class="L">うかい</span>	L-H-H-L-L-L	3	[noun] graduate's association;alumni meeting;class reunion		Rare			同 どう;窓 そう;会 かい
-3280	同	同僚	どうりょう	ど↱うりょう	<span class="LH">ど</span><span class="H">うりょう</span>	L-H-H-H	0	[noun] coworker;co-worker;colleague;associate	N3 (lower intermediate)	Very common	28		同 どう;僚 りょう
+3280	同	同僚	どうりょう	ど↱うりょう	<span class="LH">ど</span><span class="H">うりょう</span>	L-H-H-H	0	[noun] coworker;co-worker;colleague;associate	N3 (lower intermediate)	Very common	29		同 どう;僚 りょう
 3281	同	同志	どうし	ど↴うし	<span class="HL">ど</span><span class="L">うし</span>	H-L-L	1	[noun] same mind;comrade;kindred soul	N1 (advanced)	Common			同 どう;志 し
 3282	同	賛同	さんどう	さ↱んどう	<span class="LH">さ</span><span class="H">んどう</span>	L-H-H-H	0	[noun, する verb] approval;endorsement		Uncommon		に	賛 さん;同 どう
 3283	同	同氏	どうし	ど↴うし	<span class="HL">ど</span><span class="L">うし</span>	H-L-L	1	[noun] the said person;he;she;same person		Rare			同 どう;氏 し
@@ -3410,7 +3410,7 @@
 3410	告	報告書	ほうこくしょ	ほ↱うこくしょ↴	<span class="LH">ほ</span></span><span class="HL">うこくしょ</span>	L-H-H-H-H-(L)	5	[noun] (written) report		Common			報 ほう;告 こく;書 しょ
 3411	告	広告	こうこく	こ↱うこく	<span class="LH">こ</span><span class="H">うこく</span>	L-H-H-H	0	[noun, する verb, の adjective] advertisement	N3 (lower intermediate)	Very common	18	と(50%),で(25%),を(25%)	広 こう;告 こく
 3412	告	告白	こくはく	こ↱くはく	<span class="LH">こ</span><span class="H">くはく</span>	L-H-H-H	0	[noun, する verb, の adjective] {1} confession;acknowledgement;acknowledgment;{2} profession of love;{3} confession of sins (e.g. the confessional)	N1 (advanced)	Very common	18	を(67%),と(17%),に(17%)	告 こく;白 はく
-3413	告	警告	けいこく	け↱いこく	<span class="LH">け</span><span class="H">いこく</span>	L-H-H-H	0	[noun, する verb, の adjective] warning;advice	N3 (lower intermediate)	Very common		と(38%),に(38%),を(24%)	警 けい;告 こく
+3413	告	警告	けいこく	け↱いこく	<span class="LH">け</span><span class="H">いこく</span>	L-H-H-H	0	[noun, する verb, の adjective] warning;advice	N3 (lower intermediate)	Very common	18	と(38%),に(38%),を(24%)	警 けい;告 こく
 3414	告	告知	こくち	こ↴くち	<span class="HL">こ</span><span class="L">くち</span>	H-L-L	1	[noun, する verb] notice;announcement		Rare			告 こく;知 ち
 3415	告	宣告	せんこく	せ↱んこく	<span class="LH">せ</span><span class="H">んこく</span>	L-H-H-H	0	[noun, する verb] sentence;verdict;pronouncement		Common		を	宣 せん;告 こく
 3416	告	布告	ふこく	ふ↱こく	<span class="LH">ふ</span><span class="H">こく</span>	L-H-H	0	[noun, する verb] edict;ordinance;proclamation	N1 (advanced)	Uncommon		を	布 ふ;告 こく
@@ -3541,7 +3541,7 @@
 3541	員	従業員	じゅうぎょういん	じゅ↱うぎょ↴ういん	<span class="LH">じゅ</span><span class="HL">うぎょ</span><span class="L">ういん</span>	L-H-H-L-L-L	3	[noun] employee;worker	N1 (advanced)	Common			従 じゅう;業 ぎょう;員 いん
 3542	員	議員	ぎいん	ぎ↴いん	<span class="HL">ぎ</span><span class="L">いん</span>	H-L-L	1	[noun] member of the Diet, congress or parliament	N3 (lower intermediate)	Common			議 ぎ;員 いん
 3543	員	一員	いちいん	い↱ちいん	<span class="LH">い</span><span class="H">ちいん</span>	L-H-H-H	0	[noun] person;member		Common			一 いち;員 いん
-3544	員	会員	かいいん	か↱いいん	<span class="LH">か</span><span class="H">いいん</span>	L-H-H-H	0	[noun] member;the membership	N3 (lower intermediate)	Common			会 かい;員 いん
+3544	員	会員	かいいん	か↱いいん	<span class="LH">か</span><span class="H">いいん</span>	L-H-H-H	0	[noun] member;the membership	N3 (lower intermediate)	Common	12		会 かい;員 いん
 3545	員	全員	ぜんいん	ぜ↱んいん	<span class="LH">ぜ</span><span class="H">んいん</span>	L-H-H-H	0	[adverbial noun, noun] all members (unanimity);all hands;the whole crew;everyone;everybody	N3 (lower intermediate)	Very common	12		全 ぜん;員 いん
 3546	員	委員会	いいんかい	い↱い↴んかい	<span class="LH">い</span><span class="HL">い</span><span class="L">んかい</span>	L-H-L-L-L	2	[noun] committee;commission;board;panel;committee meeting		Common	23		委 い;員 いん;会 かい
 3547	員	乗員	じょういん	じょ↱ういん	<span class="LH">じょ</span><span class="H">ういん</span>	L-H-H-H	0	[noun] crew		Uncommon			乗 じょう;員 いん
@@ -3549,7 +3549,7 @@
 3549	員	委員長	いいんちょう	い↱い↴んちょう	<span class="LH">い</span><span class="HL">い</span><span class="L">んちょう</span>	L-H-L-L-L	2	[noun] committee chairman		Common			委 い;員 いん;長 ちょう
 3550	員	駅員	えきいん	え↱き↴いん	<span class="LH">え</span><span class="HL">き</span><span class="L">いん</span>	L-H-L-L	2	[noun] station attendant		Uncommon	13		駅 えき;員 いん
 3551	員	職員	しょくいん	しょ↱く↴いん	<span class="LH">しょ</span><span class="HL">く</span><span class="L">いん</span>	L-H-L-L	2	[noun, の adjective] staff member;personnel	N1 (advanced)	Common	23		職 しょく;員 いん
-3552	員	船員	せんいん	せ↱んいん	<span class="LH">せ</span><span class="H">んいん</span>	L-H-H-H	0	[noun, の adjective] sailor		Common			船 せん;員 いん
+3552	員	船員	せんいん	せ↱んいん	<span class="LH">せ</span><span class="H">んいん</span>	L-H-H-H	0	[noun, の adjective] sailor		Common	12		船 せん;員 いん
 3553	員	社員	しゃいん	しゃ↴いん	<span class="HL">しゃ</span><span class="L">いん</span>	H-L-L	1	[noun] {1} company employee;{2} company stockholders (esp. in legal contexts);members of a corporation		Very common	12		社 しゃ;員 いん
 3554	員	教員	きょういん	きょ↱ういん	<span class="LH">きょ</span><span class="H">ういん</span>	L-H-H-H	0	[noun] teaching staff	N1 (advanced)	Uncommon			教 きょう;員 いん
 3555	員	隊員	たいいん	た↱いいん	<span class="LH">た</span><span class="H">いいん</span>	L-H-H-H	0	[noun] troops;group members;team members		Very common			隊 たい;員 いん
@@ -3868,7 +3868,7 @@
 3868	園	学園	がくえん	が↱くえん	<span class="LH">が</span><span class="H">くえん</span>	L-H-H-H	0	[noun, の adjective] academy;campus		Common			学 がく;園 えん
 3869	園	幼稚園	ようちえん	よ↱うち↴えん	<span class="LH">よ</span><span class="HL">うち</span><span class="L">えん</span>	L-H-H-L-L	3	[noun] kindergarten	N2 (intermediate)	Common	30		幼 よう;稚 ち;園 えん
 3870	園	庭園	ていえん	て↱いえん	<span class="LH">て</span><span class="H">いえん</span>	L-H-H-H	0	[noun] garden;park		Common			庭 てい;園 えん
-3871	園	動物園	どうぶつえん	ど↱うぶつ↴えん	<span class="LH">ど</span><span class="HL">うぶつ</span><span class="L">えん</span>	L-H-H-H-L-L	4	[noun] zoo;zoological gardens	N4 (basic)	Uncommon			動 どう;物 ぶつ;園 えん
+3871	園	動物園	どうぶつえん	ど↱うぶつ↴えん	<span class="LH">ど</span><span class="HL">うぶつ</span><span class="L">えん</span>	L-H-H-H-L-L	4	[noun] zoo;zoological gardens	N4 (basic)	Uncommon	16		動 どう;物 ぶつ;園 えん
 3872	園	遊園地	ゆうえんち	ゆ↱うえ↴んち	<span class="LH">ゆ</span><span class="HL">うえ</span><span class="L">んち</span>	L-H-H-L-L	3	[noun] amusement park	N2 (intermediate)	Uncommon	30		遊 ゆう;園 えん;地 ち
 3873	園	園内	えんない	え↴んない	<span class="HL">え</span><span class="L">んない</span>	H-L-L-L	1	[noun] inside the garden (park)		Rare			園 えん;内 ない
 3874	園	農園	のうえん	の↱うえん	<span class="LH">の</span><span class="H">うえん</span>	L-H-H-H	0	[noun] plantation		Uncommon			農 のう;園 えん
@@ -3924,7 +3924,7 @@
 3924	在	在住	ざいじゅう	ざ↱いじゅう	<span class="LH">ざ</span><span class="H">いじゅう</span>	L-H-H-H	0	[noun, する verb, noun used as a suffix] residing;living;dwelling		Uncommon		に	在 ざい;住 じゅう
 3925	在	点在	てんざい	て↱んざい	<span class="LH">て</span><span class="H">んざい</span>	L-H-H-H	0	[noun, する verb] dotted with		Uncommon		が	点 てん;在 ざい
 3926	在	不在	ふざい	ふ↱ざい	<span class="LH">ふ</span><span class="H">ざい</span>	L-H-H	0	[noun, の adjective] {1} absence;[noun used as a suffix] {2} disregard;indifference	N1 (advanced)	Common			不 ふ;在 ざい
-3927	在	自在	じざい	じ↱ざい	<span class="LH">じ</span><span class="H">ざい</span>	L-H-H	0	[な adjective, noun, の adjective] freely;at will	N1 (advanced)	Common			自 じ;在 ざい
+3927	在	自在	じざい	じ↱ざい	<span class="LH">じ</span><span class="H">ざい</span>	L-H-H	0	[な adjective, noun, の adjective] freely;at will	N1 (advanced)	Common	20		自 じ;在 ざい
 3928	在	在任	ざいにん	ざ↱いにん	<span class="LH">ざ</span><span class="H">いにん</span>	L-H-H-H	0	[noun, する verb] being in office		Rare			在 ざい;任 にん
 3929	在	在京	ざいきょう	ざ↱いきょう	<span class="LH">ざ</span><span class="H">いきょう</span>	L-H-H-H	0	[noun, する verb] being in the capital (i.e. Tokyo, or formerly Kyoto)		Rare			在 ざい;京 きょう
 3930	在	在日	ざいにち	ざ↱いにち	<span class="LH">ざ</span><span class="H">いにち</span>	L-H-H-H	0	[adjectival (prenominal) form, する verb] {1} in Japan;[noun] {2} (abbreviation) (sensitive word) Korean living in Japan;[noun, noun used as a prefix] {3} (foreign) person living or staying in Japan		Rare			在 ざい;日 にち
@@ -3985,7 +3985,7 @@
 3985	地	平地	ひらち	ひ↱らち	<span class="LH">ひ</span><span class="H">らち</span>	L-H-H	0	[noun] level ground;plain		Uncommon			平 ひら;地 ち
 3986	地	大地	だいち	だ↴いち	<span class="HL">だ</span><span class="L">いち</span>	H-L-L	1	[noun] ground;earth;the solid earth;the (vast) land		Very common			大 だい;地 ち
 3987	地	産地	さんち	さ↴んち	<span class="HL">さ</span><span class="L">んち</span>	H-L-L	1	[noun] producing area	N2 (intermediate)	Rare			産 さん;地 ち
-3988	地	地中海	ちちゅうかい	ち↱ちゅ↴うかい	<span class="LH">ち</span></span><span class="HL">ちゅ</span><span class="L">うかい</span>	L-H-L-L-L	2	[noun] Mediterranean Sea		Uncommon			地 ち;中 ちゅう;海 かい
+3988	地	地中海	ちちゅうかい	ち↱ちゅ↴うかい	<span class="LH">ち</span></span><span class="HL">ちゅ</span><span class="L">うかい</span>	L-H-L-L-L	2	[noun] Mediterranean Sea		Uncommon	8		地 ち;中 ちゅう;海 かい
 3989	地	生地	きじ	き↴じ	<span class="HL">き</span><span class="L">じ</span>	H-L	1	[noun] {1} cloth;material;texture;{2} one's true character;{3} unglazed pottery;{4} uncooked dough;batter	N3 (lower intermediate)	Uncommon			生 き;地 じ
 3990	地	地表	ちひょう	ち↱ひょう	<span class="LH">ち</span><span class="H">ひょう</span>	L-H-H	0	[noun, の adjective] surface of the earth;ground surface		Uncommon			地 ち;表 ひょう
 3991	地	高地	こうち	こ↴うち	<span class="HL">こ</span><span class="L">うち</span>	H-L-L	1	[noun, の adjective] high ground;plateau;heights		Common			高 こう;地 ち
@@ -4360,7 +4360,7 @@
 4360	多	多彩	たさい	た↱さい	<span class="LH">た</span><span class="H">さい</span>	L-H-H	0	[な adjective, noun, の adjective] variegated;varicoloured;multi-colored;diverse		Rare			多 た;彩 さい
 4361	多	多岐	たき	た↴き	<span class="HL">た</span><span class="L">き</span>	H-L	1	[な adjective, noun] digression;many divergences		Rare			多 た;岐 き
 4362	多	多額	たがく	た↱がく	<span class="LH">た</span><span class="H">がく</span>	L-H-H	0	[な adjective, noun, の adjective] large amount of money		Uncommon	24		多 た;額 がく
-4363	多	多忙	たぼう	た↱ぼう	<span class="LH">た</span><span class="H">ぼう</span>	L-H-H	0	[な adjective, noun] busy;pressure of work	N1 (advanced)	Uncommon			多 た;忙 ぼう
+4363	多	多忙	たぼう	た↱ぼう	<span class="LH">た</span><span class="H">ぼう</span>	L-H-H	0	[な adjective, noun] busy;pressure of work	N1 (advanced)	Uncommon	19		多 た;忙 ぼう
 4364	多	多寡	たか	た↴か	<span class="HL">た</span><span class="L">か</span>	H-L	1	[noun] degree (of something);greatness or smallness (of something);quantity;number;amount;size		Rare			多 た;寡 か
 4365	多	多少	たしょう	た↱しょう	<span class="LH">た</span><span class="H">しょう</span>	L-H-H	0	[の adjective, adverb, noun] more or less;somewhat;a little;some	N3 (lower intermediate)	Very common			多 た;少 しょう
 4366	多	最多	さいた	さ↱いた	<span class="LH">さ</span><span class="H">いた</span>	L-H-H	0	[noun] the most		Rare			最 さい;多 た
@@ -4435,7 +4435,7 @@
 4435	大	大枝	おおえだ					[noun] large branch		Rare			大 おお;枝 えだ
 4436	大	大陸棚	たいりくだな	た↱いりく↴だな	<span class="LH">た</span><span class="HL">いりく</span><span class="L">だな</span>	L-H-H-H-L-L	4	[noun] continental shelf		Rare			大 たい;陸 りく;棚 だな
 4437	大	大腸	だいちょう	だ↴いちょう	<span class="HL">だ</span><span class="L">いちょう</span>	H-L-L-L	1	[noun, の adjective] large intestine;large bowel;colon		Rare			大 だい;腸 ちょう
-4438	大	大幅	おおはば	お↱おはば	<span class="LH">お</span><span class="H">おはば</span>	L-H-H-H	0	[な adjective, noun] {1} big;large;drastic;substantial;[noun] {2} full-width cloth (approx. 72 cm wide for traditional Japanese clothing, approx. 140 cm wide for Western clothing)	N1 (advanced)	Uncommon			大 おお;幅 はば
+4438	大	大幅	おおはば	お↱おはば	<span class="LH">お</span><span class="H">おはば</span>	L-H-H-H	0	[な adjective, noun] {1} big;large;drastic;substantial;[noun] {2} full-width cloth (approx. 72 cm wide for traditional Japanese clothing, approx. 140 cm wide for Western clothing)	N1 (advanced)	Uncommon	36		大 おお;幅 はば
 4439	大	大部分	だいぶぶん	だ↱いぶ↴ぶん	<span class="LH">だ</span><span class="HL">いぶ</span><span class="L">ぶん</span>	L-H-H-L-L	3	[temporal noun] most part;greater part;majority	N3 (lower intermediate)	Very common			大 だい;部 ぶ;分 ぶん
 4440	大	大名	だいみょう	だ↱いみょ↴う	<span class="LH">だ</span><span class="HL">いみょ</span><span class="L">う</span>	L-H-H-L	3	[noun] daimyo (Japanese feudal lord);daimio		Very common			大 だい;名 みょう
 4441	大	大人	おとな	お↱とな	<span class="LH">お</span><span class="H">とな</span>	L-H-H	0	[noun] adult	N5 (beginner)	Very common	1		
@@ -4585,7 +4585,7 @@
 4585	女	彼女	かのじょ	か↴のじょ	<span class="HL">か</span><span class="L">のじょ</span>	H-L-L	1	[pronoun] {1} she;her;[の adjective] {2} her;{3} girl friend;girlfriend;sweetheart	N4 (basic)	Very common	37		彼 かの;女 じょ
 4586	女	女優	じょゆう	じょ↱ゆう	<span class="LH">じょ</span><span class="H">ゆう</span>	L-H-H	0	[noun, の adjective] actress	N3 (lower intermediate)	Very common	25		女 じょ;優 ゆう
 4587	女	女子	じょし	じょ↴し	<span class="HL">じょ</span><span class="L">し</span>	H-L	1	[noun, の adjective] woman;girl	N3 (lower intermediate)	Very common	2		女 じょ;子 し
-4588	女	少女	しょうじょ	しょ↴うじょ	<span class="HL">しょ</span><span class="L">うじょ</span>	H-L-L	1	[noun] young lady;little girl;virgin;maiden;daughter	N3 (lower intermediate)	Very common			少 しょう;女 じょ
+4588	女	少女	しょうじょ	しょ↴うじょ	<span class="HL">しょ</span><span class="L">うじょ</span>	H-L-L	1	[noun] young lady;little girl;virgin;maiden;daughter	N3 (lower intermediate)	Very common	3		少 しょう;女 じょ
 4589	女	女王	じょおう	じょ↱お↴う	<span class="LH">じょ</span><span class="HL">お</span><span class="L">う</span>	L-H-L	2	[noun, の adjective] queen	N3 (lower intermediate)	Very common	2		女 じょ;王 おう
 4590	女	魔女	まじょ	ま↴じょ	<span class="HL">ま</span><span class="L">じょ</span>	H-L	1	[noun, の adjective] witch		Very common	46		魔 ま;女 じょ
 4591	女	女児	じょじ	じょ↴じ	<span class="HL">じょ</span><span class="L">じ</span>	H-L	1	[noun] baby girl;primary schoolgirl		Rare			女 じょ;児 じ
@@ -4596,7 +4596,7 @@
 4596	女	男尊女卑	だんそんじょひ	だ↱んそんじょ↴ひ	<span class="LH">だ</span><span class="HL">んそんじょ</span><span class="L">ひ</span>	L-H-H-H-H-L	5	[noun] male domination of women;male chauvinism;subjection of women		Rare			男 だん;尊 そん;女 じょ;卑 ひ
 4597	女	男女	だんじょ	だ↴んじょ	<span class="HL">だ</span><span class="L">んじょ</span>	H-L-L	1	[noun] men and women;man and woman;both sexes;both genders		Very common			男 だん;女 じょ
 4598	女	長女	ちょうじょ	ちょ↴うじょ	<span class="HL">ちょ</span><span class="L">うじょ</span>	H-L-L	1	[noun] eldest daughter;first-born daughter	N2 (intermediate)	Common			長 ちょう;女 じょ
-4599	女	女神	めがみ	め↴がみ	<span class="HL">め</span><span class="L">がみ</span>	H-L-L	1	[noun] goddess;female deity		Very common			女 め;神 がみ
+4599	女	女神	めがみ	め↴がみ	<span class="HL">め</span><span class="L">がみ</span>	H-L-L	1	[noun] goddess;female deity		Very common	13		女 め;神 がみ
 4600	女	王女	おうじょ	お↴うじょ	<span class="HL">お</span><span class="L">うじょ</span>	H-L-L	1	[noun] princess	N2 (intermediate)	Very common	2		王 おう;女 じょ
 4601	女	次女	じじょ	じ↴じょ	<span class="HL">じ</span><span class="L">じょ</span>	H-L	1	[noun] second daughter		Uncommon			次 じ;女 じょ
 4602	女	子女	しじょ	し↴じょ	<span class="HL">し</span><span class="L">じょ</span>	H-L	1	[noun] {1} sons and daughters;male and female children;children;{2} girl		Rare			子 し;女 じょ
@@ -4861,7 +4861,7 @@
 4861	学	退学	たいがく	た↱いがく	<span class="LH">た</span><span class="H">いがく</span>	L-H-H-H	0	[noun, する verb] dropping out of school	N1 (advanced)	Uncommon		を	退 たい;学 がく
 4862	学	学業	がくぎょう	が↱く↴ぎょう	<span class="LH">が</span><span class="HL">く</span><span class="L">ぎょう</span>	L-H-L-L	2	[noun] studies;schoolwork;classwork		Rare			学 がく;業 ぎょう
 4863	学	学力	がくりょく	が↱く↴りょく	<span class="LH">が</span><span class="HL">く</span><span class="L">りょく</span>	L-H-L-L	2	[noun] scholarly ability;scholarship;knowledge;literary ability	N2 (intermediate)	Rare			学 がく;力 りょく
-4864	学	考古学	こうこがく	こ↱うこ↴がく	<span class="LH">こ</span><span class="HL">うこ</span><span class="L">がく</span>	L-H-H-L-L	3	[noun, の adjective] archaeology;archeology	N1 (advanced)	Rare			考 こう;古 こ;学 がく
+4864	学	考古学	こうこがく	こ↱うこ↴がく	<span class="LH">こ</span><span class="HL">うこ</span><span class="L">がく</span>	L-H-H-L-L	3	[noun, の adjective] archaeology;archeology	N1 (advanced)	Rare	7		考 こう;古 こ;学 がく
 4865	学	学歴	がくれき	が↱くれき	<span class="LH">が</span><span class="H">くれき</span>	L-H-H-H	0	[noun] academic background	N1 (advanced)	Rare	19		学 がく;歴 れき
 4866	学	生理学	せいりがく	せ↱いり↴がく	<span class="LH">せ</span><span class="HL">いり</span><span class="L">がく</span>	L-H-H-L-L	3	[noun] physiology		Rare			生 せい;理 り;学 がく
 4867	学	学費	がくひ	が↱くひ	<span class="LH">が</span><span class="H">くひ</span>	L-H-H	0	[noun] tuition;school expenses		Rare			学 がく;費 ひ
@@ -4938,7 +4938,7 @@
 4938	宗	禅宗	ぜんしゅう	ぜ↱んしゅう	<span class="LH">ぜ</span><span class="H">んしゅう</span>	L-H-H-H	0	[noun] Zen (Buddhism)		Rare	29		禅 ぜん;宗 しゅう
 4939	官	司令官	しれいかん	し↱れ↴いかん	<span class="LH">し</span><span class="HL">れ</span><span class="L">いかん</span>	L-H-L-L-L	2	[noun] commandant;commanding officer;general		Common			司 し;令 れい;官 かん
 4940	官	裁判官	さいばんかん	さ↱いば↴んかん	<span class="LH">さ</span><span class="HL">いば</span><span class="L">んかん</span>	L-H-H-L-L-L	3	[noun] judge		Common			裁 さい;判 ばん;官 かん
-4941	官	官僚	かんりょう	か↱んりょう	<span class="LH">か</span><span class="H">んりょう</span>	L-H-H-H	0	[noun] bureaucrat;bureaucracy	N1 (advanced)	Common	28		官 かん;僚 りょう
+4941	官	官僚	かんりょう	か↱んりょう	<span class="LH">か</span><span class="H">んりょう</span>	L-H-H-H	0	[noun] bureaucrat;bureaucracy	N1 (advanced)	Common	29		官 かん;僚 りょう
 4942	官	捜査官	そうさかん					[noun] police investigator;investigator		Uncommon			捜 そう;査 さ;官 かん
 4943	官	外交官	がいこうかん	が↱いこ↴うかん	<span class="LH">が</span><span class="HL">いこ</span><span class="L">うかん</span>	L-H-H-L-L-L	3	[noun] diplomat		Uncommon	17		外 がい;交 こう;官 かん
 4944	官	長官	ちょうかん	ちょ↱うかん	<span class="LH">ちょ</span><span class="H">うかん</span>	L-H-H-H	0	[noun] secretary (government);director;chief	N1 (advanced)	Very common			長 ちょう;官 かん
@@ -5215,7 +5215,7 @@
 5215	宿	下宿	げしゅく	げ↱しゅく	<span class="LH">げ</span><span class="H">しゅく</span>	L-H-H	0	[noun, する verb] boarding;lodging;boarding house	N4 (basic)	Common		に(50%),を(50%)	下 げ;宿 しゅく
 5216	寂	寂然	せきぜん	せ↱きぜん	<span class="LH">せ</span><span class="H">きぜん</span>	L-H-H-H	0	[noun, たる adjective, adverb taking the と particle] lonely;desolate		Rare			寂 せき;然 ぜん
 5217	寂	静寂	せいじゃく	せ↱いじゃく	<span class="LH">せ</span><span class="H">いじゃく</span>	L-H-H-H	0	[な adjective, noun] silence;stillness;quietness		Very common			静 せい;寂 じゃく
-5218	寄	寄与	きよ	き↴よ	<span class="HL">き</span><span class="L">よ</span>	H-L	1	[noun, する verb] contribution;service	N1 (advanced)	Rare		に	寄 き;与 よ
+5218	寄	寄与	きよ	き↴よ	<span class="HL">き</span><span class="L">よ</span>	H-L	1	[noun, する verb] contribution;service	N1 (advanced)	Rare	29	に	寄 き;与 よ
 5219	寄	寄付	きふ	き↴ふ	<span class="HL">き</span><span class="L">ふ</span>	H-L	1	[noun, する verb] contribution;donation	N3 (lower intermediate)	Uncommon		を(61%),に(39%)	寄 き;付 ふ
 5220	寄	寄贈	きぞう	き↱ぞう	<span class="LH">き</span><span class="H">ぞう</span>	L-H-H	0	[noun, する verb] donation;presentation;gift	N1 (advanced)	Rare			寄 き;贈 ぞう
 5221	寄	寄生	きせい	き↱せい	<span class="LH">き</span><span class="H">せい</span>	L-H-H	0	[noun, する verb] parasitism;parasite		Rare		に	寄 き;生 せい
@@ -5275,8 +5275,8 @@
 5275	審	審理	しんり	し↴んり	<span class="HL">し</span><span class="L">んり</span>	H-L-L	1	[noun, する verb] trial		Rare		が	審 しん;理 り
 5276	審	陪審	ばいしん	ば↱いしん	<span class="LH">ば</span><span class="H">いしん</span>	L-H-H-H	0	[noun] jury;juryman;juror		Rare			陪 ばい;審 しん
 5277	寮	寮生	りょうせい	りょ↱うせい	<span class="LH">りょ</span><span class="H">うせい</span>	L-H-H-H	0	[noun] boarder;boarding student		Rare	46		寮 りょう;生 せい
-5278	寸	寸法	すんぽう	す↱んぽう	<span class="LH">す</span><span class="H">んぽう</span>	L-H-H-H	0	[noun] {1} measurement;size;extent;dimension;{2} plan;intention;arrangement;schedule	N2 (intermediate)	Uncommon			寸 すん;法 ぽう
-5279	寸	寸前	すんぜん	す↱んぜん	<span class="LH">す</span><span class="H">んぜん</span>	L-H-H-H	0	[noun, suffix] on the verge;on the brink;just in front of;just before		Very common			寸 すん;前 ぜん
+5278	寸	寸法	すんぽう	す↱んぽう	<span class="LH">す</span><span class="H">んぽう</span>	L-H-H-H	0	[noun] {1} measurement;size;extent;dimension;{2} plan;intention;arrangement;schedule	N2 (intermediate)	Uncommon	44		寸 すん;法 ぽう
+5279	寸	寸前	すんぜん	す↱んぜん	<span class="LH">す</span><span class="H">んぜん</span>	L-H-H-H	0	[noun, suffix] on the verge;on the brink;just in front of;just before		Very common	44		寸 すん;前 ぜん
 5280	寺	寺院	じいん	じ↴いん	<span class="HL">じ</span><span class="L">いん</span>	H-L-L	1	[noun] temple	N2 (intermediate)	Common			寺 じ;院 いん
 5281	寺	禅寺	ぜんでら	ぜ↱んでら	<span class="LH">ぜ</span><span class="H">んでら</span>	L-H-H-H	0	[noun] (Buddhist term) Zen temple		Rare	18		禅 ぜん;寺 でら
 5282	対	対照的	たいしょうてき	た↱いしょうてき	<span class="LH">た</span><span class="H">いしょうてき</span>	L-H-H-H-H-H	0	[な adjective] contrastive		Common			対 たい;照 しょう;的 てき
@@ -5410,7 +5410,7 @@
 5410	小	小刀	こがたな	こ↱がた↴な	<span class="LH">こ</span><span class="HL">がた</span><span class="L">な</span>	L-H-H-L	3	[noun] small knife;short sword		Uncommon			小 こ;刀 がたな
 5411	小	小冊子	しょうさっし	しょ↱うさ↴っし	<span class="LH">しょ</span><span class="HL">うさ</span><span class="L">っし</span>	L-H-H-L-L	3	[noun] booklet;pamphlet		Rare			小 しょう;冊 さっ;子 し
 5412	小	小切手	こぎって	こ↱ぎ↴って	<span class="LH">こ</span><span class="HL">ぎ</span><span class="L">って</span>	L-H-L-L	2	[noun] cheque;check	N1 (advanced)	Uncommon			小 こ;切 ぎっ;手 て
-5413	少	少女	しょうじょ	しょ↴うじょ	<span class="HL">しょ</span><span class="L">うじょ</span>	H-L-L	1	[noun] young lady;little girl;virgin;maiden;daughter	N3 (lower intermediate)	Very common			少 しょう;女 じょ
+5413	少	少女	しょうじょ	しょ↴うじょ	<span class="HL">しょ</span><span class="L">うじょ</span>	H-L-L	1	[noun] young lady;little girl;virgin;maiden;daughter	N3 (lower intermediate)	Very common	3		少 しょう;女 じょ
 5414	少	少数	しょうすう	しょ↱うす↴う	<span class="LH">しょ</span><span class="HL">うす</span><span class="L">う</span>	L-H-H-L	3	[noun, の adjective] minority;few	N1 (advanced)	Common			少 しょう;数 すう
 5415	少	減少	げんしょう	げ↱んしょう	<span class="LH">げ</span><span class="H">んしょう</span>	L-H-H-H	0	[noun, する verb, の adjective] decrease;reduction;decline	N1 (advanced)	Uncommon		が(44%),を(33%),と(11%),に(11%)	減 げん;少 しょう
 5416	少	少年	しょうねん	しょ↱うねん	<span class="LH">しょ</span><span class="H">うねん</span>	L-H-H-H	0	[noun] boy;juvenile;young boy;youth;lad	N3 (lower intermediate)	Very common	4		少 しょう;年 ねん
@@ -5488,7 +5488,7 @@
 5488	屋	酒屋	さかや	さ↱かや	<span class="LH">さ</span><span class="H">かや</span>	L-H-H	0	[noun] {1} liquor store;wine shop;bottle shop;{2} sake dealer;liquor-store owner;brewer		Uncommon			酒 さか;屋 や
 5489	屋	八百屋	やおや	や↱おや	<span class="LH">や</span><span class="H">おや</span>	L-H-H	0	[noun] greengrocer	N5 (beginner)	Uncommon			
 5490	屋	小屋	こや	こ↱や↴	<span class="LH">こ</span><span class="HL">や</span>	L-H-(L)	2	[noun] hut;cabin;shed;(animal) pen	N3 (lower intermediate)	Very common			小 こ;屋 や
-5491	屋	屋上	おくじょう	お↱くじょう	<span class="LH">お</span><span class="H">くじょう</span>	L-H-H-H	0	[noun] rooftop	N4 (basic)	Very common			屋 おく;上 じょう
+5491	屋	屋上	おくじょう	お↱くじょう	<span class="LH">お</span><span class="H">くじょう</span>	L-H-H-H	0	[noun] rooftop	N4 (basic)	Very common	11		屋 おく;上 じょう
 5492	屋	屋台	やたい	や↴たい	<span class="HL">や</span><span class="L">たい</span>	H-L-L	1	[noun] {1} cart (esp. a food cart);stall;stand;{2} festival float;portable shrine dedicated to a god and shaped like a house;dancing platform;{3} stage prop fashioned after a large building;{4} (abbreviation) framework (of a house, etc.);{5} (archaism) house (esp. a small and miserable house)		Common			屋 や;台 たい
 5493	屋	屋内	おくない	お↱く↴ない	<span class="LH">お</span><span class="HL">く</span><span class="L">ない</span>	L-H-L-L	2	[noun, の adjective] indoor (court, pool, etc.)		Uncommon			屋 おく;内 ない
 5494	屋	楽屋	がくや	が↱くや	<span class="LH">が</span><span class="H">くや</span>	L-H-H	0	[noun] dressing room;green room;backstage		Common			楽 がく;屋 や
@@ -5628,7 +5628,7 @@
 5628	工	工程	こうてい	こ↱うてい	<span class="LH">こ</span><span class="H">うてい</span>	L-H-H-H	0	[noun] manufacturing process;work schedule;amount of work		Rare			工 こう;程 てい
 5629	工	工法	こうほう	こ↴うほう	<span class="HL">こ</span><span class="L">うほう</span>	H-L-L-L	1	[noun] method of construction		Rare			工 こう;法 ほう
 5630	工	工作	こうさく	こ↱うさく	<span class="LH">こ</span><span class="H">うさく</span>	L-H-H-H	0	[noun, する verb] work;construction;handicraft;maneuvering;manoeuvering	N1 (advanced)	Common	5		工 こう;作 さく
-5631	工	人工	じんこう	じ↱んこう	<span class="LH">じ</span><span class="H">んこう</span>	L-H-H-H	0	[noun, の adjective] artificial;man-made;human work;human skill;artificiality	N3 (lower intermediate)	Common			人 じん;工 こう
+5631	工	人工	じんこう	じ↱んこう	<span class="LH">じ</span><span class="H">んこう</span>	L-H-H-H	0	[noun, の adjective] artificial;man-made;human work;human skill;artificiality	N3 (lower intermediate)	Common	1		人 じん;工 こう
 5632	工	大工	だいく	だ↴いく	<span class="HL">だ</span><span class="L">いく</span>	H-L-L	1	[noun] carpenter	N2 (intermediate)	Common			大 だい;工 く
 5633	工	工学部	こうがくぶ	こ↱うが↴くぶ	<span class="LH">こ</span></span><span class="HL">うが</span><span class="L">くぶ</span>	L-H-H-L-L	3	[noun] department (or school) of technology, engineering or science		Rare			工 こう;学 がく;部 ぶ
 5634	工	重工業	じゅうこうぎょう	じゅ↱うこ↴うぎょう	<span class="LH">じゅ</span><span class="HL">うこ</span><span class="L">うぎょう</span>	L-H-H-L-L-L	3	[noun] heavy industry		Rare			重 じゅう;工 こう;業 ぎょう
@@ -5776,8 +5776,8 @@
 5776	常	常時	じょうじ	じょ↴うじ	<span class="HL">じょ</span><span class="L">うじ</span>	H-L-L	1	[adverbial noun, temporal noun] {1} usually;ordinarily;{2} continuous;24-hour (e.g. observation, operation (of a machine), care (of patient);always on		Uncommon			常 じょう;時 じ
 5777	帽	帽子	ぼうし	ぼ↱うし	<span class="LH">ぼ</span><span class="H">うし</span>	L-H-H	0	[noun] hat;cap	N5 (beginner)	Very common	47		帽 ぼう;子 し
 5778	幅	振幅	しんぷく	し↱んぷく	<span class="LH">し</span><span class="H">んぷく</span>	L-H-H-H	0	[noun] amplitude (of vibration);swing of pendulum		Rare			振 しん;幅 ぷく
-5779	幅	大幅	おおはば	お↱おはば	<span class="LH">お</span><span class="H">おはば</span>	L-H-H-H	0	[な adjective, noun] {1} big;large;drastic;substantial;[noun] {2} full-width cloth (approx. 72 cm wide for traditional Japanese clothing, approx. 140 cm wide for Western clothing)	N1 (advanced)	Uncommon			大 おお;幅 はば
-5780	幕	幕府	ばくふ	ば↴くふ	<span class="HL">ば</span><span class="L">くふ</span>	H-L-L	1	[noun] bakufu;shogunate		Very common			幕 ばく;府 ふ
+5779	幅	大幅	おおはば	お↱おはば	<span class="LH">お</span><span class="H">おはば</span>	L-H-H-H	0	[な adjective, noun] {1} big;large;drastic;substantial;[noun] {2} full-width cloth (approx. 72 cm wide for traditional Japanese clothing, approx. 140 cm wide for Western clothing)	N1 (advanced)	Uncommon	36		大 おお;幅 はば
+5780	幕	幕府	ばくふ	ば↴くふ	<span class="HL">ば</span><span class="L">くふ</span>	H-L-L	1	[noun] bakufu;shogunate		Very common	34		幕 ばく;府 ふ
 5781	幕	開幕	かいまく	か↱いまく	<span class="LH">か</span><span class="H">いまく</span>	L-H-H-H	0	[noun, する verb, の adjective] raising the curtain		Rare			開 かい;幕 まく
 5782	幕	幕下	まくした	ま↱くした	<span class="LH">ま</span><span class="H">くした</span>	L-H-H-H	0	[noun] (sumo) third highest division;wrestlers of the third highest division		Rare			幕 まく;下 した
 5783	幕	字幕	じまく	じ↱まく	<span class="LH">じ</span><span class="H">まく</span>	L-H-H	0	[noun] subtitle (movie)		Uncommon	34		字 じ;幕 まく
@@ -5889,7 +5889,7 @@
 5889	幽	幽閉	ゆうへい	ゆ↱うへい	<span class="LH">ゆ</span><span class="H">うへい</span>	L-H-H-H	0	[noun, する verb] confinement;imprisonment;incarceration;house arrest		Uncommon	46		幽 ゆう;閉 へい
 5890	幽	幽霊	ゆうれい	ゆ↴うれい	<span class="HL">ゆ</span><span class="L">うれい</span>	H-L-L-L	1	[noun] ghost;specter;spectre;apparition;phantom	N1 (advanced)	Very common	46		幽 ゆう;霊 れい
 5891	幾	幾何学	きかがく	き↱か↴がく	<span class="LH">き</span><span class="HL">か</span><span class="L">がく</span>	L-H-L-L	2	[noun] geometry		Rare	31		幾 き;何 か;学 がく
-5892	幾	幾度	いくど	い↴くど	<span class="HL">い</span><span class="L">くど</span>	H-L-L	1	[adverb, noun] (how) many times;(how) often		Uncommon			幾 いく;度 ど
+5892	幾	幾度	いくど	い↴くど	<span class="HL">い</span><span class="L">くど</span>	H-L-L	1	[adverb, noun] (how) many times;(how) often		Uncommon	30		幾 いく;度 ど
 5893	庁	県庁	けんちょう	け↴んちょう	<span class="HL">け</span><span class="L">んちょう</span>	H-L-L-L	1	[noun] prefectural office	N2 (intermediate)	Rare			県 けん;庁 ちょう
 5894	庁	庁舎	ちょうしゃ	ちょ↴うしゃ	<span class="HL">ちょ</span><span class="L">うしゃ</span>	H-L-L	1	[noun] government office building		Rare	35		庁 ちょう;舎 しゃ
 5895	庁	警視庁	けいしちょう	け↱いし↴ちょう	<span class="LH">け</span><span class="HL">いし</span><span class="L">ちょう</span>	L-H-H-L-L	3	[noun] Metropolitan Police Department (esp. Tokyo)		Very common	24		警 けい;視 し;庁 ちょう
@@ -5946,7 +5946,7 @@
 5946	店	代理店	だいりてん	だ↱いり↴てん	<span class="LH">だ</span><span class="HL">いり</span><span class="L">てん</span>	L-H-H-L-L	3	[noun] agent;agency		Rare			代 だい;理 り;店 てん
 5947	店	宝石店	ほうせきてん					[noun] jewelry store;jewellery store		Rare			宝 ほう;石 せき;店 てん
 5948	府	政府	せいふ	せ↴いふ	<span class="HL">せ</span><span class="L">いふ</span>	H-L-L	1	[noun] government;administration	N3 (lower intermediate)	Very common	16		政 せい;府 ふ
-5949	府	幕府	ばくふ	ば↴くふ	<span class="HL">ば</span><span class="L">くふ</span>	H-L-L	1	[noun] bakufu;shogunate		Very common			幕 ばく;府 ふ
+5949	府	幕府	ばくふ	ば↴くふ	<span class="HL">ば</span><span class="L">くふ</span>	H-L-L	1	[noun] bakufu;shogunate		Very common	34		幕 ばく;府 ふ
 5950	府	日本政府	にほんせいふ					[noun] Japanese government		Uncommon			日 に;本 ほん;政 せい;府 ふ
 5951	府	都道府県	とどうふけん	と↱どうふ↴けん	<span class="LH">と</span><span class="HL">どうふ</span><span class="L">けん</span>	L-H-H-H-L-L	4	[noun] administrative divisions of Japan: Tokyo-to, Hokkai-do, Osaka-fu, Kyoto-fu and remaining prefectures		Rare			都 と;道 どう;府 ふ;県 けん
 5952	府	州政府	しゅうせいふ					[noun] state government		Rare			州 しゅう;政 せい;府 ふ
@@ -5969,7 +5969,7 @@
 5969	度	温度	おんど	お↴んど	<span class="HL">お</span><span class="L">んど</span>	H-L-L	1	[noun] temperature	N3 (lower intermediate)	Common	12		温 おん;度 ど
 5970	度	精度	せいど	せ↴いど	<span class="HL">せ</span><span class="L">いど</span>	H-L-L	1	[noun] precision;accuracy		Rare	28		精 せい;度 ど
 5971	度	震度	しんど	し↴んど	<span class="HL">し</span><span class="L">んど</span>	H-L-L	1	[noun] Japanese earthquake scale (level 1: weak to level 7: devastation)		Rare	20		震 しん;度 ど
-5972	度	幾度	いくど	い↴くど	<span class="HL">い</span><span class="L">くど</span>	H-L-L	1	[adverb, noun] (how) many times;(how) often		Uncommon			幾 いく;度 ど
+5972	度	幾度	いくど	い↴くど	<span class="HL">い</span><span class="L">くど</span>	H-L-L	1	[adverb, noun] (how) many times;(how) often		Uncommon	30		幾 いく;度 ど
 5973	度	硬度	こうど	こ↴うど	<span class="HL">こ</span><span class="L">うど</span>	H-L-L	1	[noun] hardness;solidity		Rare			硬 こう;度 ど
 5974	度	濃度	のうど	の↴うど	<span class="HL">の</span><span class="L">うど</span>	H-L-L	1	[noun] {1} concentration;thickness;density;{2} cardinality	N2 (intermediate)	Rare	27		濃 のう;度 ど
 5975	度	角度	かくど	か↴くど	<span class="HL">か</span><span class="L">くど</span>	H-L-L	1	[noun, の adjective] angle	N2 (intermediate)	Common	9		角 かく;度 ど
@@ -5989,7 +5989,7 @@
 5989	度	度数	どすう	ど↱す↴う	<span class="LH">ど</span><span class="HL">す</span><span class="L">う</span>	L-H-L	2	[noun] {1} frequency;number of times;incidence;{2} degree (e.g. temperature);strength (e.g. alcohol, lens, etc.)		Rare			度 ど;数 すう
 5990	度	深度	しんど	し↴んど	<span class="HL">し</span><span class="L">んど</span>	H-L-L	1	[noun] depth		Rare			深 しん;度 ど
 5991	度	法度	はっと	は↴っと	<span class="HL">は</span><span class="L">っと</span>	H-L-L	1	[noun] law;ban;prohibition;ordinance		Rare			法 はっ;度 と
-5992	度	支度	したく	し↱たく	<span class="LH">し</span><span class="H">たく</span>	L-H-H	0	[noun, する verb] preparation;arrangements	N3 (lower intermediate)	Very common			支 し;度 たく
+5992	度	支度	したく	し↱たく	<span class="LH">し</span><span class="H">たく</span>	L-H-H	0	[noun, する verb] preparation;arrangements	N3 (lower intermediate)	Very common	11		支 し;度 たく
 5993	座	即座	そくざ	そ↴くざ	<span class="HL">そ</span><span class="L">くざ</span>	H-L-L	1	[の adjective, noun] immediate;right there on the spot;impromptu;instant;instantaneous		Rare	43		即 そく;座 ざ
 5994	座	座席	ざせき	ざ↱せき	<span class="LH">ざ</span><span class="H">せき</span>	L-H-H	0	[noun, の adjective] seat	N3 (lower intermediate)	Very common	18		座 ざ;席 せき
 5995	座	王座	おうざ	お↴うざ	<span class="HL">お</span><span class="L">うざ</span>	H-L-L	1	[noun] throne		Uncommon			王 おう;座 ざ
@@ -6289,7 +6289,7 @@
 6289	後	終了後	しゅうりょうご					[adverbial noun, temporal noun] after the end (of something);post-		Rare			終 しゅう;了 りょう;後 ご
 6290	後	今後	こんご	こ↱んご	<span class="LH">こ</span><span class="H">んご</span>	L-H-H	0	[adverbial noun, temporal noun] from now on;hereafter	N3 (lower intermediate)	Very common			今 こん;後 ご
 6291	後	後半	こうはん	こ↱うはん	<span class="LH">こ</span><span class="H">うはん</span>	L-H-H-H	0	[noun] second half;latter half		Common			後 こう;半 はん
-6292	後	背後	はいご	は↴いご	<span class="HL">は</span><span class="L">いご</span>	H-L-L	1	[noun, の adjective] {1} back;rear;{2} background;behind the scenes	N1 (advanced)	Very common			背 はい;後 ご
+6292	後	背後	はいご	は↴いご	<span class="HL">は</span><span class="L">いご</span>	H-L-L	1	[noun, の adjective] {1} back;rear;{2} background;behind the scenes	N1 (advanced)	Very common	30		背 はい;後 ご
 6293	後	後継	こうけい	こ↱うけい	<span class="LH">こ</span><span class="H">うけい</span>	L-H-H-H	0	[noun, adjectival (prenominal) form] {1} succession;[noun] {2} successor		Rare			後 こう;継 けい
 6294	後	後者	こうしゃ	こ↴うしゃ	<span class="HL">こ</span><span class="L">うしゃ</span>	H-L-L	1	[noun, の adjective] the latter	N3 (lower intermediate)	Common			後 こう;者 しゃ
 6295	後	午後	ごご	ご↴ご	<span class="HL">ご</span><span class="L">ご</span>	H-L	1	[adverbial noun, temporal noun] afternoon;p.m.	N5 (beginner)	Very common	6		午 ご;後 ご
@@ -6441,7 +6441,7 @@
 6441	志	遺志	いし	い↴し	<span class="HL">い</span><span class="L">し</span>	H-L	1	[noun] dying wish		Rare			遺 い;志 し
 6442	忘	忘却	ぼうきゃく	ぼ↱うきゃく	<span class="LH">ぼ</span><span class="H">うきゃく</span>	L-H-H-H	0	[noun, する verb] lapse of memory;forgetfulness;oblivion		Uncommon			忘 ぼう;却 きゃく
 6443	忘	忘年会	ぼうねんかい	ぼ↱うね↴んかい	<span class="LH">ぼ</span><span class="HL">うね</span><span class="L">んかい</span>	L-H-H-L-L-L	3	[noun] year-end party		Rare	18		忘 ぼう;年 ねん;会 かい
-6444	忙	多忙	たぼう	た↱ぼう	<span class="LH">た</span><span class="H">ぼう</span>	L-H-H	0	[な adjective, noun] busy;pressure of work	N1 (advanced)	Uncommon			多 た;忙 ぼう
+6444	忙	多忙	たぼう	た↱ぼう	<span class="LH">た</span><span class="H">ぼう</span>	L-H-H	0	[な adjective, noun] busy;pressure of work	N1 (advanced)	Uncommon	19		多 た;忙 ぼう
 6445	応	対応	たいおう	た↱いおう	<span class="LH">た</span><span class="H">いおう</span>	L-H-H-H	0	[noun, する verb] {1} interaction;correspondence;coping with;dealing with;support;{2} (computer term) software support;ability of a computer system to run specific software	N1 (advanced)	Very common		に	対 たい;応 おう
 6446	応	応用	おうよう	お↱うよう	<span class="LH">お</span><span class="H">うよう</span>	L-H-H-H	0	[noun, する verb] application;put to practical use	N2 (intermediate)	Uncommon		に(60%),を(40%)	応 おう;用 よう
 6447	応	応援	おうえん	お↱うえん	<span class="LH">お</span><span class="H">うえん</span>	L-H-H-H	0	[noun, する verb] aid;assistance;help;reinforcement;rooting;barracking;support;cheering	N2 (intermediate)	Common	22	を(83%),に(17%)	応 おう;援 えん
@@ -6484,7 +6484,7 @@
 6484	念	観念	かんねん	か↴んねん	<span class="HL">か</span><span class="L">んねん</span>	H-L-L-L	1	[noun, の adjective] {1} idea;notion;conception;{2} sense (e.g. of duty);[noun, する verb, の adjective] {3} resignation;preparedness;acceptance;{4} (Buddhist term) observation and contemplation	N2 (intermediate)	Very common	22	と	観 かん;念 ねん
 6485	念	念頭	ねんとう	ね↱んとう	<span class="LH">ね</span><span class="H">んとう</span>	L-H-H-H	0	[noun] mind		Uncommon			念 ねん;頭 とう
 6486	念	疑念	ぎねん	ぎ↱ねん	<span class="LH">ぎ</span><span class="H">ねん</span>	L-H-H	0	[noun] doubt;suspicion;misgivings;scruples		Common			疑 ぎ;念 ねん
-6487	念	記念日	きねんび	き↱ね↴んび	<span class="LH">き</span><span class="HL">ね</span><span class="L">んび</span>	L-H-L-L	2	[noun] holiday;anniversary;memorial day		Rare			記 き;念 ねん;日 び
+6487	念	記念日	きねんび	き↱ね↴んび	<span class="LH">き</span><span class="HL">ね</span><span class="L">んび</span>	L-H-L-L	2	[noun] holiday;anniversary;memorial day		Rare	16		記 き;念 ねん;日 び
 6488	念	無念	むねん	む↱ねん	<span class="LH">む</span><span class="H">ねん</span>	L-H-H	0	[な adjective, noun] {1} chagrin;regret;{2} (Buddhist term) free from obstructive thoughts	N1 (advanced)	Common			無 む;念 ねん
 6489	念	執念	しゅうねん	しゅ↴うねん	<span class="HL">しゅ</span><span class="L">うねん</span>	H-L-L-L	1	[noun] tenacity;implacability		Common			執 しゅう;念 ねん
 6490	忽	忽然	こつぜん	こ↱つぜん	<span class="LH">こ</span><span class="H">つぜん</span>	L-H-H-H	0	[たる adjective, adverb taking the と particle] sudden;unexpected		Rare			忽 こつ;然 ぜん
@@ -6640,7 +6640,7 @@
 6640	情	情報	じょうほう	じょ↱うほう	<span class="LH">じょ</span><span class="H">うほう</span>	L-H-H-H	0	[noun] {1} news;gossip;(military) intelligence;{2} information (data contained in characters, signals, code, etc.)	N3 (lower intermediate)	Very common	18		情 じょう;報 ほう
 6641	情	事情	じじょう	じ↱じょう	<span class="LH">じ</span><span class="H">じょう</span>	L-H-H	0	[noun] circumstances;consideration;conditions;situation;reasons;state of affairs	N3 (lower intermediate)	Very common	13		事 じ;情 じょう
 6642	情	感情	かんじょう	か↱んじょう	<span class="LH">か</span><span class="H">んじょう</span>	L-H-H-H	0	[noun, の adjective] emotion;feeling;feelings;sentiment	N3 (lower intermediate)	Very common	13		感 かん;情 じょう
-6643	情	表情	ひょうじょう	ひょ↱うじょ↴う	<span class="LH">ひょ</span><span class="HL">うじょ</span><span class="L">う</span>	L-H-H-L	3	[noun] facial expression;countenance	N3 (lower intermediate)	Very common			表 ひょう;情 じょう
+6643	情	表情	ひょうじょう	ひょ↱うじょ↴う	<span class="LH">ひょ</span><span class="HL">うじょ</span><span class="L">う</span>	L-H-H-L	3	[noun] facial expression;countenance	N3 (lower intermediate)	Very common	13		表 ひょう;情 じょう
 6644	情	友情	ゆうじょう	ゆ↱うじょう	<span class="LH">ゆ</span><span class="H">うじょう</span>	L-H-H-H	0	[noun] friendship;fellowship;camaraderie	N3 (lower intermediate)	Very common			友 ゆう;情 じょう
 6645	情	愛情	あいじょう	あ↱いじょう	<span class="LH">あ</span><span class="H">いじょう</span>	L-H-H-H	0	[noun, の adjective] love;affection	N3 (lower intermediate)	Very common			愛 あい;情 じょう
 6646	情	情熱	じょうねつ	じょ↱うねつ	<span class="LH">じょ</span><span class="H">うねつ</span>	L-H-H-H	0	[な adjective, noun] passion;enthusiasm;zeal	N1 (advanced)	Very common	13		情 じょう;熱 ねつ
@@ -6692,7 +6692,7 @@
 6692	愁	郷愁	きょうしゅう	きょ↱うしゅう	<span class="LH">きょ</span><span class="H">うしゅう</span>	L-H-H-H	0	[noun] nostalgia;homesickness	N1 (advanced)	Rare			郷 きょう;愁 しゅう
 6693	愉	不愉快	ふゆかい	ふ↱ゆ↴かい	<span class="LH">ふ</span><span class="HL">ゆ</span><span class="L">かい</span>	L-H-L-L	2	[な adjective, noun] discomfort;unpleasantness;disagreeableness;unhappiness		Very common			不 ふ;愉 ゆ;快 かい
 6694	愉	愉快	ゆかい	ゆ↴かい	<span class="HL">ゆ</span><span class="L">かい</span>	H-L-L	1	[な adjective, noun] pleasant;happy	N3 (lower intermediate)	Very common			愉 ゆ;快 かい
-6695	意	用意	ようい	よ↴うい	<span class="HL">よ</span><span class="L">うい</span>	H-L-L	1	[noun, する verb] preparation;arrangements;provision;getting ready;laying out (e.g. a meal)	N4 (basic)	Very common		を	用 よう;意 い
+6695	意	用意	ようい	よ↴うい	<span class="HL">よ</span><span class="L">うい</span>	H-L-L	1	[noun, する verb] preparation;arrangements;provision;getting ready;laying out (e.g. a meal)	N4 (basic)	Very common	11	を	用 よう;意 い
 6696	意	意味	いみ	い↴み	<span class="HL">い</span><span class="L">み</span>	H-L	1	[noun, する verb] meaning;significance	N5 (beginner)	Very common	11	を	意 い;味 み
 6697	意	注意	ちゅうい	ちゅ↴うい	<span class="HL">ちゅ</span><span class="L">うい</span>	H-L-L	1	[noun, する verb] caution;being careful;attention (heed);warning;advice	N4 (basic)	Very common	11	に(85%),を(15%)	注 ちゅう;意 い
 6698	意	意見	いけん	い↴けん	<span class="HL">い</span><span class="L">けん</span>	H-L-L	1	[noun, する verb, の adjective] opinion;view;comment	N4 (basic)	Very common	11		意 い;見 けん
@@ -7255,7 +7255,7 @@
 7255	指	親指	おやゆび	お↱やゆび	<span class="LH">お</span><span class="H">やゆび</span>	L-H-H-H	0	[noun] thumb	N2 (intermediate)	Common			親 おや;指 ゆび
 7256	指	指数	しすう	し↱す↴う	<span class="LH">し</span><span class="HL">す</span><span class="L">う</span>	L-H-L	2	[noun] index;index number;exponent (e.g. in floating-point representation);characteristic		Rare			指 し;数 すう
 7257	指	指先	ゆびさき	ゆ↱びさき	<span class="LH">ゆ</span><span class="H">びさき</span>	L-H-H-H	0	[noun, の adjective] fingertip		Very common			指 ゆび;先 さき
-7258	指	中指	なかゆび	な↱か↴ゆび	<span class="LH">な</span><span class="HL">か</span><span class="L">ゆび</span>	L-H-L-L	2	[noun] middle finger	N2 (intermediate)	Uncommon			中 なか;指 ゆび
+7258	指	中指	なかゆび	な↱か↴ゆび	<span class="LH">な</span><span class="HL">か</span><span class="L">ゆび</span>	L-H-L-L	2	[noun] middle finger	N2 (intermediate)	Uncommon	11		中 なか;指 ゆび
 7259	指	指図	さしず	さ↴しず	<span class="HL">さ</span><span class="L">しず</span>	H-L-L	1	[noun, する verb, の adjective] instruction;mandate;directions	N1 (advanced)	Common		で(66%),を(34%)	指 さし;図 ず
 7260	挑	挑戦	ちょうせん	ちょ↱うせん	<span class="LH">ちょ</span><span class="H">うせん</span>	L-H-H-H	0	[noun, する verb] challenge;defiance	N1 (advanced)	Common	42	に	挑 ちょう;戦 せん
 7261	挑	挑発	ちょうはつ	ちょ↱うはつ	<span class="LH">ちょ</span><span class="H">うはつ</span>	L-H-H-H	0	[noun, する verb] provocation;stirring up;arousal		Uncommon	42	を	挑 ちょう;発 はつ
@@ -7474,7 +7474,7 @@
 7474	支	支社	ししゃ	し↴しゃ	<span class="HL">し</span><span class="L">しゃ</span>	H-L	1	[noun] branch office		Uncommon			支 し;社 しゃ
 7475	支	支局	しきょく	し↱きょ↴く	<span class="LH">し</span><span class="HL">きょ</span><span class="L">く</span>	L-H-L	2	[noun] branch office		Uncommon	8		支 し;局 きょく
 7476	支	支配人	しはいにん	し↱は↴いにん	<span class="LH">し</span><span class="HL">は</span><span class="L">いにん</span>	L-H-L-L-L	2	[noun] manager;executive		Common			支 し;配 はい;人 にん
-7477	支	支度	したく	し↱たく	<span class="LH">し</span><span class="H">たく</span>	L-H-H	0	[noun, する verb] preparation;arrangements	N3 (lower intermediate)	Very common			支 し;度 たく
+7477	支	支度	したく	し↱たく	<span class="LH">し</span><span class="H">たく</span>	L-H-H	0	[noun, する verb] preparation;arrangements	N3 (lower intermediate)	Very common	11		支 し;度 たく
 7478	改	改組	かいそ	か↴いそ	<span class="HL">か</span><span class="L">いそ</span>	H-L-L	1	[noun, する verb] reorganization;reorganisation		Rare			改 かい;組 そ
 7479	改	改札口	かいさつぐち	か↱いさつ↴ぐち	<span class="LH">か</span><span class="HL">いさつ</span><span class="L">ぐち</span>	L-H-H-H-L-L	4	[noun] ticket barrier (gate);wicket		Uncommon			改 かい;札 さつ;口 ぐち
 7480	改	改造	かいぞう	か↱いぞう	<span class="LH">か</span><span class="H">いぞう</span>	L-H-H-H	0	[noun, する verb] {1} (computer term) remodeling;remodelling;restructuring;{2} modding	N2 (intermediate)	Common	26	に	改 かい;造 ぞう
@@ -7772,7 +7772,7 @@
 7772	断	判断	はんだん	は↴んだん	<span class="HL">は</span><span class="L">んだん</span>	H-L-L-L	1	[noun, する verb] judgement;judgment;decision;adjudication;conclusion;decipherment;divination	N3 (lower intermediate)	Very common	21	で(46%),を(30%),と(24%)	判 はん;断 だん
 7773	断	断念	だんねん	だ↱んね↴ん	<span class="LH">だ</span><span class="HL">んね</span><span class="L">ん</span>	L-H-H-L	3	[noun, する verb] abandoning (hope, plans);giving up		Uncommon		を	断 だん;念 ねん
 7774	断	中断	ちゅうだん	ちゅ↱うだん	<span class="LH">ちゅ</span><span class="H">うだん</span>	L-H-H-H	0	[noun, する verb] interruption;suspension;break	N1 (advanced)	Common		を(50%),が(21%),で(14%),に(14%)	中 ちゅう;断 だん
-7775	断	診断	しんだん	し↱んだん	<span class="LH">し</span><span class="H">んだん</span>	L-H-H-H	0	[noun, する verb, の adjective] diagnosis;medical examination	N2 (intermediate)	Uncommon	28	と(67%),を(33%)	診 しん;断 だん
+7775	断	診断	しんだん	し↱んだん	<span class="LH">し</span><span class="H">んだん</span>	L-H-H-H	0	[noun, する verb, の adjective] diagnosis;medical examination	N2 (intermediate)	Uncommon	29	と(67%),を(33%)	診 しん;断 だん
 7776	断	横断	おうだん	お↱うだん	<span class="LH">お</span><span class="H">うだん</span>	L-H-H-H	0	[noun, する verb, の adjective] {1} crossing;[adjectival (prenominal) form] {2} transverse	N3 (lower intermediate)	Uncommon		を	横 おう;断 だん
 7777	断	切断	せつだん	せ↱つだん	<span class="LH">せ</span><span class="H">つだん</span>	L-H-H-H	0	[noun, する verb] cutting;severance;section;amputation;disconnection		Common		で(50%),を(50%)	切 せつ;断 だん
 7778	断	断絶	だんぜつ	だ↱んぜつ	<span class="LH">だ</span><span class="H">んぜつ</span>	L-H-H-H	0	[noun, の adjective] {1} extinction;discontinuation;interruption;[noun] {2} severance;rupture;[する verb] {3} to become extinct;to cease to exist;{4} to sever;to break off;to divide (between two things)		Uncommon		を	断 だん;絶 ぜつ
@@ -7923,7 +7923,7 @@
 7923	日	日本酒	にほんしゅ	に↱ほんしゅ	<span class="LH">に</span><span class="H">ほんしゅ</span>	L-H-H-H	0	[noun] sake;Japanese rice wine		Uncommon	10		日 に;本 ほん;酒 しゅ
 7924	日	六日	むいか	む↱いか	<span class="LH">む</span><span class="H">いか</span>	L-H-H	0	[noun] {1} sixth day of the month;{2} six days	N5 (beginner)	Rare	2		六 むい;日 か
 7925	日	八日	ようか	よ↱うか	<span class="LH">よ</span><span class="H">うか</span>	L-H-H	0	[noun] {1} the eighth day of the month;{2} eight days	N5 (beginner)	Rare			八 よう;日 か
-7926	日	七日	なのか	な↱のか	<span class="LH">な</span><span class="H">のか</span>	L-H-H	0	[adverbial noun] {1} the seventh day of the month;{2} seven days	N5 (beginner)	Rare			七 なの;日 か
+7926	日	七日	なのか	な↱のか	<span class="LH">な</span><span class="H">のか</span>	L-H-H	0	[adverbial noun] {1} the seventh day of the month;{2} seven days	N5 (beginner)	Rare	2		七 なの;日 か
 7927	日	某日	ぼうじつ	ぼ↴うじつ	<span class="HL">ぼ</span><span class="L">うじつ</span>	H-L-L-L	1	[temporal noun] certain day					某 ぼう;日 じつ
 7928	日	来日	らいにち	ら↱いにち	<span class="LH">ら</span><span class="H">いにち</span>	L-H-H-H	0	[noun, する verb] arrival in Japan;coming to Japan;visit to Japan	N2 (intermediate)	Uncommon		で(50%),が(50%)	来 らい;日 にち
 7929	日	中日	ちゅうにち	ちゅ↴うにち	<span class="HL">ちゅ</span><span class="L">うにち</span>	H-L-L-L	1	[noun] {1} China and Japan;{2} the middle day;{3} the equinoctial day		Rare			中 ちゅう;日 にち
@@ -7931,8 +7931,8 @@
 7931	日	同日	どうじつ	ど↴うじつ	<span class="HL">ど</span><span class="L">うじつ</span>	H-L-L-L	1	[adverbial noun, temporal noun] the same day		Uncommon	5		同 どう;日 じつ
 7932	日	日中	にっちゅう	に↱っちゅう	<span class="LH">に</span><span class="H">っちゅう</span>	L-H-H-H	0	[adverbial noun, temporal noun] {1} daytime;during the day;[noun] {2} Sino-Japanese	N3 (lower intermediate)	Uncommon			日 にっ;中 ちゅう
 7933	日	日本一	にほんいち	に↱ほ↴んいち	<span class="LH">に</span><span class="HL">ほ</span><span class="L">んいち</span>	L-H-L-L-L	2	[noun, の adjective] Japan's best;number one in Japan		Uncommon			日 に;本 ほん;一 いち
-7934	日	一日	いちにち	い↱ちにち↴	<span class="LH">い</span><span class="HL">ちにち</span>	L-H-H-H-(L)	4	[noun] {1} first day of the month;{2} one day	N5 (beginner)	Rare			一 いち;日 にち
-7935	日	一日	ついたち	つ↱いたち↴	<span class="LH">つ</span><span class="HL">いたち</span>	L-H-H-H-(L)	4	[noun] {1} first day of the month;{2} (archaism) first ten days of the lunar month	N5 (beginner)	Rare			
+7934	日	一日	いちにち	い↱ちにち↴	<span class="LH">い</span><span class="HL">ちにち</span>	L-H-H-H-(L)	4	[noun] {1} first day of the month;{2} one day	N5 (beginner)	Rare	2		一 いち;日 にち
+7935	日	一日	ついたち	つ↱いたち↴	<span class="LH">つ</span><span class="HL">いたち</span>	L-H-H-H-(L)	4	[noun] {1} first day of the month;{2} (archaism) first ten days of the lunar month	N5 (beginner)	Rare	2		
 7936	日	当日	とうじつ	と↱うじつ	<span class="LH">と</span><span class="H">うじつ</span>	L-H-H-H	0	[adverbial noun, temporal noun] appointed day;very day	N2 (intermediate)	Common			当 とう;日 じつ
 7937	日	日曜	にちよう	に↱ちよ↴う	<span class="LH">に</span><span class="HL">ちよ</span><span class="L">う</span>	L-H-H-L	3	[adverbial noun, noun] Sunday	N3 (lower intermediate)	Common			日 にち;曜 よう
 7938	日	前日	ぜんじつ	ぜ↱んじつ	<span class="LH">ぜ</span><span class="H">んじつ</span>	L-H-H-H	0	[adverbial noun, temporal noun] previous day;day before;eve;prior day;preceding day		Common			前 ぜん;日 じつ
@@ -7955,11 +7955,11 @@
 7955	日	日没	にちぼつ	に↱ちぼつ	<span class="LH">に</span><span class="H">ちぼつ</span>	L-H-H-H	0	[noun] sunset		Uncommon			日 にち;没 ぼつ
 7956	日	在日	ざいにち	ざ↱いにち	<span class="LH">ざ</span><span class="H">いにち</span>	L-H-H-H	0	[adjectival (prenominal) form, する verb] {1} in Japan;[noun] {2} (abbreviation) (sensitive word) Korean living in Japan;[noun, noun used as a prefix] {3} (foreign) person living or staying in Japan		Rare			在 ざい;日 にち
 7957	日	日数	にっすう	に↱っす↴う	<span class="LH">に</span><span class="HL">っす</span><span class="L">う</span>	L-H-H-L	3	[noun] a number of days		Uncommon			日 にっ;数 すう
-7958	日	記念日	きねんび	き↱ね↴んび	<span class="LH">き</span><span class="HL">ね</span><span class="L">んび</span>	L-H-L-L	2	[noun] holiday;anniversary;memorial day		Rare			記 き;念 ねん;日 び
+7958	日	記念日	きねんび	き↱ね↴んび	<span class="LH">き</span><span class="HL">ね</span><span class="L">んび</span>	L-H-L-L	2	[noun] holiday;anniversary;memorial day		Rare	16		記 き;念 ねん;日 び
 7959	日	日米	にちべい	に↴ちべい	<span class="HL">に</span><span class="L">ちべい</span>	H-L-L-L	1	[noun] Japan-America					日 にち;米 べい
 7960	日	日時	にちじ	に↴ちじ	<span class="HL">に</span><span class="L">ちじ</span>	H-L-L	1	[noun] date and time	N2 (intermediate)	Uncommon			日 にち;時 じ
 7961	日	日用品	にちようひん	に↱ちようひん	<span class="LH">に</span><span class="H">ちようひん</span>	L-H-H-H-H-H	0	[noun] daily necessities	N2 (intermediate)	Rare			日 にち;用 よう;品 ひん
-7962	日	連日	れんじつ	れ↱んじつ	<span class="LH">れ</span><span class="H">んじつ</span>	L-H-H-H	0	[adverbial noun, temporal noun] every day;prolonged	N1 (advanced)	Common			連 れん;日 じつ
+7962	日	連日	れんじつ	れ↱んじつ	<span class="LH">れ</span><span class="H">んじつ</span>	L-H-H-H	0	[adverbial noun, temporal noun] every day;prolonged	N1 (advanced)	Common	19		連 れん;日 じつ
 7963	日	月日	がっぴ	が↱っぴ	<span class="LH">が</span><span class="H">っぴ</span>	L-H-H	0	[noun] (the) date	N1 (advanced)	Common*			月 がっ;日 ぴ
 7964	日	月日	つきひ	つ↱き↴ひ	<span class="LH">つ</span><span class="HL">き</span><span class="L">ひ</span>	L-H-L	2	[noun] time;years;days		Common*			月 つき;日 ひ
 7965	日	命日	めいにち	め↴いにち	<span class="HL">め</span><span class="L">いにち</span>	H-L-L-L	1	[noun] death anniversary		Rare			命 めい;日 にち
@@ -8350,7 +8350,7 @@
 8350	服	制服	せいふく	せ↱いふく	<span class="LH">せ</span><span class="H">いふく</span>	L-H-H-H	0	[noun] uniform	N1 (advanced)	Very common	21		制 せい;服 ふく
 8351	服	服装	ふくそう	ふ↱くそう	<span class="LH">ふ</span><span class="H">くそう</span>	L-H-H-H	0	[noun] garments;attire	N3 (lower intermediate)	Very common	33		服 ふく;装 そう
 8352	服	克服	こくふく	こ↱くふく	<span class="LH">こ</span><span class="H">くふく</span>	L-H-H-H	0	[noun, する verb] conquest (problem, disease, handicap, etc. e.g. poverty, illness);overcoming;bringing under control;subjugation;victory over	N3 (lower intermediate)	Uncommon	42	を	克 こく;服 ふく
-8353	服	衣服	いふく	い↴ふく	<span class="HL">い</span><span class="L">ふく</span>	H-L-L	1	[noun] clothes	N3 (lower intermediate)	Very common			衣 い;服 ふく
+8353	服	衣服	いふく	い↴ふく	<span class="HL">い</span><span class="L">ふく</span>	H-L-L	1	[noun] clothes	N3 (lower intermediate)	Very common	41		衣 い;服 ふく
 8354	服	呉服	ごふく	ご↱ふく	<span class="LH">ご</span><span class="H">ふく</span>	L-H-H	0	[noun] draperies;dry-goods;piece goods		Rare			呉 ご;服 ふく
 8355	服	軍服	ぐんぷく	ぐ↱んぷく	<span class="LH">ぐ</span><span class="H">んぷく</span>	L-H-H-H	0	[noun] military or naval uniform	N1 (advanced)	Common			軍 ぐん;服 ぷく
 8356	服	服用	ふくよう	ふ↱くよう	<span class="LH">ふ</span><span class="H">くよう</span>	L-H-H-H	0	[noun, する verb] taking medicine;dosing		Rare		を	服 ふく;用 よう
@@ -8880,7 +8880,7 @@
 8880	業	鉱業	こうぎょう	こ↴うぎょう	<span class="HL">こ</span><span class="L">うぎょう</span>	H-L-L-L	1	[noun] mining industry	N1 (advanced)	Rare	41		鉱 こう;業 ぎょう
 8881	業	巡業	じゅんぎょう	じゅ↱んぎょう	<span class="LH">じゅ</span><span class="H">んぎょう</span>	L-H-H-H	0	[noun, する verb] provincial tour		Rare			巡 じゅん;業 ぎょう
 8882	業	窯業	ようぎょう	よ↱うぎょう	<span class="LH">よ</span><span class="H">うぎょう</span>	L-H-H-H	0	[noun, の adjective] ceramics;ceramic industry		Rare			窯 よう;業 ぎょう
-8883	業	作業	さぎょう	さ↴ぎょう	<span class="HL">さ</span><span class="L">ぎょう</span>	H-L-L	1	[noun, する verb] work;operation;manufacturing;fatigue duty	N3 (lower intermediate)	Very common			作 さ;業 ぎょう
+8883	業	作業	さぎょう	さ↴ぎょう	<span class="HL">さ</span><span class="L">ぎょう</span>	H-L-L	1	[noun, する verb] work;operation;manufacturing;fatigue duty	N3 (lower intermediate)	Very common	10		作 さ;業 ぎょう
 8884	業	実業家	じつぎょうか	じ↱つぎょうか	<span class="LH">じ</span><span class="H">つぎょうか</span>	L-H-H-H-H	0	[noun] industrialist;businessman	N1 (advanced)	Uncommon			実 じつ;業 ぎょう;家 か
 8885	業	業者	ぎょうしゃ	ぎょ↴うしゃ	<span class="HL">ぎょ</span><span class="L">うしゃ</span>	H-L-L	1	[noun] {1} trader;merchant;vendor;{2} manufacturer;contractor	N1 (advanced)	Common			業 ぎょう;者 しゃ
 8886	業	家業	かぎょう	か↴ぎょう	<span class="HL">か</span><span class="L">ぎょう</span>	H-L-L	1	[noun] family business;trade;occupation;line of work;one's father's occupation		Rare			家 か;業 ぎょう
@@ -9566,7 +9566,7 @@
 9566	沿	沿岸	えんがん	え↱んがん	<span class="LH">え</span><span class="H">んがん</span>	L-H-H-H	0	[noun, の adjective] coast;shore;littoral	N1 (advanced)	Uncommon	34		沿 えん;岸 がん
 9567	沿	沿線	えんせん	え↱んせん	<span class="LH">え</span><span class="H">んせん</span>	L-H-H-H	0	[noun, の adjective] along railway line	N1 (advanced)	Rare	34		沿 えん;線 せん
 9568	沿	沿道	えんどう	え↱んどう	<span class="LH">え</span><span class="H">んどう</span>	L-H-H-H	0	[noun, の adjective] route;course;roadside		Rare			沿 えん;道 どう
-9569	況	状況	じょうきょう	じょ↱うきょう	<span class="LH">じょ</span><span class="H">うきょう</span>	L-H-H-H	0	[noun, の adjective] state of affairs (around you);situation;circumstances	N3 (lower intermediate)	Very common	22		状 じょう;況 きょう
+9569	況	状況	じょうきょう	じょ↱うきょう	<span class="LH">じょ</span><span class="H">うきょう</span>	L-H-H-H	0	[noun, の adjective] state of affairs (around you);situation;circumstances	N3 (lower intermediate)	Very common	25		状 じょう;況 きょう
 9570	況	実況	じっきょう	じ↱っきょう	<span class="LH">じ</span><span class="H">っきょう</span>	L-H-H-H	0	[noun, の adjective] {1} real condition;actual scene;real state;live;[noun, する verb] {2} (slang) reporting live;live coverage;live broadcasting		Rare			実 じっ;況 きょう
 9571	況	戦況	せんきょう	せ↱んきょう	<span class="LH">せ</span><span class="H">んきょう</span>	L-H-H-H	0	[noun] war situation;progress of a battle		Uncommon			戦 せん;況 きょう
 9572	況	不況	ふきょう	ふ↱きょう	<span class="LH">ふ</span><span class="H">きょう</span>	L-H-H	0	[な adjective, noun, の adjective] recession;depression;slump	N1 (advanced)	Uncommon	25		不 ふ;況 きょう
@@ -9594,7 +9594,7 @@
 9594	法	財団法人	ざいだんほうじん	ざ↱いだんほ↴うじん	<span class="LH">ざ</span><span class="HL">いだんほ</span><span class="L">うじん</span>	L-H-H-H-H-L-L-L	5	[noun] incorporated foundation;juridical foundation		Rare			財 ざい;団 だん;法 ほう;人 じん
 9595	法	法廷	ほうてい	ほ↱うてい	<span class="LH">ほ</span><span class="H">うてい</span>	L-H-H-H	0	[noun, の adjective] courtroom	N1 (advanced)	Common	50		法 ほう;廷 てい
 9596	法	違法	いほう	い↱ほう	<span class="LH">い</span><span class="H">ほう</span>	L-H-H	0	[な adjective, noun, の adjective] illegal;illegality;invalid;unlawfulness		Rare			違 い;法 ほう
-9597	法	寸法	すんぽう	す↱んぽう	<span class="LH">す</span><span class="H">んぽう</span>	L-H-H-H	0	[noun] {1} measurement;size;extent;dimension;{2} plan;intention;arrangement;schedule	N2 (intermediate)	Uncommon			寸 すん;法 ぽう
+9597	法	寸法	すんぽう	す↱んぽう	<span class="LH">す</span><span class="H">んぽう</span>	L-H-H-H	0	[noun] {1} measurement;size;extent;dimension;{2} plan;intention;arrangement;schedule	N2 (intermediate)	Uncommon	44		寸 すん;法 ぽう
 9598	法	法曹	ほうそう	ほ↱うそう	<span class="LH">ほ</span><span class="H">うそう</span>	L-H-H-H	0	[noun] legal profession;lawyer		Rare			法 ほう;曹 そう
 9599	法	法曹界	ほうそうかい	ほ↱うそ↴うかい	<span class="LH">ほ</span><span class="HL">うそ</span><span class="L">うかい</span>	L-H-H-L-L-L	3	[noun] legal circles		Rare			法 ほう;曹 そう;界 かい
 9600	法	魔法瓶	まほうびん	ま↱ほ↴うびん	<span class="LH">ま</span><span class="HL">ほ</span><span class="L">うびん</span>	L-H-L-L-L	2	[noun] thermos flask;vacuum flask		Rare			魔 ま;法 ほう;瓶 びん
@@ -9759,7 +9759,7 @@
 9759	海	南海	なんかい	な↱んかい	<span class="LH">な</span><span class="H">んかい</span>	L-H-H-H	0	[noun] southern sea		Rare			南 なん;海 かい
 9760	海	海戦	かいせん	か↱いせん	<span class="LH">か</span><span class="H">いせん</span>	L-H-H-H	0	[noun] naval battle		Uncommon			海 かい;戦 せん
 9761	海	海上	かいじょう	か↱いじょう	<span class="LH">か</span><span class="H">いじょう</span>	L-H-H-H	0	[の adjective] (by, at, on) sea;maritime;marine		Common			海 かい;上 じょう
-9762	海	地中海	ちちゅうかい	ち↱ちゅ↴うかい	<span class="LH">ち</span></span><span class="HL">ちゅ</span><span class="L">うかい</span>	L-H-L-L-L	2	[noun] Mediterranean Sea		Uncommon			地 ち;中 ちゅう;海 かい
+9762	海	地中海	ちちゅうかい	ち↱ちゅ↴うかい	<span class="LH">ち</span></span><span class="HL">ちゅ</span><span class="L">うかい</span>	L-H-L-L-L	2	[noun] Mediterranean Sea		Uncommon	8		地 ち;中 ちゅう;海 かい
 9763	海	日本海	にほんかい	に↱ほ↴んかい	<span class="LH">に</span></span><span class="HL">ほ</span><span class="L">んかい</span>	L-H-L-L-L	2	[noun] Sea of Japan		Uncommon			日 に;本 ほん;海 かい
 9764	海	海水	かいすい	か↱いすい	<span class="LH">か</span><span class="H">いすい</span>	L-H-H-H	0	[noun] ocean water		Common			海 かい;水 すい
 9765	海	海兵隊	かいへいたい	か↱いへいたい	<span class="LH">か</span><span class="H">いへいたい</span>	L-H-H-H-H-H	0	[noun] Marine Corps;Royal Marines		Rare			海 かい;兵 へい;隊 たい
@@ -9988,7 +9988,7 @@
 9988	演	演技	えんぎ	え↴んぎ	<span class="HL">え</span><span class="L">んぎ</span>	H-L-L	1	[noun, する verb, の adjective] acting;performance	N3 (lower intermediate)	Very common	23		演 えん;技 ぎ
 9989	演	演劇	えんげき	え↱んげき	<span class="LH">え</span><span class="H">んげき</span>	L-H-H-H	0	[noun, の adjective] drama;theatre;theater;play	N2 (intermediate)	Common			演 えん;劇 げき
 9990	演	講演	こうえん	こ↱うえん	<span class="LH">こ</span><span class="H">うえん</span>	L-H-H-H	0	[noun, する verb] lecture;address;speech	N3 (lower intermediate)	Common	35	に	講 こう;演 えん
-9991	演	上演	じょうえん	じょ↱うえん	<span class="LH">じょ</span><span class="H">うえん</span>	L-H-H-H	0	[noun, する verb] performance (e.g. music, theatre, opera);staging	N1 (advanced)	Uncommon		を(56%),が(22%),で(22%)	上 じょう;演 えん
+9991	演	上演	じょうえん	じょ↱うえん	<span class="LH">じょ</span><span class="H">うえん</span>	L-H-H-H	0	[noun, する verb] performance (e.g. music, theatre, opera);staging	N1 (advanced)	Uncommon	23	を(56%),が(22%),で(22%)	上 じょう;演 えん
 9992	演	演説	えんぜつ	え↱んぜつ	<span class="LH">え</span><span class="H">んぜつ</span>	L-H-H-H	0	[noun, する verb] speech;address	N3 (lower intermediate)	Common		で	演 えん;説 ぜつ
 9993	演	演出家	えんしゅつか	え↱んしゅつか	<span class="LH">え</span><span class="H">んしゅつか</span>	L-H-H-H-H	0	[noun] producer;director		Rare			演 えん;出 しゅつ;家 か
 9994	演	演目	えんもく	え↱んもく	<span class="LH">え</span><span class="H">んもく</span>	L-H-H-H	0	[noun] (abbreviation) program (musical, concert, theatrical, etc.);programme		Rare			演 えん;目 もく
@@ -10159,7 +10159,7 @@
 10159	無	無限	むげん	む↱げん	<span class="LH">む</span><span class="H">げん</span>	L-H-H	0	[の adjective, な adjective] infinite	N2 (intermediate)	Very common	24		無 む;限 げん
 10160	無	無視	むし	む↴し	<span class="HL">む</span><span class="L">し</span>	H-L	1	[noun, する verb] disregarding;ignoring	N3 (lower intermediate)	Very common		を	無 む;視 し
 10161	無	無料	むりょう	む↱りょう	<span class="LH">む</span><span class="H">りょう</span>	L-H-H	0	[noun, の adjective] free;no charge	N3 (lower intermediate)	Uncommon	17		無 む;料 りょう
-10162	無	無理	むり	む↴り	<span class="HL">む</span><span class="L">り</span>	H-L	1	[な adjective, noun, する verb] unreasonable;impossible;overdoing	N4 (basic)	Very common		が	無 む;理 り
+10162	無	無理	むり	む↴り	<span class="HL">む</span><span class="L">り</span>	H-L	1	[な adjective, noun, する verb] unreasonable;impossible;overdoing	N4 (basic)	Very common	17	が	無 む;理 り
 10163	無	有無	うむ	う↴む	<span class="HL">う</span><span class="L">む</span>	H-L	1	[noun] {1} existence or nonexistence;presence or absence;{2} consent or refusal;yes or no;{3} (computer term) flag indicator;presence or absence marker	N2 (intermediate)	Common			有 う;無 む
 10164	無	無傷	むきず	む↴きず	<span class="HL">む</span><span class="L">きず</span>	H-L-L	1	[な adjective, noun, の adjective] unhurt;uninjured;unwounded;flawless;spotless;sound;perfect		Uncommon			無 む;傷 きず
 10165	無	無罪	むざい	む↴ざい	<span class="HL">む</span><span class="L">ざい</span>	H-L-L	1	[noun, の adjective] innocence		Uncommon			無 む;罪 ざい
@@ -10274,7 +10274,7 @@
 10274	父	父親	ちちおや	ち↱ちおや	<span class="LH">ち</span><span class="H">ちおや</span>	L-H-H-H	0	[noun] father	N3 (lower intermediate)	Very common	12		父 ちち;親 おや
 10275	父	祖父	そふ	そ↴ふ	<span class="HL">そ</span><span class="L">ふ</span>	H-L	1	[noun, の adjective] grandfather	N4 (basic)	Very common	32		祖 そ;父 ふ
 10276	父	叔父	おじ	お↱じ	<span class="LH">お</span><span class="H">じ</span>	L-H	0	[noun, の adjective] (humble) uncle (younger than one's parent)	N5 (beginner)	Very common			
-10277	父	伯父	おじ	お↱じ	<span class="LH">お</span><span class="H">じ</span>	L-H	0	[noun] uncle	N5 (beginner)	Very common			
+10277	父	伯父	おじ	お↱じ	<span class="LH">お</span><span class="H">じ</span>	L-H	0	[noun] uncle	N5 (beginner)	Very common	50		
 10278	父	神父	しんぷ	し↴んぷ	<span class="HL">し</span><span class="L">んぷ</span>	H-L-L	1	[noun] Catholic priest;abbe;reverend father;minister;padre		Very common			神 しん;父 ぷ
 10279	父	曽祖父	そうそふ	そ↱うそ↴ふ	<span class="LH">そ</span><span class="HL">うそ</span><span class="L">ふ</span>	L-H-H-L	3	[noun] great-grandfather;great-granddad;great-grandad		Rare			曽 そう;祖 そ;父 ふ
 10280	父	曾祖父	そうそふ	そ↱うそ↴ふ	<span class="LH">そ</span><span class="HL">うそ</span><span class="L">ふ</span>	L-H-H-L	3	[noun] great-grandfather;great-granddad;great-grandad		Rare			曾 そう;祖 そ;父 ふ
@@ -10321,7 +10321,7 @@
 10321	物	出版物	しゅっぱんぶつ	しゅ↱っぱ↴んぶつ	<span class="LH">しゅ</span><span class="HL">っぱ</span><span class="L">んぶつ</span>	L-H-H-L-L-L	3	[noun] publication		Rare			出 しゅっ;版 ぱん;物 ぶつ
 10322	物	動植物	どうしょくぶつ	ど↱うしょく↴ぶつ	<span class="LH">ど</span><span class="HL">うしょく</span><span class="L">ぶつ</span>	L-H-H-H-L-L	4	[noun] plants and animals;flora and fauna		Rare			動 どう;植 しょく;物 ぶつ
 10323	物	物質	ぶっしつ	ぶ↱っしつ	<span class="LH">ぶ</span><span class="H">っしつ</span>	L-H-H-H	0	[noun] material;substance	N3 (lower intermediate)	Very common			物 ぶっ;質 しつ
-10324	物	動物園	どうぶつえん	ど↱うぶつ↴えん	<span class="LH">ど</span><span class="HL">うぶつ</span><span class="L">えん</span>	L-H-H-H-L-L	4	[noun] zoo;zoological gardens	N4 (basic)	Uncommon			動 どう;物 ぶつ;園 えん
+10324	物	動物園	どうぶつえん	ど↱うぶつ↴えん	<span class="LH">ど</span><span class="HL">うぶつ</span><span class="L">えん</span>	L-H-H-H-L-L	4	[noun] zoo;zoological gardens	N4 (basic)	Uncommon	16		動 どう;物 ぶつ;園 えん
 10325	物	博物館	はくぶつかん	は↱くぶつ↴かん	<span class="LH">は</span><span class="HL">くぶつ</span><span class="L">かん</span>	L-H-H-H-L-L	4	[noun] museum	N3 (lower intermediate)	Common	28		博 はく;物 ぶつ;館 かん
 10326	物	怪物	かいぶつ	か↱いぶつ	<span class="LH">か</span><span class="H">いぶつ</span>	L-H-H-H	0	[noun] monster		Very common			怪 かい;物 ぶつ
 10327	物	貨物	かもつ	か↴もつ	<span class="HL">か</span><span class="L">もつ</span>	H-L-L	1	[noun] {1} cargo;freight;{2} money or assets	N2 (intermediate)	Uncommon	31		貨 か;物 もつ
@@ -10415,7 +10415,7 @@
 10415	犯	防犯	ぼうはん	ぼ↱うはん	<span class="LH">ぼ</span><span class="H">うはん</span>	L-H-H-H	0	[noun, の adjective] prevention of crime	N2 (intermediate)	Rare	22		防 ぼう;犯 はん
 10416	犯	侵犯	しんぱん	し↱んぱん	<span class="LH">し</span><span class="H">んぱん</span>	L-H-H-H	0	[noun, する verb] violation;invasion;infringement		Rare		を	侵 しん;犯 ぱん
 10417	状	状態	じょうたい	じょ↱うたい	<span class="LH">じょ</span><span class="H">うたい</span>	L-H-H-H	0	[noun] current status;condition;situation;circumstances;state	N3 (lower intermediate)	Very common	22		状 じょう;態 たい
-10418	状	状況	じょうきょう	じょ↱うきょう	<span class="LH">じょ</span><span class="H">うきょう</span>	L-H-H-H	0	[noun, の adjective] state of affairs (around you);situation;circumstances	N3 (lower intermediate)	Very common	22		状 じょう;況 きょう
+10418	状	状況	じょうきょう	じょ↱うきょう	<span class="LH">じょ</span><span class="H">うきょう</span>	L-H-H-H	0	[noun, の adjective] state of affairs (around you);situation;circumstances	N3 (lower intermediate)	Very common	25		状 じょう;況 きょう
 10419	状	形状	けいじょう	け↱いじょう	<span class="LH">け</span><span class="H">いじょう</span>	L-H-H-H	0	[noun] shape;form		Uncommon			形 けい;状 じょう
 10420	状	現状	げんじょう	げ↱んじょう	<span class="LH">げ</span><span class="H">んじょう</span>	L-H-H-H	0	[noun, の adjective] present condition;existing state;status quo	N3 (lower intermediate)	Common			現 げん;状 じょう
 10421	状	症状	しょうじょう	しょ↱うじょ↴う	<span class="LH">しょ</span><span class="HL">うじょ</span><span class="L">う</span>	L-H-H-L	3	[noun, の adjective] symptoms;condition	N3 (lower intermediate)	Common	27		症 しょう;状 じょう
@@ -10554,7 +10554,7 @@
 10554	理	整理	せいり	せ↴いり	<span class="HL">せ</span><span class="L">いり</span>	H-L-L	1	[noun, する verb] sorting;arrangement;organization;putting in order;adjustment;regulation;liquidation	N3 (lower intermediate)	Very common	13	を(86%),に(14%)	整 せい;理 り
 10555	理	理論	りろん	り↴ろん	<span class="HL">り</span><span class="L">ろん</span>	H-L-L	1	[noun] theory	N1 (advanced)	Very common	20		理 り;論 ろん
 10556	理	理想	りそう	り↱そう	<span class="LH">り</span><span class="H">そう</span>	L-H-H	0	[noun, の adjective] ideal;dream	N3 (lower intermediate)	Very common			理 り;想 そう
-10557	理	無理	むり	む↴り	<span class="HL">む</span><span class="L">り</span>	H-L	1	[な adjective, noun, する verb] unreasonable;impossible;overdoing	N4 (basic)	Very common		が	無 む;理 り
+10557	理	無理	むり	む↴り	<span class="HL">む</span><span class="L">り</span>	H-L	1	[な adjective, noun, する verb] unreasonable;impossible;overdoing	N4 (basic)	Very common	17	が	無 む;理 り
 10558	理	修理	しゅうり	しゅ↴うり	<span class="HL">しゅ</span><span class="L">うり</span>	H-L-L	1	[noun, する verb, の adjective] repairing;mending;servicing	N3 (lower intermediate)	Common	28	を	修 しゅう;理 り
 10559	理	理不尽	りふじん	り↱ふ↴じん	<span class="LH">り</span><span class="HL">ふ</span><span class="L">じん</span>	L-H-L-L	2	[な adjective, noun] unreasonable;irrational;outrageous;absurd		Common	48		理 り;不 ふ;尽 じん
 10560	理	審理	しんり	し↴んり	<span class="HL">し</span><span class="L">んり</span>	H-L-L	1	[noun, する verb] trial		Rare		が	審 しん;理 り
@@ -10709,7 +10709,7 @@
 10709	用	利用	りよう	り↱よう	<span class="LH">り</span><span class="H">よう</span>	L-H-H	0	[noun, する verb] use;utilization;utilisation;application	N4 (basic)	Very common		を(70%),に(30%)	利 り;用 よう
 10710	用	採用	さいよう	さ↱いよう	<span class="LH">さ</span><span class="H">いよう</span>	L-H-H-H	0	[noun, する verb] {1} use;adoption;acceptance;{2} appointment;employment;engagement;recruitment	N1 (advanced)	Common	32	を	採 さい;用 よう
 10711	用	運用	うんよう	う↱んよう	<span class="LH">う</span><span class="H">んよう</span>	L-H-H-H	0	[noun, する verb] {1} making use of;application;practical use;investment;{2} operation	N1 (advanced)	Uncommon			運 うん;用 よう
-10712	用	用意	ようい	よ↴うい	<span class="HL">よ</span><span class="L">うい</span>	H-L-L	1	[noun, する verb] preparation;arrangements;provision;getting ready;laying out (e.g. a meal)	N4 (basic)	Very common		を	用 よう;意 い
+10712	用	用意	ようい	よ↴うい	<span class="HL">よ</span><span class="L">うい</span>	H-L-L	1	[noun, する verb] preparation;arrangements;provision;getting ready;laying out (e.g. a meal)	N4 (basic)	Very common	11	を	用 よう;意 い
 10713	用	登用	とうよう	と↱うよう	<span class="LH">と</span><span class="H">うよう</span>	L-H-H-H	0	[noun, する verb] appointment;assignment;promotion		Rare			登 とう;用 よう
 10714	用	利用者	りようしゃ	り↱よ↴うしゃ	<span class="LH">り</span></span><span class="HL">よ</span><span class="L">うしゃ</span>	L-H-L-L	2	[noun] user;end-user;consumer		Rare			利 り;用 よう;者 しゃ
 10715	用	活用	かつよう	か↱つよう	<span class="LH">か</span><span class="H">つよう</span>	L-H-H-H	0	[noun, する verb] {1} practical use;application;{2} (linguistics) conjugation;declension;inflection	N3 (lower intermediate)	Uncommon		に(60%),を(40%)	活 かつ;用 よう
@@ -10776,7 +10776,7 @@
 10776	由	経由	けいゆ	け↱いゆ	<span class="LH">け</span><span class="H">いゆ</span>	L-H-H	0	[adverbial noun] {1} through;by way of;via;[する verb] {2} to go via;to go by way of	N3 (lower intermediate)	Common		を	経 けい;由 ゆ
 10777	由	自由化	じゆうか	じ↱ゆうか	<span class="LH">じ</span><span class="H">ゆうか</span>	L-H-H-H	0	[noun, する verb] liberalization;liberalisation;freeing		Rare			自 じ;由 ゆう;化 か
 10778	由	由緒	ゆいしょ	ゆ↴いしょ	<span class="HL">ゆ</span><span class="L">いしょ</span>	H-L-L	1	[noun] history;pedigree;lineage		Uncommon			由 ゆい;緒 しょ
-10779	由	不自由	ふじゆう	ふ↴じゆう	<span class="HL">ふ</span><span class="L">じゆう</span>	H-L-L-L	1	[な adjective, noun, する verb] {1} discomfort;inconvenience;{2} poverty;want;destitution;{3} disability;impairment (physical, mental, etc.)	N3 (lower intermediate)	Common		に(67%),と(33%)	不 ふ;自 じ;由 ゆう
+10779	由	不自由	ふじゆう	ふ↴じゆう	<span class="HL">ふ</span><span class="L">じゆう</span>	H-L-L-L	1	[な adjective, noun, する verb] {1} discomfort;inconvenience;{2} poverty;want;destitution;{3} disability;impairment (physical, mental, etc.)	N3 (lower intermediate)	Common	9	に(67%),と(33%)	不 ふ;自 じ;由 ゆう
 10780	由	事由	じゆう	じ↱ゆう	<span class="LH">じ</span><span class="H">ゆう</span>	L-H-H	0	[noun] reason;cause		Rare			事 じ;由 ゆう
 10781	甲	甲板	かんぱん	か↱んぱん	<span class="LH">か</span><span class="H">んぱん</span>	L-H-H-H	0	[noun] deck (of a ship)		Very common			甲 かん;板 ぱん
 10782	甲	装甲	そうこう	そ↱うこう	<span class="LH">そ</span><span class="H">うこう</span>	L-H-H-H	0	[noun, の adjective] armored;armoured		Common			装 そう;甲 こう
@@ -11651,7 +11651,7 @@
 11651	神	神聖	しんせい	し↱んせい	<span class="LH">し</span><span class="H">んせい</span>	L-H-H-H	0	[な adjective, noun] holiness;sacredness;dignity	N1 (advanced)	Common	34		神 しん;聖 せい
 11652	神	精神的	せいしんてき	せ↱いしんてき	<span class="LH">せ</span><span class="H">いしんてき</span>	L-H-H-H-H-H	0	[な adjective] mental;emotional		Very common	30		精 せい;神 しん;的 てき
 11653	神	神殿	しんでん	し↱んでん	<span class="LH">し</span><span class="H">んでん</span>	L-H-H-H	0	[noun] temple;sacred place;shrine;sanctuary;tabernacle	N1 (advanced)	Very common			神 しん;殿 でん
-11654	神	女神	めがみ	め↴がみ	<span class="HL">め</span><span class="L">がみ</span>	H-L-L	1	[noun] goddess;female deity		Very common			女 め;神 がみ
+11654	神	女神	めがみ	め↴がみ	<span class="HL">め</span><span class="L">がみ</span>	H-L-L	1	[noun] goddess;female deity		Very common	13		女 め;神 がみ
 11655	神	神様	かみさま	か↴みさま	<span class="HL">か</span><span class="L">みさま</span>	H-L-L-L	1	[noun] God	N2 (intermediate)	Very common			神 かみ;様 さま
 11656	神	神経	しんけい	し↴んけい	<span class="HL">し</span><span class="L">んけい</span>	H-L-L-L	1	[noun] nerve;sensitivity	N3 (lower intermediate)	Very common			神 しん;経 けい
 11657	神	神学	しんがく	し↱んがく	<span class="LH">し</span><span class="H">んがく</span>	L-H-H-H	0	[noun, の adjective] theology		Uncommon			神 しん;学 がく
@@ -12625,7 +12625,7 @@
 12625	考	考察	こうさつ	こ↱うさつ	<span class="LH">こ</span><span class="H">うさつ</span>	L-H-H-H	0	[noun, する verb] consideration;inquiry;enquiry;investigation;study		Uncommon		を(75%),に(25%)	考 こう;察 さつ
 12626	考	思考	しこう	し↱こう	<span class="LH">し</span><span class="H">こう</span>	L-H-H	0	[noun, する verb, の adjective] thought;consideration;thinking	N1 (advanced)	Very common			思 し;考 こう
 12627	考	選考	せんこう	せ↱んこう	<span class="LH">せ</span><span class="H">んこう</span>	L-H-H-H	0	[noun, する verb] selection;screening	N1 (advanced)	Rare			選 せん;考 こう
-12628	考	考古学	こうこがく	こ↱うこ↴がく	<span class="LH">こ</span><span class="HL">うこ</span><span class="L">がく</span>	L-H-H-L-L	3	[noun, の adjective] archaeology;archeology	N1 (advanced)	Rare			考 こう;古 こ;学 がく
+12628	考	考古学	こうこがく	こ↱うこ↴がく	<span class="LH">こ</span><span class="HL">うこ</span><span class="L">がく</span>	L-H-H-L-L	3	[noun, の adjective] archaeology;archeology	N1 (advanced)	Rare	7		考 こう;古 こ;学 がく
 12629	考	考証	こうしょう	こ↱うしょう	<span class="LH">こ</span><span class="H">うしょう</span>	L-H-H-H	0	[noun, する verb] (historical) investigation		Rare			考 こう;証 しょう
 12630	考	備考	びこう	び↱こう	<span class="LH">び</span><span class="H">こう</span>	L-H-H	0	[noun] note;remarks;NB		Rare			備 び;考 こう
 12631	考	参考書	さんこうしょ	さ↱んこうしょ↴	<span class="LH">さ</span><span class="HL">んこうしょ</span>	L-H-H-H-H-(L)	5	[noun] reference book		Rare			参 さん;考 こう;書 しょ
@@ -12809,7 +12809,7 @@
 12809	背	背番号	せばんごう	せ↱ば↴んごう	<span class="LH">せ</span><span class="HL">ば</span><span class="L">んごう</span>	L-H-L-L-L	2	[noun] number on player's back		Rare			背 せ;番 ばん;号 ごう
 12810	背	背景	はいけい	は↱いけい	<span class="LH">は</span><span class="H">いけい</span>	L-H-H-H	0	[noun] {1} background;scenery;backdrop;setting;circumstance;context;{2} backing;support (from behind the scenes)	N1 (advanced)	Very common	30		背 はい;景 けい
 12811	背	背中	せなか	せ↱なか	<span class="LH">せ</span><span class="H">なか</span>	L-H-H	0	[noun] back (of body)	N4 (basic)	Very common	32		背 せ;中 なか
-12812	背	背後	はいご	は↴いご	<span class="HL">は</span><span class="L">いご</span>	H-L-L	1	[noun, の adjective] {1} back;rear;{2} background;behind the scenes	N1 (advanced)	Very common			背 はい;後 ご
+12812	背	背後	はいご	は↴いご	<span class="HL">は</span><span class="L">いご</span>	H-L-L	1	[noun, の adjective] {1} back;rear;{2} background;behind the scenes	N1 (advanced)	Very common	30		背 はい;後 ご
 12813	背	猫背	ねこぜ	ね↱こ↴ぜ	<span class="LH">ね</span><span class="HL">こ</span><span class="L">ぜ</span>	L-H-L	2	[noun, の adjective] bent back;hunchback;stoop		Rare			猫 ねこ;背 ぜ
 12814	背	背骨	せぼね	せ↱ぼね	<span class="LH">せ</span><span class="H">ぼね</span>	L-H-H	0	[noun, の adjective] spine;backbone;spinal column		Uncommon			背 せ;骨 ぼね
 12815	胎	胎児	たいじ	た↴いじ	<span class="HL">た</span><span class="L">いじ</span>	H-L-L	1	[noun, の adjective] fetus;foetus;embryo;unborn child		Uncommon			胎 たい;児 じ
@@ -12946,12 +12946,12 @@
 12946	自	自発的	じはつてき	じ↱はつてき	<span class="LH">じ</span><span class="H">はつてき</span>	L-H-H-H-H	0	[な adjective] spontaneous;voluntary		Uncommon			自 じ;発 はつ;的 てき
 12947	自	自主的	じしゅてき	じ↱しゅてき	<span class="LH">じ</span><span class="H">しゅてき</span>	L-H-H-H	0	[な adjective] independent;autonomous;voluntary;of one's own initiative;unilateral		Rare			自 じ;主 しゅ;的 てき
 12948	自	自然界	しぜんかい	し↱ぜ↴んかい	<span class="LH">し</span><span class="HL">ぜ</span><span class="L">んかい</span>	L-H-L-L-L	2	[noun] nature;the natural world;realm of nature		Rare			自 し;然 ぜん;界 かい
-12949	自	自在	じざい	じ↱ざい	<span class="LH">じ</span><span class="H">ざい</span>	L-H-H	0	[な adjective, noun, の adjective] freely;at will	N1 (advanced)	Common			自 じ;在 ざい
+12949	自	自在	じざい	じ↱ざい	<span class="LH">じ</span><span class="H">ざい</span>	L-H-H	0	[な adjective, noun, の adjective] freely;at will	N1 (advanced)	Common	20		自 じ;在 ざい
 12950	自	自動化	じどうか	じ↱どうか	<span class="LH">じ</span><span class="H">どうか</span>	L-H-H-H	0	[noun, する verb] automation		Rare			自 じ;動 どう;化 か
 12951	自	自前	じまえ	じ↱まえ	<span class="LH">じ</span><span class="H">まえ</span>	L-H-H	0	[noun, の adjective] {1} taking care of one's responsibilities by oneself;one's own efforts;one's own expense;{2} going into business for oneself (selling one's own products);entrepreneur of such a business		Rare			自 じ;前 まえ
 12952	自	自治権	じちけん	じ↱ち↴けん	<span class="LH">じ</span><span class="HL">ち</span><span class="L">けん</span>	L-H-L-L	2	[noun] autonomy;right of self-government		Rare			自 じ;治 ち;権 けん
 12953	自	自白	じはく	じ↱はく	<span class="LH">じ</span><span class="H">はく</span>	L-H-H	0	[noun, する verb] confession;acknowledgement;acknowledgment		Uncommon			自 じ;白 はく
-12954	自	不自由	ふじゆう	ふ↴じゆう	<span class="HL">ふ</span><span class="L">じゆう</span>	H-L-L-L	1	[な adjective, noun, する verb] {1} discomfort;inconvenience;{2} poverty;want;destitution;{3} disability;impairment (physical, mental, etc.)	N3 (lower intermediate)	Common		に(67%),と(33%)	不 ふ;自 じ;由 ゆう
+12954	自	不自由	ふじゆう	ふ↴じゆう	<span class="HL">ふ</span><span class="L">じゆう</span>	H-L-L-L	1	[な adjective, noun, する verb] {1} discomfort;inconvenience;{2} poverty;want;destitution;{3} disability;impairment (physical, mental, etc.)	N3 (lower intermediate)	Common	9	に(67%),と(33%)	不 ふ;自 じ;由 ゆう
 12955	自	各自	かくじ	か↴くじ	<span class="HL">か</span><span class="L">くじ</span>	H-L-L	1	[adverbial noun, temporal noun] individual;each	N2 (intermediate)	Common	22		各 かく;自 じ
 12956	自	自決	じけつ	じ↱けつ	<span class="LH">じ</span><span class="H">けつ</span>	L-H-H	0	[noun, する verb] {1} self-determination;{2} suicide		Uncommon	8		自 じ;決 けつ
 12957	自	自衛官	じえいかん	じ↱え↴いかん	<span class="LH">じ</span><span class="HL">え</span><span class="L">いかん</span>	L-H-L-L-L	2	[noun] (Japanese) Self Defense Force member (Defence)		Rare			自 じ;衛 えい;官 かん
@@ -13023,7 +13023,7 @@
 13023	船	船体	せんたい	せ↱んたい	<span class="LH">せ</span><span class="H">んたい</span>	L-H-H-H	0	[noun] hull		Common			船 せん;体 たい
 13024	船	艦船	かんせん	か↱んせん	<span class="LH">か</span><span class="H">んせん</span>	L-H-H-H	0	[noun] (ocean) vessels;warship		Rare	41		艦 かん;船 せん
 13025	船	船長	せんちょう	せ↴んちょう	<span class="HL">せ</span><span class="L">んちょう</span>	H-L-L-L	1	[noun] ship's captain		Very common			船 せん;長 ちょう
-13026	船	船員	せんいん	せ↱んいん	<span class="LH">せ</span><span class="H">んいん</span>	L-H-H-H	0	[noun, の adjective] sailor		Common			船 せん;員 いん
+13026	船	船員	せんいん	せ↱んいん	<span class="LH">せ</span><span class="H">んいん</span>	L-H-H-H	0	[noun, の adjective] sailor		Common	12		船 せん;員 いん
 13027	船	漁船	ぎょせん	ぎょ↱せん	<span class="LH">ぎょ</span><span class="H">せん</span>	L-H-H	0	[noun] fishing boat	N1 (advanced)	Uncommon	37		漁 ぎょ;船 せん
 13028	船	船橋	ふなばし	ふ↱なばし	<span class="LH">ふ</span></span><span class="H">なばし</span>	L-H-H-H	0	[noun] pontoon bridge;temporary bridge made using ships		Uncommon			船 ふな;橋 ばし
 13029	船	帆船	はんせん	は↱んせん	<span class="LH">は</span><span class="H">んせん</span>	L-H-H-H	0	[noun] sailing ship;sailing boat;sailing vessel		Uncommon			帆 はん;船 せん
@@ -13401,7 +13401,7 @@
 13401	衝	折衝	せっしょう	せ↱っしょう	<span class="LH">せ</span><span class="H">っしょう</span>	L-H-H-H	0	[noun, する verb] negotiation		Rare			折 せっ;衝 しょう
 13402	衡	均衡	きんこう	き↱んこう	<span class="LH">き</span><span class="H">んこう</span>	L-H-H-H	0	[noun, する verb] equilibrium;balance	N1 (advanced)	Uncommon			均 きん;衡 こう
 13403	衡	平衡	へいこう	へ↱いこう	<span class="LH">へ</span><span class="H">いこう</span>	L-H-H-H	0	[noun, する verb] even scale;equilibrium;balance;equalization;equalisation		Rare			平 へい;衡 こう
-13404	衣	衣服	いふく	い↴ふく	<span class="HL">い</span><span class="L">ふく</span>	H-L-L	1	[noun] clothes	N3 (lower intermediate)	Very common			衣 い;服 ふく
+13404	衣	衣服	いふく	い↴ふく	<span class="HL">い</span><span class="L">ふく</span>	H-L-L	1	[noun] clothes	N3 (lower intermediate)	Very common	41		衣 い;服 ふく
 13405	衣	衣装	いしょう	い↴しょう	<span class="HL">い</span><span class="L">しょう</span>	H-L-L	1	[noun] clothing;costume;outfit;garment;dress	N1 (advanced)	Very common			衣 い;装 しょう
 13406	衣	衣類	いるい	い↴るい	<span class="HL">い</span><span class="L">るい</span>	H-L-L	1	[noun, の adjective] clothes;clothing;garments	N1 (advanced)	Common			衣 い;類 るい
 13407	衣	浴衣	ゆかた	ゆ↱かた	<span class="LH">ゆ</span><span class="H">かた</span>	L-H-H	0	[noun] yukata (light cotton kimono worn in the summer or used as a bathrobe)	N2 (intermediate)	Common	43		
@@ -13412,7 +13412,7 @@
 13412	表	代表	だいひょう	だ↱いひょう	<span class="LH">だ</span><span class="H">いひょう</span>	L-H-H-H	0	[noun, する verb, の adjective] representative;representation;delegation;type;example;model	N3 (lower intermediate)	Very common		を	代 だい;表 ひょう
 13413	表	表記	ひょうき	ひょ↴うき	<span class="HL">ひょ</span><span class="L">うき</span>	H-L-L	1	[noun, する verb, の adjective] {1} writing on the surface (e.g. an address on an envelope);inscribing on the face;{2} expression in writing;notation;surface form;transcription		Uncommon		と	表 ひょう;記 き
 13414	表	表示	ひょうじ	ひょ↱うじ	<span class="LH">ひょ</span><span class="H">うじ</span>	L-H-H	0	[noun, する verb] {1} indication;expression;showing;manifestation;demonstration;{2} (computer term) display;displaying;{3} (physics) representation		Common		に(63%),を(25%),が(13%)	表 ひょう;示 じ
-13415	表	表情	ひょうじょう	ひょ↱うじょ↴う	<span class="LH">ひょ</span><span class="HL">うじょ</span><span class="L">う</span>	L-H-H-L	3	[noun] facial expression;countenance	N3 (lower intermediate)	Very common			表 ひょう;情 じょう
+13415	表	表情	ひょうじょう	ひょ↱うじょ↴う	<span class="LH">ひょ</span><span class="HL">うじょ</span><span class="L">う</span>	L-H-H-L	3	[noun] facial expression;countenance	N3 (lower intermediate)	Very common	13		表 ひょう;情 じょう
 13416	表	表面	ひょうめん	ひょ↱うめ↴ん	<span class="LH">ひょ</span><span class="HL">うめ</span><span class="L">ん</span>	L-H-H-L	3	[noun] surface;outside;face;appearance	N3 (lower intermediate)	Very common			表 ひょう;面 めん
 13417	表	表紙	ひょうし	ひょ↱うし↴	<span class="LH">ひょ</span><span class="HL">うし</span>	L-H-H-(L)	3	[noun] front cover;binding	N2 (intermediate)	Common			表 ひょう;紙 し
 13418	表	表彰	ひょうしょう	ひょ↱うしょう	<span class="LH">ひょ</span><span class="H">うしょう</span>	L-H-H-H	0	[noun, する verb] public acknowledgment;public acknowledgement;public recognition;commendation;awarding		Rare	50		表 ひょう;彰 しょう
@@ -13642,7 +13642,7 @@
 13642	覧	展覧会	てんらんかい	て↱んら↴んかい	<span class="LH">て</span><span class="HL">んら</span><span class="L">んかい</span>	L-H-H-L-L-L	3	[noun] exhibition	N4 (basic)	Uncommon			展 てん;覧 らん;会 かい
 13643	覧	一覧	いちらん	い↱ちらん	<span class="LH">い</span><span class="H">ちらん</span>	L-H-H-H	0	[noun, する verb] {1} look;glance;sight;inspection;[noun] {2} summary;list;table;catalog;catalogue		Rare	30		一 いち;覧 らん
 13644	覧	閲覧	えつらん	え↱つらん	<span class="LH">え</span><span class="H">つらん</span>	L-H-H-H	0	[noun, する verb] {1} inspection;reading;{2} (computer term) browsing (the WWW, Internet);web browsing	N1 (advanced)	Rare			閲 えつ;覧 らん
-13645	覧	博覧会	はくらんかい	は↱くら↴んかい	<span class="LH">は</span><span class="HL">くら</span><span class="L">んかい</span>	L-H-H-L-L-L	3	[noun] fair;exhibition;exposition		Rare	28		博 はく;覧 らん;会 かい
+13645	覧	博覧会	はくらんかい	は↱くら↴んかい	<span class="LH">は</span><span class="HL">くら</span><span class="L">んかい</span>	L-H-H-L-L-L	3	[noun] fair;exhibition;exposition		Rare	30		博 はく;覧 らん;会 かい
 13646	親	両親	りょうしん	りょ↴うしん	<span class="HL">りょ</span><span class="L">うしん</span>	H-L-L-L	1	[noun] parents;both parents	N5 (beginner)	Very common			両 りょう;親 しん
 13647	親	父親	ちちおや	ち↱ちおや	<span class="LH">ち</span><span class="H">ちおや</span>	L-H-H-H	0	[noun] father	N3 (lower intermediate)	Very common	12		父 ちち;親 おや
 13648	親	母親	ははおや	は↱はおや	<span class="LH">は</span><span class="H">はおや</span>	L-H-H-H	0	[noun, の adjective] mother	N3 (lower intermediate)	Very common	12		母 はは;親 おや
@@ -13800,7 +13800,7 @@
 13800	記	前記	ぜんき	ぜ↴んき	<span class="HL">ぜ</span><span class="L">んき</span>	H-L-L	1	[noun, の adjective] aforesaid;above-mentioned;said;above		Uncommon			前 ぜん;記 き
 13801	記	記入	きにゅう	き↱にゅう	<span class="LH">き</span><span class="H">にゅう</span>	L-H-H	0	[noun, する verb] entry;filling in of forms	N3 (lower intermediate)	Uncommon		に(55%),を(45%)	記 き;入 にゅう
 13802	記	手記	しゅき	しゅ↴き	<span class="HL">しゅ</span><span class="L">き</span>	H-L	1	[noun, する verb] note;memorandum		Common			手 しゅ;記 き
-13803	記	記念日	きねんび	き↱ね↴んび	<span class="LH">き</span><span class="HL">ね</span><span class="L">んび</span>	L-H-L-L	2	[noun] holiday;anniversary;memorial day		Rare			記 き;念 ねん;日 び
+13803	記	記念日	きねんび	き↱ね↴んび	<span class="LH">き</span><span class="HL">ね</span><span class="L">んび</span>	L-H-L-L	2	[noun] holiday;anniversary;memorial day		Rare	16		記 き;念 ねん;日 び
 13804	記	書記	しょき	しょ↱き	<span class="LH">しょ</span><span class="H">き</span>	L-H	0	[noun, する verb, の adjective] clerk;secretary		Common			書 しょ;記 き
 13805	記	記録的	きろくてき	き↱ろくてき	<span class="LH">き</span><span class="H">ろくてき</span>	L-H-H-H-H	0	[な adjective] record(-setting)		Rare			記 き;録 ろく;的 てき
 13806	訟	訴訟	そしょう	そ↱しょう	<span class="LH">そ</span><span class="H">しょう</span>	L-H-H	0	[noun, する verb, の adjective] litigation;lawsuit	N1 (advanced)	Uncommon	25		訴 そ;訟 しょう
@@ -13842,7 +13842,7 @@
 13842	訴	告訴	こくそ	こ↴くそ	<span class="HL">こ</span><span class="L">くそ</span>	H-L-L	1	[noun, する verb, の adjective] accusation;complaint;charge;legal action		Uncommon	25	で(67%),を(33%)	告 こく;訴 そ
 13843	訴	敗訴	はいそ	は↴いそ	<span class="HL">は</span><span class="L">いそ</span>	H-L-L	1	[noun, する verb] loss of a court-case		Rare			敗 はい;訴 そ
 13844	訴	勝訴	しょうそ	しょ↴うそ	<span class="HL">しょ</span><span class="L">うそ</span>	H-L-L	1	[noun, する verb] winning a lawsuit		Rare			勝 しょう;訴 そ
-13845	診	診断	しんだん	し↱んだん	<span class="LH">し</span><span class="H">んだん</span>	L-H-H-H	0	[noun, する verb, の adjective] diagnosis;medical examination	N2 (intermediate)	Uncommon	28	と(67%),を(33%)	診 しん;断 だん
+13845	診	診断	しんだん	し↱んだん	<span class="LH">し</span><span class="H">んだん</span>	L-H-H-H	0	[noun, する verb, の adjective] diagnosis;medical examination	N2 (intermediate)	Uncommon	29	と(67%),を(33%)	診 しん;断 だん
 13846	診	診療所	しんりょうしょ	し↱んりょうしょ	<span class="LH">し</span></span><span class="H">んりょうしょ</span>	L-H-H-H-H	0	[noun] (medical) clinic		Uncommon			診 しん;療 りょう;所 しょ
 13847	診	打診	だしん	だ↱しん	<span class="LH">だ</span><span class="H">しん</span>	L-H-H	0	[noun, する verb] {1} (med) percussion;tapping;{2} sounding someone out		Rare		に(50%),を(50%)	打 だ;診 しん
 13848	診	診察	しんさつ	し↱んさつ	<span class="LH">し</span><span class="H">んさつ</span>	L-H-H-H	0	[noun, する verb] medical examination	N3 (lower intermediate)	Common	29	に(50%),を(43%),で(7%)	診 しん;察 さつ
@@ -13864,7 +13864,7 @@
 13864	証	保証人	ほしょうにん	ほ↱しょうにん	<span class="LH">ほ</span><span class="H">しょうにん</span>	L-H-H-H-H	0	[noun] guarantor;bondsman		Rare			保 ほ;証 しょう;人 にん
 13865	詐	詐欺	さぎ	さ↴ぎ	<span class="HL">さ</span><span class="L">ぎ</span>	H-L	1	[noun, の adjective] fraud;swindle;graft;cheating;trick;scam	N1 (advanced)	Uncommon	47		詐 さ;欺 ぎ
 13866	詔	詔書	しょうしょ	しょ↱うしょ	<span class="LH">しょ</span><span class="H">うしょ</span>	L-H-H	0	[noun] imperial edict;decree		Rare			詔 しょう;書 しょ
-13867	評	評価	ひょうか	ひょ↴うか	<span class="HL">ひょ</span><span class="L">うか</span>	H-L-L	1	[noun] {1} valuation;estimation;assessment;evaluation;[する verb] {2} to value;to assess;to estimate value;{3} to appreciate;to value highly;to acknowledge the value (of something)	N3 (lower intermediate)	Very common	21	に(50%),を(39%),で(6%),と(6%)	評 ひょう;価 か
+13867	評	評価	ひょうか	ひょ↴うか	<span class="HL">ひょ</span><span class="L">うか</span>	H-L-L	1	[noun] {1} valuation;estimation;assessment;evaluation;[する verb] {2} to value;to assess;to estimate value;{3} to appreciate;to value highly;to acknowledge the value (of something)	N3 (lower intermediate)	Very common	22	に(50%),を(39%),で(6%),と(6%)	評 ひょう;価 か
 13868	評	好評	こうひょう	こ↱うひょう	<span class="LH">こ</span><span class="H">うひょう</span>	L-H-H-H	0	[noun, な adjective, の adjective] popularity;favorable reputation;favourable reputation	N1 (advanced)	Uncommon			好 こう;評 ひょう
 13869	評	評判	ひょうばん	ひょ↱うばん	<span class="LH">ひょ</span><span class="H">うばん</span>	L-H-H-H	0	[noun, の adjective] {1} fame;reputation;popularity;{2} rumour (rumor);talk	N3 (lower intermediate)	Very common	21		評 ひょう;判 ばん
 13870	評	定評	ていひょう	て↱いひょう	<span class="LH">て</span><span class="H">いひょう</span>	L-H-H-H	0	[noun] established opinion;established reputation;acknowledged authority;recognized scholar		Rare			定 てい;評 ひょう
@@ -14160,7 +14160,7 @@
 14160	譜	楽譜	がくふ	が↱くふ	<span class="LH">が</span><span class="H">くふ</span>	L-H-H	0	[noun] score (music);sheet music	N1 (advanced)	Uncommon			楽 がく;譜 ふ
 14161	譜	譜面	ふめん	ふ↱めん	<span class="LH">ふ</span><span class="H">めん</span>	L-H-H	0	[noun] (written) music		Rare			譜 ふ;面 めん
 14162	譜	年譜	ねんぷ	ね↱んぷ	<span class="LH">ね</span><span class="H">んぷ</span>	L-H-H	0	[noun] chronological record		Rare			年 ねん;譜 ぷ
-14163	警	警告	けいこく	け↱いこく	<span class="LH">け</span><span class="H">いこく</span>	L-H-H-H	0	[noun, する verb, の adjective] warning;advice	N3 (lower intermediate)	Very common		と(38%),に(38%),を(24%)	警 けい;告 こく
+14163	警	警告	けいこく	け↱いこく	<span class="LH">け</span><span class="H">いこく</span>	L-H-H-H	0	[noun, する verb, の adjective] warning;advice	N3 (lower intermediate)	Very common	18	と(38%),に(38%),を(24%)	警 けい;告 こく
 14164	警	警察	けいさつ	け↱いさつ	<span class="LH">け</span><span class="H">いさつ</span>	L-H-H-H	0	[noun, の adjective] police	N4 (basic)	Very common	17		警 けい;察 さつ
 14165	警	警察署	けいさつしょ	け↱いさつしょ↴	<span class="LH">け</span><span class="HL">いさつしょ</span>	L-H-H-H-H-(L)	5	[noun] police station		Common	19		警 けい;察 さつ;署 しょ
 14166	警	警戒	けいかい	け↱いかい	<span class="LH">け</span><span class="H">いかい</span>	L-H-H-H	0	[noun, の adjective] {1} vigilance;precaution;watch;lookout;alertness;[する verb] {2} to be vigilant;to be cautious;to guard (against)	N1 (advanced)	Very common	40	を(60%),に(40%)	警 けい;戒 かい
@@ -14930,7 +14930,7 @@
 14930	連	連作	れんさく	れ↱んさく	<span class="LH">れ</span><span class="H">んさく</span>	L-H-H-H	0	[noun, する verb] {1} planting a field with the same crop each year;repeated cultivation;{2} collaborative literary work;story made up by several writers working on it in turn		Rare			連 れん;作 さく
 14931	連	連戦	れんせん	れ↱んせん	<span class="LH">れ</span><span class="H">んせん</span>	L-H-H-H	0	[noun, する verb] series of battles		Rare			連 れん;戦 せん
 14932	連	連立	れんりつ	れ↱んりつ	<span class="LH">れ</span><span class="H">んりつ</span>	L-H-H-H	0	[noun, する verb, の adjective] alliance;coalition		Rare			連 れん;立 りつ
-14933	連	連日	れんじつ	れ↱んじつ	<span class="LH">れ</span><span class="H">んじつ</span>	L-H-H-H	0	[adverbial noun, temporal noun] every day;prolonged	N1 (advanced)	Common			連 れん;日 じつ
+14933	連	連日	れんじつ	れ↱んじつ	<span class="LH">れ</span><span class="H">んじつ</span>	L-H-H-H	0	[adverbial noun, temporal noun] every day;prolonged	N1 (advanced)	Common	19		連 れん;日 じつ
 14934	連	連名	れんめい	れ↱んめい	<span class="LH">れ</span><span class="H">んめい</span>	L-H-H-H	0	[noun] joint signature		Rare			連 れん;名 めい
 14935	連	連休	れんきゅう	れ↱んきゅう	<span class="LH">れ</span><span class="H">んきゅう</span>	L-H-H-H	0	[noun] consecutive holidays	N1 (advanced)	Rare			連 れん;休 きゅう
 14936	連	連峰	れんぽう	れ↱んぽう	<span class="LH">れ</span><span class="H">んぽう</span>	L-H-H-H	0	[noun] mountain range		Rare	50		連 れん;峰 ぽう
@@ -15179,7 +15179,7 @@
 15179	郡	郡部	ぐんぶ	ぐ↴んぶ	<span class="HL">ぐ</span><span class="L">んぶ</span>	H-L-L	1	[noun] rural districts;counties		Rare			郡 ぐん;部 ぶ
 15180	部	部品	ぶひん	ぶ↱ひん	<span class="LH">ぶ</span><span class="H">ひん</span>	L-H-H	0	[noun] parts;accessories;components	N2 (intermediate)	Common			部 ぶ;品 ひん
 15181	部	一部	いちぶ	い↱ち↴ぶ	<span class="LH">い</span><span class="HL">ち</span><span class="L">ぶ</span>	L-H-L	2	[adverbial noun, noun] {1} one part;one portion;one section;some;{2} one copy (e.g. of a document)	N1 (advanced)	Very common			一 いち;部 ぶ
-15182	部	部分	ぶぶん	ぶ↴ぶん	<span class="HL">ぶ</span><span class="L">ぶん</span>	H-L-L	1	[noun] portion;section;part	N3 (lower intermediate)	Very common			部 ぶ;分 ぶん
+15182	部	部分	ぶぶん	ぶ↴ぶん	<span class="HL">ぶ</span><span class="L">ぶん</span>	H-L-L	1	[noun] portion;section;part	N3 (lower intermediate)	Very common	9		部 ぶ;分 ぶん
 15183	部	南部	なんぶ	な↴んぶ	<span class="HL">な</span><span class="L">んぶ</span>	H-L-L	1	[noun] southern part;the south (of a region)		Common			南 なん;部 ぶ
 15184	部	部隊	ぶたい	ぶ↴たい	<span class="HL">ぶ</span><span class="L">たい</span>	H-L-L	1	[noun] force;unit;corps;echelon;element		Very common			部 ぶ;隊 たい
 15185	部	北部	ほくぶ	ほ↴くぶ	<span class="HL">ほ</span><span class="L">くぶ</span>	H-L-L	1	[noun, の adjective] northern part;the north (of a region)		Common			北 ほく;部 ぶ
@@ -15243,7 +15243,7 @@
 15243	都	都心	としん	と↱しん	<span class="LH">と</span><span class="H">しん</span>	L-H-H	0	[noun] city centre (center) (esp. capital city);urban centre;heart of city a metropolis	N2 (intermediate)	Uncommon			都 と;心 しん
 15244	都	都内	とない	と↴ない	<span class="HL">と</span><span class="L">ない</span>	H-L-L	1	[noun] metropolitan area		Common			都 と;内 ない
 15245	都	都営	とえい	と↱えい	<span class="LH">と</span><span class="H">えい</span>	L-H-H	0	[noun] operated by the metropolitan government		Rare			都 と;営 えい
-15246	都	都会	とかい	と↱かい	<span class="LH">と</span><span class="H">かい</span>	L-H-H	0	[noun, の adjective] city	N3 (lower intermediate)	Very common			都 と;会 かい
+15246	都	都会	とかい	と↱かい	<span class="LH">と</span><span class="H">かい</span>	L-H-H	0	[noun, の adjective] city	N3 (lower intermediate)	Very common	12		都 と;会 かい
 15247	都	不都合	ふつごう	ふ↱つ↴ごう	<span class="LH">ふ</span><span class="HL">つ</span><span class="L">ごう</span>	L-H-L-L	2	[な adjective, noun] inconvenience;inexpedience;trouble;harm;impropriety;wrongdoing		Uncommon			不 ふ;都 つ;合 ごう
 15248	都	古都	こと	こ↴と	<span class="HL">こ</span><span class="L">と</span>	H-L	1	[noun] ancient city;former capital		Rare			古 こ;都 と
 15249	都	都市化	としか	と↱しか	<span class="LH">と</span><span class="H">しか</span>	L-H-H	0	[noun, する verb] urbanization;urbanisation		Rare			都 と;市 し;化 か
@@ -16086,7 +16086,7 @@
 16086	面	斜面	しゃめん	しゃ↴めん	<span class="HL">しゃ</span><span class="L">めん</span>	H-L-L	1	[noun] slope;slanting surface;bevel	N1 (advanced)	Very common	48		斜 しゃ;面 めん
 16087	面	壁面	へきめん	へ↱きめん	<span class="LH">へ</span><span class="H">きめん</span>	L-H-H-H	0	[noun] surface of a wall		Common			壁 へき;面 めん
 16088	面	裏面	りめん	り↴めん	<span class="HL">り</span><span class="L">めん</span>	H-L-L	1	[noun] back;reverse;other side;inside;tails (of coins);background		Rare			裏 り;面 めん
-16089	面	顔面	がんめん	が↱んめん	<span class="LH">が</span><span class="H">んめん</span>	L-H-H-H	0	[noun, の adjective] face (of person)		Common	15		顔 がん;面 めん
+16089	面	顔面	がんめん	が↱んめん	<span class="LH">が</span><span class="H">んめん</span>	L-H-H-H	0	[noun, の adjective] face (of person)		Common	16		顔 がん;面 めん
 16090	面	覆面	ふくめん	ふ↱くめん	<span class="LH">ふ</span><span class="H">くめん</span>	L-H-H-H	0	[noun, する verb, の adjective] mask;veil;disguise	N1 (advanced)	Uncommon	49		覆 ふく;面 めん
 16091	面	方面	ほうめん	ほ↱うめ↴ん	<span class="LH">ほ</span><span class="HL">うめ</span><span class="L">ん</span>	L-H-H-L	3	[noun, noun used as a suffix] {1} direction;district;area;[noun] {2} field (e.g. of study)	N2 (intermediate)	Very common			方 ほう;面 めん
 16092	面	前面	ぜんめん	ぜ↱んめん	<span class="LH">ぜ</span><span class="H">んめん</span>	L-H-H-H	0	[noun] {1} front part;frontage;facade;{2} initial pledge (e.g. election);opening slogan		Uncommon	16		前 ぜん;面 めん
@@ -16252,7 +16252,7 @@
 16252	額	額縁	がくぶち	が↱くぶち	<span class="LH">が</span><span class="H">くぶち</span>	L-H-H-H	0	[noun] frame (e.g. picture frame, decorative door frame, etc.)		Rare			額 がく;縁 ぶち
 16253	顎	顎関節	がくかんせつ					[noun] jaw joint		Rare			顎 がく;関 かん;節 せつ
 16254	顔	笑顔	えがお	え↴がお	<span class="HL">え</span><span class="L">がお</span>	H-L-L	1	[noun, する verb] smiling face;smile	N3 (lower intermediate)	Very common	16		笑 え;顔 がお
-16255	顔	顔面	がんめん	が↱んめん	<span class="LH">が</span><span class="H">んめん</span>	L-H-H-H	0	[noun, の adjective] face (of person)		Common	15		顔 がん;面 めん
+16255	顔	顔面	がんめん	が↱んめん	<span class="LH">が</span><span class="H">んめん</span>	L-H-H-H	0	[noun, の adjective] face (of person)		Common	16		顔 がん;面 めん
 16256	顔	素顔	すがお	す↴がお	<span class="HL">す</span><span class="L">がお</span>	H-L-L	1	[noun, な adjective, の adjective] {1} face with no make-up;unpainted face;{2} honesty;frankness		Uncommon			素 す;顔 がお
 16257	顔	似顔絵	にがおえ	に↱がおえ	<span class="LH">に</span><span class="H">がおえ</span>	L-H-H-H	0	[noun] portrait;likeness		Rare			似 に;顔 がお;絵 え
 16258	顕	顕著	けんちょ	け↴んちょ	<span class="HL">け</span><span class="L">んちょ</span>	H-L-L	1	[な adjective, noun] remarkable;striking;obvious		Uncommon			顕 けん;著 ちょ
@@ -16283,7 +16283,7 @@
 16283	類	人類学	じんるいがく	じ↱んる↴いがく	<span class="LH">じ</span><span class="HL">んる</span><span class="L">いがく</span>	L-H-H-L-L-L	3	[noun] anthropology		Rare	20		人 じん;類 るい;学 がく
 16284	顧	顧客	こきゃく	こ↱きゃく	<span class="LH">こ</span><span class="H">きゃく</span>	L-H-H	0	[noun, の adjective] customer;client;patron		Uncommon			顧 こ;客 きゃく
 16285	顧	顧問	こもん	こ↴もん	<span class="HL">こ</span><span class="L">もん</span>	H-L-L	1	[noun, の adjective] adviser;advisor;consultant		Common	40		顧 こ;問 もん
-16286	風	台風	たいふう	た↱いふ↴う	<span class="LH">た</span><span class="HL">いふ</span><span class="L">う</span>	L-H-H-L	3	[noun] typhoon;hurricane	N4 (basic)	Common			台 たい;風 ふう
+16286	風	台風	たいふう	た↱いふ↴う	<span class="LH">た</span><span class="HL">いふ</span><span class="L">う</span>	L-H-H-L	3	[noun] typhoon;hurricane	N4 (basic)	Common	7		台 たい;風 ふう
 16287	風	風景	ふうけい	ふ↴うけい	<span class="HL">ふ</span><span class="L">うけい</span>	H-L-L-L	1	[noun, の adjective] scenery	N3 (lower intermediate)	Very common			風 ふう;景 けい
 16288	風	作風	さくふう	さ↱くふう	<span class="LH">さ</span><span class="H">くふう</span>	L-H-H-H	0	[noun] literary style		Rare			作 さく;風 ふう
 16289	風	風潮	ふうちょう	ふ↱うちょう	<span class="LH">ふ</span><span class="H">うちょう</span>	L-H-H-H	0	[noun] {1} tide;current;{2} tendency		Uncommon	43		風 ふう;潮 ちょう
@@ -16526,7 +16526,7 @@
 16526	魂	商魂	しょうこん	しょ↱うこん	<span class="LH">しょ</span><span class="H">うこん</span>	L-H-H-H	0	[noun] commercial spirit		Rare			商 しょう;魂 こん
 16527	魂	鎮魂	ちんこん	ち↱んこん	<span class="LH">ち</span><span class="H">んこん</span>	L-H-H-H	0	[noun, する verb] repose of souls		Rare			鎮 ちん;魂 こん
 16528	魅	魅了	みりょう	み↱りょう	<span class="LH">み</span><span class="H">りょう</span>	L-H-H	0	[noun] {1} fascination;[する verb] {2} to charm;to fascinate;to mesmerize		Uncommon		に(50%),を(42%),で(8%)	魅 み;了 りょう
-16529	魅	魅力	みりょく	み↱りょく	<span class="LH">み</span><span class="H">りょく</span>	L-H-H	0	[noun] charm;fascination;glamour;glamor;attraction;appeal	N3 (lower intermediate)	Very common	29		魅 み;力 りょく
+16529	魅	魅力	みりょく	み↱りょく	<span class="LH">み</span><span class="H">りょく</span>	L-H-H	0	[noun] charm;fascination;glamour;glamor;attraction;appeal	N3 (lower intermediate)	Very common	30		魅 み;力 りょく
 16530	魔	魔法	まほう	ま↱ほう	<span class="LH">ま</span><span class="H">ほう</span>	L-H-H	0	[noun] magic;witchcraft;sorcery		Very common	46		魔 ま;法 ほう
 16531	魔	悪魔	あくま	あ↴くま	<span class="HL">あ</span><span class="L">くま</span>	H-L-L	1	[noun] devil;demon;fiend;Satan;evil spirit	N3 (lower intermediate)	Very common	46		悪 あく;魔 ま
 16532	魔	魔女	まじょ	ま↴じょ	<span class="HL">ま</span><span class="L">じょ</span>	H-L	1	[noun, の adjective] witch		Very common	46		魔 ま;女 じょ

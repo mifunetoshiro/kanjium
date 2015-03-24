@@ -70,7 +70,7 @@ CONTENTS:
    This should cover the ambiguities in the database. Everything else is (hopefully) covered at http://igg.me/at/kanjiproject.
 
    * Other notes:<br />
-      * The following kanji have duplicate index numbers (RTK, KO): 𠮟,叱; 塡,填; 剝,剥; 頰,頬; 喻,喩; 籠,篭, and 𠮟 & 叱 also have identical frequency ranks<br />
+      * The following kanji have duplicate index numbers (RTK, KO): 𠮟,叱; 塡,填; 剝,剥; 頰,頬; 喻,喩; 籠,篭; 箋,䇳, and 𠮟 & 叱 also have identical frequency ranks<br />
       * It is very likely some kanji past the 6,355 mark (including the jouyou kanji 𠮟 above), radical variants and phonetics will not render on some mobile devices or even computers because the required fonts are not installed. For some cases, it is required to have the *HanaMinA* & *HanaMinB* (http://fonts.jp/hanazono/) (or similar) fonts installed! 3 phonetics and 1 kanji are not even encoded in Unicode (last 4 in the tables), and are assigned a Private Use Area code<br />
       * Onyomi words (e.g. 一 ichi) in the edict table are written with katakana, as opposed to hiragana in Jim Breen's EDICT/JMdict, thus they need to be converted before trying to synchronize with EDICT/JMdict<br />
       * */data/accent.css* is an example CSS file to properly render the pitch accent information<br />

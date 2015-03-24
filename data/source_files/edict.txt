@@ -7,7 +7,7 @@
 7	七	なな	七	な↴な	<span class="HL">な</span><span class="L">な</span>	H-L	1	{1} seven;[prefix] {2} hepta-	Primary school	N5 (beginner)	Very common*	1		
 8	七	ななつ	七つ	な↱な↴つ	<span class="LH">な</span><span class="HL">な</span><span class="L">つ</span>	L-H-L	2	seven	Primary school	N5 (beginner)	Common	1		
 9	七	なの	七					seven	Primary school		Very common*			
-10	万	マン	万					{1} 10,000;ten thousand;{2} myriad	Primary school	N5 (beginner)	Very common*			
+10	万	マン	万					{1} 10,000;ten thousand;{2} myriad	Primary school	N5 (beginner)	Very common*	3		
 11	万	バン	万					[adverb, prefix] many;all	Junior high school	N1 (advanced)	Very common*			
 12	丈	ジョウ	丈					[noun] {1} 3.03 meters (ten shaku);{2} length;measure;[suffix] {3} (honorific) Mr.;Mrs.	Junior high school		Very common*			
 13	丈	たけ	丈	た↱け↴	<span class="LH">た</span><span class="HL">け</span>	L-H-(L)	2	[noun] {1} height;stature;{2} length (esp. of clothing);{3} all (one has);everything;{4} magnificence (of a waka poem, etc.)	Junior high school	N1 (advanced)	Very common*	15		
@@ -53,7 +53,7 @@
 53	並	なみ	並	な↱み	<span class="LH">な</span><span class="H">み</span>	L-H	0	[noun, noun used as a suffix] {1} average;medium;common;ordinary;{2} line;row of (e.g. houses);{3} mid-grade;{4} same level;equal;each (e.g. month);set of (e.g. teeth)	Primary school		Common	28		
 54	並	ならびに	並びに	な↱らびに	<span class="LH">な</span><span class="H">らびに</span>	L-H-H-H	0	[conjunction] and (also);both ... and;as well as	Primary school	N1 (advanced)	Rare			
 55	並	ならび	並び	な↱らび	<span class="LH">な</span><span class="H">らび</span>	L-H-H	0	[noun] line;row;rank;list			Rare			
-56	中	ジュウ	中					[suffix] {1} through;throughout;in the course of;{2} all over or throughout (e.g. a place)			Very common			
+56	中	ジュウ	中					[suffix] {1} through;throughout;in the course of;{2} all over or throughout (e.g. a place)			Very common*			
 57	中	チュウ	中					[suffix] {1} medium;average;middle;{2} moderation;{3} (abbreviation) middle school;{4} (abbreviation) China;[noun used as a suffix] {5} in;out of (e.g. three out of ten people);{6} during (a certain time when one did or is doing something);under (construction, etc.);while	Primary school	N5 (beginner)	Very common*			
 58	中	なか	中	な↴か	<span class="HL">な</span><span class="L">か</span>	H-L	1	[noun] {1} inside;in;{2} among;within;{3} center (centre);middle;{4} during;while	Primary school	N5 (beginner)	Very common*	2		
 59	串	くし	串	く↱し↴	<span class="LH">く</span><span class="HL">し</span>	L-H-(L)	2	[noun] spit;skewer	High school		Uncommon			
@@ -129,8 +129,8 @@
 129	仏	ほとけ	仏	ほ↱とけ	<span class="LH">ほ</span><span class="H">とけ</span>	L-H-H	0	[noun] {1} Buddha;merciful person;Buddhist image;{2} the dead	Primary school	N2 (intermediate)	Very common*	15		
 130	仕	つかえる	仕える	つ↱かえ↴る	<span class="LH">つ</span><span class="HL">かえ</span><span class="L">る</span>	L-H-H-L	3	[ichidan verb, intransitive] to serve;to work for;to attend	Primary school	N4 (basic)	Very common		に	v1
 131	仕	シ	仕					[noun] official;civil service	Primary school		Uncommon			
-132	他	タ	他					[adverbial noun, noun, の adjective] other (esp. people and abstract matters)	Primary school	N3 (lower intermediate)	Very common			
-133	他	ほか	他	ほ↱か	<span class="LH">ほ</span><span class="H">か</span>	L-H	0	[の adjective, noun, adverbial noun] other (esp. places and things);the rest		N3 (lower intermediate)	Very common	4		
+132	他	タ	他					[adverbial noun, noun, の adjective] other (esp. people and abstract matters)	Primary school	N3 (lower intermediate)	Very common*			
+133	他	ほか	他	ほ↱か	<span class="LH">ほ</span><span class="H">か</span>	L-H	0	[の adjective, noun, adverbial noun] other (esp. places and things);the rest		N3 (lower intermediate)	Very common*	4		
 134	付	つく	付く	つ↴く	<span class="HL">つ</span><span class="L">く</span>	H-L	1	[godan verb, intransitive] {1} to be attached;to be connected with;to adhere;to stick;to cling;{2} to remain imprinted;to scar;to stain;to dye;{3} to bear (fruit, interest, etc.);{4} to be acquired (of a habit, ability, etc.);to increase (of strength, etc.);{5} to take root;{6} to accompany;to attend;to follow;to study with;{7} to side with;to belong to;{8} to possess;to haunt;{9} to be lit;to be lighted;{10} to be settled;to be resolved;to be decided;{11} to be given (of a name, price, etc.);{12} to be sensed;to be perceived;{13} to be lucky;[suffix] {14} (after -masu stems, onomatopoeic and mimetic words) to become (a state, condition, etc.)	Primary school	N3 (lower intermediate)	Very common	9	が(42%),に(39%),を(20%)	v5
 135	付	つける	付ける	つ↱け↴る	<span class="LH">つ</span><span class="HL">け</span><span class="L">る</span>	L-H-L	2	[ichidan verb, transitive] {1} to attach;to join;to add;to append;to affix;to stick;to glue;to fasten;to sew on;to apply (ointment);{2} to furnish (a house with);{3} to wear;to put on;{4} to keep a diary;to make an entry;{5} to appraise;to set (a price);{6} to bring alongside;{7} to place (under guard or doctor);{8} to follow;to shadow;{9} to load;to give (courage to);{10} to keep (an eye on);{11} to establish (relations or understanding);{12} to turn on (light)	Primary school	N3 (lower intermediate)	Very common	7	を(76%),が(15%),に(9%)	v1
 136	仙	セン	仙					[noun] hermit;wizard	Junior high school	N1 (advanced)	Very common			
@@ -162,10 +162,10 @@
 162	休	きゅうする	休する	きゅ↱うす↴る	<span class="LH">きゅ</span><span class="HL">うす</span><span class="L">る</span>	L-H-H-L	3	[special する verb, intransitive] {1} to come to an end;{2} to rest			Rare			vsi
 163	会	あう	会う	あ↴う	<span class="HL">あ</span><span class="L">う</span>	H-L	1	[godan verb, intransitive] {1} to meet;to encounter;{2} to have an accident;to have a bad experience	Primary school	N5 (beginner)	Very common	5	に(83%),で(9%),と(8%)	v5
 164	会	エ	会					[noun] (archaism) gathering (esp. Buddhist, festive, etc.)	High school	N1 (advanced)	Very common*			
-165	会	カイ	会					[noun, noun used as a suffix] {1} meeting;assembly;party;{2} association;club	Primary school	N3 (lower intermediate)	Very common*			
+165	会	カイ	会					[noun, noun used as a suffix] {1} meeting;assembly;party;{2} association;club	Primary school	N3 (lower intermediate)	Very common*	5		
 166	伝	つたえる	伝える	つ↱たえる	<span class="LH">つ</span><span class="H">たえる</span>	L-H-H-H	0	[ichidan verb, transitive] to convey;to report;to transmit;to communicate;to tell;to impart;to propagate;to teach;to bequeath	Primary school	N3 (lower intermediate)	Very common	11	を(51%),に(35%),と(14%)	v1
 167	伝	つたわる	伝わる	つ↱たわる	<span class="LH">つ</span><span class="H">たわる</span>	L-H-H-H	0	[godan verb, intransitive] to be handed down;to be introduced;to be transmitted;to be circulated;to go along;to walk along	Primary school	N2 (intermediate)	Very common	13	に(75%),を(25%)	v5
-168	伝	デン	伝					[noun] {1} legend;tradition;{2} biography;life;{3} method;way;{4} horseback transportation and communication relay system used in ancient Japan	Primary school		Very common			
+168	伝	デン	伝					[noun] {1} legend;tradition;{2} biography;life;{3} method;way;{4} horseback transportation and communication relay system used in ancient Japan	Primary school		Very common	15		
 169	伝	つたう	伝う	つ↱たう	<span class="LH">つ</span><span class="H">たう</span>	L-H-H	0	[godan verb, intransitive, transitive] to go along;to walk along;to follow	Primary school		Common		を(83%),に(17%)	v5
 170	伯	ハク	伯					[noun] {1} count;earl;{2} chief official of the Department of Worship;{3} (archaism) eldest brother;[noun, noun used as a prefix, noun used as a suffix] {4} (abbreviation) Brazil;Brazilian	Junior high school		Very common	50		
 171	伴	ともなう	伴う	と↱もな↴う	<span class="LH">と</span><span class="HL">もな</span><span class="L">う</span>	L-H-H-L	3	[godan verb, intransitive, transitive] to accompany;to bring with;to be accompanied by;to be involved in;to be consequent upon	Junior high school	N1 (advanced)	Very common	38	が(58%),を(42%)	v5
@@ -254,8 +254,8 @@
 254	偏	かたよる	偏る	か↱たよ↴る	<span class="LH">か</span><span class="HL">たよ</span><span class="L">る</span>	L-H-H-L	3	[godan verb, intransitive] to be one-sided;to incline;to be partial;to be prejudiced;to lean;to be biased;to be biassed	Junior high school	N1 (advanced)	Rare		が(67%),に(33%)	v5
 255	偏	かたより	偏り	か↱たより	<span class="LH">か</span><span class="H">たより</span>	L-H-H-H	0	[noun] {1} deviation;inclination;offset;bias;prejudice;{2} polarization;polarisation			Rare			
 256	健	すこやか	健やか	す↱こ↴やか	<span class="LH">す</span><span class="HL">こ</span><span class="L">やか</span>	L-H-L-L	2	[な adjective, noun] vigorous;healthy;sound	Junior high school	N1 (advanced)	Rare			
-257	側	がわ	側	が↱わ	<span class="LH">が</span><span class="H">わ</span>	L-H	0	[noun, suffix] {1} side (of something, or taking someone's side);part;{2} (watch) case		N1 (advanced)	Very common			
-258	側	ソク	側					[noun] near;close;beside;vicinity;proximity;besides;while	Primary school		Very common			
+257	側	がわ	側	が↱わ	<span class="LH">が</span><span class="H">わ</span>	L-H	0	[noun, suffix] {1} side (of something, or taking someone's side);part;{2} (watch) case		N1 (advanced)	Very common*	17		
+258	側	ソク	側					[noun] near;close;beside;vicinity;proximity;besides;while	Primary school		Very common*	17		
 259	偽	ギ	偽					[noun, の adjective] (logic) false	Junior high school		Common*			
 260	偽	にせ	偽	に↱せ	<span class="LH">に</span><span class="H">せ</span>	L-H	0	[の adjective, noun] {1} imitation;fake;phony;counterfeit;forged;bogus;sham;[prefix] {2} pseudo-	High school		Common*	41		
 261	偽	いつわり	偽り	い↱つわり	<span class="LH">い</span><span class="H">つわり</span>	L-H-H-H	0	[noun, の adjective] lie;falsehood;fiction;fabrication			Uncommon			
@@ -323,7 +323,7 @@
 323	六	む	六	む↴	<span class="HL">む</span>	H-(L)	1	six	Primary school	N5 (beginner)	Very common*			
 324	六	むつ	六つ	む↱つ↴	<span class="LH">む</span><span class="HL">つ</span>	L-H-(L)	2	six	Primary school		Common			
 325	共	とも	共	と↱も	<span class="LH">と</span><span class="H">も</span>	L-H	0	[noun, noun used as a prefix] {1} together with;{2} same;[suffix] {3} both;all;neither;none;{4} including ...	Primary school		Very common			
-326	兵	ヘイ	兵					[noun] {1} (common) soldier;rank and file;{2} army;troops;{3} warfare;strategy	Primary school		Very common			
+326	兵	ヘイ	兵					[noun] {1} (common) soldier;rank and file;{2} army;troops;{3} warfare;strategy	Primary school		Very common	17		
 327	其	その	其の	そ↱の	<span class="LH">そ</span><span class="H">の</span>	L-H	0	[pre-noun adjectival (attributive)] {1} that (something or someone distant from the speaker, close to the listener, actions of the listener, or ideas expressed or understood by the listener);the;[interjection] {2} um...;er...;uh...			Common			
 328	具	グ	具					[noun, noun used as a suffix] {1} tool;means;ingredients;{2} counter for armor (armour), suits, sets of furniture	Primary school		Very common			
 329	典	テン	典					[noun] ceremony;celebration;law code	Primary school		Common			
@@ -384,7 +384,7 @@
 384	刈	かる	刈る	か↱る	<span class="LH">か</span><span class="H">る</span>	L-H	0	[godan verb, transitive] to cut (hair);to mow (grass);to harvest;to clip;to shear;to reap;to trim;to prune	Junior high school	N1 (advanced)	Common	49	を	v5
 385	刊	カン	刊					[suffix] publication;edition (e.g. morning, evening, special);published in (year);publication frequency (e.g. daily, monthly)	Primary school		Common			
 386	刑	ケイ	刑					[noun, noun used as a suffix] penalty;sentence;punishment	Junior high school	N1 (advanced)	Common			
-387	列	レツ	列					[noun] queue;line;row;column;sequence;string;train	Primary school	N3 (lower intermediate)	Very common			
+387	列	レツ	列					[noun] queue;line;row;column;sequence;string;train	Primary school	N3 (lower intermediate)	Very common	15		
 388	初	はじめて	初めて	は↱じ↴めて	<span class="LH">は</span><span class="HL">じ</span><span class="L">めて</span>	L-H-L-L	2	[adverb, の adjective] {1} for the first time;[adverb] {2} only after ... is it ...;only when ... do you ...	Primary school	N3 (lower intermediate)	Very common	13		
 389	初	はじめ	初め	は↱じめ	<span class="LH">は</span><span class="H">じめ</span>	L-H-H	0	[temporal noun, adverbial noun] {1} beginning;start;outset;opening;[noun] {2} first (in line, etc.);{3} origin;{4} such as ...;not to mention ...	Primary school	N3 (lower intermediate)	Very common			
 390	初	うい	初	う↴い	<span class="HL">う</span><span class="L">い</span>	H-L	1	[の adjective, noun used as a prefix, noun] first;new	High school		Very common*			
@@ -422,8 +422,8 @@
 422	剝	はげる	剝げる	は↱げ↴る	<span class="LH">は</span><span class="HL">げ</span><span class="L">る</span>	L-H-L	2	[ichidan verb, intransitive] {1} to come off;to be worn off;{2} to fade;to discolor;to discolour	High school	N1 (advanced)			が	
 423	剝	はがれる	剝がれる	は↱がれ↴る	<span class="LH">は</span><span class="HL">がれ</span><span class="L">る</span>	L-H-H-L	3	[ichidan verb, intransitive] to come unstuck from	High school					
 424	剝	ハク	剝					coming off;peeling off;being worn off;faded;discolored;discoloured	High school					
-425	剣	ケン	剣					[noun] {1} sword (originally esp. a doubled-edged sword);sabre;saber;blade;{2} bayonet;{3} swordsmanship;{4} stinger;ovipositor;dart	Junior high school		Very common*			
-426	剣	つるぎ	剣	つ↱るぎ↴	<span class="LH">つ</span><span class="HL">るぎ</span>	L-H-H-(L)	3	[noun] sword (originally esp. a doubled-edged sword);sabre;saber;blade	Junior high school		Very common*			
+425	剣	ケン	剣					[noun] {1} sword (originally esp. a doubled-edged sword);sabre;saber;blade;{2} bayonet;{3} swordsmanship;{4} stinger;ovipositor;dart	Junior high school		Very common*	35		
+426	剣	つるぎ	剣	つ↱るぎ↴	<span class="LH">つ</span><span class="HL">るぎ</span>	L-H-H-(L)	3	[noun] sword (originally esp. a doubled-edged sword);sabre;saber;blade	Junior high school		Very common*	35		
 427	剤	ザイ	剤					[noun used as a suffix] medicine;agent;(chemical) substance;drug;dose	Junior high school		Uncommon			
 428	剥	はがす	剥がす	は↱が↴す	<span class="LH">は</span><span class="HL">が</span><span class="L">す</span>	L-H-L	2	[godan verb, transitive] to tear off;to peel off;to rip off;to strip off;to skin;to flay;to disrobe;to deprive of;to detach;to disconnect	High school	N1 (advanced)	Uncommon		を	v5
 429	剥	はぐ	剥ぐ	は↴ぐ	<span class="HL">は</span><span class="L">ぐ</span>	H-L	1	[godan verb, transitive] {1} to tear off;to peel off;to rip off;to strip off;to skin;to flay;to bark;to disrobe;{2} to strip of (e.g. clothes, rank);to deprive of;to divest	High school	N1 (advanced)	Uncommon		を	v5
@@ -462,10 +462,10 @@
 462	勅	チョク	勅					[noun] imperial decree;imperial edict	Junior high school		Rare			
 463	勇	ユウ	勇					[noun] bravery;courage;heroism	Primary school		Common			
 464	勇	いさましい	勇ましい	い↱さまし↴い	<span class="LH">い</span><span class="HL">さまし</span><span class="L">い</span>	L-H-H-H-L	4	[い adjective] {1} brave;valiant;gallant;courageous;{2} stirring;vigorous;rousing		N2 (intermediate)	Uncommon			adji
-465	勇	いさむ	勇む	い↱さ↴む	<span class="LH">い</span><span class="HL">さ</span><span class="L">む</span>	L-H-L	2	[godan verb, intransitive, transitive] to be in high spirits;to be encouraged;to be lively;to cheer up	Primary school		Uncommon			v5
+465	勇	いさむ	勇む	い↱さ↴む	<span class="LH">い</span><span class="HL">さ</span><span class="L">む</span>	L-H-L	2	[godan verb, intransitive, transitive] to be in high spirits;to be encouraged;to be lively;to cheer up	Primary school		Uncommon	17		v5
 466	動	うごく	動く	う↱ご↴く	<span class="LH">う</span><span class="HL">ご</span><span class="L">く</span>	L-H-L	2	[godan verb, intransitive] {1} to move;to stir;to shift;to shake;to swing;{2} to operate;to run;to go;to work;{3} to be touched;to be influenced;{4} to change;to vary;to fluctuate;to waver;{5} certain;factual;{6} to be transferred	Primary school	N4 (basic)	Very common	12	で(40%),に(26%),が(17%),を(17%)	v5
 467	動	うごかす	動かす	う↱ごか↴す	<span class="LH">う</span><span class="HL">ごか</span><span class="L">す</span>	L-H-H-L	3	[godan verb, transitive] {1} to move;to shift;to operate;to set in motion;to mobilize;to mobilise;{2} to inspire;to rouse;to move (e.g. feeling);to influence;{3} to deny;to change	Primary school	N4 (basic)	Very common	14	を	v5
-468	動	うごき	動き	う↱ごき↴	<span class="LH">う</span><span class="HL">ごき</span>	L-H-H-(L)	3	[noun] movement;activity;trend;development;change		N1 (advanced)	Very common			
+468	動	うごき	動き	う↱ごき↴	<span class="LH">う</span><span class="HL">ごき</span>	L-H-H-(L)	3	[noun] movement;activity;trend;development;change		N1 (advanced)	Very common	14		
 469	動	どうじる	動じる	ど↱うじる	<span class="LH">ど</span><span class="H">うじる</span>	L-H-H-H	0	[ichidan verb, intransitive] to be perturbed;to be agitated			Uncommon		に	v1
 470	動	ドウ	動					[noun] motion;change;confusion	Primary school		Uncommon			
 471	動	どうずる	動ずる	ど↱うずる	<span class="LH">ど</span><span class="H">うずる</span>	L-H-H-H	0	[ずる;じる verb, intransitive] to be perturbed;to be agitated			Rare			vz
@@ -598,7 +598,7 @@
 598	吏	リ	吏					[noun] (archaism) an official	Junior high school		Rare			
 599	吐	はく	吐く	は↴く	<span class="HL">は</span><span class="L">く</span>	H-L	1	[godan verb, transitive] {1} to vomit;to throw up;to spit up;{2} to emit;to send forth;to breathe out;{3} to give (an opinion);to make (a comment);to express;to tell;{4} to confess	Junior high school	N1 (advanced)	Very common	34	を	v5
 600	向	むかう	向かう	む↱かう	<span class="LH">む</span><span class="H">かう</span>	L-H-H	0	[godan verb, intransitive] {1} to face;{2} to go towards	Primary school	N3 (lower intermediate)	Very common		に(72%),へ(19%),と(9%)	v5
-601	向	むける	向ける	む↱ける	<span class="LH">む</span><span class="H">ける</span>	L-H-H	0	[ichidan verb, transitive] to turn towards;to point	Primary school	N3 (lower intermediate)	Very common		に(54%),を(26%),へ(21%)	v1
+601	向	むける	向ける	む↱ける	<span class="LH">む</span><span class="H">ける</span>	L-H-H	0	[ichidan verb, transitive] to turn towards;to point	Primary school	N3 (lower intermediate)	Very common	8	に(54%),を(26%),へ(21%)	v1
 602	向	むこう	向こう	む↱こ↴う	<span class="LH">む</span><span class="HL">こ</span><span class="L">う</span>	L-H-L	2	[noun] {1} opposite side;other side;opposite direction;{2} over there;that way;far away;beyond;{3} the other party;the other person;{4} future (starting now)	Primary school	N3 (lower intermediate)	Very common	8		
 603	向	むく	向く	む↱く	<span class="LH">む</span><span class="H">く</span>	L-H	0	[godan verb, intransitive] {1} to face;{2} to turn toward;{3} to be suited to;to be fit for	Primary school	N3 (lower intermediate)	Very common	6	に(43%),を(34%),が(23%)	v5
 604	向	むき	向き	む↴き	<span class="HL">む</span><span class="L">き</span>	H-L	1	[な adjective, noun, noun used as a suffix] direction;orientation;aspect;situation;exposure;suitability;tendency		N1 (advanced)	Very common			
@@ -615,7 +615,7 @@
 615	吹	ふく	吹く	ふ↴く	<span class="HL">ふ</span><span class="L">く</span>	H-L	1	[godan verb, transitive] {1} to blow (wind, etc.);to play a wind instrument;{2} to emit;to spout;{3} to whistle;{4} (slang) to laugh;to burst into laughter;{5} to smelt;to mint;{6} to brag;to talk big	Junior high school	N2 (intermediate)	Very common	40	が(43%),を(40%),に(17%)	v5
 616	告	つげる	告げる	つ↱げる	<span class="LH">つ</span><span class="H">げる</span>	L-H-H	0	[ichidan verb, transitive] to inform;to tell;to ring (bell, alarm, warning, etc.)	Primary school	N1 (advanced)	Very common	18	を(78%),に(22%)	v1
 617	呟	つぶやく	呟く	つ↱ぶや↴く	<span class="LH">つ</span><span class="HL">ぶや</span><span class="L">く</span>	L-H-H-L	3	[godan verb, intransitive] to mutter;to murmur		N1 (advanced)	Very common			v5
-618	周	まわり	周り	ま↱わり	<span class="LH">ま</span><span class="H">わり</span>	L-H-H	0	[noun, noun used as a suffix] {1} circumference;perimeter;edge;{2} surroundings;locality;neighborhood	Primary school	N3 (lower intermediate)	Very common			
+618	周	まわり	周り	ま↱わり	<span class="LH">ま</span><span class="H">わり</span>	L-H-H	0	[noun, noun used as a suffix] {1} circumference;perimeter;edge;{2} surroundings;locality;neighborhood	Primary school	N3 (lower intermediate)	Very common	14		
 619	周	シュウ	周					[noun] {1} Zhou (dynasty of China);Chou;{2} (geometric) perimeter;[noun used as a suffix] {3} counter for laps or circuits	Primary school	N1 (advanced)	Very common			
 620	呪	のろう	呪う	の↱ろ↴う	<span class="LH">の</span><span class="HL">ろ</span><span class="L">う</span>	L-H-L	2	[godan verb, transitive] to curse;to put a curse on;to detest intensely	High school		Very common	45	に(50%),を(50%)	v5
 621	呪	ジュ	呪					[noun] {1} spell;curse;{2} (Buddhist term) dharani;mantra	High school		Common			
@@ -660,7 +660,7 @@
 660	喉	コウ	喉					[noun] {1} (archaism) (female language) fish;[suffix] {2} counter for fish	High school		Very common*			
 661	喉	のど	喉	の↴ど	<span class="HL">の</span><span class="L">ど</span>	H-L	1	[noun] {1} throat;{2} singing voice	High school	N3 (lower intermediate)	Very common*			
 662	喜	よろこぶ	喜ぶ	よ↱ろこ↴ぶ	<span class="LH">よ</span><span class="HL">ろこ</span><span class="L">ぶ</span>	L-H-H-L	3	[godan verb, intransitive] {1} to be delighted;to be glad;to be pleased;{2} to congratulate;{3} to gratefully accept	Primary school	N3 (lower intermediate)	Very common	16	を(78%),に(22%)	v5
-663	喜	よろこび	喜び	よ↱ろこび	<span class="LH">よ</span><span class="H">ろこび</span>	L-H-H-H	0	[noun] joy;delight;rapture;pleasure;gratification;rejoicing;congratulations;felicitations		N3 (lower intermediate)	Very common			
+663	喜	よろこび	喜び	よ↱ろこび	<span class="LH">よ</span><span class="H">ろこび</span>	L-H-H-H	0	[noun] joy;delight;rapture;pleasure;gratification;rejoicing;congratulations;felicitations		N3 (lower intermediate)	Very common	18		
 664	喜	よろこばしい	喜ばしい	よ↱ろこばし↴い	<span class="LH">よ</span><span class="HL">ろこばし</span><span class="L">い</span>	L-H-H-H-H-L	5	[い adjective] delightful;joyous;happy			Uncommon			adji
 665	喝	カツ	喝					[interjection] {1} exclamation used to scold practitioners (in Zen);[noun] {2} scolding or threatening with a shout	Junior high school		Rare			
 666	喧	ケン	喧					quarrel;brawl;fight;squabble;scuffle						
@@ -784,8 +784,8 @@
 784	売	うる	売る	う↱る	<span class="LH">う</span><span class="H">る</span>	L-H	0	[godan verb, transitive] to sell	Primary school	N4 (basic)	Very common	5	を(68%),で(25%),に(6%)	v5
 785	売	うれる	売れる	う↱れる	<span class="LH">う</span><span class="H">れる</span>	L-H-H	0	[ichidan verb, intransitive] {1} to sell (well);{2} to be well known;to be popular;to be famous	Primary school	N4 (basic)	Very common		で(50%),に(50%)	v1
 786	壷	つぼ	壷	つ↱ぼ	<span class="LH">つ</span><span class="H">ぼ</span>	L-H	0	[noun] {1} jar;pot;vase;{2} dice cup;{3} depression (i.e. the basin of a waterfall);{4} (archaism) target (when aiming an arrow);{5} (figurative) bull's-eye;{6} key point (of a conversation, etc.);{7} acupuncture point;moxibustion point;{8} nodes on a fingerboard (of a shamisen, etc.)		N1 (advanced)	Uncommon			
-787	変	かわる	変わる	か↱わる	<span class="LH">か</span><span class="H">わる</span>	L-H-H	0	[godan verb, intransitive] {1} to change;to be transformed;to be altered;to vary;{2} to move to;{3} to be different;to be uncommon;to be unusual	Primary school	N3 (lower intermediate)	Very common		に(50%),が(50%)	v5
-788	変	かえる	変える	か↱える	<span class="LH">か</span><span class="H">える</span>	L-H-H	0	[ichidan verb, transitive] to change;to alter;to vary;to convert;to revise;to amend;to transform	Primary school	N3 (lower intermediate)	Very common	36	を(84%),に(16%)	v1
+787	変	かわる	変わる	か↱わる	<span class="LH">か</span><span class="H">わる</span>	L-H-H	0	[godan verb, intransitive] {1} to change;to be transformed;to be altered;to vary;{2} to move to;{3} to be different;to be uncommon;to be unusual	Primary school	N3 (lower intermediate)	Very common	17	に(50%),が(50%)	v5
+788	変	かえる	変える	か↱える	<span class="LH">か</span><span class="H">える</span>	L-H-H	0	[ichidan verb, transitive] to change;to alter;to vary;to convert;to revise;to amend;to transform	Primary school	N3 (lower intermediate)	Very common	15	を(84%),に(16%)	v1
 789	変	ヘン	変					[な adjective, noun] {1} strange;odd;peculiar;weird;curious;queer;eccentric;funny;suspicious;fishy;{2} unexpected;{3} change;{4} incident;disturbance;disaster;accident;[noun used as a prefix] {5} flat (music)	Primary school	N3 (lower intermediate)	Very common	15		
 790	夏	カ	夏					[noun] Xia (dynasty of China, perhaps mythological)	Primary school		Very common*			
 791	夏	ゲ	夏					[noun] (Buddhist term) summer (on the lunisolar calendar: 16th day of the 4th month to the 15th day of the 7th month)	Junior high school		Very common*			
@@ -838,8 +838,8 @@
 838	妬	ねたむ	妬む	ね↱た↴む	<span class="LH">ね</span><span class="HL">た</span><span class="L">む</span>	L-H-L	2	[godan verb, transitive] to be jealous of;to envy;to begrudge	High school	N1 (advanced)	Rare		を	v5
 839	妹	いもうと	妹	い↱もうと↴	<span class="LH">い</span><span class="HL">もうと</span>	L-H-H-H-(L)	4	[noun] (humble) younger sister	Primary school	N4 (basic)	Very common	6		
 840	妻	つま	妻	つ↴ま	<span class="HL">つ</span><span class="L">ま</span>	H-L	1	[noun] {1} wife;{2} (archaism) my dear;dear;honey;{3} garnish (esp. one served with sashimi);{4} embellishment	Primary school	N2 (intermediate)	Very common	20		
-841	姉	あね	姉	あ↱ね	<span class="LH">あ</span><span class="H">ね</span>	L-H	0	[noun] (humble) older sister;elder sister	Primary school	N4 (basic)	Very common*			
-842	姉	シ	姉					[suffix] (honorific) honorific suffix used after the name of a woman of equal or higher status	Junior high school		Very common*			
+841	姉	あね	姉	あ↱ね	<span class="LH">あ</span><span class="H">ね</span>	L-H	0	[noun] (humble) older sister;elder sister	Primary school	N4 (basic)	Very common*	6		
+842	姉	シ	姉					[suffix] (honorific) honorific suffix used after the name of a woman of equal or higher status	Junior high school		Very common*	6		
 843	始	はじめる	始める	は↱じめる	<span class="LH">は</span><span class="H">じめる</span>	L-H-H-H	0	[ichidan verb, transitive, auxiliary verb] {1} to start;to begin;to commence;to initiate;to originate;{2} to open (e.g. a store);to start up;to establish (business. etc.);[suffix, ichidan verb] {3} to start ...;to begin to ...	Primary school	N4 (basic)	Very common	9	を(92%),に(8%)	v1
 844	始	はじまる	始まる	は↱じまる	<span class="LH">は</span><span class="H">じまる</span>	L-H-H-H	0	[godan verb, intransitive] {1} to begin;to start;to commence;{2} to happen (again);to begin (anew);{3} to date (from);to originate (in)	Primary school	N4 (basic)	Very common	9	が(50%),に(40%),で(11%)	v5
 845	始	はじめ	始め	は↱じめ	<span class="LH">は</span><span class="H">じめ</span>	L-H-H	0	[temporal noun, adverbial noun] {1} beginning;start;outset;opening;[noun] {2} first (in line, etc.);{3} origin;{4} such as ...;not to mention ...		N4 (basic)	Common			
@@ -898,8 +898,8 @@
 898	実	みのり	実り	み↱のり	<span class="LH">み</span><span class="H">のり</span>	L-H-H	0	[noun, の adjective] {1} ripening (of a crop);{2} crop;harvest			Rare			
 899	客	カク	客					[noun] {1} guest;visitor;{2} customer;client;shopper;spectator;audience;tourist;sightseer;passenger	Junior high school		Very common*			
 900	客	キャク	客					[noun] {1} guest;visitor;{2} customer;client;shopper;spectator;audience;tourist;sightseer;passenger	Primary school	N3 (lower intermediate)	Very common*			
-901	室	シツ	室					[noun, noun used as a suffix] {1} room;{2} (obscure term) wife (of someone of high rank);{3} (obscure term) scabbard;{4} (astronomy) Chinese Encampment constellation (one of the 28 mansions)	Primary school	N4 (basic)	Very common*			
-902	室	むろ	室	む↱ろ↴	<span class="LH">む</span><span class="HL">ろ</span>	L-H-(L)	2	[noun] greenhouse;icehouse;cellar	Junior high school		Very common*			
+901	室	シツ	室					[noun, noun used as a suffix] {1} room;{2} (obscure term) wife (of someone of high rank);{3} (obscure term) scabbard;{4} (astronomy) Chinese Encampment constellation (one of the 28 mansions)	Primary school	N4 (basic)	Very common*	6		
+902	室	むろ	室	む↱ろ↴	<span class="LH">む</span><span class="HL">ろ</span>	L-H-(L)	2	[noun] greenhouse;icehouse;cellar	Junior high school		Very common*	6		
 903	宮	キュウ	宮					[noun] {1} palace;{2} tonic (of the Japanese & Chinese pentatonic scale);{3} (abbreviation) ancient Chinese punishment (castration for men, or confinement for women);[noun, noun used as a suffix] {4} zodiacal sign	Primary school		Very common*			
 904	宮	みや	宮	み↱や	<span class="LH">み</span><span class="H">や</span>	L-H	0	[noun] {1} shrine;{2} palace;imperial residence;{3} (honorific) member of the imperial family;{4} (archaism) temple	Primary school		Very common*	22		
 905	害	ガイ	害					[noun] injury;harm;evil influence;damage	Primary school	N3 (lower intermediate)	Common			
@@ -949,8 +949,8 @@
 949	射	いる	射る	い↴る	<span class="HL">い</span><span class="L">る</span>	H-L	1	[ichidan verb, transitive] to shoot	Primary school		Very common		を	v1
 950	射	シャ	射					[noun] {1} archery;{2} mapping;{3} (math) map;morphism;arrow	Primary school		Rare			
 951	将	ショウ	将					[noun] commander;general;leader	Primary school		Very common			
-952	尊	たっとい	尊い	た↱っと↴い	<span class="LH">た</span><span class="HL">っと</span><span class="L">い</span>	L-H-H-L	3	[い adjective] precious;valuable;priceless;noble;exalted;sacred	Primary school	N1 (advanced)	Common			adji
-953	尊	とうとい	尊い	と↱うと↴い	<span class="LH">と</span><span class="HL">うと</span><span class="L">い</span>	L-H-H-L	3	[い adjective] precious;valuable;priceless;noble;exalted;sacred	Primary school		Common	33		adji
+952	尊	たっとい	尊い	た↱っと↴い	<span class="LH">た</span><span class="HL">っと</span><span class="L">い</span>	L-H-H-L	3	[い adjective] precious;valuable;priceless;noble;exalted;sacred	Primary school	N1 (advanced)	Common*			adji
+953	尊	とうとい	尊い	と↱うと↴い	<span class="LH">と</span><span class="HL">うと</span><span class="L">い</span>	L-H-H-L	3	[い adjective] precious;valuable;priceless;noble;exalted;sacred	Primary school		Common*	33		adji
 954	尊	ソン	尊					[noun] {1} zun (ancient Chinese wine vessel, usu. made of bronze);[prefix] {2} (archaism) (honorific) honorific prefix referring to the listener;[suffix] {3} counter for buddhas	Primary school		Common			
 955	尊	たっとぶ	尊ぶ	た↱っと↴ぶ	<span class="LH">た</span><span class="HL">っと</span><span class="L">ぶ</span>	L-H-H-L	3	[godan verb, transitive] to value;to prize;to esteem;to respect	Primary school	N1 (advanced)	Rare		を	v5
 956	尊	とうとぶ	尊ぶ	と↱うと↴ぶ	<span class="LH">と</span><span class="HL">うと</span><span class="L">ぶ</span>	L-H-H-L	3	[godan verb, transitive] to value;to prize;to esteem;to respect	Primary school		Rare		を	v5
@@ -1082,7 +1082,7 @@
 1082	府	フ	府					[noun] {1} (metropolitan) prefecture (of Osaka and Kyoto);{2} the centre or seat (of) (center);{3} (government) office	Primary school		Common			
 1083	度	たび	度	た↱び↴	<span class="LH">た</span><span class="HL">び</span>	L-H-(L)	2	[noun, noun used as a suffix] time (three times, each time, etc.);times	Junior high school	N3 (lower intermediate)	Very common*			
 1084	度	ド	度					[noun, noun used as a suffix] {1} degree (angle, temperature, scale, etc.);{2} counter for occurrences and times;{3} strength (of alcohol)	Primary school	N4 (basic)	Very common*			
-1085	座	すわる	座る	す↱わる	<span class="LH">す</span><span class="H">わる</span>	L-H-H	0	[godan verb, intransitive] {1} to sit;to squat;{2} to assume (a position);{3} to hold steady;to hold still	Junior high school	N2 (intermediate)	Very common	16	に(85%),で(8%),が(7%)	v5
+1085	座	すわる	座る	す↱わる	<span class="LH">す</span><span class="H">わる</span>	L-H-H	0	[godan verb, intransitive] {1} to sit;to squat;{2} to assume (a position);{3} to hold steady;to hold still	Junior high school	N2 (intermediate)	Very common	18	に(85%),で(8%),が(7%)	v5
 1086	座	ザ	座					[noun, noun used as a suffix] {1} seat;place;position;{2} status;{3} gathering;group;{4} stand;pedestal;platform;{5} (historical) trade guild;[suffix] {6} attaches to the names of theatres, theatrical troupes, and constellations;[suffix] {7} counter for theatres, deities, Buddhist images, tall mountains, and satokagura songs	Primary school		Very common			
 1087	庭	にわ	庭	に↱わ	<span class="LH">に</span><span class="H">わ</span>	L-H	0	[noun] garden	Primary school	N3 (lower intermediate)	Very common	12		
 1088	庸	ヨウ	庸					[noun] tax paid to avoid forced labor (ritsuryo period)	Junior high school		Rare			
@@ -1202,11 +1202,11 @@
 1202	思	おもわしい	思わしい	お↱もわし↴い	<span class="LH">お</span><span class="HL">もわし</span><span class="L">い</span>	L-H-H-H-L	4	[い adjective] suitable;satisfactory;desirable			Rare			adji
 1203	怠	おこたる	怠る	お↱こたる	<span class="LH">お</span><span class="H">こたる</span>	L-H-H-H	0	[godan verb, transitive] to be negligent in doing something;to shirk;to be off one's guard	Junior high school	N1 (advanced)	Common		を	v5
 1204	怠	なまける	怠ける	な↱まけ↴る	<span class="LH">な</span><span class="HL">まけ</span><span class="L">る</span>	L-H-H-L	3	[ichidan verb, intransitive, transitive] {1} to be idle;to slacken;{2} to neglect (e.g. one's work)	Junior high school	N1 (advanced)	Rare		を(50%),に(40%),が(10%)	v1
-1205	急	キュウ	急					[な adjective] {1} urgent;sudden;abrupt;{2} sharp;steep;precipitous;{3} rapid;swift;fast;[noun] {4} emergency;crisis;{5} hurrying;haste;{6} (in gagaku or noh) end of a song	Primary school	N4 (basic)	Very common			
+1205	急	キュウ	急					[な adjective] {1} urgent;sudden;abrupt;{2} sharp;steep;precipitous;{3} rapid;swift;fast;[noun] {4} emergency;crisis;{5} hurrying;haste;{6} (in gagaku or noh) end of a song	Primary school	N4 (basic)	Very common	16		
 1206	急	いそぐ	急ぐ	い↱そ↴ぐ	<span class="LH">い</span><span class="HL">そ</span><span class="L">ぐ</span>	L-H-L	2	[godan verb, intransitive, transitive] to hurry;to rush;to hasten;to make something happen sooner	Primary school	N4 (basic)	Very common	16	に(49%),へ(32%),を(19%)	v5
 1207	急	いそぎ	急ぎ	い↱そぎ↴	<span class="LH">い</span><span class="HL">そぎ</span>	L-H-H-(L)	3	[noun, の adjective] haste;hurry;expedition;speed;dispatch			Common			
 1208	性	ショウ	性					[noun, noun used as a suffix] {1} nature (of a person or thing);{2} (Buddhist term) that which does not change according to external influences	Junior high school		Very common*			
-1209	性	セイ	性					[noun] {1} nature (of a person);{2} sex;{3} gender;[suffix] {4} -ty;-ity;-ness;-cy	Primary school	N3 (lower intermediate)	Very common*			
+1209	性	セイ	性					[noun] {1} nature (of a person);{2} sex;{3} gender;[suffix] {4} -ty;-ity;-ness;-cy	Primary school	N3 (lower intermediate)	Very common*	14		
 1210	怪	あやしい	怪しい	あ↱やしい	<span class="LH">あ</span><span class="H">やしい</span>	L-H-H-H	0	[い adjective] {1} suspicious;dubious;doubtful;dodgy;suspicious (referring to a potential amorous relation);dangerous (e.g. financial situation);ominous (e.g. weather);strange;shady;fishy;{2} charming;bewitching;mysterious	Junior high school	N1 (advanced)	Very common	26		adji
 1211	怪	あやしむ	怪しむ	あ↱やし↴む	<span class="LH">あ</span><span class="HL">やし</span><span class="L">む</span>	L-H-H-L	3	[godan verb, transitive] to suspect	Junior high school		Common		を	v5
 1212	怪	カイ	怪					[noun] mystery;wonder	Junior high school		Common			
@@ -1485,7 +1485,7 @@
 1485	敗	やぶれる	敗れる	や↱ぶれ↴る	<span class="LH">や</span><span class="HL">ぶれ</span><span class="L">る</span>	L-H-H-L	3	[ichidan verb, intransitive] to be defeated;to be beaten;to be unsuccessful;to lose	Primary school		Common	17	に(63%),で(38%)	v1
 1486	敗	ハイ	敗					[noun] {1} loss;defeat;[suffix] {2} counter for losses	Primary school		Uncommon			
 1487	教	おしえる	教える	お↱しえる	<span class="LH">お</span><span class="H">しえる</span>	L-H-H-H	0	[ichidan verb, transitive] to teach;to inform;to instruct	Primary school	N4 (basic)	Very common	7	を(86%),に(14%)	v1
-1488	教	おしえ	教え	お↱しえ	<span class="LH">お</span><span class="H">しえ</span>	L-H-H	0	[noun] teaching;instruction;teachings;precept;lesson;doctrine		N1 (advanced)	Common			
+1488	教	おしえ	教え	お↱しえ	<span class="LH">お</span><span class="H">しえ</span>	L-H-H	0	[noun] teaching;instruction;teachings;precept;lesson;doctrine		N1 (advanced)	Common	9		
 1489	教	おそわる	教わる	お↱そわる	<span class="LH">お</span><span class="H">そわる</span>	L-H-H-H	0	[godan verb, transitive] to be taught	Primary school	N4 (basic)	Common		と(29%),に(29%),を(29%),が(14%)	v5
 1490	散	ちる	散る	ち↱る	<span class="LH">ち</span><span class="H">る</span>	L-H	0	[godan verb, intransitive] {1} to fall (e.g. blossoms, leaves);{2} to scatter;to be dispersed;{3} to disappear;to dissolve;to break up;{4} to spread;to run;to blur;{5} to die a noble death	Primary school	N2 (intermediate)	Very common	31	が	v5
 1491	散	ちらす	散らす	ち↱らす	<span class="LH">ち</span><span class="H">らす</span>	L-H-H	0	[godan verb, transitive] {1} to scatter;to cause a shower of;{2} to disperse;to distribute;to spread;{3} to resolve (a symptom, condition, etc.);to relieve;to get rid of;to cure;{4} to distract;to divert;[suffix, godan verb] {5} to do ... wildly (i.e. disorderly or frequently);to do ... all over the place	Primary school	N2 (intermediate)	Very common		を	v5
@@ -1735,8 +1735,8 @@
 1735	横	よこ	横	よ↱こ	<span class="LH">よ</span><span class="H">こ</span>	L-H	0	[noun] {1} horizontal (as opposed to vertical);lying down;{2} side-to-side (as opposed to front-to-back);width;breadth;{3} side (of a box, etc.);{4} beside;aside;next to;{5} unconnected	Primary school	N3 (lower intermediate)	Very common	10		
 1736	橋	キョウ	橋					[noun, の adjective] pons (pontes);pons Varolii;pontine;part of the brain stem (links the medulla oblongata and cerebellum with the midbrain)	Primary school		Very common*			
 1737	橋	はし	橋	は↱し↴	<span class="LH">は</span><span class="HL">し</span>	L-H-(L)	2	[noun] bridge	Primary school	N3 (lower intermediate)	Very common*	13		
-1738	機	キ	機					[noun] {1} chance;opportunity;{2} machine;{3} aircraft;{4} counter for aircraft;{5} counter for remaining lives (in video games)	Primary school		Very common*			
-1739	機	はた	機	は↱た↴	<span class="LH">は</span><span class="HL">た</span>	L-H-(L)	2	[noun] loom	Junior high school	N1 (advanced)	Very common*			
+1738	機	キ	機					[noun] {1} chance;opportunity;{2} machine;{3} aircraft;{4} counter for aircraft;{5} counter for remaining lives (in video games)	Primary school		Very common*	20		
+1739	機	はた	機	は↱た↴	<span class="LH">は</span><span class="HL">た</span>	L-H-(L)	2	[noun] loom	Junior high school	N1 (advanced)	Very common*	20		
 1740	欄	ラン	欄					[noun] {1} column of text (e.g. in a newspaper);{2} field (in a form, web page, etc.)	Junior high school	N1 (advanced)	Common			
 1741	欠	かける	欠ける	か↱ける	<span class="LH">か</span><span class="H">ける</span>	L-H-H	0	[ichidan verb, intransitive] {1} to be chipped;to be damaged;to be broken;{2} to be lacking;to be missing;{3} to be insufficient;to be short;to be deficient;to be negligent toward;{4} (of the moon) to wane;to go into eclipse	Primary school	N3 (lower intermediate)	Very common	7	に(58%),が(42%)	v1
 1742	欠	かく	欠く	か↱く	<span class="LH">か</span><span class="H">く</span>	L-H	0	[godan verb, transitive] {1} to chip;to nick;to break;to crack;{2} to lack	Primary school	N1 (advanced)	Very common		を(63%),に(38%)	v5
@@ -1771,7 +1771,7 @@
 1771	歳	サイ	歳					[suffix] -years-old	Junior high school	N1 (advanced)	Very common			
 1772	歴	レキ	歴					[suffix] history of;experience of	Primary school		Uncommon			
 1773	死	しぬ	死ぬ	し↱ぬ	<span class="LH">し</span><span class="H">ぬ</span>	L-H	0	[godan verb, intransitive] (sensitive word) to die	Primary school	N4 (basic)	Very common	6	が(46%),で(31%),に(19%),を(5%)	v5
-1774	死	シ	死					[noun, noun used as a suffix] {1} death;decease;{2} (archaism) death penalty (by strangulation or decapitation)	Primary school	N1 (advanced)	Very common			
+1774	死	シ	死					[noun, noun used as a suffix] {1} death;decease;{2} (archaism) death penalty (by strangulation or decapitation)	Primary school	N1 (advanced)	Very common	6		
 1775	殆	ほとんど	殆	ほ↱と↴んど	<span class="LH">ほ</span><span class="HL">と</span><span class="L">んど</span>	L-H-L-L	2	mostly;nearly;practically;well-nigh;almost invariably;all but;just about;almost			Rare			
 1776	殊	こと	殊					[noun, な adjective, noun used as a prefix] {1} (archaism) difference (from one another);different thing;other;[な adjective] {2} unusual;extraordinary	Junior high school		Rare			
 1777	残	のこる	残る	の↱こ↴る	<span class="LH">の</span><span class="HL">こ</span><span class="L">る</span>	L-H-L	2	[godan verb, intransitive] to remain;to be left	Primary school	N3 (lower intermediate)	Very common	14	に(56%),が(44%)	v5
@@ -2169,7 +2169,7 @@
 2169	疲	つかれ	疲れ	つ↱かれ↴	<span class="LH">つ</span><span class="HL">かれ</span>	L-H-H-(L)	3	[noun] tiredness;fatigue		N2 (intermediate)	Very common	47		
 2170	病	ビョウ	病					[noun used as a suffix] disease;-pathy	Primary school		Very common*			
 2171	病	やまい	病	や↴まい	<span class="HL">や</span><span class="L">まい</span>	H-L-L	1	[noun] illness;disease	Primary school	N4 (basic)	Very common*			
-2172	病	やむ	病む	や↴む	<span class="HL">や</span><span class="L">む</span>	H-L	1	[godan verb, intransitive, transitive] to fall ill;to be ill	Junior high school	N1 (advanced)	Common		を(75%),に(25%)	v5
+2172	病	やむ	病む	や↴む	<span class="HL">や</span><span class="L">む</span>	H-L	1	[godan verb, intransitive, transitive] to fall ill;to be ill	Junior high school	N1 (advanced)	Common	10	を(75%),に(25%)	v5
 2173	症	ショウ	症					[な adjective, noun used as a suffix] illness	Junior high school	N1 (advanced)	Uncommon			
 2174	痕	あと	痕	あ↴と	<span class="HL">あ</span><span class="L">と</span>	H-L	1	[noun] {1} trace;tracks;mark;sign;{2} remains;ruins;{3} scar	High school		Common*			
 2175	痕	コン	痕					[suffix] scar (e.g. from operation, injection);trace;mark (e.g. skid marks)	High school		Common*			
@@ -2188,12 +2188,12 @@
 2188	発	ハツ	発					[noun, noun used as a suffix] {1} departure;departing (from ...);departing (at time ...);{2} sending;sent (by ...);sent (at ...);{3} (abbreviation) engine;[noun] {4} (abbreviation) green dragon tile (mahjong);{5} counter for gunshots, bursts of gas, etc.;counter for bullets, bombs, etc.;counter for blows (punches)	Primary school	N4 (basic)	Very common			
 2189	発	はっする	発する	は↱っする	<span class="LH">は</span><span class="H">っする</span>	L-H-H-H	0	[special する verb, intransitive, transitive] to fire (a gun);to emit;to give forth			Very common		を(83%),が(17%)	vsi
 2190	登	のぼる	登る	の↱ぼる	<span class="LH">の</span><span class="H">ぼる</span>	L-H-H	0	[godan verb, intransitive] {1} to ascend;to go up;to climb;{2} to ascend (as a natural process, e.g. the sun);to rise;{3} to go to (the capital);{4} to be promoted;{5} to add up to;{6} to advance (in price);{7} to swim up (a river);to sail up;{8} to come up (on the agenda)	Primary school	N3 (lower intermediate)	Very common	12	に(75%),を(25%)	v5
-2191	白	しろい	白い	し↱ろ↴い	<span class="LH">し</span><span class="HL">ろ</span><span class="L">い</span>	L-H-L	2	[い adjective] white	Primary school	N5 (beginner)	Very common			adji
+2191	白	しろい	白い	し↱ろ↴い	<span class="LH">し</span><span class="HL">ろ</span><span class="L">い</span>	L-H-L	2	[い adjective] white	Primary school	N5 (beginner)	Very common	4		adji
 2192	白	しろ	白	し↴ろ	<span class="HL">し</span><span class="L">ろ</span>	H-L	1	[noun] {1} white;{2} innocence;innocent person;{3} blank space;{4} white go stone;{5} white dragon tile (mahjong);{6} (food term) skewered grilled pig intestine	Primary school	N5 (beginner)	Very common*	2		
 2193	白	しらむ	白む	し↱ら↴む	<span class="LH">し</span><span class="HL">ら</span><span class="L">む</span>	L-H-L	2	[godan verb, intransitive] to grow light;to become white;to turn grey (gray)			Uncommon		が	v5
 2194	白	しらける	白ける	し↱らけ↴る	<span class="LH">し</span><span class="HL">らけ</span><span class="L">る</span>	L-H-H-L	3	[ichidan verb, intransitive] {1} to be spoiled (spoilt);to be dampened;to become subdued (e.g. lively atmosphere);to be unamused or bored;to become apathetic;{2} to fade;to turn white;to grow light (at dawn)			Uncommon		が	v1
 2195	白	しら	白					[prefix] {1} white;{2} unseasoned;undyed;unaltered;{3} very much;precisely;{4} playing dumb;[noun, な adjective] {5} unfeigned;honest;diligent	Primary school		Very common*			
-2196	百	ヒャク	百					100;hundred	Primary school	N5 (beginner)	Very common			
+2196	百	ヒャク	百					100;hundred	Primary school	N5 (beginner)	Very common	4		
 2197	的	テキ	的					[な adjective, suffix] -like;typical	Primary school	N1 (advanced)	Very common*			
 2198	的	まと	的	ま↱と	<span class="LH">ま</span><span class="H">と</span>	L-H	0	[noun] mark;target	Primary school	N1 (advanced)	Very common*			
 2199	皆	みな	皆	み↱な↴	<span class="LH">み</span><span class="HL">な</span>	L-H-(L)	2	[adverb, noun] {1} all;everyone;everybody;{2} everything	Junior high school	N2 (intermediate)	Very common			
@@ -2379,8 +2379,8 @@
 2379	米	ベイ	米					[noun, noun used as a prefix, noun used as a suffix] America;USA	Primary school		Very common*			
 2380	粉	こ	粉	こ↴	<span class="HL">こ</span>	H-(L)	1	[noun] flour;meal;powder	Primary school		Very common*			
 2381	粉	こな	粉	こ↱な↴	<span class="LH">こ</span><span class="HL">な</span>	L-H-(L)	2	[noun] flour;meal;powder	Primary school	N3 (lower intermediate)	Very common*	31		
-2382	粋	いき	粋	い↱き	<span class="LH">い</span><span class="H">き</span>	L-H	0	[な adjective, noun] {1} chic;smart;stylish;tasteful;refined;sophisticated;worldly;{2} considerate;understanding;sympathetic		N1 (advanced)	Common	34		
-2383	粋	スイ	粋					[な adjective, noun] {1} chic;smart;stylish;tasteful;refined;sophisticated;worldly;{2} considerate;understanding;sympathetic;[noun, な adjective] {3} essence;the best;the cream	Junior high school		Common			
+2382	粋	いき	粋	い↱き	<span class="LH">い</span><span class="H">き</span>	L-H	0	[な adjective, noun] {1} chic;smart;stylish;tasteful;refined;sophisticated;worldly;{2} considerate;understanding;sympathetic		N1 (advanced)	Common*	34		
+2383	粋	スイ	粋					[な adjective, noun] {1} chic;smart;stylish;tasteful;refined;sophisticated;worldly;{2} considerate;understanding;sympathetic;[noun, な adjective] {3} essence;the best;the cream	Junior high school		Common*			
 2384	粒	つぶ	粒	つ↴ぶ	<span class="HL">つ</span><span class="L">ぶ</span>	H-L	1	[noun, noun used as a suffix] {1} grain;bead;drop;{2} counter for small round objects including grains, seeds, pills, drops	Junior high school	N2 (intermediate)	Common	44		
 2385	粗	あらい	粗い	あ↱らい	<span class="LH">あ</span><span class="H">らい</span>	L-H-H	0	[い adjective] coarse;rough	Junior high school	N1 (advanced)	Rare			adji
 2386	粘	ねばる	粘る	ね↱ば↴る	<span class="LH">ね</span><span class="HL">ば</span><span class="L">る</span>	L-H-L	2	[godan verb, intransitive] {1} to be sticky;to be adhesive;{2} to persevere;to persist;to stick to;to hold out;to linger	Junior high school	N1 (advanced)	Uncommon	47		v5
@@ -2477,8 +2477,8 @@
 2477	緩	ゆるみ	緩み	ゆ↱るみ↴	<span class="LH">ゆ</span><span class="HL">るみ</span>	L-H-H-(L)	3	[noun] slack;looseness			Rare			
 2478	緯	イ	緯					[noun] weft;woof (crosswise threads on a loom)	Junior high school		Rare			
 2479	練	ねる	練る	ね↴る	<span class="HL">ね</span><span class="L">る</span>	H-L	1	[godan verb, transitive] {1} to knead;to thicken into a paste (stirring over a flame);{2} to polish (a plan, etc.);to refine;to elaborate;to work out;{3} to train;to drill;to exercise;{4} to gloss (silk);to soften;to degum;{5} to tan (leather);{6} to temper (steel);{7} to walk in procession;to parade;to march	Primary school	N1 (advanced)	Common		を	v5
-2480	縁	エン	縁					[noun] {1} fate;destiny (esp. as a mysterious force that binds two people together);{2} relationship (e.g. between two people);bond;link;connection;{3} family ties;affinity;{4} opportunity;chance (to meet someone and start a relationship);{5} (Buddhist term) pratyaya (indirect conditions, as opposed to direct causes);{6} narrow open-air veranda	Junior high school	N1 (advanced)	Very common*			
-2481	縁	ふち	縁	ふ↱ち↴	<span class="LH">ふ</span><span class="HL">ち</span>	L-H-(L)	2	[noun] rim;brim;edge;brink	Junior high school	N1 (advanced)	Very common*			
+2480	縁	エン	縁					[noun] {1} fate;destiny (esp. as a mysterious force that binds two people together);{2} relationship (e.g. between two people);bond;link;connection;{3} family ties;affinity;{4} opportunity;chance (to meet someone and start a relationship);{5} (Buddhist term) pratyaya (indirect conditions, as opposed to direct causes);{6} narrow open-air veranda	Junior high school	N1 (advanced)	Very common*	44		
+2481	縁	ふち	縁	ふ↱ち↴	<span class="LH">ふ</span><span class="HL">ち</span>	L-H-(L)	2	[noun] rim;brim;edge;brink	Junior high school	N1 (advanced)	Very common*	44		
 2482	縄	なわ	縄	な↱わ↴	<span class="LH">な</span><span class="HL">わ</span>	L-H-(L)	2	[noun] {1} rope;cord;{2} policeman's rope	Junior high school	N1 (advanced)	Very common	36		
 2483	縛	しばる	縛る	し↱ば↴る	<span class="LH">し</span><span class="HL">ば</span><span class="L">る</span>	L-H-L	2	[godan verb, transitive] to tie;to bind	Junior high school	N1 (advanced)	Very common		を(43%),に(29%),で(29%)	v5
 2484	縦	たて	縦	た↴て	<span class="HL">た</span><span class="L">て</span>	H-L	1	[noun] {1} the vertical;height;{2} front-to-back;length;{3} north-to-south;[noun, の adjective] {4} vertical (relationship);hierarchy;[noun] {5} (weaving) warp	Primary school	N1 (advanced)	Very common	34		
@@ -2744,8 +2744,8 @@
 2744	衝	ショウ	衝					[noun] {1} important point (e.g. on a route);{2} important role (responsibility, etc.);{3} (astronomy) opposition	Junior high school		Uncommon			
 2745	衣	イ	衣					[noun] clothing;garment;dress	Primary school		Very common*			
 2746	衣	ころも	衣	こ↱ろも	<span class="LH">こ</span><span class="H">ろも</span>	L-H-H	0	[noun] {1} clothes;garment;{2} gown;robe;{3} coating (e.g. glaze, batter, icing)	Junior high school		Very common*	41		
-2747	表	おもて	表	お↱もて↴	<span class="LH">お</span><span class="HL">もて</span>	L-H-H-(L)	3	[noun] {1} surface;{2} face (i.e. the visible side of an object);{3} front (of a building, etc.);obverse side (i.e. "head") of a coin;{4} outside;exterior;{5} appearance;{6} public;{7} first half (of an innings);top (of an inning);{8} cover (for tatami mats, etc.);{9} (computer term) foreground	Primary school	N3 (lower intermediate)	Very common*			
-2748	表	ヒョウ	表					[noun, noun used as a suffix] table (e.g. Table 1);chart;list	Primary school	N3 (lower intermediate)	Very common*			
+2747	表	おもて	表	お↱もて↴	<span class="LH">お</span><span class="HL">もて</span>	L-H-H-(L)	3	[noun] {1} surface;{2} face (i.e. the visible side of an object);{3} front (of a building, etc.);obverse side (i.e. "head") of a coin;{4} outside;exterior;{5} appearance;{6} public;{7} first half (of an innings);top (of an inning);{8} cover (for tatami mats, etc.);{9} (computer term) foreground	Primary school	N3 (lower intermediate)	Very common*	9		
+2748	表	ヒョウ	表					[noun, noun used as a suffix] table (e.g. Table 1);chart;list	Primary school	N3 (lower intermediate)	Very common*	9		
 2749	表	あらわす	表す	あ↱らわ↴す	<span class="LH">あ</span><span class="HL">らわ</span><span class="L">す</span>	L-H-H-L	3	[godan verb, transitive] {1} to reveal;to show;to display;{2} to express;{3} to represent;to signify;to stand for;{4} to make widely known	Primary school	N3 (lower intermediate)	Common	9	を	v5
 2750	表	あらわれる	表れる	あ↱らわれ↴る	<span class="LH">あ</span><span class="HL">らわれ</span><span class="L">る</span>	L-H-H-H-L	4	[ichidan verb, intransitive] {1} to appear;to come in sight;to become visible;to come out;to embody;to materialize;to materialise;{2} to be expressed (e.g. emotions);to become apparent (e.g. trends, effects)	Primary school		Rare		が(63%),に(38%)	v1
 2751	表	ひょうする	表する	ひょ↱うす↴る	<span class="LH">ひょ</span><span class="HL">うす</span><span class="L">る</span>	L-H-H-L	3	[special する verb, transitive] to express;to show			Rare			vsi
@@ -2778,8 +2778,8 @@
 2778	西	セイ	西					[noun] (abbreviation) Spain	Primary school		Very common*			
 2779	西	にし	西	に↱し	<span class="LH">に</span><span class="H">し</span>	L-H	0	[noun] west	Primary school	N5 (beginner)	Very common*	5		
 2780	要	いる	要る	い↱る	<span class="LH">い</span><span class="H">る</span>	L-H	0	[godan verb, intransitive] to need;to want	Junior high school	N3 (lower intermediate)	Very common	9	が	v5
-2781	要	かなめ	要	か↱なめ	<span class="LH">か</span><span class="H">なめ</span>	L-H-H	0	[noun] {1} pivot;{2} vital point;cornerstone;keystone;{3} Japanese photinia			Common			
-2782	要	ヨウ	要					[noun] {1} cornerstone;main point;keystone;{2} requirement;need;[adjectival (prenominal) form] {3} necessary;required	Primary school		Common			
+2781	要	かなめ	要	か↱なめ	<span class="LH">か</span><span class="H">なめ</span>	L-H-H	0	[noun] {1} pivot;{2} vital point;cornerstone;keystone;{3} Japanese photinia			Common*			
+2782	要	ヨウ	要					[noun] {1} cornerstone;main point;keystone;{2} requirement;need;[adjectival (prenominal) form] {3} necessary;required	Primary school		Common*			
 2783	要	ようする	要する	よ↱うする↴	<span class="LH">よ</span><span class="HL">うす</span><span class="L">る</span>	L-H-H-L	3	[special する verb, transitive] to need;to demand;to take;to require		N1 (advanced)	Common		を	vsi
 2784	覆	おおう	覆う	お↱おう	<span class="LH">お</span><span class="H">おう</span>	L-H-H	0	[godan verb, transitive] to cover;to hide;to conceal;to wrap;to disguise	Junior high school	N1 (advanced)	Very common		で(51%),を(29%),に(20%)	v5
 2785	覆	くつがえす	覆す	く↱つが↴えす	<span class="LH">く</span><span class="HL">つが</span><span class="L">えす</span>	L-H-H-L-L	3	[godan verb, transitive] to overturn;to upset;to overthrow;to undermine	High school	N1 (advanced)	Uncommon		を	v5
@@ -2791,7 +2791,7 @@
 2791	見	ケン	見					[noun] view (of life, etc.);outlook	Primary school		Uncommon			
 2792	視	シ	視					[prefix, suffix] visual;vision	Primary school		Uncommon			
 2793	覗	のぞく	覗く	の↱ぞく	<span class="LH">の</span><span class="H">ぞく</span>	L-H-H	0	[godan verb, transitive] {1} to peek (though a keyhole, gap, etc.);{2} to look down into (a ravine, etc.);{3} to peek into (a shop, bookstore, etc.);{4} to sneak a look at;to take a quick look at;{5} to peep (through a telescope, microscope, etc.);{6} to stick out (a scarf from a collar, etc.);to peek through (sky through a forest canopy, etc.);{7} (archaism) to face		N2 (intermediate)	Very common		を	v5
-2794	覚	おぼえる	覚える	お↱ぼえ↴る	<span class="LH">お</span><span class="HL">ぼえ</span><span class="L">る</span>	L-H-H-L	3	[ichidan verb, transitive] {1} to memorize;to memorise;to commit to memory;to learn by heart;to bear in mind;to remember;{2} to learn;to pick up;to acquire;{3} to feel;{4} to think;to regard	Primary school	N3 (lower intermediate)	Very common		を(95%),に(5%)	v1
+2794	覚	おぼえる	覚える	お↱ぼえ↴る	<span class="LH">お</span><span class="HL">ぼえ</span><span class="L">る</span>	L-H-H-L	3	[ichidan verb, transitive] {1} to memorize;to memorise;to commit to memory;to learn by heart;to bear in mind;to remember;{2} to learn;to pick up;to acquire;{3} to feel;{4} to think;to regard	Primary school	N3 (lower intermediate)	Very common	19	を(95%),に(5%)	v1
 2795	覚	さめる	覚める	さ↱め↴る	<span class="LH">さ</span><span class="HL">め</span><span class="L">る</span>	L-H-L	2	[ichidan verb, intransitive] {1} to wake;to wake up;{2} to become sober;to sober up;to regain consciousness (e.g. after anaesthesia);{3} to come to one's senses;to be disillusioned	Primary school	N3 (lower intermediate)	Very common		が	v1
 2796	覚	さます	覚ます	さ↱ま↴す	<span class="LH">さ</span><span class="HL">ま</span><span class="L">す</span>	L-H-L	2	[godan verb, transitive] {1} to awaken;{2} to disabuse;{3} to sober up	Primary school	N3 (lower intermediate)	Very common		を	v5
 2797	覚	おぼえ	覚え	お↱ぼえ↴	<span class="LH">お</span><span class="HL">ぼえ</span>	L-H-H-(L)	3	[noun] memory;sense;experience		N1 (advanced)	Common			
@@ -2933,8 +2933,8 @@
 2933	責	セキ	責					[noun] responsibility;duty;obligation	Primary school		Rare			
 2934	貰	もらう	貰う	も↱らう	<span class="LH">も</span><span class="H">らう</span>	L-H-H	0	[godan verb, transitive] {1} to receive;to take;to accept;{2} to get somebody to do something (follows a verb in te form)		N3 (lower intermediate)	Very common		を(75%),で(25%)	v5
 2935	貴	キ	貴					[suffix] honorific, familiar suffix	Primary school		Very common			
-2936	貴	たっとい	貴い	た↱っと↴い	<span class="LH">た</span><span class="HL">っと</span><span class="L">い</span>	L-H-H-L	3	[い adjective] precious;valuable;priceless;noble;exalted;sacred	Junior high school	N1 (advanced)	Common			adji
-2937	貴	とうとい	貴い	と↱うと↴い	<span class="LH">と</span><span class="HL">うと</span><span class="L">い</span>	L-H-H-L	3	[い adjective] precious;valuable;priceless;noble;exalted;sacred	Junior high school		Common	34		adji
+2936	貴	たっとい	貴い	た↱っと↴い	<span class="LH">た</span><span class="HL">っと</span><span class="L">い</span>	L-H-H-L	3	[い adjective] precious;valuable;priceless;noble;exalted;sacred	Junior high school	N1 (advanced)	Common*			adji
+2937	貴	とうとい	貴い	と↱うと↴い	<span class="LH">と</span><span class="HL">うと</span><span class="L">い</span>	L-H-H-L	3	[い adjective] precious;valuable;priceless;noble;exalted;sacred	Junior high school		Common*	34		adji
 2938	貴	たっとぶ	貴ぶ	た↱っと↴ぶ	<span class="LH">た</span><span class="HL">っと</span><span class="L">ぶ</span>	L-H-H-L	3	[godan verb, transitive] to value;to prize;to esteem;to respect	Junior high school		Rare			v5
 2939	貴	とうとぶ	貴ぶ	と↱うと↴ぶ	<span class="LH">と</span><span class="HL">うと</span><span class="L">ぶ</span>	L-H-H-L	3	[godan verb, transitive] to value;to prize;to esteem;to respect	Junior high school		Rare			v5
 2940	買	かう	買う	か↱う	<span class="LH">か</span><span class="H">う</span>	L-H	0	[godan verb, transitive] {1} to buy;to purchase;{2} to value;to have a high opinion;{3} to stir;to provoke	Primary school	N5 (beginner)	Very common	8	を(91%),で(9%)	v5
@@ -2963,7 +2963,7 @@
 2963	賭	かける	賭ける	か↱け↴る	<span class="LH">か</span><span class="HL">け</span><span class="L">る</span>	L-H-L	2	[ichidan verb, transitive] to wager;to bet;to risk;to stake;to gamble	High school	N1 (advanced)	Very common	45	を(53%),に(27%),が(7%),で(7%),と(7%)	v1
 2964	賭	かけ	賭け	か↱け↴	<span class="LH">か</span><span class="HL">け</span>	L-H-(L)	2	[noun, する verb] betting;gambling;a gamble		N1 (advanced)	Common	45		
 2965	贈	おくる	贈る	お↱くる	<span class="LH">お</span><span class="H">くる</span>	L-H-H	0	[godan verb, transitive] {1} to give (as a gift);to present;{2} to confer;to bestow;to award	Junior high school	N2 (intermediate)	Very common	38	を	v5
-2966	赤	あかい	赤い	あ↱かい	<span class="LH">あ</span><span class="H">かい</span>	L-H-H	0	[い adjective] {1} red;{2} Red (i.e. communist)	Primary school	N4 (basic)	Very common			adji
+2966	赤	あかい	赤い	あ↱かい	<span class="LH">あ</span><span class="H">かい</span>	L-H-H	0	[い adjective] {1} red;{2} Red (i.e. communist)	Primary school	N4 (basic)	Very common	4		adji
 2967	赤	あか	赤	あ↴か	<span class="HL">あ</span><span class="L">か</span>	H-L	1	[noun] {1} red;crimson;scarlet;{2} red-containing colour (e.g. brown, pink, orange);{3} (colloquialism) Red (i.e. communist);{4} (abbreviation) red light;{5} (abbreviation) red ink (i.e. in finance or proof-reading);(in) the red;[の adjective, noun used as a prefix] {6} complete;total;perfect;obvious;[noun] {7} copper	Primary school	N4 (basic)	Very common	4		
 2968	赤	あからめる	赤らめる	あ↱からめ↴る	<span class="LH">あ</span><span class="HL">からめ</span><span class="L">る</span>	L-H-H-H-L	4	[ichidan verb, transitive] to blush;to redden	Primary school		Common		を	v1
 2969	赤	あからむ	赤らむ	あ↱から↴む	<span class="LH">あ</span><span class="HL">から</span><span class="L">む</span>	L-H-H-L	3	[godan verb, intransitive] to become red;to redden;to blush	Primary school	N4 (basic)	Rare		で	v5
@@ -2997,7 +2997,7 @@
 2997	躍	おどる	躍る	お↱どる	<span class="LH">お</span><span class="H">どる</span>	L-H-H	0	[godan verb, intransitive] {1} to jump;to leap;{2} to pound (of one's heart, i.e. with excitement);to throb;{3} to be messily written	Junior high school		Common	39	に	v5
 2998	身	み	身	み↱	<span class="LH">み</span>	L-(H)	0	[noun] {1} body;{2} oneself;{3} one's place;one's position;{4} main part;meat (as opposed to bone, skin, etc.);wood (as opposed to bark);blade (as opposed to its handle);container(as opposed to its lid)	Primary school	N3 (lower intermediate)	Very common	8		
 2999	車	くるま	車	く↱るま	<span class="LH">く</span><span class="H">るま</span>	L-H-H	0	[noun] {1} car;automobile;vehicle;{2} wheel	Primary school	N5 (beginner)	Very common	4		
-3000	軍	グン	軍					[noun, noun used as a suffix] army;force;troops	Primary school	N3 (lower intermediate)	Very common			
+3000	軍	グン	軍					[noun, noun used as a suffix] army;force;troops	Primary school	N3 (lower intermediate)	Very common	15		
 3001	軒	ケン	軒					[suffix] {1} counter for buildings (esp. houses);[suffix] {2} suffix for a pen name, stage name, etc.	Junior high school	N2 (intermediate)	Very common*			
 3002	軒	のき	軒	の↱き	<span class="LH">の</span><span class="H">き</span>	L-H	0	[noun] {1} eaves;{2} narrow aisle surrounding the core of a temple building	Junior high school	N2 (intermediate)	Very common*			
 3003	軟	ナン	軟					[たる adjective, adverb taking the と particle] soft	Junior high school		Rare			
@@ -3050,7 +3050,7 @@
 3050	送	おくる	送る	お↱くる	<span class="LH">お</span><span class="H">くる</span>	L-H-H	0	[godan verb, transitive] {1} to send (a thing);to dispatch;to despatch;to transmit;{2} to take or escort (a person somewhere);to see off (a person);{3} to bid farewell (to the departed);to bury;{4} to spend (time);to live one's life;{5} to pass (down the line);{6} to affix okurigana	Primary school	N4 (basic)	Very common	9	を(71%),で(15%),に(14%)	v5
 3051	逃	にげる	逃げる	に↱げ↴る	<span class="LH">に</span><span class="HL">げ</span><span class="L">る</span>	L-H-L	2	[ichidan verb, intransitive] to escape;to run away	Junior high school	N2 (intermediate)	Very common	38	に(69%),が(31%)	v1
 3052	逃	のがれる	逃れる	の↱がれ↴る	<span class="LH">の</span><span class="HL">がれ</span><span class="L">る</span>	L-H-H-L	3	[ichidan verb, intransitive] to escape	Junior high school	N1 (advanced)	Very common	42	を	v1
-3053	逃	にがす	逃がす	に↱が↴す	<span class="LH">に</span><span class="HL">が</span><span class="L">す</span>	L-H-L	2	[godan verb, transitive] to let loose;to set free;to let escape	Junior high school	N2 (intermediate)	Common		を	v5
+3053	逃	にがす	逃がす	に↱が↴す	<span class="LH">に</span><span class="HL">が</span><span class="L">す</span>	L-H-L	2	[godan verb, transitive] to let loose;to set free;to let escape	Junior high school	N2 (intermediate)	Common	42	を	v5
 3054	逃	のがす	逃す	の↱が↴す	<span class="LH">の</span><span class="HL">が</span><span class="L">す</span>	L-H-L	2	[godan verb, transitive] to let loose;to set free;to let escape;to miss	Junior high school	N1 (advanced)	Common	40	を	v5
 3055	逆	ギャク	逆					[な adjective, noun] {1} reverse;opposite;{2} converse (of a hypothesis, etc.)	Primary school	N2 (intermediate)	Very common	28		
 3056	逆	さからう	逆らう	さ↱から↴う	<span class="LH">さ</span><span class="HL">から</span><span class="L">う</span>	L-H-H-L	3	[godan verb, intransitive] to go against;to oppose;to disobey;to defy	Primary school	N2 (intermediate)	Common	28	に	v5
@@ -3064,7 +3064,7 @@
 3064	通	とおる	通る	と↴おる	<span class="HL">と</span><span class="L">おる</span>	H-L-L	1	[godan verb, intransitive] {1} to go by;to go past;to go along;to travel along;to pass through;to use (a road);to take (a route);to go via;to go by way of;{2} to run (between);to operate (between);to connect;{3} to go indoors;to go into a room;to be admitted;to be shown in;to be ushered in;to come in;{4} to penetrate;to pierce;to skewer;to go through;to come through;{5} to permeate;to soak into;to spread throughout;{6} to carry (e.g. of a voice);to reach far;{7} to be passed on (e.g. of a customer's order to the kitchen);to be relayed;to be conveyed;{8} to pass (a test, a bill in the House, etc.);to be approved;to be accepted;{9} to go by (a name);to be known as;to be accepted as;to have a reputation for;{10} to be coherent;to be logical;to be reasonable;to be comprehensible;to be understandable;to make sense;{11} to get across (e.g. of one's point);to be understood;{12} to be straight (e.g. wood grain);{13} (archaism) to be well-informed;to be wise;[suffix, godan verb] {14} to do ... completely;to do ... thoroughly	Primary school	N4 (basic)	Very common	7	を(60%),が(22%),に(18%)	v5
 3065	通	とおす	通す	と↴おす	<span class="HL">と</span><span class="L">おす</span>	H-L-L	1	[godan verb, transitive] {1} to stick through;to force through;{2} to spread throughout;to thoroughly diffuse;{3} to make a path between two points;{4} to proceed in a logical manner;{5} to let pass;to allow through;{6} to lead (someone) into (a house, room, etc.);to show in;{7} to go through (a middleman);{8} to (look, listen) through (a window, wall, etc.);{9} to pass (a law, applicant, etc.);{10} to force to accept;to force agreement;{11} to continue (in a state);to persist in;{12} to do to the entirety of;to cover all of;to span the whole ...;{13} to do from beginning to end without a break;{14} to convey (one's ideas, etc.) to the other party;{15} (after the -te form of a verb) to do to the end;to carry through;to complete	Primary school	N4 (basic)	Very common		を(85%),で(8%),に(8%)	v5
 3066	通	つうじる	通じる	つ↱うじる	<span class="LH">つ</span><span class="H">うじる</span>	L-H-H-H	0	[ichidan verb, intransitive, transitive] {1} to be open (to traffic);to lead to;to communicate (with);{2} to flow (liquid, current);to pass;to get through to;{3} to be understood;to be comprehended;{4} to be honored;to be good;{5} to be well versed in;to be well-informed;{6} to communicate clandestinely;to keep in touch (e.g. with the enemy);{7} to form a liaison;to be intimate		N3 (lower intermediate)	Very common		に(47%),が(35%),を(18%)	v1
-3067	通	かよう	通う	か↱よう	<span class="LH">か</span><span class="H">よう</span>	L-H-H	0	[godan verb, intransitive] {1} to go back and forth;to ply between;{2} to commute;to attend (school, church, etc.)	Primary school	N4 (basic)	Very common		に(63%),が(22%),で(15%)	v5
+3067	通	かよう	通う	か↱よう	<span class="LH">か</span><span class="H">よう</span>	L-H-H	0	[godan verb, intransitive] {1} to go back and forth;to ply between;{2} to commute;to attend (school, church, etc.)	Primary school	N4 (basic)	Very common	11	に(63%),が(22%),で(15%)	v5
 3068	通	ツウ	通					[な adjective, noun] {1} connoisseur;authority;{2} counter for letters, notes, documents, etc.	Primary school	N1 (advanced)	Very common			
 3069	通	つうずる	通ずる	つ↱うずる	<span class="LH">つ</span><span class="H">うずる</span>	L-H-H-H	0	[ずる;じる verb, intransitive, transitive] {1} to be open (to traffic);to lead to;to communicate (with);{2} to flow (liquid, current);to pass;to get through to;{3} to be understood;to be comprehended;{4} to be honored;to be good;{5} to be well versed in;to be well-informed;{6} to communicate clandestinely;to keep in touch (e.g. with the enemy);{7} to form a liaison;to be intimate		N2 (intermediate)	Uncommon		に	vz
 3070	通	かよい	通い	か↱よい	<span class="LH">か</span><span class="H">よい</span>	L-H-H	0	[noun] coming and going;commuting			Uncommon			
@@ -3120,7 +3120,7 @@
 3120	選	セン	選					[noun, noun used as a suffix] selection;choice;choosing;picking;election	Primary school		Uncommon			
 3121	避	さける	避ける	さ↱け↴る	<span class="LH">さ</span><span class="HL">け</span><span class="L">る</span>	L-H-L	2	[ichidan verb, transitive] {1} to avoid (situation);{2} to ward off;to avert	Junior high school	N1 (advanced)	Very common	38	を	v1
 3122	郡	グン	郡					[noun] {1} district;county;{2} district (of 2-20 50-home neighbourhoods or townships, in the ritsuryo period)	Primary school	N1 (advanced)	Very common			
-3123	部	ブ	部					[noun, noun used as a suffix] {1} department (in an organization);division;bureau;{2} club;{3} part;component;element;{4} category;{5} counter for copies of a newspaper or magazine	Primary school	N1 (advanced)	Very common			
+3123	部	ブ	部					[noun, noun used as a suffix] {1} department (in an organization);division;bureau;{2} club;{3} part;component;element;{4} category;{5} counter for copies of a newspaper or magazine	Primary school	N1 (advanced)	Very common	9		
 3124	郭	カク	郭					[noun] {1} district;quarter;{2} enclosure;area enclosed by earthwork;{3} red-light district	Junior high school		Uncommon			
 3125	郷	キョウ	郷					[noun] {1} hometown;{2} rural township (of China)	Primary school		Common*			
 3126	郷	ゴウ	郷					[noun] {1} countryside;country;{2} 50-home township (comprised of 2-3 neighbourhoods)	Junior high school		Common*			
@@ -3289,7 +3289,7 @@
 3289	零	レイ	零					[noun, の adjective] zero;nought	Junior high school	N2 (intermediate)	Common	46		
 3290	雷	かみなり	雷	か↱みな↴り	<span class="LH">か</span><span class="HL">みな</span><span class="L">り</span>	L-H-H-L	3	[noun] {1} lightning;thunder;thunderbolt;{2} god of thunder;god of lightning;{3} anger;fit of anger	Junior high school	N1 (advanced)	Very common*	44		
 3291	雷	ライ	雷					[noun] lightning;thunder;thunderbolt	Junior high school		Very common*			
-3292	震	ふるえる	震える	ふ↱るえる	<span class="LH">ふ</span><span class="H">るえる</span>	L-H-H-H	0	[ichidan verb, intransitive] to shiver;to shake;to quake;to tremble;to quaver;to quiver	Junior high school	N2 (intermediate)	Very common		で(41%),が(31%),に(28%)	v1
+3292	震	ふるえる	震える	ふ↱るえる	<span class="LH">ふ</span><span class="H">るえる</span>	L-H-H-H	0	[ichidan verb, intransitive] to shiver;to shake;to quake;to tremble;to quaver;to quiver	Junior high school	N2 (intermediate)	Very common	22	で(41%),が(31%),に(28%)	v1
 3293	震	ふるえ	震え	ふ↱るえ	<span class="LH">ふ</span><span class="H">るえ</span>	L-H-H	0	[noun] shivering;trembling			Common			
 3294	震	シン	震					[noun] zhen (one of the trigrams of the I Ching: thunder, east)	Junior high school		Rare			
 3295	震	ふるう	震う	ふ↱るう	<span class="LH">ふ</span><span class="H">るう</span>	L-H-H	0	[godan verb, intransitive] to shake;to tremble;to vibrate	Junior high school		Rare			v5
@@ -3379,8 +3379,8 @@
 3379	養	やしなう	養う	や↱しな↴う	<span class="LH">や</span><span class="HL">しな</span><span class="L">う</span>	L-H-H-L	3	[godan verb, transitive] to rear;to maintain;to support (e.g. family);to cultivate	Primary school	N1 (advanced)	Common	13	を	v5
 3380	餌	え	餌	え↴	<span class="HL">え</span>	H-(L)	1	[noun] feed;bait	High school		Very common*			
 3381	餌	えさ	餌	え↱さ↴	<span class="LH">え</span><span class="HL">さ</span>	L-H-(L)	2	[noun] feed;bait	High school	N3 (lower intermediate)	Very common*			
-3382	館	カン	館					[noun, suffix] house;hall;building	Primary school	N4 (basic)	Very common			
-3383	館	やかた	館	や↱かた	<span class="LH">や</span><span class="H">かた</span>	L-H-H	0	[noun] {1} mansion;small castle;{2} (honorific) nobleman;noblewoman;{3} boat cabin			Very common			
+3382	館	カン	館					[noun, suffix] house;hall;building	Primary school	N4 (basic)	Very common*			
+3383	館	やかた	館	や↱かた	<span class="LH">や</span><span class="H">かた</span>	L-H-H	0	[noun] {1} mansion;small castle;{2} (honorific) nobleman;noblewoman;{3} boat cabin			Very common*			
 3384	首	くび	首	く↱び	<span class="LH">く</span><span class="H">び</span>	L-H	0	[noun] {1} neck;{2} head;{3} unemployed person	Primary school	N4 (basic)	Very common*	6		
 3385	首	シュ	首					counter for songs and poems	Primary school		Very common*			
 3386	香	か	香	か↱	<span class="LH">か</span>	L-(H)	0	[noun] smell (esp. a good smell);fragrance;scent;aroma;perfume	Junior high school		Very common*			
@@ -3421,7 +3421,7 @@
 3421	魂	コン	魂					[noun] Yang energy;spirit;	Junior high school	N1 (advanced)	Very common*			
 3422	魂	たましい	魂	た↴ましい	<span class="HL">た</span><span class="L">ましい</span>	H-L-L-L	1	[noun] soul;spirit	Junior high school		Very common*	45		
 3423	魅	みする	魅する	み↱す↴る	<span class="LH">み</span><span class="HL">す</span><span class="L">る</span>	L-H-L	2	[special する verb, transitive] to charm;to bewitch;to enchant;to captivate;to fascinate			Rare			vsi
-3424	魔	マ	魔					[noun] {1} demon;devil;evil spirit;evil influence;[noun used as a suffix] {2} someone who (habitually) performs some (negative) act	Junior high school		Very common			
+3424	魔	マ	魔					[noun] {1} demon;devil;evil spirit;evil influence;[noun used as a suffix] {2} someone who (habitually) performs some (negative) act	Junior high school		Very common	46		
 3425	魚	うお	魚	う↱お	<span class="LH">う</span><span class="H">お</span>	L-H	0	[noun] fish	Primary school	N3 (lower intermediate)	Very common*			
 3426	魚	さかな	魚	さ↱かな	<span class="LH">さ</span><span class="H">かな</span>	L-H-H	0	[noun] fish	Primary school	N5 (beginner)	Very common*	7		
 3427	鮮	あざやか	鮮やか	あ↱ざ↴やか	<span class="LH">あ</span><span class="HL">ざ</span><span class="L">やか</span>	L-H-L-L	2	[な adjective] {1} vivid;bright;brilliant;clear;fresh;vibrant;{2} skillful;skilful;adept;adroit;deft;brilliant;beautiful;fine;excellent	Junior high school	N1 (advanced)	Very common	25		

@@ -6787,6 +6787,7 @@
 屛	3		;hei;byou;hyou;oou;shirizoku;byoubu;tsuitate;kaki;shirizokeru;ヘイ;ビョウ;ヒョウ;おおう;しりぞく;びょうぶ;ついたて;かき;しりぞける;sirizoku;tuitate;sirizokeru;	wall;fence
 幷	3		;hei;hyou;awaseru;narabu;ヘイ;ヒョウ;あわせる;ならぶ;	put together
 沪	3		;ryo;ro;kosu;リョ;ロ;こす;	filter
+䇳	3		;sen;fuda;tokiakashi;harifuda;nafuda;tegami;kakimono;セン;ふだ;ときあかし;はりふだ;なふだ;てがみ;かきもの;tokiakasi;huda;harihuda;nahuda;	paper;label;letter;composition;stationery
 𠮟	1	;shitsu;shikaru;シツ;しかる;situ;sikaru;	;shitsu;shichi;shikaru;シツ;シチ;しかる;situ;siti;sikaru;	scold;reprove
 﨟	3		;rou;ロウ;	year-end sacrifice;dried meat
 䍃	3		;yo;ヨウ;you;	pitcher;vase;earthenware

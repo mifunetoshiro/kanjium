@@ -5738,7 +5738,7 @@
 輜	15	3	品l	車巛田軋		車,巛,田		wagon
 輟	15	3	⿲	車又軋		車,又		stop
 輛	15	3	⿰	丨車入冂軋	兩	車,兩,入,冂,一		counter for large vehicles
-輌	13	3	⿰	丨一車山冂凵軋	両	車,両,冂,山,凵,一,山		numerary adjunct for vehicles
+輌	13	3	⿰	丨一車山冂凵軋	両	車,両,冂,凵,一,山		numerary adjunct for vehicles
 輦	15	3	品u	車人大二		車,人,大,二		palanquin
 輳	16	3	品l	一車人大二軋奉	奏天	車,奏,人,大,二,天,禾		gather
 輻	16	3	⿰4	口一車田軋	畐	車,畐,口,田		spoke (wheel)

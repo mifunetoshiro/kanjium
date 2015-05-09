@@ -6807,4 +6807,4 @@
 	十			⿱				ソツ			4	Hyōgaiji				compact unit;orderly unit							
 	攴	攵		⿰5				テツ			12	Hyōgaiji				pass through							
 	肉	⺼		⿱				ダ			9	Hyōgaiji				collapsing pile of earth							
-	魚			品l					あおさば、さば		23	Hyōgaiji		1		mackarel;(kokuji)							
+𬵪	魚			品l					あおさば、さば		23	Hyōgaiji		1		mackarel;(kokuji)							

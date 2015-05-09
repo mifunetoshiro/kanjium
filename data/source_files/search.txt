@@ -6807,4 +6807,4 @@
 	3		;sotsu;ソツ;sotu;	compact unit;orderly unit
 	3		;tetsu;テツ;tetu;	pass through
 	3		;da;ダ;	collapsing pile of earth
-	3		;aosaba;saba;あおさば;さば;	mackarel
+𬵪	3		;aosaba;saba;あおさば;さば;	mackarel

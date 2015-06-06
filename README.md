@@ -43,8 +43,8 @@ CONTENTS:
              * *conjugations.search*: each reading is enclosed with ";" to "simulate" full-text-search (FTS) of Japanese without a tokenizer<br />
       * elements table:<br />
              * *elements.grade*: 1=jouyou, 2=jinmeiyou, 3=hyougaiji<br />
-             * *elements.idc*: ideographic description character (kanji shape); see *multielements.txt* for mapping table to images in *idc_images* folder<br />
-             * *elements.elements*: 3-byte characters for multi-elements lookup system; see *multielements.txt* for element list and mapping table (for example, "屶 = 山": show 山 on website/app, but search for 屶)<br />
+             * *elements.idc*: ideographic description character (kanji shape); see *idc_mappingtable.txt* for mapping table to images in *idc_images* folder<br />
+             * *elements.elements*: 3-byte characters for multi-elements lookup system; see *multielements.txt* for element list (for example, "屶 = 山": show 山 on website/app, but search for 屶)<br />
              * *elements.extra_elements*: for input box to search for kanji that contain a certain kanji (non-radicals that are not on the multi-elements lookup system only), for example, search for 合 will return 姶, 恰, etc.<br />
              * *elements.kanji_parts*: list of elements that the kanji is made of (different from *elements.elements*; doesn't show 屶 for example but only 山)<br />
              * *elements.part_of*: list of kanji that contain the particular kanji<br />

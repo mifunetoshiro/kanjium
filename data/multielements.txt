@@ -1,27 +1,3 @@
-IDC mapping table:
-⿰	=	1.png
-⿱	=	2.png
-⿲	=	3.png
-⿳	=	4.png
-⿴	=	5.png
-⿵	=	6.png
-⿶	=	7.png
-⿷	=	8.png
-⿸	=	9.png
-⿹	=	10.png
-⿺	=	11.png
-囗	=	12.png
-品	=	13.png
-品u	=	14.png
-品l	=	15.png
-品r	=	16.png
-⿱1	=	17.png
-⿰4	=	18.png
-⿰5	=	19.png
-⿰1	=	20.png
-⿰2	=	21.png
-⿰3	=	22.png
-
 Multi-elements lookup (requires MultiElements font):
 kanmuri
 2

@@ -2,8 +2,8 @@ Multi-elements lookup (requires MultiElements font):
 kanmuri
 2
 亠
-㆟ = 𠆢	MultiElements.woff
-公 = 八	MultiElements.woff
+㆟	MultiElements.woff
+公	MultiElements.woff
 冖
 3
 宀
@@ -25,7 +25,7 @@ kanmuri
 ⺮	MultiElements.woff
 罒
 6
-⺷ = 𦍌	MultiElements.woff
+⺷	MultiElements.woff
 覀
 8
 ⻗	MultiElements.woff
@@ -71,7 +71,7 @@ rare tare
 kamae
 2
 冂
-⺇ = 𠘨	MultiElements.woff
+⺇	MultiElements.woff
 凵
 勹
 匚
@@ -99,7 +99,7 @@ ashi
 圣 = 土
 安 = 女
 4
-忌 = 心	MultiElements.woff
+忌	MultiElements.woff
 拏 = 手
 旨 = 日
 朶 = 木
@@ -172,7 +172,7 @@ hen
 冫
 3
 叶 = 口
-圦 = 土	MultiElements.woff
+圦	MultiElements.woff
 奴 = 女
 乢 = 山
 彳
@@ -184,9 +184,9 @@ hen
 4
 放 = 方
 旺 = 日
-札 = 木	MultiElements.woff
+札	MultiElements.woff
 歹
-灯 = 火	MultiElements.woff
+灯	MultiElements.woff
 爿
 牜
 ⺩	MultiElements.woff
@@ -194,11 +194,11 @@ hen
 5
 矼 = 石
 ⺬	MultiElements.woff
-利 = 禾	MultiElements.woff
+利	MultiElements.woff
 虲 = 虫
 衤
 6
-籵 = 米	MultiElements.woff
+籵	MultiElements.woff
 糹 = 糸
 取 = 耳
 舟
@@ -208,14 +208,14 @@ hen
 訁
 豸
 則 = 貝
-⻊ = 𧾷	MultiElements.woff
+⻊	MultiElements.woff
 身
 酊 = 酉
 釒
 8
 革
 飠
-⻞ = 𩙿	MultiElements.woff
+⻞	MultiElements.woff
 10
 馭 = 馬
 11
@@ -236,9 +236,9 @@ middle/other:
 丿
 乚
 亅
-㇗ = 𠃊	MultiElements.woff
-㇆ = 𠃌	MultiElements.woff
-㇕ = 𠃍	MultiElements.woff
+㇗	MultiElements.woff
+㇆	MultiElements.woff
+㇕	MultiElements.woff
 2
 二
 人
@@ -256,9 +256,9 @@ middle/other:
 丁
 七
 ⺈	MultiElements.woff
-乞 = 𠂉	MultiElements.woff
+乞	MultiElements.woff
 丆
-厷 = 𠂇	MultiElements.woff
+厷	MultiElements.woff
 龴	MultiElements.woff
 㐅
 乃
@@ -292,7 +292,7 @@ middle/other:
 下
 上
 亡
-步 = 𣥂	MultiElements.woff
+步	MultiElements.woff
 4
 心
 手
@@ -331,7 +331,7 @@ middle/other:
 五
 勿
 龰	MultiElements.woff
-哀 = 𧘇	MultiElements.woff
+哀	MultiElements.woff
 5
 旡
 母
@@ -367,7 +367,7 @@ middle/other:
 冊
 业
 乍
-奉 = 𡗗	MultiElements.woff
+奉	MultiElements.woff
 6
 米
 糸
@@ -420,7 +420,7 @@ middle/other:
 金
 隹
 非
-龺 = 𠦝	MultiElements.woff
+龺	MultiElements.woff
 免
 京
 者
@@ -459,7 +459,7 @@ less common:
 1
 乙
 ⺄	MultiElements.woff
-呉 = 𠃑	MultiElements.woff
+呉	MultiElements.woff
 3
 夊
 也
@@ -474,7 +474,7 @@ less common:
 5
 歺
 玉
-⺪ = 𤴔	MultiElements.woff
+⺪	MultiElements.woff
 巨
 6
 竹

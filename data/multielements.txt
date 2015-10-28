@@ -1,48 +1,53 @@
-Multi-elements lookup (requires MultiElements font):
+Notes:
+* in the list below, for example, 屶 = 山 means that one should use 屶 to search the database for all kanji containing the kanmuri element 山, but the multielements lookup table of a website/app should list it as 山 for simplicity's sake.
+* where there is a mention of "MultiElements.woff/.svg/.ttf", it means this custom font should be used to properly render this element on all devices and platforms.
+* where there is a character in brackets, for example, 呉 (𠃑) and 忌 (心), it means the first character (e.g. 呉 and 忌) should be used to search the database and be listed and rendered on the multielements lookup table of a website/app with the custom font, whereas the character in brackets can be ignored and is here only as a visual internal memo.
+* the element lookup database only uses 3-byte characters, as I found out 4-byte characters can be (or used to be at least, so this might be redundant nowadays) troublesome with various queries/regexes, so for example 𠆢 (U+201A2) is internally substituted with ㆟ (U+319F).
+
 kanmuri
 2
 亠
-㆟ = 𠆢	MultiElements.woff
-公 = 八	MultiElements.woff
+㆟ (𠆢)	MultiElements.woff/.svg/.ttf
+公 (八)	MultiElements.woff/.svg/.ttf
 冖
 3
 宀
 艹
 䒑
-⺌	MultiElements.woff
-⺍	MultiElements.woff
+⺌	MultiElements.woff/.svg/.ttf
+⺍	MultiElements.woff/.svg/.ttf
 屶 = 山
 彐
 彑
 4
 早 = 日
 杏 = 木
-爫	MultiElements.woff
-爫	MultiElements.woff
+爫	MultiElements.woff/.svg/.ttf
+爫	MultiElements.woff/.svg/.ttf
 5
 癶
 穴
-⺮	MultiElements.woff
+⺮	MultiElements.woff/.svg/.ttf
 罒
 6
-⺷ = 𦍌	MultiElements.woff
+⺷ (𦍌)	MultiElements.woff/.svg/.ttf
 覀
 8
-⻗	MultiElements.woff
+⻗	MultiElements.woff/.svg/.ttf
 10
 髟
 rare kanmuri
 4
-艹	MultiElements.woff
+艹	MultiElements.woff/.svg/.ttf
 5
-⺻	MultiElements.woff
+⺻	MultiElements.woff/.svg/.ttf
 
 nyou
 3
 廴
-辶	MultiElements.woff
+辶	MultiElements.woff/.svg/.ttf
 4
-辶	MultiElements.woff
+辶	MultiElements.woff/.svg/.ttf
 7
 走
 rare nyou
@@ -71,7 +76,7 @@ rare tare
 kamae
 2
 冂
-⺇ = 𠘨	MultiElements.woff
+⺇ (𠘨)	MultiElements.woff/.svg/.ttf
 凵
 勹
 匚
@@ -99,7 +104,7 @@ ashi
 圣 = 土
 安 = 女
 4
-忌 = 心	MultiElements.woff
+忌 (心)	MultiElements.woff/.svg/.ttf
 拏 = 手
 旨 = 日
 朶 = 木
@@ -116,7 +121,7 @@ ashi
 嶌 = 鳥
 rare ashi
 4
-㣺	MultiElements.woff
+㣺	MultiElements.woff/.svg/.ttf
 災 = 火
 全 = 王
 5
@@ -135,7 +140,7 @@ tsukuri
 卜
 㔾
 3
-⻏	MultiElements.woff
+⻏	MultiElements.woff/.svg/.ttf
 4
 支
 攵
@@ -172,7 +177,7 @@ hen
 冫
 3
 叶 = 口
-圦 = 土	MultiElements.woff
+圦 (土)	MultiElements.woff/.svg/.ttf
 奴 = 女
 乢 = 山
 彳
@@ -180,25 +185,25 @@ hen
 扌
 氵
 犭
-⻖	MultiElements.woff
+⻖	MultiElements.woff/.svg/.ttf
 4
 放 = 方
 旺 = 日
-札 = 木	MultiElements.woff
+札 (木)	MultiElements.woff/.svg/.ttf
 歹
-灯 = 火	MultiElements.woff
+灯 (火)	MultiElements.woff/.svg/.ttf
 爿
 牜
-⺩	MultiElements.woff
+⺩	MultiElements.woff/.svg/.ttf
 礻
 5
 矼 = 石
-⺬	MultiElements.woff
-利 = 禾	MultiElements.woff
+⺬	MultiElements.woff/.svg/.ttf
+利 (禾)	MultiElements.woff/.svg/.ttf
 虲 = 虫
 衤
 6
-籵 = 米	MultiElements.woff
+籵 (米)	MultiElements.woff/.svg/.ttf
 糹 = 糸
 取 = 耳
 舟
@@ -208,14 +213,14 @@ hen
 訁
 豸
 則 = 貝
-⻊ = 𧾷	MultiElements.woff
+⻊ (𧾷)	MultiElements.woff/.svg/.ttf
 身
 酊 = 酉
 釒
 8
 革
 飠
-⻞ = 𩙿	MultiElements.woff
+⻞ (𩙿)	MultiElements.woff/.svg/.ttf
 10
 馭 = 馬
 11
@@ -226,7 +231,7 @@ rare hen
 4
 片
 6
-⺶	MultiElements.woff
+⺶	MultiElements.woff/.svg/.ttf
 
 middle/other:
 1
@@ -236,9 +241,9 @@ middle/other:
 丿
 乚
 亅
-㇗ = 𠃊	MultiElements.woff
-㇆ = 𠃌	MultiElements.woff
-㇕ = 𠃍	MultiElements.woff
+㇗ (𠃊)	MultiElements.woff/.svg/.ttf
+㇆ (𠃌)	MultiElements.woff/.svg/.ttf
+㇕ (𠃍)	MultiElements.woff/.svg/.ttf
 2
 二
 人
@@ -255,11 +260,11 @@ middle/other:
 丷
 丁
 七
-⺈	MultiElements.woff
-乞 = 𠂉	MultiElements.woff
+⺈	MultiElements.woff/.svg/.ttf
+乞 (𠂉)	MultiElements.woff/.svg/.ttf
 丆
-厷 = 𠂇	MultiElements.woff
-龴	MultiElements.woff
+厷 (𠂇)	MultiElements.woff/.svg/.ttf
+龴	MultiElements.woff/.svg/.ttf
 㐅
 乃
 九
@@ -292,7 +297,7 @@ middle/other:
 下
 上
 亡
-步 = 𣥂	MultiElements.woff
+步 (𣥂)	MultiElements.woff/.svg/.ttf
 4
 心
 手
@@ -313,12 +318,12 @@ middle/other:
 父
 爻
 牛
-⺧	MultiElements.woff
+⺧	MultiElements.woff/.svg/.ttf
 犬
 王
 耂
-⺼	MultiElements.woff
-龷	MultiElements.woff
+⺼	MultiElements.woff/.svg/.ttf
+龷	MultiElements.woff/.svg/.ttf
 井
 廿
 今
@@ -330,8 +335,8 @@ middle/other:
 元
 五
 勿
-龰	MultiElements.woff
-哀 = 𧘇	MultiElements.woff
+龰	MultiElements.woff/.svg/.ttf
+哀 (𧘇)	MultiElements.woff/.svg/.ttf
 5
 旡
 母
@@ -367,7 +372,7 @@ middle/other:
 冊
 业
 乍
-奉 = 𡗗	MultiElements.woff
+奉 (𡗗)	MultiElements.woff/.svg/.ttf
 6
 米
 糸
@@ -391,7 +396,7 @@ middle/other:
 共
 寺
 有
-龹	MultiElements.woff
+龹	MultiElements.woff/.svg/.ttf
 兆
 各
 曲
@@ -420,7 +425,7 @@ middle/other:
 金
 隹
 非
-龺 = 𠦝	MultiElements.woff
+龺 (𠦝)	MultiElements.woff/.svg/.ttf
 免
 京
 者
@@ -458,8 +463,8 @@ middle/other:
 less common:
 1
 乙
-⺄	MultiElements.woff
-呉 = 𠃑	MultiElements.woff
+⺄	MultiElements.woff/.svg/.ttf
+呉 (𠃑)	MultiElements.woff/.svg/.ttf
 3
 夊
 也
@@ -468,13 +473,13 @@ less common:
 尣
 爪
 牙
-⺺	MultiElements.woff
+⺺	MultiElements.woff/.svg/.ttf
 夬
 屯
 5
 歺
 玉
-⺪ = 𤴔	MultiElements.woff
+⺪ (𤴔)	MultiElements.woff/.svg/.ttf
 巨
 6
 竹

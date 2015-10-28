@@ -24,7 +24,7 @@
 宛	8	1	品	夕㔾宀	夗	宀,夗,夕,㔾	婉,椀,碗,腕,蜿,豌,鋺	address
 姐	8	3	⿰	女目且奴		女,且,目		elder sister
 虻	9	3	⿰	虫亠虲㇗亡		虫,亡,亠		gadfly
-飴	14	3	品l	口⻞厶	台	台,口,⻞,厶		rice jelly
+飴	14	3	品l	口⻞厶	台	台,口,𩙿,厶		rice jelly
 絢	12	2	⿰	糹糸日勹	旬	糸,旬,日,勹		brilliant fabric design
 綾	14	2	品l	糹糸土儿夂	夌	糸,夌,土,儿,夂,八,夊		design
 鮎	16	2	品l	⺈魚口田卜魞	占	魚,占,口,田,卜		freshwater trout
@@ -125,7 +125,7 @@
 運	12	1	⿺	辶車冖	軍	辶,軍,辶,車,冖		carry;move;fortune
 雲	12	1	⿱	一⻗二厶云		雨,云,⻗,二,厶	曇,繧,靆,靉	cloud
 荏	9	3	品	亻士艹	任壬	任,亻,士,艹,壬,王		bean
-餌	15	1	⿰	耳飠食⻞		耳,食,⻞		feed
+餌	15	1	⿰	耳飠食⻞		耳,食,𩙿		feed
 叡	16	2	⿰5	八卜又目冖	睿	睿,又,八,卜,目,冖,𠆢		intelligence
 営	12	1	⿱	口⺍呂冖		冖,呂,口,⺍		occupation;manage;barracks
 嬰	17	3	品u	貝目八女六安		女,貝,目,八	嚶,櫻,瓔,纓,鸚	sharp (music)
@@ -1259,7 +1259,7 @@
 重	9	1	囗	丨丿一日里重		日,里	勲,薫,𤋱,動,畽,種,腫,董,衝,踵,鍾	heavy;duplicate
 銃	14	1	品l	釒金亠儿厶	充允	金,充,亠,儿,厶,允		gun
 叔	8	1	⿰	小卜又上		又,小,卜,上	俶,寂,椒,淑,督,菽	uncle;younger sibling of parent
-夙	6	3	⿵	⺇歹		⺇,歹		bright and early
+夙	6	3	⿵	⺇歹		𠘨,歹		bright and early
 宿	11	1	品	亻白日宀	佰百	宀,佰,亻,白,百	縮,蓿,鏥	inn;lodge
 淑	11	1	⿲	氵小卜又上	叔	叔,氵,小,卜,又,上		graceful
 祝	9	1	品l	口礻兄儿		兄,示,口,礻,儿		celebrate
@@ -1417,7 +1417,7 @@
 色	6	1	囗	色巴巳丨⺈		巴,巳		color
 触	13	1	⿰	角虫		角,虫		contact;touch
 食	9	1	⿱	食	良	良,丶,艮		eat;food;meal
-蝕	15	3	⿰	⻞虫		虫,⻞		eclipse
+蝕	15	3	⿰	⻞虫		虫,𩙿		eclipse
 辱	10	1	⿱	寸辰厂		辰,寸,厂	縟,耨,蓐,褥,溽	embarrass;humiliate
 尻	5	1	⿸	九尸		尸,九		buttocks
 伸	7	1	⿰	丨亻日田	申	申,亻,日,田		expand;stretch;to lengthen
@@ -1438,7 +1438,7 @@
 深	11	1	品l	氵木儿冖		氵,木,儿,冖		deep
 申	5	1	囗	丨日田		日,田	伸,呻,坤,抻,暢,神,紳,神	speaketh;report;speak humbly;say
 疹	10	3	⿸	㆟彡疒		疒,𠆢,彡		measles
-真	10	1	⿱	一十八目六	具	十,具,八,目,一	嗔,填,瞋,鎮,顛,鷏,慎,槙	TRUE
+真	10	1	⿱	一十八目六	具	十,具,八,目,一	嗔,填,瞋,鎮,顛,鷏,慎,槙	true
 神	9	1	⿰	丨日礻田	申	申,示,日,礻,田	榊,鰰,𨕫	gods;mind
 秦	10	2	⿱	一禾二人奉		禾,二,人	榛,臻,蓁	Manchu dynasty
 紳	11	1	⿰	丨糹糸日田	申	糸,申,日,田		sire;gentleman
@@ -1628,8 +1628,8 @@
 曽	11	1	⿱	田曰日䒑丷		田,日,曰	僧,噌,増,層,憎,甑,贈	formerly
 楚	13	2	品u	疋木杏	林	林,疋,木	礎	whip
 狙	8	1	⿰	一犭目且		且,犭,目		aim at
-疏	12	2	⿰4	止川亠厶⺪	㐬	⺪,㐬,止,川,亠,厶,儿	蔬	pass through
-疎	12	1	⿰	丨束一口止⺪木		⺪,束,口,止,木,八		alienate;sparse;estrange
+疏	12	2	⿰4	止川亠厶⺪	㐬	𤴔,㐬,止,川,亠,厶,儿	蔬	pass through
+疎	12	1	⿰	丨束一口止⺪木		𤴔,束,口,止,木,八		alienate;sparse;estrange
 礎	18	1	⿰2	一丿口石疋木矼	楚林	石,楚,口,疋,木,林		cornerstone
 祖	9	1	⿰	一目且礻		且,示,目,礻	鎺	ancestor
 租	10	1	⿰	一禾目且利		禾,且,目		tariff;land tax
@@ -1781,7 +1781,7 @@
 濁	16	1	品l	氵虫罒勹	蜀	蜀,氵,虫,罒,勹		voiced;turbid
 諾	15	1	品l	丿一訁言口艹厷	若右	言,若,口,艹,右		consent
 茸	9	2	⿱	耳艹茸		耳,艹	穁	mushroom
-凧	5	2	⿵	丨巾冂⺇		巾,冂,⺇		kite
+凧	5	2	⿵	丨巾冂⺇		巾,冂,𠘨		kite
 蛸	13	3	⿰	月⺌小虫虲肖		虫,肖,月,⺌,小,⺼		octopus
 只	5	2	⿱	口八六		口,八	咫,枳	only
 叩	5	3	⿰	口卩叶		口,卩	命	strike
@@ -2133,7 +2133,7 @@
 那	7	1	⿰	刀⻏二		刀,⻏,二	娜,梛	interrogative
 内	4	1	囗	人冂		冂,人	丙,納,肭,蚋,衲,訥,靹,陋	inside
 乍	5	3	囗	丨丿一乍乞			詐,作,咋,搾,昨,窄,酢,怎,柞,炸,祚,筰,胙,鮓	though
-凪	6	2	⿵	止⺇		止,⺇		lull
+凪	6	2	⿵	止⺇		止,𠘨		lull
 薙	16	2	品	矢艹隹乞	雉	雉,矢,艹,隹		mow down (the enemy)
 謎	17	1	⿲	訁言辶辶丶米	迷	言,迷,辶,辶,米		riddle
 灘	22	2	⿲	氵大口廿艹隹亠准	難	難,氵,大,口,廿,艹,隹,亠		open sea
@@ -2433,8 +2433,8 @@
 蕪	15	2	⿱	丨丿乞一灬艹無		無,灬,艹		turnip
 部	11	1	品r	口⻏立	咅	咅,口,⻏,立	蔀	section;part
 封	9	1	品r	寸土	圭	圭,寸,土	幇	seal
-楓	13	2	⿰	風木⺇虫丿札		木,風,⺇,虫		maple
-風	9	1	⿵	風⺇虫丿		⺇,虫		wind;manner
+楓	13	2	⿰	風木⺇虫丿札		木,風,𠘨,虫		maple
+風	9	1	⿵	風⺇虫丿		𠘨,虫		wind;manner
 葺	12	2	⿳	口耳艹茸	咠	口,咠,耳,艹		thatch
 蕗	16	2	品	口足夂艹各	路	路,口,足,夂,艹,各		butterbur
 伏	6	1	⿰	亻犬		犬,亻	茯,袱,鮲	prostrated
@@ -2552,7 +2552,7 @@
 邦	7	1	⿰	丿二⻏		二,⻏		home country;state;Japan
 鋒	15	2	品l	丨一釒金夂	夆	金,夆,夂,二		dagger
 飽	13	1	⿰	飠食勹己	包	包,食,勹,己,巳		sated;satiated
-鳳	14	2	⿵	鳥⺇灬	鳴	鳴,⺇,口,鳥,灬		male mythical bird
+鳳	14	2	⿵	鳥⺇灬	鳴	鳴,𠘨,口,鳥,灬		male mythical bird
 鵬	19	2	⿲	月鳥灬嗚	朋	朋,鳥,月,灬		phoenix
 乏	4	1	⿱	丿乙丶亠	之	丿,之,乙,亠	泛,貶	destitution;scanty;scarce
 亡	3	1	囗	亠亡㇗		亠	妄,忘,忙,望,氓,盲,肓,芒,虻,荒,慌,𩺊,𣗄,罔,網,惘,魍	deceased
@@ -2625,7 +2625,7 @@
 沫	8	2	⿰	丨氵二八木亠	末	末,氵,二,八,木,亠		splash
 迄	7	2	⿺	乙辶乞		辶,乞,乙		until
 侭	8	3	⿰	亻尸	尽尺	尽,亻,尸,尺		as it is
-繭	18	1	⿱	糸虫風⺇艹		糸,虫,風,⺇,艹		cocoon
+繭	18	1	⿱	糸虫風⺇艹		糸,虫,風,𠘨,艹		cocoon
 麿	18	2	⿸	口木广呂麻	林	麻,林,呂,口,木,广		I
 万	3	1	囗	丨丿一		一	敖,杤,栃	ten thousand
 慢	14	1	⿰4	日罒忄又	曼	曼,日,罒,忄,又,曰		ridicule;arrogant;sluggish
@@ -2692,7 +2692,7 @@
 目	5	1	囗	目				eye;item
 杢	7	3	⿱	工木杏		木,工		woodworker
 勿	4	2	⿹	丿勹勿		勹	易,賜,傷,場,腸,湯,物,揚,陽,瘍,忽,惚,錫,惣,暢,吻,楊,黎	not
-餅	15	1	品l	丨丿一飠食⻞二䒑廾丷	并	并,食,⻞,二,廾,干		mochi
+餅	15	1	品l	丨丿一飠食⻞二䒑廾丷	并	并,食,𩙿,二,廾,干		mochi
 尤	4	2	囗	丶尢		尢,丶	尨,就,犹,疣,稽,肬	reasonable
 戻	7	1	⿸	戸大一尸		大,戸,尸	唳,捩,涙,綟	re-;return
 籾	9	2	⿰	刀米丶籵	刃刄	米,刃,刄,刀,丿,丶		unhulled rice
@@ -2805,7 +2805,7 @@
 酪	13	1	品l	口酉夂酊各		酉,各,口,夂		dairy products
 乱	7	1	⿰	乚口舌		舌,乚,口		riot;disordered
 卵	7	1	⿰	丿卜丶卩卯		卯,卜,卩	孵	egg
-嵐	12	1	⿱	山虫風⺇屶		山,風,虫,⺇		storm
+嵐	12	1	⿱	山虫風⺇屶		山,風,虫,𠘨		storm
 欄	20	1	⿰	丨一日柬木門田札	闌東	木,闌,日,東,柬,門,田,八,巾,亠		column
 濫	18	1	⿰2	丿皿氵臣一乞	監	監,皿,氵,臣		overflow;excessive
 藍	18	1	⿳	皿臣一艹乞	監	監,皿,臣,艹		indigo
@@ -3010,7 +3010,7 @@
 侏	8	3	⿰	丿亻牛八乞木	朱未	朱,亻,牛,八,未,木,⺧,二		actor
 侘	8	3	品l	丿匕七乚亻宀	宅乇	宅,匕,七,亻,宀,乇		proud
 佻	8	3	⿰	亻兆儿冫		兆,亻,儿,冫		frivolity
-佩	8	3	⿰	亻巾⺇		亻,巾,⺇		wear
+佩	8	3	⿰	亻巾⺇		亻,巾,𠘨		wear
 佰	8	3	⿰	亻白日一	百	百,亻,白,一	宿	100
 侑	8	2	⿰	丿一亻月厷有		有,亻,月,⺼		urge to eat
 佯	8	3	⿰	王亻䒑羊丷		羊,王,亻		pretend
@@ -3118,9 +3118,9 @@
 凛	15	2	⿰4	口示二小亠冫囗	禀	冫,禀,口,示,二,小,亠,囗		cold
 几	2	3	囗	几				table
 處	11	3	⿸	卜几匕厂夂虍七	処	虍,七,処,卜,几,匕,厂,夂		place
-凩	6	3	⿵	木⺇		木,⺇		wintry wind
+凩	6	3	⿵	木⺇		木,𠘨		wintry wind
 凭	8	3	品u	丿亻士几	任壬	任,几,亻,士,壬,王		lean on
-凰	11	2	⿵	王白日⺇全	皇	皇,王,白,⺇		female phoenix bird
+凰	11	2	⿵	王白日⺇全	皇	皇,王,白,𠘨		female phoenix bird
 凵	2	3	囗	凵				open box enclosure
 凾	9	3	⿶	口亅又凵	了	凵,了,口,又,亅		box
 刄	3	3	囗	刀		刀	仭,剏,剱,劔,扨,籾,衂,釼,靱	blade
@@ -3162,7 +3162,7 @@
 勞	12	3	⿳	火力冖		力,火,冖	撈,癆	thank for
 勣	13	3	品r	貝目八土力亠六	責	責,力,貝,目,八,土,亠		merit
 勦	13	3	⿰5	巛田木力	巢果	巢,力,巛,田,木,果,日		destroy
-飭	13	3	品l	⻞力乞		力,⻞		correct
+飭	13	3	品l	⻞力乞		力,𩙿		correct
 勠	13	3	品r	羽力㆟冫彡		力,羽,𠆢,冫,彡		combine
 勳	16	2	⿰	丨黑力灬	熏	熏,力,黑,灬,田		meritorious deed
 勵	16	3	⿰	田力厂冂禸		力,田,厂,冂,禸		strive
@@ -4211,7 +4211,7 @@
 欷	11	3	品r	丿一巾欠厷㐅	希布	希,欠,巾,布		cry
 盜	12	2	品u	欠皿氵		皿,欠,氵		thief
 欹	12	3	品r	欠口可大亅一	奇	奇,欠,口,大,可		prick up (one's ears)
-飮	13	3	⿰	丨欠㆟⻞		欠,𠆢,⻞		drink
+飮	13	3	⿰	丨欠㆟⻞		欠,𠆢,𩙿		drink
 歇	13	3	品r	欠日勹匕㇗	曷	曷,欠,日,勹,匕,曰	蠍	exhausted
 歃	13	3	⿰	丿臼欠十		欠,臼,十		sip
 歉	14	3	⿰	丨彐兼欠䒑丷		兼,欠,彐,八,一		insufficiency
@@ -4533,7 +4533,7 @@
 玻	9	3	⿰	王皮又⺩		王,皮,又		glass
 珀	9	2	⿰	王白日⺩		王,白	碧	amber
 珥	10	3	⿰	王耳⺩		王,耳		ear bauble
-珮	10	3	⿰	王巾⺇⺩		王,巾,⺇		bauble
+珮	10	3	⿰	王巾⺇⺩		王,巾,𠘨		bauble
 珞	10	3	品l	王口夂⺩各		王,各,口,夂		necklace
 璢	16	3	品l	丨一王田⺩		王,田		precious stone
 琅	11	3	⿰	王艮丶⺩	良	王,良,艮		a precious stone
@@ -4630,7 +4630,7 @@
 痺	13	3	⿸	十田丿疒	卑	疒,卑,十,田,丿		palsy
 痲	13	3	⿸	十木儿疒	林	疒,林,十,木,儿		measles
 痳	13	3	⿸	木疒	林	疒,林,木		gonorrhea
-瘋	14	3	⿸	虫風⺇疒		疒,風,虫,⺇		insanity
+瘋	14	3	⿸	虫風⺇疒		疒,風,虫,𠘨		insanity
 瘍	14	1	⿸	丿一日勿勹疒旦昜		疒,昜,日,勿,勹,旦		swelling;carbuncle
 瘉	14	3	⿸	刂一月㆟入疒巜	俞兪	疒,俞,兪,刂,月,𠆢,巜,入,⺼		get well
 瘟	15	3	⿸	皿口人疒		疒,皿,口,人		contagious disease
@@ -5304,7 +5304,7 @@
 蓴	14	3	⿳	一寸虫日艹	專	專,寸,虫,日,艹,十,田,厶		type of water plant
 蔗	14	3	⿱	一凵广灬艹廿	庶	庶,凵,广,灬,艹,廿		sugar cane
 蔘	14	3	⿳	大厶彡艹	參	參,大,厶,彡,艹,𠆢		luxurious growth of grass
-蔬	15	3	品	止川亠厶艹疋⺪	疏㐬	疏,止,川,亠,厶,艹,疋,㐬,儿		greens
+蔬	15	3	品	止川亠厶艹疋⺪	疏㐬	疏,止,川,亠,厶,艹,𤴔,㐬,儿		greens
 蔟	14	3	品	方矢艹乞	族	族,方,矢,艹		gather together
 蔕	14	3	⿳	一巾儿冖凵艹	帶	帶,巾,儿,冖,凵,艹		calyx
 蔔	14	3	⿱	口一田勹艹	匐畐	匐,口,田,勹,艹,畐		giant radish
@@ -5569,7 +5569,7 @@
 謔	16	3	⿰	訁言卜匕匚厂虍七	虐	言,虐,卜,匕,匚,厂,虍,七		sport with
 諠	16	3	⿰4	訁言二一日宀旦	宣亘	言,宣,二,日,宀,亘,旦,一		forget
 諢	16	3	品l	訁言車冖	軍	言,軍,車,冖		joke
-諷	16	3	⿰	訁言虫風⺇		言,風,虫,⺇		hint
+諷	16	3	⿰	訁言虫風⺇		言,風,虫,𠘨		hint
 諞	16	3	⿰	丨一訁言戸冊尸	扁	言,扁,戸,冊,尸,冂		flattering
 諛	16	3	⿰	訁言人日臼	臾	言,臾,人,日,臼		flatter
 謌	17	3	品l	訁言口可亅一	哥	言,哥,口,可		sing
@@ -5756,7 +5756,7 @@
 轣	23	3	⿰	止車禾木厂軋	歷	車,歷,止,木,厂,禾		creaking sound
 轤	23	3	⿰	皿車田卜匕厂虍七軋	盧	車,盧,皿,田,卜,匕,厂,虍,七		pulley
 辜	12	3	⿱	口十辛立古		古,辛,口,十,立		sin
-辟	13	3	⿰	口十辛立尸		辛,口,十,立,尸	僻,劈,壁,嬖,擘,檗,璧,甓,癖,臂,薜,襞,譬,躄,避,闢,霹	FALSE
+辟	13	3	⿰	口十辛立尸		辛,口,十,立,尸	僻,劈,壁,嬖,擘,檗,璧,甓,癖,臂,薜,襞,譬,躄,避,闢,霹	false
 辣	14	1	⿰	丨口束十辛木立		辛,束,口,十,木,立,八		harsh;bitter
 辭	19	3	⿰5	十辛爫又立冂禸龴		辛,十,爫,又,立,冂,禸		words
 辯	21	3	⿲	言十辛立		辛,言,十,立		speech
@@ -6068,37 +6068,37 @@
 顱	25	3	⿰	貝目八皿田頁卜匕厂虍七六	盧	盧,頁,貝,目,八,皿,田,卜,匕,厂,虍,七		head
 顴	26	3	⿰	貝目八乞口十頁艹隹六	雚	雚,頁,貝,目,八,口,十,艹,隹		cheekbone
 顳	27	3	⿰	貝目八耳頁六	聶	聶,頁,貝,目,八,耳		temple (of head)
-颪	12	3	⿰	虫風⺇卜下		下,風,虫,⺇,卜,一		wind from mountains
-颯	14	2	⿰	虫風⺇立		立,風,虫,⺇		sudden
-颱	14	3	⿺	口虫風⺇厶	台	風,台,口,虫,⺇,厶		typhoon
-颶	17	3	⿺	八虫風⺇目六	具	風,具,八,虫,⺇,目,一		storm
-飄	20	3	品r	示二小覀虫風⺇	票	票,風,示,二,小,覀,虫,⺇		turn over
-飃	20	3	⿺	示二小覀虫風⺇	票	風,票,示,二,小,覀,虫,⺇		whirlwind
-飆	21	3	⿰	犬虫風⺇		風,犬,虫,⺇		whirlwind
-飩	13	3	⿰	⻞丿屮屯		屯,⻞,屮,丿		Japanese noodles
-飫	13	3	⿰	丿⻞大夭		夭,⻞,大,丿		satiety
-餃	15	3	品l	⻞父亠	交	交,⻞,父,亠		gyoza
-餉	15	3	⿰	口⻞冂	向	向,口,⻞,冂		(dried) boiled rice
-餒	16	3	品l	女⻞爫	妥	妥,女,⻞,爫,爫		hunger
-餔	16	3	⿰	十⻞用丶甫		甫,十,⻞,用,丶		eat
-餘	16	3	⿰	干⻞二八㆟亅六	余	余,干,⻞,二,八,𠆢,示,小		surplus
-餡	17	3	品l	臼⻞⺈		臼,⻞		bean jam
-餝	16	3	品l	⻞方艹	芳	芳,⻞,方,艹		decorate
-餞	17	3	品l	⻞戈	戔	戔,⻞,戈		farewell gift
-餤	17	3	品l	火⻞	炎	炎,火,⻞		eat
-餠	17	3	⿲	丨丿一干⻞	幷	干,⻞		rice cake
-餬	18	3	⿲	口十⻞月古	胡	胡,口,十,⻞,月,古,⺼		rice broth
+颪	12	3	⿰	虫風⺇卜下		下,風,虫,𠘨,卜,一		wind from mountains
+颯	14	2	⿰	虫風⺇立		立,風,虫,𠘨		sudden
+颱	14	3	⿺	口虫風⺇厶	台	風,台,口,虫,𠘨,厶		typhoon
+颶	17	3	⿺	八虫風⺇目六	具	風,具,八,虫,𠘨,目,一		storm
+飄	20	3	品r	示二小覀虫風⺇	票	票,風,示,二,小,覀,虫,𠘨		turn over
+飃	20	3	⿺	示二小覀虫風⺇	票	風,票,示,二,小,覀,虫,𠘨		whirlwind
+飆	21	3	⿰	犬虫風⺇		風,犬,虫,𠘨		whirlwind
+飩	13	3	⿰	⻞丿屮屯		屯,𩙿,屮,丿		Japanese noodles
+飫	13	3	⿰	丿⻞大夭		夭,𩙿,大,丿		satiety
+餃	15	3	品l	⻞父亠	交	交,𩙿,父,亠		gyoza
+餉	15	3	⿰	口⻞冂	向	向,口,𩙿,冂		(dried) boiled rice
+餒	16	3	品l	女⻞爫	妥	妥,女,𩙿,爫,爫		hunger
+餔	16	3	⿰	十⻞用丶甫		甫,十,𩙿,用,丶		eat
+餘	16	3	⿰	干⻞二八㆟亅六	余	余,干,𩙿,二,八,𠆢,示,小		surplus
+餡	17	3	品l	臼⻞⺈		臼,𩙿		bean jam
+餝	16	3	品l	⻞方艹	芳	芳,𩙿,方,艹		decorate
+餞	17	3	品l	⻞戈	戔	戔,𩙿,戈		farewell gift
+餤	17	3	品l	火⻞	炎	炎,火,𩙿		eat
+餠	17	3	⿲	丨丿一干⻞	幷	干,𩙿		rice cake
+餬	18	3	⿲	口十⻞月古	胡	胡,口,十,𩙿,月,古,⺼		rice broth
 餮	18	3	品u	食㆟彡歹	殄	殄,食,𠆢,彡,歹		voracious
-餽	19	3	⿰	鬼⻞田儿厶		鬼,⻞,田,儿,厶		give
-餾	19	3	品l	⻞田刀卩厶卯	留	留,⻞,卯,田,卩,厶,刀		steaming rice
-饂	19	3	品l	皿⻞口人		皿,⻞,口,人		Japanese noodles
-饉	20	3	⿰	丨一⻞二艹廿		⻞,二,艹,廿		hunger
-饅	20	3	⿰4	⻞日罒又	曼	曼,⻞,日,罒,又,曰		bean-jam dumpling
-饐	21	3	⿰4	口士⻞豆䒑冖丷	壹	壹,口,士,⻞,豆,冖		go bad
-饋	21	3	品l	丨一貝目八口⻞六	貴	貴,貝,目,八,口,⻞		give
-饑	21	3	⿰	⻞丶幺戈丿	幾	幾,⻞,幺,戈		hunger
-饒	21	3	⿰3	⻞土儿	堯兀	堯,⻞,土,儿,兀		abundant
-饌	21	3	品l	丨⻞二八巳六龷共	巽	巽,⻞,二,八,巳,共,己		food
+餽	19	3	⿰	鬼⻞田儿厶		鬼,𩙿,田,儿,厶		give
+餾	19	3	品l	⻞田刀卩厶卯	留	留,𩙿,卯,田,卩,厶,刀		steaming rice
+饂	19	3	品l	皿⻞口人		皿,𩙿,口,人		Japanese noodles
+饉	20	3	⿰	丨一⻞二艹廿		𩙿,二,艹,廿		hunger
+饅	20	3	⿰4	⻞日罒又	曼	曼,𩙿,日,罒,又,曰		bean-jam dumpling
+饐	21	3	⿰4	口士⻞豆䒑冖丷	壹	壹,口,士,𩙿,豆,冖		go bad
+饋	21	3	品l	丨一貝目八口⻞六	貴	貴,貝,目,八,口,𩙿		give
+饑	21	3	⿰	⻞丶幺戈丿	幾	幾,𩙿,幺,戈		hunger
+饒	21	3	⿰3	⻞土儿	堯兀	堯,𩙿,土,儿,兀		abundant
+饌	21	3	品l	丨⻞二八巳六龷共	巽	巽,𩙿,二,八,巳,共,己		food
 饕	22	3	品u	口食卜儿匕厂虎虍七	號号	號,食,口,卜,儿,匕,厂,虍,七,号,虎,勹		be greedy
 馗	11	3	⿺	九自首䒑目丷		九,首,自,目	首	road
 馘	17	3	⿰	口自一首䒑目戈丷	或	首,或,口,自,目,戈,一		behead
@@ -6375,7 +6375,7 @@
 劦	6	3	品	力		力	協,恊,脅,脇	cooperate
 卂	3	3	⿹	十⺄		十	煢,蝨,訊,迅	to fly rapidly
 厷	4	3	⿸	厶一丿厷		厶	宏,紘,肱,雄	the fore-arm
-叚	9	3	品l	又口丨		又,口	假,暇,瑕,葭,蝦,遐,鍜,鰕,霞	FALSE
+叚	9	3	品l	又口丨		又,口	假,暇,瑕,葭,蝦,遐,鍜,鰕,霞	false
 咅	8	3	⿱	口立		立,口	倍,剖,培,殕,焙,碚,菩,賠,部,陪	to spit out
 啇	11	3	⿱	口立冂十古		冂,古,口,立,十	嫡,摘,敵,滴,謫,適,鏑	the stalk
 喿	13	3	⿱	口品木		品,木,口	噪,懆,操,澡,燥,繰,譟,躁,髞	chirping of birds
@@ -6612,7 +6612,7 @@
 仐	4	3	⿱	㆟十八		十,𠆢,八		80 years (八 + 十)
 倻	11	3	⿲	亻耳⻏	耶	耶,亻,耳,⻏		phonetic used in Korean place names (Gaya confederacy, Gayageum)
 僲	15	3	品l	亻覀舛		舛,亻,覀		hermit
-凮	8	3	⿵	⺇一白日	百	百,⺇,白,一		wind
+凮	8	3	⿵	⺇一白日	百	百,𠘨,白,一		wind
 匇	5	3	⿹	勹夕		勹,夕		rush
 咜	8	3	品l	口宀匕叶	它	口,它,宀,匕		clicking (with tongue)
 唀	10	3	品l	口禾乃叶	秀	口,秀,禾,乃		entice
@@ -6643,7 +6643,7 @@
 㽗	7	3	⿰	田人		田,人		ridge
 䌂	15	3	⿰	糹糸至土厶尸	屋	屋,糸,至,土,厶,尸		in ancient times an article for preparing the body for the coffin (something slipped on the hand of the dead)
 䦰	19	3	⿵	門亀		門,亀		lottery
-偑	11	3	⿰	亻風⺇虫丿		風,亻,⺇,虫		foe
+偑	11	3	⿰	亻風⺇虫丿		風,亻,𠘨,虫		foe
 咑	8	3	⿲	口亅扌一叶丁	打	口,打,扌,丁		dozen
 婇	11	3	品l	女木爫奴	采	女,采,木,爫,爫		(no known meaning)
 媬	12	3	⿲	女亻口木奴	保呆	女,保,亻,口,木,呆		female teacher of children belonging to nobles

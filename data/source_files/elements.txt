@@ -504,9 +504,9 @@
 蟻	19	3	⿰1	一王虫䒑羊亅戈手虲丷	義我	虫,義,王,羊,戈,手,我,𦍌		ant
 誼	15	2	品l	一訁言目且宀	宜	言,宜,目,宀,且		friendship
 議	20	1	⿰1	一王訁言䒑⺷亅戈手丷	義我	言,義,王,𦍌,戈,手,我		deliberation;discuss;legislative body
-掬	11	2	⿰	米勹扌		米,勹,扌		scoop up water with the hand
-菊	11	1	⿱	米勹艹		米,勹,艹		chrysanthemum
-鞠	17	2	⿰	革米勹		革,米,勹		ball
+掬	11	2	⿰	米勹扌	匊	匊,米,勹,扌		scoop up water with the hand
+菊	11	1	⿱	米勹艹	匊	匊,米,勹,艹		chrysanthemum
+鞠	17	2	⿰	革米勹	匊	匊,革,米,勹		ball
 吉	6	1	⿱	口士		士,口	佶,劼,拮,桔,結,臺,詰,頡,髻,黠	good luck;lucky
 吃	6	3	品l	乙口叶乞		口,乞,乙		stammer
 喫	12	1	⿰2	口大土刀亠叶	契	口,契,大,土,刀,亠		consume;ingest
@@ -1037,7 +1037,7 @@
 撮	15	1	⿰1	耳日又扌	最取	最,耳,日,又,扌,取,曰		snapshot;photograph
 擦	17	1	⿰4	丿示二小宀扌癶	察祭	察,示,二,小,宀,扌,癶,祭		grate;rub
 札	5	1	⿰	乚木札		木,乚	紮	tag
-殺	10	1	品r	木殳丿丶几又㐅		殳,木,几,又		kill
+殺	10	1	品r	木殳丿丶几又㐅	杀	杀,殳,木,几,又		kill
 薩	17	2	品	丿生䒑立㐅亠厂艹⻖丷		生,立,亠,厂,艹,⻖		Buddha
 雑	14	1	品r	木隹九准		隹,木,九		miscellaneous;mixed
 皐	11	2	⿱	十白日二		白,十,二	槹	swamp
@@ -1577,7 +1577,7 @@
 千	3	1	囗	丿十		丿,十	乖,仟,刋,瓩,秉,竏,粁,舌,阡	thousand
 占	5	1	⿱	口卜		口,卜	岾,帖,店,拈,沾,点,砧,站,笘,粘,苫,覘,貼,鮎,黏,點,𧲸	fortune-telling;occupy;divine
 宣	9	1	⿱	一日宀旦	亘	宀,亘,日,旦,二,一	喧,愃,暄,萱,諠,鰚	proclaim
-専	9	1	⿱	十寸田		寸,十,田	博,溥,縛,簿,薄	specialty;exclusive
+専	9	1	⿱	十寸田		寸,十,田	尃,博,溥,縛,簿,薄	specialty;exclusive
 尖	6	2	⿱	小大		小,大		be pointed
 川	3	1	囗	川				stream;river
 戦	13	1	品r	十⺍田戈	単	単,戈,十,⺍,田		war
@@ -2237,7 +2237,7 @@
 萩	12	2	品	火禾艹	秋	秋,火,禾,艹		bush clover
 伯	7	1	⿰	亻白日		白,亻		chief;older sibling of parent
 剥	10	3	品r	彐刂氺	录	录,彐,刂,氺		peel off
-博	12	1	⿰4	十寸田丶	専	専,十,丶,寸,田		Dr.;extensive;doctor
+博	12	1	⿰4	十寸田丶	専尃	専,尃,十,丶,寸,田		Dr.;extensive;doctor
 拍	8	1	⿰	白日扌		白,扌		clap;beat
 柏	9	2	⿰	白日木札		木,白		oak
 泊	8	1	⿰	氵白日		白,氵	箔,萡	overnight;stay overnight
@@ -2245,12 +2245,12 @@
 箔	14	2	品	氵⺮白日	泊	泊,氵,⺮,白		foil
 粕	11	3	⿰	白日米籵		米,白		scrap
 舶	11	1	⿰	舟白日		舟,白		liner;oceangoing ship
-薄	16	1	品	十氵寸田丶艹	溥専	溥,専,丶,寸,十,氵,田,艹		dilute;thin
+薄	16	1	品	十氵寸田丶艹	溥専尃	溥,尃,専,丶,寸,十,氵,田,艹		dilute;thin
 迫	8	1	⿺	辶白日		辶,白,辶		urge;press
 曝	19	2	⿰4	丨一氺日八旺龷	暴	日,暴,氺,八,二,廾,井		bleach
 漠	13	1	⿰4	氵大日艹	莫	莫,氵,大,日,艹		vague;desert;obscure
 爆	19	1	⿰4	丨一火氺日八丿二廾灯井龷	暴	火,暴,氺,日,八,二,廾,井		bomb;explode
-縛	16	1	⿰4	糹糸十寸田丶	専	糸,専,丶,寸,十,田		truss;bind
+縛	16	1	⿰4	糹糸十寸田丶	専尃	糸,尃,専,丶,寸,十,田		truss;bind
 莫	10	2	⿳	大日艹		大,日,艹	募,墓,幕,慕,摸,暮,模,漠,獏,糢,膜,蟆,蟇,謨,貘,驀,寞	must not
 駁	14	3	品l	馬爻馭㐅		馬,爻		refutation
 麦	7	1	⿱	麦夂		夂		barley
@@ -2518,7 +2518,7 @@
 戊	5	2	囗	丿戊戈厂		戈,厂	戌,戍,成,戚,茂,蔵	5th calendar sign
 暮	14	1	⿳	大日艹	莫	莫,日,大,艹		livelihood;dusk;live
 母	5	1	囗	母				mama
-簿	19	1	品	十氵寸⺮田丶	溥専	溥,専,丶,寸,十,氵,⺮,田		register
+簿	19	1	品	十氵寸⺮田丶	溥専尃	溥,尃,専,丶,寸,十,氵,⺮,田		register
 菩	11	2	⿳	口立艹	咅	咅,口,立,艹		kind of grass
 倣	10	1	⿲	亻方攵	放	放,亻,方,攵		emulate;copy after
 俸	10	1	品l	丨一亻人大二奉	奉	奉,亻,人,大,二		stipend
@@ -3131,7 +3131,7 @@
 刪	7	3	⿰	刂冊冂		冊,刂,冂,一		cut down
 刮	8	3	⿰	刂口舌		舌,刂,口		scrape off
 刳	8	3	品r	刂大二勹	夸	夸,刂,大,二,勹		clear
-刹	8	1	品r	刂木丿丶㐅		刂,木		moment
+刹	8	1	品r	刂木丿丶㐅	杀	杀,刂,木		moment
 剏	9	3	品r	丨丿刀二䒑廾丷	并刃刄	并,刃,刄,刀,二,廾,干,丿,丶		begin
 剄	9	3	⿰5	刂工巛		刂,工,巛		beheading
 剋	9	3	⿺	刂口十兄儿古	克	克,刂,口,十,儿,古,兄		victory
@@ -4358,7 +4358,7 @@
 滔	13	3	品l	臼氵爫		臼,氵,爫		overflowing
 滕	15	3	⿰	月人氺大二䒑丷龹		月,人,龹,氺,大,二	籐,藤	rising water
 溏	13	3	⿰	丨彐口氵广	唐	唐,彐,口,氵,广		mud
-溥	13	3	品l	十氵寸田丶	専	専,十,氵,寸,田	簿,薄	far and wide
+溥	13	3	品l	十氵寸田丶	尃専	尃,専,十,氵,寸,田	簿,薄	far and wide
 滂	13	3	品l	氵䒑方立亠冖丷	旁	旁,氵,方,立,亠,冖		flowing
 溟	13	3	⿰4	氵日八亠冖六	冥	冥,氵,日,八,亠,冖		dark
 潁	15	3	品r	貝目八水頁匕六		匕,水,頁,貝,目,八		name of a Chinese river
@@ -6802,6 +6802,9 @@
 塚	13	3	品l	土冖丶豕圦	冢塚	土,冖,塚,豕,冢		hillock
 鬭	25	3	⿵	鬥斤	亞	鬥,亞,斤		struggle
 隆	12	3	品l	生夂一⻖		夂,一,生,⻖	嶐,窿	hump
+尃	10	3	⿱	十寸丶田	専	寸,十,田	博,溥,縛,簿,薄	to announce;to state to
+匊	8	3	⿹	勹米		勹,米	鞠,菊,掬	handful
+杀	6	3	⿱	㐅木		木	刹,殺	kill;murder
 𠦝	8	3	⿳	日十		日,十	斡,乾,幹,翰,韓,朝,潮,廟,嘲,澣,瀚	rising sun
 𡿺	7	3	⿱	凵㐅⺍	凶	凶,凵,⺍	悩,脳	brain
 	4	3	⿱	十亠		亠,十	卒,倅,埣,悴,淬,猝,瘁,碎,粹,翠,萃,醉,率,蟀	compact unit

@@ -384,7 +384,7 @@
 寒	宀			⿳	Compound ideograph	カン	さむ（い）	カン(漢)、ガン(呉)	さむ（い）、いや（しい）、まず（しい）、さび（しい）	さむ、ふゆ	12	Kyōiku-Jōyō (3rd grade of primary school)	N4 (basic)	8	1177	cold		1526	1645	208	208	159	12
 刊	刀	刂	干	⿰	Phono-semantic compound	カン		カン(呉)	けず（る）、きざ（む）	える	5	Kyōiku-Jōyō (5th grade of primary school)	N2 (intermediate)	6	856	publish;carve;engrave	publish	1650	1779	793	793	351	38
 勘	力		甚	品r	Phono-semantic compound	カン		カン(漢)、コン(呉)	かんが（える）	さだ、さだむ、のり	11	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1270	intuition;perception;check;intuitive perception	intuition;check;intuitive perception	1769	1906	1639	1648	1104	49
-勧	力		雚	品r	Phono-semantic compound	カン	すす（める）	カン(慣)、コン(呉)、ケン(漢)	すす（める）	すすむ、ゆき	13	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1469	persuade;recommend;advise;encourage;offer;urge	persuade;urge	864	928	1511	1482	1105	39
+勧	力		𮥶	品r	Phono-semantic compound	カン	すす（める）	カン(慣)、コン(呉)、ケン(漢)	すす（める）	すすむ、ゆき	13	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1469	persuade;recommend;advise;encourage;offer;urge	persuade;urge	864	928	1511	1482	1105	39
 巻	己			⿱	Compound ideograph	カン	ま（く）、ま（き）	カン(慣)、ケン(呉)	ま（く）、まき、ま（き）	まき、まる	9	Kyōiku-Jōyō (6th grade of primary school)	N2 (intermediate)	5	492	scroll;volume;book;part;roll up;wind up;tie;coil;counter for texts (or book scrolls)	scroll;roll up;volume	1207	1292	1901	1379	493	25
 喚	口		奐	⿰4	Phono-semantic compound	カン		カン(呉)	わめ（く）、さけ（ぶ）、よ（ぶ）	よぶ	12	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1864	yell;cry;scream;call;summon	yell;call	1042	1121	1794	1917	1139	
 堪	土		甚	品l	Phono-semantic compound	カン	た（える）	カン(漢)、コン(呉)、タン(慣)	た（える）、たま（る）、こ（らえる）、こた（える）、こら（える）	たえ、とう、ひで	12	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1881	withstand;endure;support;resist	withstand;endure	1770	1907	1640	1647	1158	
@@ -404,7 +404,7 @@
 桓	木			⿰4	Compound ideograph			カン(漢)、ガン(呉)			10	Hyōgaiji		pre-1	2741	marking post							
 棺	木		官	品l	Phono-semantic compound	カン		カン(呉)	ひつぎ		12	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	2178	coffin;casket	coffin	1272	1364	1759	2088	1441	
 款	欠			品r	Compound ideograph	カン		カン(呉)	まこと、たた（く）、しる（す）、よろこ（ぶ）	すけ、ただ、まさ、ゆく、よし	12	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	2872	goodwill;article;section;friendship;collusion	goodwill;article	1097	1178	1969	2064	1449	
-歓	欠		雚	品r	Phono-semantic compound	カン		カン(呉)	よろこ（ぶ）	よし	15	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1485	delight;joy;joyous	delight;joyous	570	612	1510	1481	1450	34
+歓	欠		𮥶	品r	Phono-semantic compound	カン		カン(呉)	よろこ（ぶ）	よし	15	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1485	delight;joy;joyous	delight;joyous	570	612	1510	1481	1450	34
 汗	水	氵	干	⿰	Phono-semantic compound	カン	あせ	カン(漢)、ガン(呉)	あせ		6	Jōyō (1st grade of junior high school)	N2 (intermediate)	4	1467	sweat;perspire	sweat	1651	1780	1614	1277	665	26
 漢	水	氵		品l	Compound ideograph	カン		カン(呉)	おとこ、から	あや、かみ、から、くに、なら	13	Kyōiku-Jōyō (3rd grade of primary school)	N4 (basic)	8	1081	Sino-;China;sino;Chinese;fellow	sino;Chinese;fellow;China	1578	1701	128	128	212	10
 澗	水	氵		⿰				カン(漢)、ケン(呉)	たに、たにみず		15	Hyōgaiji		pre-1		valley river;10^36							
@@ -422,7 +422,7 @@
 肝	肉	⺼	干	⿰	Phono-semantic compound	カン	きも	カン(呉)	きも		7	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1481	liver;pluck;nerve;chutzpah	liver	1649	1778	1323	1863	1666	42
 艦	舟		監	⿰2	Phono-semantic compound	カン		カン(漢)、ゲン(呉)	いくさぶね		21	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	679	warship		1875	2020	1298	1723	1693	41
 莞	艸	艹	完	⿳	Phono-semantic compound			カン(呉)、ゲン(呉)	い、むしろ		10	Jinmeiyō (used in names)		pre-1	3219	smiling;reed used to cover tatami		2408	2488				
-観	見		雚	品r	Phono-semantic compound	カン		カン(呉)	み（る）、しめ（す）	あき、しめす、まろ、み、みる	18	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	406	outlook;look;appearance;condition;view;observe	outlook;view;observe	572	614	701	701	890	22
+観	見		𮥶	品r	Phono-semantic compound	カン		カン(呉)	み（る）、しめ（す）	あき、しめす、まろ、み、みる	18	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	406	outlook;look;appearance;condition;view;observe	outlook;view;observe	572	614	701	701	890	22
 諌	言	訁		⿰				カン(漢)、ケン(呉)	いさ（め）、いさ（める）		15	Hyōgaiji		pre-1		admonish;dissuade;(extended shinjitai)		2708	2745				
 貫	貝		貫	⿱	Compound ideograph	カン	つらぬ（く）	カン(呉)	つらぬ（く）、ぬ（く）、ぬき、ひ（く）	つら、つらぬき、とおる、ぬき、やす	11	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1213	pierce;8 1/3lbs;penetrate;brace	pierce;penetrate	102	106	1835	1248	1778	
 還	辵	辶	睘	⿺	Phono-semantic compound	カン		カン(漢)、ゲン(呉)、セン(漢)、ゼン(呉)	かえ（る）、かえ（す）、また		16	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1275	send back;return		837	900	1429	1476	1823	38
@@ -6791,7 +6791,7 @@
 𠮟	口			⿰	Compound ideograph	シツ	しか（る）	シツ(漢)、シチ(呉)	しか（る）		5	Jōyō (high school)	N3 (lower intermediate)	2	1920	scold;reprove	scold	2179	477	1800	1895		44
 﨟	艸	艹		品				ロウ(呉)			16	Hyōgaiji		1		year-end sacrifice;dried meat							
 䍃	缶			⿱				ヨウ			10	Hyōgaiji				pitcher;vase;earthenware							
-雚	隹			⿱				カン(呉)	こうのとり		11	Hyōgaiji				heron;small cup							
+𮥶	隹			⿱				カン(呉)	こうのとり		11	Hyōgaiji				heron;small cup							
 褱	衣			⿳				カイ、エ	いだ（く）、おも（う）、なつ（かしい）、なつ（かしむ）、なつ（く）、なつ（ける）、ふところ		13	Hyōgaiji				to carry in the bosom or the sleeve;to conceal;to wrap							
 翟	羽	羽		⿱	Compound ideograph			ケキ、ジャク、タイ、タク	きじ		14	Hyōgaiji				a long-tailed species of pheasant (or its plumes);surname							
 咠	口			⿱				シュウ、ユウ	ささやく、そしる		9	Hyōgaiji				to whisper;to blame;to slander							

@@ -255,7 +255,7 @@
 連	レン	3	Single-reading phonetic
 金	キン	3	Single-reading phonetic
 闌	ラン	3	Single-reading phonetic
-雚	カン	3	Single-reading phonetic
+𮥶	カン	3	Single-reading phonetic
 需	ジュ	3	Absolute phonetic
 㐬	リュウ	3	Single-reading phonetic
 𠦝	カン	3	Single-reading phonetic

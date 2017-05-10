@@ -6791,7 +6791,7 @@
 𠮟	1	;shitsu;shikaru;シツ;しかる;situ;sikaru;	;shitsu;shichi;shikaru;シツ;シチ;しかる;situ;siti;sikaru;	scold;reprove
 﨟	3		;rou;ロウ;	year-end sacrifice;dried meat
 䍃	3		;yo;ヨウ;you;	pitcher;vase;earthenware
-雚	3		;kan;kounotori;konotori;カン;こうのとり;	heron;small cup
+𮥶	3		;kan;kounotori;カン;こうのとり;	heron;small cup
 褱	3		;kai;e;idaku;omou;natsukashii;natsukashimu;natsuku;natsukeru;futokoro;カイ;エ;いだく;おもう;なつかしい;なつかしむ;なつく;なつける;ふところ;natukasii;natukasimu;natuku;natukeru;hutokoro;	to carry in the bosom or the sleeve;to conceal;to wrap
 翟	3		;keki;jaku;tai;takukiji;ケキ;ジャク;タイ;タクきじ;zyaku;takukizi;	a long-tailed species of pheasant (or its plumes);surname
 咠	3		;shuu;yuu;sasayaku;soshiru;シュウ;ユウ;ささやく;そしる;syuu;sosiru;	to whisper;to blame;to slander
@@ -6802,6 +6802,9 @@
 塚	3		;chou;chuu;tsuka;チョウ;チュウ;つか;tyou;tyuu;tuka;	hillock;mound
 鬭	3		;tou;tsu;tatakau;arasou;トウ;ツ;たたかう;あらそう;tu;	struggle;fight;compete;contend
 隆	3		;ryuu;ru;takai;sakan;リュウ;ル;たかい;さかん;	hump;high;noble;prosperity;prosper
+尃	3		;fu;ho;amaneshi;shiku;harau;moto;フ;ホ;あまねし;しく;はらう;もと;hu;amanesi;siku;	to announce;to state to
+匊	3		;kiku;koku;sukuu;tanago;koro;musubu;キク;コク;すくう;たなごころ;むすぶ;	handful
+杀	3		;satsu;setsu;サツ;セツ;satu;setu;	kill;murder
 𠦝	3		;kan;カン;	rising sun
 𡿺	3		;nou;ノウ;	brain
 	3		;sotsu;ソツ;sotu;	compact unit;orderly unit

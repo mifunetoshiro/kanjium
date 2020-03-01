@@ -44,7 +44,7 @@
 位	人	亻		⿰	Compound ideograph	イ	くらい	イ(呉)	くらい、ぐらい	くら、たか、ただ、ただし、つら、なり、のり、ひこ、ひなた、ひら、み	7	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	319	rank;grade;throne;crown;about;some	rank	955	1028	736	736	312	11
 依	人	亻	衣	⿰	Phono-semantic compound	イ、エ*		イ(漢)、エ(呉)	よ（る）	より	8	Jōyō (1st grade of junior high school)	N2 (intermediate)	4	1017	reliant;depend on;consequently;therefore;due to	reliant;depend on	971	1045	449	449	316	36
 偉	人	亻	韋	⿰4	Phono-semantic compound	イ	えら（い）	イ(呉)	えら（い）、すぐ（れる）	いさむ、えら、おおい、たけ、より	12	Jōyō (1st grade of junior high school)	N2 (intermediate)	4	1539	admirable;greatness;remarkable;conceited;famous;excellent;great	admirable;great	1643	1772	1124	1628	327	
-囲	囗			⿴	Compound ideograph	イ	かこ（む）、かこ（う）	イ(漢)、エ(呉)	かこ（む）、かこ（う）、かこ（い）	もり	7	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	531	surround;besiege;store;paling;enclosure;encircle;preserve;keep;enclose;(kokuji)	surround;enclose	1807	1948	743	743	423	14
+囲	囗			⿴	Compound ideograph	イ	かこ（む）、かこ（う）	イ(漢)、エ(呉)	かこ（む）、かこ（う）、かこ（い）	もり	7	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	7	531	surround;besiege;store;paling;enclosure;encircle;preserve;keep;enclose;(kokuji)	surround;enclose	1807	1948	743	743	423	14
 夷	大			囗				イ(呉)	えびす、えみし、ころ（す）、たい（らげる）、たい（らか）、うずくま（る）、おご（る）		6	Jinmeiyō (used in names)		pre-1	1818	barbarian;savage;Ainu		2881	2893				
 委	女		委	⿱	Compound ideograph	イ	ゆだ（ねる）	イ(呉)	ゆだ（ねる）、まか（せる）、くわ（しい）、お（く）、す（てる）	くつ、つく、とも、も、もろ	8	Kyōiku-Jōyō (3rd grade of primary school)	N3 (lower intermediate)	8	887	committee;entrust to;leave to;devote;discard;commit	committee;commit	913	979	584	584	451	21
 威	女			⿵	Compound ideograph	イ		イ(呉)	おど（す）、おど（し）、おど（かす）	あきら、おどし、たか、たけ、たけし、たける、つよ、つよし、とし、なり、のり	9	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1070	intimidate;dignity;majesty;menace;threaten;might;threaten by force	intimidate;might;threaten by force	364	389	1103	1103	1194	43
@@ -60,14 +60,14 @@
 移	禾			品l	Compound ideograph	イ	うつ（る）、うつ（す）	イ(呉)	うつ（る）、うつ（す）	のぶ、や、ゆき、よき、より、わたる	11	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	6	446	shift;move;change;drift;catch (cold, fire);pass into	shift	898	964	373	373	780	28
 維	糸			⿰	Compound ideograph	イ		イ(漢)、ユイ(呉)	これ、つな（ぐ）	これ、しげ、すけ、すみ、ただ、たもつ、つな、つなぐ、ふき、ふさ、まさ、ゆき	14	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1202	fiber;tie;rope	fiber	1341	1441	1118	1120	1634	36
 緯	糸		韋	⿰4	Phono-semantic compound	イ		イ(呉)	よこいと、ぬき	つかね	16	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1736	horizontal;woof;left and right;latitude;prediction	horizontal;latitude	1645	1774	1123	1627	1640	
-胃	肉	⺼	胃	⿱	Compound ideograph	イ		イ(呉)			9	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	1798	stomach;paunch;crop;craw	stomach	29	29	980	980	844	27
+胃	肉	⺼	胃	⿱	Compound ideograph	イ		イ(呉)			9	Kyōiku-Jōyō (6th grade of primary school)	N3 (lower intermediate)	7	1798	stomach;paunch;crop;craw	stomach	29	29	980	980	844	27
 萎	艸	艹	委	⿳	Phono-semantic compound	イ	な（える）	イ(呉)	な、しお（れる）、しな（びる）、しぼ（む）、な（える）、つか（れる）		11	Jōyō (high school)	N1 (advanced)	2	2506	wither;droop;lame;numb	numb	2355	986		1939		
 衣	衣		衣	囗	Pictograph	イ	ころも	イ(漢)、エ(呉)	ころも、きぬ、ぎ、き（る）	きぬ、そ、みそ	6	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	909	garment;clothes;dressing	garment;clothes	396	423	1011	1011	878	41
 謂	言	訁	胃	品l	Phono-semantic compound			イ(呉)	い（う）、いい、おも（う）、いわゆる、いわ（れ）		16	Jinmeiyō (used in names)		pre-1	2524	reason;origin;history;oral tradition		2725	2756				
 違	辵	辶	韋	⿺	Phono-semantic compound	イ	ちが（う）、ちが（える）、ちが（い）	イ(呉)	ちが（う）、ちが（い）、ちが（える）、たが（う）、たが（える）、さ（る）、か（い）、よこしま		13	Jōyō (1st grade of junior high school)	N2 (intermediate)	4	294	difference;differ;violate	difference;differ;violate	1644	1773	413	413	965	24
 遺	辵	辶		⿺	Compound ideograph	イ、ユイ*		イ(漢)、ユイ(呉)	のこ（す）、のこ（る）、わす（れる）、す（てる）	おく	15	Kyōiku-Jōyō (6th grade of primary school)	N1 (advanced)	5	649	bequeath;leave behind;reserve	bequeath;leave behind	1772	1909	722	722	1821	36
 医	匸			⿷	Compound ideograph	イ		イ(呉)、エイ(漢)、アイ(呉)	い（やす）、い（する）、くすし	おさむ	7	Kyōiku-Jōyō (3rd grade of primary school)	N4 (basic)	8	495	doctor;medicine;-ology	doctor;medicine	1694	1829	473	473	132	8
-井	二			囗	Pictograph	セイ、ショウ*	い	セイ(漢)、ショウ(呉)	い、いげた、まち	い、きよ	4	Jōyō (1st grade of junior high school)	N1 (advanced)	4	289	well;well crib;town;community	well	1806	1946	1245	1271	1031	45
+井	二			囗	Pictograph	セイ、ショウ*	い	セイ(漢)、ショウ(呉)	い、いげた、まち	い、きよ	4	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	4	289	well;well crib;town;community	well	1806	1946	1245	1271	1031	45
 亥	亠		亥	⿳	Compound ideograph			ガイ(呉)、カイ(漢)	い	い、り	6	Jinmeiyō (used in names)		pre-1	2761	sign of the hog;9-11PM;twelfth sign of the Chinese zodiac		1519	1637				
 域	土			⿰	Compound ideograph	イキ		イキ(呉)、ヨク(漢)	さかい、ところ	くに、むら	11	Kyōiku-Jōyō (6th grade of primary school)	N2 (intermediate)	5	631	range;region;limits;stage;level;bounded area	range;bounded area	356	380	928	928	434	22
 育	肉	⺼		⿱	Pictograph	イク	そだ（つ）、そだ（てる）、はぐく（む）	イク(呉)	そだ（つ）、そだ（ち）、そだ（てる）、はぐく（む）	すけ、なり、なる、やす	8	Kyōiku-Jōyō (3rd grade of primary school)	N3 (lower intermediate)	8	444	bring up;grow up;raise;rear;nurture	bring up;raise;nurture	759	821	274	274	843	11
@@ -78,7 +78,7 @@
 溢	水	氵		品l				イツ(漢)、イチ(呉)	こぼ（れる）、あふ（れる）、み（ちる）、す（ぎる）、おご（る）		13	Jinmeiyō (used in names)		pre-1	1850	overflow;inundate;spill		2315	2408		2163		
 逸	辵	辶		⿺	Compound ideograph	イツ		イツ(漢)、イチ(呉)	そ（れる）、そ（らす）、はぐ（れる）、はや（る）、はし（る）、うしな（う）、すぐ（れる）	すぐる、とし、はつ、はや、まさ、やす	11	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1460	deviate;idleness;leisure;miss the mark;evade;elude;parry;diverge;let slip	deviate;elude;let slip	1973	2127	1434	1478	1812	
 稲	禾			⿰1	Compound ideograph	トウ	いね、いな*	トウ(漢)、ドウ(呉)	いね、いな	いな、いね、しね、ね	14	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1218	rice plant		910	976	1524	1386	1588	39
-茨	艸	艹		品	Phono-semantic compound		いばら	シ(漢)、ジ(呉)	いばら、かや、くさぶき		9	Jōyō (high school)	N1 (advanced)	2	2129	briar;thorn	briar	472	511		2006		
+茨	艸	艹		品	Phono-semantic compound		いばら	シ(漢)、ジ(呉)	いばら、かや、くさぶき		9	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	2	2129	briar;thorn	briar	472	511		2006		
 芋	艸	艹		⿱	Phono-semantic compound		いも	ウ(呉)	いも		6	Jōyō (1st grade of junior high school)	N1 (advanced)	4	2051	potato		1655	1784	1849	1769	1694	34
 鰯	魚			⿲					いわし		21	Jinmeiyō (used in names)		pre-1	3226	sardine;(kokuji)		2813	2828				
 允	儿			⿱				イン(呉)	じょう、まこと（に）、ゆるす、まこと、ゆる（す）	あえ、おか、こと、さね、すけ、ただ、ただし、ちか、とう、のぶ、まこと、まさ、まさし、みつ、みつる、よし	4	Jinmeiyō (used in names)		pre-1	2508	license;sincerity;permit		765	827				
@@ -197,8 +197,8 @@
 鴬	鳥			⿱				オウ(漢)、ヨウ(呉)	うぐいす		16	Hyōgaiji		pre-1		nightingale;bush warbler;(extended shinjitai)		2907	2916				
 鴎	鳥			⿰				オウ(漢)、ウ(呉)	かもめ		15	Hyōgaiji (former Jinmeiyō candidate)		pre-1		seagull		2828	2843				
 黄	黄		黄	⿱	Compound ideograph	コウ、オウ	き、こ*	コウ(漢)、オウ(呉)	き、こ	かつみ、き	11	Kyōiku-Jōyō (2nd grade of primary school)	N3 (lower intermediate)	9	910	yellow		1750	1887	746	746	1021	7
-岡	山		岡	⿵	Compound ideograph		おか	コウ(呉)	おか		8	Jōyō (high school)	N1 (advanced)	2	473	mount;hill;knoll	mount;hill	1961	2112		2007		21
-沖	水	氵	中	⿰	Phono-semantic compound	チュウ	おき	チュウ(漢)、ジュウ(呉)	おき、おきつ、ちゅう（する）、わく、むな（しい）、と（ぶ）	おき、とおる、なか、ふかし	7	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1162	open sea;offing;rise high into sky	open sea;offing	138	146	1195	1165	1460	36
+岡	山		岡	⿵	Compound ideograph		おか	コウ(呉)	おか		8	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	2	473	mount;hill;knoll	mount;hill	1961	2112		2007		21
+沖	水	氵	中	⿰	Phono-semantic compound	チュウ	おき	チュウ(漢)、ジュウ(呉)	おき、おきつ、ちゅう（する）、わく、むな（しい）、と（ぶ）	おき、とおる、なか、ふかし	7	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	4	1162	open sea;offing;rise high into sky	open sea;offing	138	146	1195	1165	1460	36
 荻	艸	艹		品				テキ(漢)、ジャク(呉)	おぎ		10	Jinmeiyō (used in names)		pre-1	2256	reed;rush		242	257				
 億	人	亻	意	⿰4	Phono-semantic compound	オク		オク(呉)、ヨク(漢)	おしはか（る）	はかる、やす	15	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	1135	hundred million;10^8	hundred million	983	1058	14	14	335	13
 屋	尸			⿸	Compound ideograph	オク	や	オク(呉)	や、やね、いえ	いえ、や	9	Kyōiku-Jōyō (3rd grade of primary school)	N4 (basic)	8	133	roof;house;shop;dealer;seller;small shop	roof;house;small shop	1058	1138	175	175	160	9
@@ -209,7 +209,7 @@
 乙	乙			囗	Ideograph	オツ		オツ(呉)、オチ(呉)、イツ(漢)	おと、きのと	いつ、お、おと、き、きのと、くに、くま、たか、つぎ、つぐ、と、とどむ	1	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1657	the latter;duplicate;strange;witty;fishhook radical (no. 5);fishguts;second	fishguts;second;the latter	71	75	1959	2062	1030	
 俺	人	亻		品l	Phono-semantic compound		おれ	エン(呉)	おれ、われ		10	Jōyō (high school)	N1 (advanced)	2	862	I;myself	myself;I	2058	1091	1462	1218		44
 卸	卩			⿰	Compound ideograph		おろ（す）、おろし	シャ(呉)	おろ（す）、おろし、おろ（し）		9	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	2528	wholesale		1397	1499	1602	1400	1115	
-恩	心			⿱	Compound ideograph	オン		オン(呉)	めぐ（み）	おき、めぐみ	10	Kyōiku-Jōyō (5th grade of primary school)	N1 (advanced)	6	1416	grace;kindness;goodness;favor;mercy;blessing;benefit;debt of gratitude	grace;debt of gratitude	606	652	1237	1506	1294	32
+恩	心			⿱	Compound ideograph	オン		オン(呉)	めぐ（み）	おき、めぐみ	10	Kyōiku-Jōyō (6th grade of primary school)	N1 (advanced)	6	1416	grace;kindness;goodness;favor;mercy;blessing;benefit;debt of gratitude	grace;debt of gratitude	606	652	1237	1506	1294	32
 温	水	氵		品l	Compound ideograph	オン	あたた（か）、あたた（かい）、あたた（まる）、あたた（める）	オン(呉)、ウン(唐)	あたた（か）、あたた（かい）、あたた（まる）、あたた（める）、ぬく、ぬく（い）、ぬく（まる）、ぬく（める）、ぬる（い）、たず（ねる）、つつ（む）	あつ、あつし、いろ、すなお、ただす、つつむ、なが、ならう、のどか、はる、まさ、みつ、やす、ゆたか、よし	12	Kyōiku-Jōyō (3rd grade of primary school)	N3 (lower intermediate)	8	720	warm		1452	1560	210	210	696	12
 穏	禾			⿰4	Compound ideograph	オン	おだ（やか）	オン(呉)	おだ（やか）、やす（らか）	しず、とし、やす、やすき	16	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1548	calm;quiet;moderation;mild	calm;mild	1147	1230	1531	1391	1593	46
 音	音			⿱	Pictograph	オン、イン	おと、ね	オン(呉)、イン(漢)、ノン	おと、ね、たよ（り）	お、おと、と、なり、ね	9	Kyōiku-Jōyō (1st grade of primary school)	N4 (basic)	10	145	sound;noise	sound	479	518	391	391	274	5
@@ -261,7 +261,7 @@
 臥	臣			⿰				ガ(呉)	ふせ（る）、ふ（せる）、ふ（す）、ふしど		9	Jinmeiyō (used in names)		pre-1	2399	bend down;bow;lie prostrate		2909	2918				
 芽	艸	艹	牙	⿱	Phono-semantic compound	ガ	め	ガ(漢)、ゲ(呉)	め、めぐ（む）	め、めい	8	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	7	1777	bud;sprout;spear;germ	bud	1905	2054	1334	1766	1697	44
 蛾	虫			⿰				ガ(呉)、ギ(呉)	ひむし、まゆげ、あり		13	Hyōgaiji		pre-1	3027	moth		2694	2733				
-賀	貝		加	品u	Phono-semantic compound	ガ		ガ(呉)、カ(漢)	よろこ（ぶ）	いわう、しげ、のり、ます、よし、より	12	Kyōiku-Jōyō (5th grade of primary school)	N1 (advanced)	6	876	congratulations;joy;congratulate	congratulations;congratulate	868	933	1836	1249	1780	22
+賀	貝		加	品u	Phono-semantic compound	ガ		ガ(呉)、カ(漢)	よろこ（ぶ）	いわう、しげ、のり、ます、よし、より	12	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	6	876	congratulations;joy;congratulate	congratulations;congratulate	868	933	1836	1249	1780	22
 雅	隹		牙	⿰	Phono-semantic compound	ガ		ガ(漢)、ゲ(呉)、エ(呉)、ア(漢)	みや（び）、みやび、みやび（やか）、つね	ただ、ただし、つね、なり、のり、ひとし、まさ、まさし、まさり、まさる、みやび、もと	13	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1230	gracious;elegant;graceful;refined	gracious;elegant	1907	2056	1518	1484	1885	40
 餓	食	飠	我	⿰	Phono-semantic compound	ガ		ガ(呉)	う（える）		15	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	2151	starve;hungry;thirst	starve	1476	1586	1375	1579	1908	48
 駕	馬		加	品u	Phono-semantic compound			ガ(慣)、カ(漢)、ケ(呉)	かご、が（する）、しのぐ、のる、のりもの、しの（ぐ）、の（る）、あつか（う）		15	Jinmeiyō (used in names)		pre-1	1948	vehicle;palanquin;litter;hitch up an animal		2803	2818		2247		
@@ -346,7 +346,7 @@
 橿	木			品l				キョウ(漢)、コウ(呉)	かし、もちのき		17	Hyōgaiji		pre-1		oak		2509	2569				
 梶	木			⿰				ビ(漢)、ミ(呉)	かじ、こずえ		11	Jinmeiyō (used in names)		pre-1	2064	sculling oar		2502	2564				
 鰍	魚			⿲				シュウ(漢)、シュ(呉)	かじか、いなだ、どじょう		20	Hyōgaiji		pre-1		bullhead		2823	2838				
-潟	水	氵		品l	Compound ideograph		かた	セキ(漢)、シャク(呉)	かた	かた	15	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1561	lagoon		2039	2195	1820	1705	1502	42
+潟	水	氵		品l	Compound ideograph		かた	セキ(漢)、シャク(呉)	かた	かた	15	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	pre-2	1561	lagoon		2039	2195	1820	1705	1502	42
 割	刀	刂	害	⿰5	Phono-semantic compound	カツ	わ（る）、わり、わ（れる）、さ（く）	カツ(漢)、カチ(呉)	わ（る）、わり、わ（り）、わ（れる）、さ（く）、は（やす）	さき	12	Kyōiku-Jōyō (6th grade of primary school)	N2 (intermediate)	5	535	proportion;comparatively;divide;cut;separate;split	proportion;divide	1553	1673	334	334	364	23
 喝	口		曷	品l	Phono-semantic compound	カツ		カツ(漢)、カチ(呉)	しか（る）、おど（す）		11	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	2136	hoarse;scold;shout at	hoarse;shout at	454	491	1227	1921	1140	
 恰	心	忄	合	⿰	Phono-semantic compound			コウ(漢)、キョウ(呉)	あたか（も）		9	Jinmeiyō (used in names)		pre-1	2280	just as;as though;fortunately		2281	2379				
@@ -451,13 +451,13 @@
 企	人	𠆢		⿱	Compound ideograph	キ	くわだ（てる）	キ(呉)	くわだ（てる）、たくら（む）	とも、もと	6	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	745	undertake;scheme;design;attempt;plan;project	undertake;project;plan	375	401	316	316	1038	21
 伎	人	亻	支	品l	Phono-semantic compound	キ		ギ(呉)、キ(漢)	わざ、わざおぎ、たくみ		6	Jōyō (high school)	N1 (advanced)	2	2010	deed;skill;performing artist	performing artist	2122	1040		2095		36
 危	卩	㔾		⿸	Compound ideograph	キ	あぶ（ない）、あや（うい）、あや（ぶむ）	キ(慣)、ギ(呉)	あぶ（ない）、あや（うい）、あや（ぶむ）、ただ（す）、たか（い）、あや（める）		6	Kyōiku-Jōyō (6th grade of primary school)	N2 (intermediate)	5	680	dangerous;fear;uneasy	dangerous	1416	1520	486	486	385	16
-喜	口		喜	⿳	Compound ideograph	キ	よろこ（ぶ）、よろこ（ばしい）	キ(漢)、コ(呉)	よろこ（ぶ）、よろこ（ばす）、よろこ（ばしい）	このむ、たのし、とし、のぶ、はる、ひさ、ゆき、よし	12	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	686	rejoice;take pleasure in;happy	rejoice;happy	1445	1553	914	914	416	16
+喜	口		喜	⿳	Compound ideograph	キ	よろこ（ぶ）、よろこ（ばしい）	キ(漢)、コ(呉)	よろこ（ぶ）、よろこ（ばす）、よろこ（ばしい）	このむ、たのし、とし、のぶ、はる、ひさ、ゆき、よし	12	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	7	686	rejoice;take pleasure in;happy	rejoice;happy	1445	1553	914	914	416	16
 器	口			⿳	Compound ideograph	キ	うつわ	キ(呉)	うつわ	かた	15	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	376	utensil;vessel;receptacle;implement;instrument;ability;container;tool;set	utensil;vessel;instrument;container	121	127	498	498	419	13
 基	土		其	⿱	Phono-semantic compound	キ	もと、もとい	キ(漢)、コ(呉)	もと、もとい	のり、はじむ、はじめ、もと、もとい	11	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	6	469	fundamentals;radical (chemistry);counter for machines;foundation;base	fundamentals;base;foundation	1767	1904	501	501	435	14
 奇	大		奇	⿱	Phono-semantic compound	キ		ギ(呉)、キ(呉)	く（しき）、あや（しい）、くし、めずら（しい）、く（し）	あや、くし、くす、すく、より	8	Jōyō (1st grade of junior high school)	N1 (advanced)	4	839	strange;strangeness;curiosity;unusual	strange;unusual	126	133	724	724	1176	28
 嬉	女		喜	⿰	Phono-semantic compound			キ(呉)	うれ（しい）、たの（しむ）、あそ（ぶ）	よし	15	Jinmeiyō (used in names)		pre-1	1650	glad;pleased;rejoice		2207	2319		2157		
 寄	宀		奇	⿳	Phono-semantic compound	キ	よ（る）、よ（せる）	キ(呉)	よ（る）、よ（せる）	より	11	Kyōiku-Jōyō (5th grade of primary school)	N2 (intermediate)	6	454	draw near;stop in;bring near;gather;collect;send;forward;contribute;approach	draw near;contribute;approach	192	204	725	725	471	29
-岐	山		支	品l	Phono-semantic compound	キ		キ(漢)、ギ(呉)	わか（れる）、ちまた	ふなど、みち	7	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1324	branch off;fork in road;scene;arena;theater;diverge	branch off;diverge	772	834	1792	1810	1236	39
+岐	山		支	品l	Phono-semantic compound	キ		キ(漢)、ギ(呉)	わか（れる）、ちまた	ふなど、みち	7	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	3	1324	branch off;fork in road;scene;arena;theater;diverge	branch off;diverge	772	834	1792	1810	1236	39
 希	巾		希	⿱	Compound ideograph	キ		キ(漢)、ケ(呉)	まれ、こいねが（う）	まれ	7	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	1042	hope;beg;request;pray;beseech;Greece;dilute (acid);rare;few;phenomenal;aspire	hope;rare;aspire	1489	1602	876	876	495	14
 幾	幺		幾	⿹	Compound ideograph	キ	いく	キ(漢)、ケ(呉)	いく、いく（つ）、いく（ら）、きざ（し）、こいねが（う）、ほとん（ど）	いく、おき、ちか、ちかし、のり、ふさ	12	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1194	how many;how much;how far;how long;some;several	how many;some	1381	1481	1450	1385	1257	31
 忌	心		己	⿱	Phono-semantic compound	キ	い（む）、い（まわしい）	キ(漢)、ゴ(呉)	い（む）、い（み）、い（まわしい）		7	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1886	mourning;abhor;detestable;death anniversary	mourning;abhor	599	644	1939	2083	1287	
@@ -477,7 +477,7 @@
 祈	示	礻		⿰	Compound ideograph	キ	いの（る）	キ(漢)、ゲ(呉)、ギ(呉)	いの（る）		8	Jōyō (1st grade of junior high school)	N2 (intermediate)	4	1422	pray;wish	pray	1128	1209	1696	1541	771	18
 季	子			⿱	Compound ideograph	キ		キ(呉)	すえ	すえ、とき、とし、ひで、みのる	8	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	1133	seasons		912	978	205	205	456	14
 稀	禾		希	品l	Phono-semantic compound			キ(漢)、ケ(呉)	まれ、まばら、まば（ら）、うす（い）	まれ	12	Jinmeiyō (used in names)		pre-1	1913	rare;phenomenal;dilute (acid)		2611	2657	1530	2258		
-紀	糸		己	⿰	Phono-semantic compound	キ		キ(漢)、コ(呉)	のり、おさ（める）、しる（す）	あき、おさ、おさむ、かず、かなめ、こと、しるす、すみ、ただ、ただし、つぐ、つな、とし、のり、はじめ、もと、よし	9	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	7	462	chronicle;account;narrative;history;annals;geologic period;era	chronicle;era	1354	1454	728	728	1619	15
+紀	糸		己	⿰	Phono-semantic compound	キ		キ(漢)、コ(呉)	のり、おさ（める）、しる（す）	あき、おさ、おさむ、かず、かなめ、こと、しるす、すみ、ただ、ただし、つぐ、つな、とし、のり、はじめ、もと、よし	9	Kyōiku-Jōyō (5th grade of primary school)	N1 (advanced)	7	462	chronicle;account;narrative;history;annals;geologic period;era	chronicle;era	1354	1454	728	728	1619	15
 徽	彳			⿲				キ(漢)、ケ(呉)	しるし、よ（い）		17	Jinmeiyō (used in names)		pre-1	2846	good;beautiful;badge							
 規	見		規	⿰	Compound ideograph	キ		キ(呉)	のり、ただ（す）	ただ、ただし、ただす、ちか、なり、のり、み、もと	11	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	6	629	standard;measure;regulation;rule	standard;regulation;rule	841	904	308	308	888	23
 記	言	訁	己	⿰	Phono-semantic compound	キ	しる（す）	キ(漢)、コ(呉)	しる（す）	しるす、とし、なり、のり、ふさ、ふみ、よし	10	Kyōiku-Jōyō (2nd grade of primary school)	N3 (lower intermediate)	9	136	scribe;account;narrative;write down	scribe;write down	529	568	546	546	895	7
@@ -530,7 +530,7 @@
 宮	宀			⿱	Compound ideograph	キュウ、グウ、ク*	みや	キュウ(漢)、グウ(慣)、ク(呉)、クウ(呉)	みや、いえ	いえ、たか、みや	10	Kyōiku-Jōyō (3rd grade of primary school)	N1 (advanced)	8	358	Shinto shrine;constellations;palace;princess;royal palace	Shinto shrine;royal palace	1033	1110	1473	1516	1209	22
 弓	弓			囗	Pictograph	キュウ	ゆみ	キュウ(漢)、ク(呉)、クウ(呉)	ゆみ	ゆ、ゆみ	3	Kyōiku-Jōyō (2nd grade of primary school)	N1 (advanced)	9	1436	bow;bow (archery, violin)	bow (archery, violin)	1231	1317	1131	1126	1268	18
 急	心			⿳	Compound ideograph	キュウ	いそ（ぐ）	キュウ(漢)、コウ(呉)	いそ（ぐ）、いそ（ぎ）、せ（く）、せ（かす）		9	Kyōiku-Jōyō (3rd grade of primary school)	N4 (basic)	8	337	hurry;emergency;sudden;steep;urgent	hurry;urgent;sudden	1146	1229	345	345	174	16
-救	攴	攵	求	⿰	Phono-semantic compound	キュウ	すく（う）	キュウ(漢)、ク(呉)	すく（う）、たす（ける）	すけ、たすく、なり、ひら、やす	11	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	917	salvation;save;help;rescue;reclaim	salvation;save	936	1006	631	631	588	31
+救	攴	攵	求	⿰	Phono-semantic compound	キュウ	すく（う）	キュウ(漢)、ク(呉)	すく（う）、たす（ける）	すけ、たすく、なり、ひら、やす	11	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	7	917	salvation;save;help;rescue;reclaim	salvation;save	936	1006	631	631	588	31
 朽	木			⿰	Compound ideograph	キュウ	く（ちる）	キュウ(漢)、ク(呉)	く（ちる）、すた（れる）	え	6	Jōyō (1st grade of junior high school)	N1 (advanced)	4	2085	decay;rot;remain in seclusion	decay	1243	1331	1145	1149	1417	
 求	水	氺	求	囗	Pictograph	キュウ	もと（める）	キュウ(漢)、グ(呉)	もと（める）	き、ひで、まさ、もと、もとむ、もとめ、やす	7	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	516	request;want;wish for;require;demand;seek	request;seek	934	1004	328	328	664	14
 汲	水	氵	及	⿰	Phono-semantic compound			キュウ(漢)、コウ(呉)	く（む）、ひ（く）		7	Jinmeiyō (used in names)		pre-1	2025	draw (water);ladle;scoop;pump		2322	2413		2165		
@@ -662,7 +662,7 @@
 靴	革		化	⿲	Phono-semantic compound	カ	くつ	カ(漢)、ケ(呉)	くつ		13	Jōyō (3rd grade of junior high school)	N2 (intermediate)	pre-2	1482	shoes		1894	2042	1922	1698	1004	27
 轡	車			⿱1				ヒ(呉)	くつわ、たづな		22	Hyōgaiji		pre-1	3315	(horse) bridle's bit		2965	2970				
 窪	穴			品				ワ(漢)、エ(呉)	くぼ（む）、くぼ（み）、くぼ（まる）、くぼ		14	Jinmeiyō (used in names)		pre-1	2104	depression;cave in;sink;become hollow		1323	1421				
-熊	火	灬		品u	Compound ideograph		くま	ユウ(漢)、ウ(呉)	くま	かげ、くま	14	Jōyō (high school)	N1 (advanced)	2	1096	bear		2003	2159		1668		35
+熊	火	灬		品u	Compound ideograph		くま	ユウ(漢)、ウ(呉)	くま	かげ、くま	14	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	2	1096	bear		2003	2159		1668		35
 隈	阜	⻖		品l				ワイ(漢)、エ(呉)	くま、すみ		12	Jinmeiyō (used in names)		pre-1	1975	corner;nook;recess		2427	2505		2239		
 粂	米			⿱					くめ		9	Hyōgaiji		pre-1	2990	久 + 米 ligature;used in proper names;(kokuji)							
 栗	木			⿱				リツ(漢)、リチ(呉)	くり、おののく、きび（しい）、おのの（く）	くり	10	Jinmeiyō (used in names)		pre-1	1557	chestnut		1609	1735				
@@ -673,7 +673,7 @@
 君	口			⿸	Compound ideograph	クン	きみ	クン(呉)	きみ	きみ、きん、こ、すえ、なお、よし	7	Kyōiku-Jōyō (3rd grade of primary school)	N3 (lower intermediate)	8	520	old boy;name-suffix;ruler;familiar title;you	old boy;ruler;familiar title;you	1162	1246	1306	1216	403	8
 薫	艸	艹	𤋱	⿲	Phono-semantic compound	クン	かお（る）	クン(呉)	かお（る）、かおりぐさ、た（く）	かお、かおり、かおる、くる、しく、しげ、ただ、つとむ、にお、のぶ、ひで、ふさ、ほお、まさ、ゆき	16	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1995	send forth fragrance;fragrant;be scented;smoke (tobacco);balmy	fragrant;balmy	1681	1812	1857	2051	1708	
 訓	言	訁		⿰	Compound ideograph	クン		クン(呉)、キン(唐)	おし（える）、よ（む）、くん（ずる）	くに、しる、とき、のり、みち	10	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	1245	instruction;Japanese character reading;explanation;read;instruct	instruction;instruct	341	365	1033	1033	894	18
-群	羊		君	⿰	Phono-semantic compound	グン	む（れる）、む（れ）、むら*	グン(呉)、クン(漢)	む（れる）、む（れ）、むら、むら（がる）	とも、むら、むれ、もと	13	Kyōiku-Jōyō (5th grade of primary school)	N2 (intermediate)	6	813	flock;group;crowd;herd;swarm;cluster	flock;group	1163	1247	1304	1288	834	39
+群	羊		君	⿰	Phono-semantic compound	グン	む（れる）、む（れ）、むら*	グン(呉)、クン(漢)	む（れる）、む（れ）、むら、むら（がる）	とも、むら、むれ、もと	13	Kyōiku-Jōyō (4th grade of primary school)	N2 (intermediate)	6	813	flock;group;crowd;herd;swarm;cluster	flock;group	1163	1247	1304	1288	834	39
 軍	車			⿱	Compound ideograph	グン		グン(慣)、クン(呉)	いくさ、つわもの	いく、いくさ、いさ、すすむ、むら、むれ	9	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	99	army;force;troops;war;battle	army	301	323	1076	1076	938	15
 郡	邑	⻏	君	⿰	Phono-semantic compound	グン		グン(呉)、クン(漢)	こおり	くに、さと、とも	10	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	7	1122	county;district	county	1843	1986	1305	1217	1828	
 卦	卜			品r	Compound ideograph			カ(慣)、ケ(呉)、カイ(漢)	うらかた、うらな（う）、うらな（い）		8	Hyōgaiji		pre-1		a divination sign							
@@ -686,7 +686,7 @@
 啓	口			品u	Compound ideograph	ケイ		ケイ(漢)、ケ(呉)	ひら（く）、さと（す）、もう（す）	あきら、さとし、たか、のぶ、のり、はじめ、はる、ひ、ひら、ひらき、ひらく、ひろ、ひろし、ひろむ、よし	11	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1488	disclose;open;say;enlighten	disclose;enlighten	1085	1166	1730	1329	1138	
 圭	土		圭	⿱	Pictograph			ケイ(漢)、ケ(呉)	たま、かどだ（つ）	か、かど、きよ、きよし、たま、よし	6	Jinmeiyō (used in names)		pre-1	1792	square jewel;corner;angle;edge		155	167				
 珪	玉	⺩		品l				ケイ(漢)、カイ(呉)	たま		10	Hyōgaiji		pre-1		jade scepter or tablet (authority symbol)		2564					
-型	土		刑	品u	Phono-semantic compound	ケイ	かた	ケイ(漢)、ギョウ(呉)	かた		9	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	438	mould;type;model		680	735	403	403	431	24
+型	土		刑	品u	Phono-semantic compound	ケイ	かた	ケイ(漢)、ギョウ(呉)	かた		9	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	7	438	mould;type;model		680	735	403	403	431	24
 契	大			品u	Compound ideograph	ケイ	ちぎ（る）	ケイ(漢)、ケ(呉)、ケツ(漢)、ケチ(呉)、セツ(漢)、セチ(呉)	ちぎ（る）、わりふ、きざ（む）	ちぎり、ちぎる、ひさ	9	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1217	pledge;promise;vow;make an agreement	pledge;make an agreement	1549	1669	601	601	1179	37
 形	彡			⿰	Compound ideograph	ケイ、ギョウ	かた、かたち	ケイ(漢)、ギョウ(呉)	かた、かたち、なり	あれ、かた、すえ、なり、み、より	7	Kyōiku-Jōyō (2nd grade of primary school)	N3 (lower intermediate)	9	190	shape;form;style	shape	1711	1847	402	402	518	5
 径	彳		圣	品l	Phono-semantic compound	ケイ		ケイ(漢)、キョウ(呉)	みち、こみち、さしわたし、ただちに、ただ（ちに）	みち、わたる	8	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	7	1622	diameter;path;method	diameter;path	882	947	1242	1472	1279	31
@@ -739,7 +739,7 @@
 倦	人	亻	龹	品l	Phono-semantic compound			ケン(漢)、ゲン(呉)	あき（る）、あぐ（む）、あぐ（ねる）、う（む）、つか（れる）、あ（きる）		10	Jinmeiyō (used in names)		pre-1	2786	lose interest in;tire of		2108	2246		2238		
 健	人	亻	建	⿲	Phono-semantic compound	ケン	すこ（やか）	ケン(漢)、ゴン(呉)	すこ（やか）、したた（か）、たけ（し）	かつ、きよ、きよし、たけ、たけし、たける、たつ、たて、たる、つよ、つよし、とし、まさる、やす	11	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	819	healthy;health;strength;persistence;robust	healthy;robust	974	1048	991	991	329	27
 兼	八		兼	⿱	Ideograph	ケン	か（ねる）	ケン(呉)	か（ねる）、あわ（せる）	かず、かた、かぬ、かね、とも	10	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1221	concurrently;and;beforehand;in advance	concurrently	1597	1723	1165	1686	1078	40
-券	刀		龹	⿱	Phono-semantic compound	ケン		ケン(漢)、コン(呉)	わりふ、てがた		8	Kyōiku-Jōyō (5th grade of primary school)	N2 (intermediate)	6	1247	ticket;certificate	ticket;certificate	1206	1291	348	348	359	28
+券	刀		龹	⿱	Phono-semantic compound	ケン		ケン(漢)、コン(呉)	わりふ、てがた		8	Kyōiku-Jōyō (6th grade of primary school)	N2 (intermediate)	6	1247	ticket;certificate	ticket;certificate	1206	1291	348	348	359	28
 剣	刀	刂	㑒	⿰	Phono-semantic compound	ケン	つるぎ	ケン(漢)、コン(呉)	つるぎ	あきら、つとむ、つるぎ、はや	10	Jōyō (1st grade of junior high school)	N1 (advanced)	4	822	sabre;sword;blade;clock hand;saber	saber;sword	1671	1801	1574	1369	1095	35
 喧	口		宣	品l	Phono-semantic compound			ケン(漢)、コン(呉)	やかま（しい）、かまびす（しい）		12	Jinmeiyō (used in names)		pre-1	1668	noisy;boisterous		2163	2284		2145		
 圏	囗		龹	⿴	Phono-semantic compound	ケン		ケン(漢)、ゴン(呉)	かこ（い）		12	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1452	sphere;circle;radius;range	sphere	1208	1293	1583	1378	1147	39
@@ -893,7 +893,7 @@
 肱	肉	⺼		⿰				コウ(呉)	かいな、ひじ、まるい		8	Hyōgaiji		pre-1	2900	ability;talent;elbow;arm		2469	2536				
 腔	肉	⺼	工	品l	Phono-semantic compound			コウ(呉)、クウ(慣)	から、からだ		12	Jinmeiyō (used in names)		pre-1	2370	body cavity		2465	2535		2223		
 膏	肉	⺼	高	⿱	Phono-semantic compound			コウ(呉)	あぶら、こ（える）、うるお（す）、めぐ（む）		14	Jinmeiyō (used in names)		pre-1	2597	fat;grease;lard;paste;ointment;plaster		2923	2931		2220		
-航	舟		亢	品l	Phono-semantic compound	コウ		コウ(漢)、ゴウ(呉)	わた（る）	ふね、かず、つら、わたる	10	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	809	navigate;sail;cruise;fly	navigate;cruise	1870	2014	512	512	858	29
+航	舟		亢	品l	Phono-semantic compound	コウ		コウ(漢)、ゴウ(呉)	わた（る）	ふね、かず、つら、わたる	10	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	7	809	navigate;sail;cruise;fly	navigate;cruise	1870	2014	512	512	858	29
 荒	艸	艹	荒	⿳	Compound ideograph	コウ	あら（い）、あ（れる）、あ（らす）	コウ(呉)	あら（い）、あら、あ（れる）、あ（らす）、すさ（む）、すさ（ぶ）	あら、あらら、ら	9	Jōyō (1st grade of junior high school)	N2 (intermediate)	4	926	laid waste;rough;rude;wild	laid waste;wild	488	527	1339	1534	866	42
 行	行			⿰	Pictograph	コウ、ギョウ、アン*	い（く）、ゆ（く）、おこな（う）	コウ(漢)、ギョウ(呉)、アン(唐)、ゴウ(呉)	い（く）、ゆ（く）、おこな（う）、おこ（なう）、みち、し（ぬ）、や（る）	あきら、き、たか、つら、のり、ひら、みち、もち、やす、ゆき	6	Kyōiku-Jōyō (2nd grade of primary school)	N5 (beginner)	9	10	going;journey;go;carry out;conduct;act;line;row;bank	going;go;act;line	873	938	34	34	82	5
 衡	行			⿴	Compound ideograph	コウ		コウ(漢)、ギョウ(呉)	はかり、はか（る）、くびき	ちか、はかる、ひとし、ひで、ひら、ひろ、まもる	16	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1951	equilibrium;measuring rod;scale;balance	equilibrium;balance	891	957	1240	1470	1724	
@@ -908,7 +908,7 @@
 閤	門		合	⿵	Phono-semantic compound			コウ(呉)	くぐりど、へや、たかどの		14	Jinmeiyō (used in names)		pre-1	2607	small side gate		2776	2798				
 降	阜	⻖		品l	Compound ideograph	コウ	お（りる）、お（ろす）、ふ（る）	コウ(呉)、ゴウ(呉)	お（りる）、お（ろす）、ふ（る）、ふ（り）、くだ（る）、くだ（す）	ふる	10	Kyōiku-Jōyō (6th grade of primary school)	N2 (intermediate)	5	378	descend;precipitate;fall;surrender	descend	1308	1405	362	362	984	34
 項	頁		工	⿰	Phono-semantic compound	コウ		コウ(漢)、ゴウ(呉)	うなじ	うし、うじ	12	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1186	paragraph;nape of neck;clause;item;term (expression)	paragraph;clause	82	86	790	790	1897	39
-香	香		香	⿱	Compound ideograph	コウ、キョウ*	か、かお（り）、かお（る）	コウ(呉)、キョウ(漢)、ホン	か、かお（り）、かお（る）、かんば（しい）	か、かおり、かおる、かが、たか、よし	9	Jōyō (1st grade of junior high school)	N2 (intermediate)	4	564	incense;smell;perfume;sweet smell	incense;sweet smell	911	977	1621	1341	1014	37
+香	香		香	⿱	Compound ideograph	コウ、キョウ*	か、かお（り）、かお（る）	コウ(呉)、キョウ(漢)、ホン	か、かお（り）、かお（る）、かんば（しい）	か、かおり、かおる、かが、たか、よし	9	Kyōiku-Jōyō (4th grade of primary school)	N2 (intermediate)	4	564	incense;smell;perfume;sweet smell	incense;sweet smell	911	977	1621	1341	1014	37
 高	高		高	⿳	Pictograph	コウ	たか（い）、たか、たか（まる）、たか（める）	コウ(呉)	たか（い）、たか、だか、たか（まる）、たか（める）	あきら、うえ、かぎり、すけ、たか、たかい、たかし、たけ、ほど	10	Kyōiku-Jōyō (2nd grade of primary school)	N5 (beginner)	9	50	tall;high;expensive		307	329	101	101	102	7
 鴻	鳥			⿲				コウ(漢)、グ(呉)	おおとり、ひしくい、おおがり、おお（きい）	とき、ひろ、ひろし	17	Jinmeiyō (used in names)		pre-1	2455	large bird;wild goose;large;great;powerful;prosperous		2313	2406				
 剛	刀	刂		⿰	Compound ideograph	ゴウ		ゴウ(慣)、コウ(呉)	つよ（い）、かた（い）	かた、かたし、こわし、たか、たかし、たけ、たけし、つよ、つよし、ひさ、まさ、よし	10	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1576	sturdy;strength;tough	sturdy;tough	1964	2115	1576	2057	1094	49
@@ -923,7 +923,7 @@
 麹	麥	麦		⿺	Compound ideograph			キク(呉)	こうじ、さけ		15	Hyōgaiji		pre-1		malt;yeast;(extended shinjitai)		2753	2778				
 克	儿			⿱	Compound ideograph	コク		コク(呉)	か（つ）、よ（く）	いそし、かつ、かつみ、すぐる、たえ、なり、まさる、よし	7	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1632	overcome;kindly;skillfully	overcome	104	109	1382	1330	1075	42
 刻	刀	刂		⿰	Compound ideograph	コク	きざ（む）	コク(呉)	きざ（む）、きざ（み）、とき	とき	8	Kyōiku-Jōyō (6th grade of primary school)	N2 (intermediate)	5	732	engrave;cut fine;chop;hash;mince;time;carving;point of time	engrave;point of time	1521	1639	828	828	361	34
-告	口		告	⿱	Compound ideograph	コク	つ（げる）	コク(呉)、コウ(呉)	つ（げる）	しめす、つぐ	7	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	400	revelation;tell;inform;announce;notify;to tell	revelation;notify;to tell	247	262	215	215	408	18
+告	口		告	⿱	Compound ideograph	コク	つ（げる）	コク(呉)、コウ(呉)	つ（げる）	しめす、つぐ	7	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	7	400	revelation;tell;inform;announce;notify;to tell	revelation;notify;to tell	247	262	215	215	408	18
 国	囗			⿴	Compound ideograph	コク	くに	コク(呉)	くに	くに、とき	8	Kyōiku-Jōyō (2nd grade of primary school)	N5 (beginner)	9	22	country;(kokuji)	country	581	624	163	163	36	6
 穀	禾			⿰5	Compound ideograph	コク		コク(呉)		よし、より	14	Kyōiku-Jōyō (6th grade of primary school)	N1 (advanced)	5	2138	cereals;grain;cereal	cereals;cereal	917	984	1309	1518	1591	
 酷	酉		告	品l	Phono-semantic compound	コク		コク(呉)	ひど（い）、きび（しい）、はなは（だしい）、むご（い）	あつ	14	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1441	cruel;severe;atrocious;unjust	cruel;severe	1431	1539	1709	1884	1837	
@@ -957,7 +957,7 @@
 艮	艮			囗	Compound ideograph			ゴン(慣)、コン(呉)	うしとら		6	Hyōgaiji		pre-1		northeast (Oriental zodiac);stopping;good radical (no. 138)							
 魂	鬼			⿰	Compound ideograph	コン	たましい	コン(漢)、ゴン(呉)	たましい、たま	たま、みたま、もと	14	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1301	soul;spirit	soul	2021	2177	1542	1524	1917	45
 些	二			品u				サ(呉)、シャ(漢)	ち（と）、ち（っと）、いささか、いささ（か）、すこ（し）		8	Jinmeiyō (used in names)		pre-1	2520	a little bit;sometimes		2046	2203		2259		
-佐	人	亻	左	⿰	Phono-semantic compound	サ		サ(呉)	すけ、たす（ける）	すけ、たすく、よし	7	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	415	assistant;help;assist;field officer	assistant;assist;field officer;help	952	1024	1887	1616	1043	47
+佐	人	亻	左	⿰	Phono-semantic compound	サ		サ(呉)	すけ、たす（ける）	すけ、たすく、よし	7	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	pre-2	415	assistant;help;assist;field officer	assistant;assist;field officer;help	952	1024	1887	1616	1043	47
 叉	又			囗				サ(漢)、シャ(呉)	また、さ（す）、こまね（く）、こまぬ（く）		3	Jinmeiyō (used in names)		pre-1	2303	fork in road;crotch		2914	2923				
 唆	口			品l	Compound ideograph	サ	そそのか（す）	サ(呉)	そそ（る）、そそのか（す）		10	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	2201	tempt;seduce;instigate;promote	tempt;instigate	766	828	1796	1625	1133	
 嵯	山		左	⿰	Phono-semantic compound			サ(漢)、ザ(呉)	けわ（しい）		13	Jinmeiyō (used in names)		pre-1	2562	steep;craggy;rugged		2230					
@@ -1006,13 +1006,13 @@
 財	貝		才	⿰	Phono-semantic compound	ザイ、サイ*		ザイ(呉)、サイ(漢)	たから	たから	10	Kyōiku-Jōyō (5th grade of primary school)	N2 (intermediate)	6	783	property;money;wealth;assets	property;wealth	682	737	941	941	919	19
 冴	冫			⿰				ゴ(呉)、コ(漢)	さ（える）、こお（る）、ひ（える）	さえ	7	Jinmeiyō (used in names)		pre-1	2268	be clear;serene;cold;skilful		2134	2261		2245		
 坂	土		反	⿰	Phono-semantic compound	ハン	さか	ハン(漢)、ホン(呉)、バン(慣)、ベン(呉)	さか	さか	7	Kyōiku-Jōyō (3rd grade of primary school)	N3 (lower intermediate)	8	633	slope;incline;hill	slope	723	780	1063	1063	428	15
-阪	阜	⻖	反	⿰	Phono-semantic compound	ハン	さか	ハン(漢)、ホン(呉)、バン(慣)、ベン(呉)	さか	さか	7	Jōyō (high school)	N1 (advanced)	2	838	heights;slope;Osaka	heights;Osaka	1294	1390	1908	2002		16
+阪	阜	⻖	反	⿰	Phono-semantic compound	ハン	さか	ハン(漢)、ホン(呉)、バン(慣)、ベン(呉)	さか	さか	7	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	2	838	heights;slope;Osaka	heights;Osaka	1294	1390	1908	2002		16
 堺	土		介	品l	Phono-semantic compound			カイ(漢)、ケ(呉)	さかい		12	Jinmeiyō (used in names)		pre-1	1942	world							
 榊	木			⿲					さかき		14	Jinmeiyō (used in names)		pre-1	2362	sacred Shinto tree;(kokuji)		2490	2553				
 肴	肉	⺼		⿱				コウ(漢)、ギョウ(呉)	さかな		8	Jinmeiyō (used in names)		pre-1	2685	accompaniment for drinks		2896	2905				
 咲	口			⿰	Compound ideograph		さ（く）	ショウ(呉)	さ（く）	さき	9	Jōyō (1st grade of junior high school)	N2 (intermediate)	4	1409	blossom;bloom		2018	2174	963	963	413	48
-崎	山			品l	Phono-semantic compound		さき	キ(呉)	さき、さい、みさき	さき	11	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	534	promontory;cape;spit	promontory	778	840	1786	2014	1243	23
-埼	土			品l	Compound ideograph		さい	キ(漢)、ギ(呉)	さき、さい、みさき		11	Jōyō (high school)	N1 (advanced)	2	1992	cape;spit;promontory	cape	153	164		2012		39
+崎	山			品l	Phono-semantic compound		さき	キ(呉)	さき、さい、みさき	さき	11	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	pre-2	534	promontory;cape;spit	promontory	778	840	1786	2014	1243	23
+埼	土			品l	Compound ideograph		さい	キ(漢)、ギ(呉)	さき、さい、みさき		11	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	2	1992	cape;spit;promontory	cape	153	164		2012		39
 碕	石			品l				キ(呉)	さき、さい、みさき		13	Hyōgaiji		pre-1		cape;spit;promontory							
 鷺	鳥		路	品u	Phono-semantic compound			ロ(漢)、ル(呉)	さぎ		24	Jinmeiyō (used in names)		pre-1	2682	heron		2833	2848				
 作	人	亻	乍	⿰	Phono-semantic compound	サク、サ	つく（る）	サク(呉)、サ(呉)	つく（る）、つく（り）、な（す）	あり、つくり、つくる、とも、なお、なり、ふか	7	Kyōiku-Jōyō (2nd grade of primary school)	N4 (basic)	9	48	make;production;prepare;build;work	make;work	1142	1224	186	186	116	5
@@ -1037,7 +1037,7 @@
 撮	手	扌		⿰1	Compound ideograph	サツ	と（る）	サツ(漢)、サチ(呉)	と（る）、つま（む）		15	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1068	snapshot;take pictures;photograph	snapshot;photograph	822	885	1003	1003	1383	30
 擦	手	扌	察	⿰4	Phono-semantic compound	サツ	す（る）、す（れる）	サツ(漢)、サチ(呉)	す（る）、す（れる）、こす（る）、こす（れる）、さす（る）、なす（る）、かす（れる）	あきら	17	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1842	grate;rub;scratch;scrape;chafe;scour	grate;rub	1104	1185	1612	1605	1386	43
 札	木			⿰	Compound ideograph	サツ	ふだ	サツ(漢)、セチ(呉)	ふだ、さね、わかじに	さね、ぬさ、ふだ	5	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	1012	tag;paper money;counter for bonds;placard;bid	tag	212	225	866	866	617	7
-殺	殳		杀	品r	Compound ideograph	サツ、サイ*、セツ*	ころ（す）	サツ(漢)、セツ(呉)、セチ(呉)、サイ(漢)、セイ(呉)	ころ（す）、そ（ぐ）、そ（げる）、けず（る）		10	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	272	kill;murder;butcher;slice off;split;diminish;reduce;spoil	kill	1493	1607	642	642	657	13
+殺	殳		杀	品r	Compound ideograph	サツ、サイ*、セツ*	ころ（す）	サツ(漢)、セツ(呉)、セチ(呉)、サイ(漢)、セイ(呉)	ころ（す）、そ（ぐ）、そ（げる）、けず（る）		10	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	7	272	kill;murder;butcher;slice off;split;diminish;reduce;spoil	kill	1493	1607	642	642	657	13
 薩	艸	艹		品				サツ(漢)、サチ(呉)			17	Jinmeiyō (used in names)		pre-1	1475	Buddha		2956	2962				
 雑	隹			品r	Compound ideograph	ザツ、ゾウ		ザツ(漢)、ソウ(漢)、ゾウ(呉)	まじ（える）、まじ（る）、ま（じる）、ま（ぜる）	かず、とも	14	Kyōiku-Jōyō (5th grade of primary school)	N2 (intermediate)	6	635	miscellaneous;mixed	miscellaneous;mixed	562	604	294	294	994	32
 皐	白			⿱				コウ(呉)	さつき、さわ	すすむ、たか、たかし	11	Jinmeiyō (used in names)		pre-1	2902	swamp;shore		2070	2220				
@@ -1074,10 +1074,10 @@
 使	人	亻	史	⿰	Phono-semantic compound	シ	つか（う）	シ(呉)	つか（う）、つか（い）、つか（わす）		8	Kyōiku-Jōyō (3rd grade of primary school)	N4 (basic)	8	124	use;envoy;send on a mission;order;messenger;ambassador;cause	use;envoy	990	1065	187	187	117	9
 刺	刀	刂	市	⿰	Phono-semantic compound	シ	さ（す）、さ（さる）	シ(呉)、セキ(漢)、シャク(呉)	さ（す）、さ（さる）、さ（し）、さし、とげ、なふだ、そし（る）	さし、さす	8	Jōyō (1st grade of junior high school)	N2 (intermediate)	4	920	thorn;pierce;stab;prick;sting;calling card	thorn;stab	417	446	1051	1051	360	26
 司	口		司	⿹	Ideograph	シ		シ(呉)、ス(唐)	つかさど（る）、つかさ	おさむ、かず、つかさ、つとむ、もと、もり	5	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	524	director;official;govt office;rule;administer;officiate	director;officiate	1863	2007	1035	1035	400	15
-史	口		史	囗	Compound ideograph	シ		シ(呉)	ふみ	さかん、ちか、ちかし、ひと、ふの、ふひと、ふみ、み	5	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	435	history;chronicle	history	692	747	727	727	398	19
+史	口		史	囗	Compound ideograph	シ		シ(呉)	ふみ	さかん、ちか、ちかし、ひと、ふの、ふひと、ふみ、み	5	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	7	435	history;chronicle	history	692	747	727	727	398	19
 嗣	口		司	品r	Phono-semantic compound	シ		シ(漢)、ジ(呉)	つ（ぐ）	さね、つぎ、つぐ、ひで	13	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1898	heir;succeed	heir	1867	2011	1995	2134	1142	
 四	囗			⿴	Pictograph	シ	よ、よ（つ）、よっ（つ）、よん	シ(呉)	よ、よ（つ）、よっ（つ）、よん	ひろ、もち、もろ、よ、よつ、よよ	5	Kyōiku-Jōyō (1st grade of primary school)	N5 (beginner)	10	197	four		4	4	4	4	35	2
-士	士		士	囗	Pictograph	シ		シ(漢)、ジ(呉)	さむらい	あき、あきら、お、おさむ、こと、さち、ただ、つかさ、と、のり、ひと、まもる	3	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	7	210	gentleman;samurai;samurai radical (no. 33);military man;profession suffix	gentleman;military man;profession suffix	319	341	918	918	1173	13
+士	士		士	囗	Pictograph	シ		シ(漢)、ジ(呉)	さむらい	あき、あきら、お、おさむ、こと、さち、ただ、つかさ、と、のり、ひと、まもる	3	Kyōiku-Jōyō (5th grade of primary school)	N1 (advanced)	7	210	gentleman;samurai;samurai radical (no. 33);military man;profession suffix	gentleman;military man;profession suffix	319	341	918	918	1173	13
 始	女			品l	Compound ideograph	シ	はじ（める）、はじ（まる）	シ(呉)	はじ（める）、はじ（まる）	とも、はじめ、はる、もと	8	Kyōiku-Jōyō (3rd grade of primary school)	N4 (basic)	8	240	commence;begin		747	809	379	379	155	9
 姉	女		市	⿰	Phono-semantic compound	シ	あね	シ(呉)	あね、はは	あね、え	8	Kyōiku-Jōyō (2nd grade of primary school)	N4 (basic)	9	936	elder sister;older sister	elder sister;older sister	413	442	431	431	154	6
 姿	女		次	品u	Phono-semantic compound	シ	すがた	シ(呉)	すがた	かた、しな、たか	9	Kyōiku-Jōyō (6th grade of primary school)	N1 (advanced)	5	419	figure;form;shape	figure	474	513	1105	1105	1193	22
@@ -1127,7 +1127,7 @@
 持	手	扌	寺	品l	Phono-semantic compound	ジ	も（つ）	ジ(呉)、チ(漢)	も（つ）、も（てる）	もち、よし	9	Kyōiku-Jōyō (3rd grade of primary school)	N4 (basic)	8	78	hold;have	hold	660	712	262	262	178	9
 時	日		寺	品l	Phono-semantic compound	ジ	とき	ジ(呉)、シ(漢)	とき	これ、ちか、とき、はる、もち、ゆき、よし、より	10	Kyōiku-Jōyō (2nd grade of primary school)	N5 (beginner)	9	13	time;hour	time	159	171	17	17	57	7
 次	欠		次	⿰	Pictograph	ジ、シ	つ（ぐ）、つぎ	ジ(慣)、シ(呉)	つ（ぐ）、つぎ、やど（る）、つい（ず）	ちか、つぎ、つぐ、ひで、やどる	6	Kyōiku-Jōyō (3rd grade of primary school)	N3 (lower intermediate)	8	132	next;order;sequence	next	471	510	370	370	648	6
-滋	水	氵	兹	⿰1	Phono-semantic compound	ジ		ジ(慣)、シ(呉)	しげ（る）、ま（す）	あさ、しく、しげ、しげし、しげる、ふさ、ます	12	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1890	nourishing;more and more;be luxuriant;planting;turbidity;nourish	nourishing;nourish	1388	1489	1936	1515	1489	43
+滋	水	氵	兹	⿰1	Phono-semantic compound	ジ		ジ(慣)、シ(呉)	しげ（る）、ま（す）	あさ、しく、しげ、しげし、しげる、ふさ、ます	12	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	pre-2	1890	nourishing;more and more;be luxuriant;planting;turbidity;nourish	nourishing;nourish	1388	1489	1936	1515	1489	43
 治	水	氵		品l	Compound ideograph	ジ、チ	おさ（める）、おさ（まる）、なお（る）、なお（す）	ジ(呉)、チ(漢)	おさ（める）、おさ（まる）、なお（る）、なお（す）	おさむ、さだ、す、ず、ただす、つぐ、とお、のぶ、はる、よし	8	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	217	reign;be at peace;calm down;subdue;quell;govt;cure;heal;rule;conserve;govern	reign;govern;cure	746	807	557	557	672	16
 爾	爻		爾	⿱	Pictograph			ジ(漢)、ニ(呉)	なんじ、しかり、その、のみ、おれ、しか、そ（の）	あきら、しか、ちか、ちかし、み、みつる	14	Jinmeiyō (used in names)		pre-1	2353	you;thou;second person		2074	2867				
 璽	玉		爾	⿱	Phono-semantic compound	ジ		ジ(慣)、シ(呉)	しるし	しるし	19	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2		emperor's seal;imperial seal	imperial seal;emperor's seal	2075	2194	1999	2137	1537	
@@ -1140,7 +1140,7 @@
 蒔	艸	艹	寺	品	Phono-semantic compound			ジ(呉)、シ(漢)	う（える）、まく、ま（く）	まき	13	Jinmeiyō (used in names)		pre-1	2687	sow (seeds)		2395	2476				
 辞	辛			⿰	Compound ideograph	ジ	や（める）	ジ(呉)、シ(漢)	や（める）、いな（む）、ことば、ことわ（る）	こと	13	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	957	resign;word;term;expression	resign;word	1497	1613	583	583	945	16
 汐	水	氵		⿰				セキ(漢)、ジャク(呉)	しお、うしお、せい	きよ、しお	6	Jinmeiyō (used in names)		pre-1	2542	eventide;tide;salt water;opportunity		110	115				
-鹿	鹿			⿸	Pictograph		しか、か*	ロク(呉)	しか、か	か、しか、しし	11	Jōyō (high school)	N1 (advanced)	2	866	deer		1999	2154		1664		36
+鹿	鹿			⿸	Pictograph		しか、か*	ロク(呉)	しか、か	か、しか、しし	11	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	2	866	deer		1999	2154		1664		36
 式	弋			⿹	Compound ideograph	シキ		シキ(呉)、ショク(漢)	のり、きまり、のっと（る）、ああ	つね、のり、もち	6	Kyōiku-Jōyō (3rd grade of primary school)	N3 (lower intermediate)	8	293	style;ceremony;rite;function;method;system;form;expression	style;ceremony	353	377	315	315	515	15
 識	言	訁	戠	⿰	Phono-semantic compound	シキ		シキ(呉)、ショク(漢)、シ(呉)	し（る）、しる（す）	さと、つね、のり	19	Kyōiku-Jōyō (5th grade of primary school)	N2 (intermediate)	6	463	discriminating;know;write;discriminate;knowledge	discriminating;discriminate;knowledge	482	521	529	529	911	17
 鴫	鳥			⿰					しぎ		16	Hyōgaiji		pre-1		snipe;(kokuji)							
@@ -1334,7 +1334,7 @@
 床	广			⿸	Compound ideograph	ショウ	とこ、ゆか	ショウ(慣)、ソウ(漢)、ジョウ(呉)	とこ、ゆか	とこ、ゆか	7	Jōyō (1st grade of junior high school)	N2 (intermediate)	4	927	bed;counter for beds;floor;padding;tatami	bed;floor	592	636	1609	1207	507	42
 廠	广			⿸	Compound ideograph			ショウ(呉)	しごとば、かりや、うまや		15	Hyōgaiji		pre-1	2616	workshop							
 彰	彡		章	⿰5	Phono-semantic compound	ショウ		ショウ(呉)	あらわ（す）、あらわ（れる）、あき（らか）	あき、あきら、あや、ただ、てる	14	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1771	patent;clear;proclaim merits	patent;proclaim merits	1715	1851	1684	1347	1275	50
-承	手			囗	Compound ideograph	ショウ	うけたまわ（る）	ショウ(漢)、ジョウ(呉)	うけたまわ（る）、う（ける）、ささ（げる）、とど（める）、たす（ける）、こ（らす）、つい（で）、すく（う）	うけ、こと、すけ、つぎ、つぐ、よし	8	Kyōiku-Jōyō (5th grade of primary school)	N2 (intermediate)	6	854	acquiesce;hear;listen to;be informed;receive;agree to	acquiesce;agree to	1901	2050	947	947	557	34
+承	手			囗	Compound ideograph	ショウ	うけたまわ（る）	ショウ(漢)、ジョウ(呉)	うけたまわ（る）、う（ける）、ささ（げる）、とど（める）、たす（ける）、こ（らす）、つい（で）、すく（う）	うけ、こと、すけ、つぎ、つぐ、よし	8	Kyōiku-Jōyō (6th grade of primary school)	N2 (intermediate)	6	854	acquiesce;hear;listen to;be informed;receive;agree to	acquiesce;agree to	1901	2050	947	947	557	34
 抄	手	扌	少	品l	Phono-semantic compound	ショウ		ショウ(呉)、ソウ(漢)	かすめ（る）、うつ（す）、す（く）、すく（う）	あつ	7	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	2532	extract;selection;summary;copy;spread thin;excerpt	extract;excerpt	647	699	1867	2066	1337	
 招	手	扌	召	品l	Phono-semantic compound	ショウ	まね（く）	ショウ(呉)	まね（く）	あき、あきら	8	Kyōiku-Jōyō (5th grade of primary school)	N2 (intermediate)	6	1112	beckon;invite;summon;engage	beckon;invite	650	702	889	889	565	27
 掌	手		尚	⿳	Phono-semantic compound	ショウ		ショウ(呉)	てのひら、たなごころ、つかさど（る）、にな（う）	なか	12	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1473	manipulate;rule;administer;conduct;palm of hand;palm;take charge of	manipulate;palm;take charge of	801	864	1846	1603	1360	47
@@ -1374,8 +1374,8 @@
 証	言	訁	正	⿰	Phono-semantic compound	ショウ	あかし	ショウ(呉)、セイ(漢)	あかし、あか（し）	あかし、あきら、つく、つぐ、み	12	Kyōiku-Jōyō (5th grade of primary school)	N1 (advanced)	6	483	evidence;proof;certificate;prove	evidence;prove;certificate	380	406	489	489	1746	16
 詔	言	訁	召	品l	Phono-semantic compound	ショウ	みことのり	ショウ(呉)	みことのり	のり	12	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	2549	imperial edict		342	366	1975	2117	1748	
 詳	言	訁	羊	⿰	Phono-semantic compound	ショウ	くわ（しい）	ショウ(漢)、ゾウ(呉)	くわ（しい）、つまび（らか）	つま、みつ	13	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1061	detailed;full;minute;accurate;well-informed	detailed	550	589	796	796	1752	30
-象	豕		象	⿳	Pictograph	ショウ、ゾウ		ショウ(漢)、ゾウ(呉)	かたど（る）、かたち	かた、きさ、たか、のり	12	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	494	elephant;pattern after;imitate;image;shape;sign (of the times);phenomenon	elephant;phenomenon	1976	2130	619	619	916	24
-賞	貝		尚	⿳	Phono-semantic compound	ショウ		ショウ(呉)	ほ（める）、め（でる）	たか、たかし、ほむ、よし	15	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	713	prize;reward;praise	prize	796	859	939	939	930	13
+象	豕		象	⿳	Pictograph	ショウ、ゾウ		ショウ(漢)、ゾウ(呉)	かたど（る）、かたち	かた、きさ、たか、のり	12	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	7	494	elephant;pattern after;imitate;image;shape;sign (of the times);phenomenon	elephant;phenomenon	1976	2130	619	619	916	24
+賞	貝		尚	⿳	Phono-semantic compound	ショウ		ショウ(呉)	ほ（める）、め（でる）	たか、たかし、ほむ、よし	15	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	7	713	prize;reward;praise	prize	796	859	939	939	930	13
 醤	酉		将	品u	Phono-semantic compound			ショウ(漢)、ソウ(呉)	ひしお、ししびしお		17	Hyōgaiji (former Jinmeiyō candidate)		pre-1	2594	a kind of miso		2746	2774		2269		35
 鉦	金	釒		⿰				ショウ(呉)、セイ(漢)	かね		13	Hyōgaiji		pre-1	3125	bell;gong;chimes		2770	2792				
 鍾	金	釒		⿰				ショウ(漢)、シュ(呉)	あつ（める）、さかずき、かね、つりがね		17	Hyōgaiji		pre-1	2892	spindle;gather;collect		2772	2794				
@@ -1388,7 +1388,7 @@
 乗	丿		乗	囗	Compound ideograph	ジョウ	の（る）、の（せる）	ジョウ(呉)、ショウ(漢)	の（る）、の（せる）	あき、しげ、のり	9	Kyōiku-Jōyō (3rd grade of primary school)	N4 (basic)	8	254	ride;power;multiplication;record;counter for vehicles;board;mount;join;get on	ride;get on	1585	1709	361	361	107	9
 冗	冖			⿱	Compound ideograph	ジョウ		ジョウ(漢)、ニュウ(呉)	むだ		4	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1692	superfluous;uselessness;redundant	superfluous;redundant	300	321	1469	1596	1080	16
 剰	刀	刂	乗	⿰	Phono-semantic compound	ジョウ		ジョウ(呉)、ショウ(漢)	あまつさえ、あま（り）、あま（る）、あま（す）、あまつさ（え）	のり、ます	11	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1946	surplus;besides	surplus	1586	1710	825	825	1097	
-城	土		成	⿰	Phono-semantic compound	ジョウ	しろ	ジョウ(呉)、セイ(漢)	しろ、き	き、くに、さね、しげ、しろ、なり、むら	9	Kyōiku-Jōyō (6th grade of primary school)	N2 (intermediate)	5	296	castle		362	387	1440	1230	433	23
+城	土		成	⿰	Phono-semantic compound	ジョウ	しろ	ジョウ(呉)、セイ(漢)	しろ、き	き、くに、さね、しげ、しろ、なり、むら	9	Kyōiku-Jōyō (4th grade of primary school)	N2 (intermediate)	5	296	castle		362	387	1440	1230	433	23
 場	土			品l	Compound ideograph	ジョウ	ば	ジョウ(呉)、チョウ(漢)	ば		12	Kyōiku-Jōyō (2nd grade of primary school)	N4 (basic)	9	30	location;place		545	584	140	140	145	8
 壌	土		㐮	⿰4	Phono-semantic compound	ジョウ		ジョウ(漢)、ニョウ(呉)	つち	つち	16	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	2194	lot;earth;soil;arable soil	lot;arable soil	1529	1649	1809	1750	1172	
 嬢	女		㐮	⿰4	Phono-semantic compound	ジョウ		ジョウ(漢)、ニョウ(呉)	むすめ		16	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1540	lass;girl;Miss;daughter;young lady	lass;young lady	1530	1650	1808	1748	1202	45
@@ -1570,7 +1570,7 @@
 説	言	訁	兑	品l	Phono-semantic compound	セツ、ゼイ*	と（く）	セツ(漢)、セチ(呉)、ゼイ(慣)、セイ(呉)、エツ(漢)、エチ(呉)	と（く）、よろこ（ぶ）	あき、かぬ、かね、こと、つぐ、とき、とく、のぶ、ひさ	14	Kyōiku-Jōyō (4th grade of primary school)	N4 (basic)	7	192	rumor;opinion;theory;explanation;explain	rumor;explanation;explain;theory	499	538	505	505	251	17
 雪	雨	⻗		⿱	Compound ideograph	セツ	ゆき	セツ(漢)、セチ(呉)	ゆき、すす（ぐ）、そそ（ぐ）	きよ、きよみ、きよむ、そそぐ、ゆき	11	Kyōiku-Jōyō (2nd grade of primary school)	N3 (lower intermediate)	9	820	snow		1143	1225	85	85	996	7
 絶	糸			⿰	Compound ideograph	ゼツ	た（える）、た（やす）、た（つ）	ゼツ、ゼチ(呉)、セツ(漢)	た（える）、た（やす）、た（つ）、はなは（だ）、わた（る）	たえ、とう	12	Kyōiku-Jōyō (5th grade of primary school)	N2 (intermediate)	6	499	discontinue;beyond;sever;cut off;abstain;interrupt;suppress;break off;come to an end	discontinue;break off;come to an end	1754	1891	1091	1091	820	28
-舌	舌			囗	Pictograph	ゼツ	した	ゼツ(呉)、ゼチ(呉)、セツ(漢)	した、ことば	した	6	Kyōiku-Jōyō (5th grade of primary school)	N1 (advanced)	6	1328	tongue;reed;clapper	tongue	41	41	1269	1191	1688	19
+舌	舌			囗	Pictograph	ゼツ	した	ゼツ(呉)、ゼチ(呉)、セツ(漢)	した、ことば	した	6	Kyōiku-Jōyō (6th grade of primary school)	N1 (advanced)	6	1328	tongue;reed;clapper	tongue	41	41	1269	1191	1688	19
 蝉	虫			品l				セン(漢)、ゼン(呉)	せみ、うつく（しい）、つづ（く）		15	Hyōgaiji (former Jinmeiyō candidate)		pre-1		cicada		2692	2731				
 仙	人	亻		⿰	Compound ideograph	セン		セン(呉)	セント	たかし、のり、ひさ、ひと	5	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1120	hermit;wizard;cent;immortal mountain fairy	hermit;immortal mountain fairy	986	1061	1888	2015	1036	39
 先	儿		先	⿱	Compound ideograph	セン	さき	セン(呉)	さき、ま（ず）	さき、すすむ、ひこ、ひろ、ゆき	6	Kyōiku-Jōyō (1st grade of primary school)	N5 (beginner)	10	134	before;ahead;previous;future;precedence	before;ahead;previous	248	263	31	31	16	4
@@ -1607,7 +1607,7 @@
 践	足	𧾷	㦮	⿰	Phono-semantic compound	セン		セン(漢)、ゼン(呉)	ふ（む）		13	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	2123	tread;step on;trample;practice;carry through;implement	tread;implement	1286	1380	1658	1462	1794	
 選	辵	辶	巽	⿺	Phono-semantic compound	セン	えら（ぶ）	セン(呉)	えら（ぶ）、すぐ（る）、よ（る）、え（る）	かず、のぶ、よし、より	15	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	284	elect;select;choose;prefer	elect;choose	1804	1944	561	561	967	13
 遷	辵	辶		⿺	Compound ideograph	セン		セン(呉)	うつ（る）、うつ（す）、みやこがえ		15	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	2035	transition;move;change;transfer	transition;transfer	1610	1737	1978	1976	1820	
-銭	金	釒	㦮	⿰	Phono-semantic compound	セン	ぜに	ゼン(呉)、セン(呉)	ぜに、すき		14	Kyōiku-Jōyō (5th grade of primary school)	N1 (advanced)	6	1282	coin;.01 yen;money	coin;money	368	394	1660	1464	1849	32
+銭	金	釒	㦮	⿰	Phono-semantic compound	セン	ぜに	ゼン(呉)、セン(呉)	ぜに、すき		14	Kyōiku-Jōyō (6th grade of primary school)	N1 (advanced)	6	1282	coin;.01 yen;money	coin;money	368	394	1660	1464	1849	32
 銑	金	釒	先	⿰	Phono-semantic compound			セン(呉)	ずく	さね	14	Jinmeiyō (former Jōyō kanji)		pre-1		pig iron		270	288	1972			
 閃	門			⿵				セン(呉)	ひらめ（く）、ひらめ（き）、うかが（う）		10	Jinmeiyō (used in names)		pre-1	2242	flash;brandish		2774	2796		2204		
 鮮	魚		羊	⿰	Phono-semantic compound	セン	あざ（やか）	セン(呉)	あざ（やか）、あたら（しい）、すく（ない）	あきら、き、まれ、よし	17	Jōyō (1st grade of junior high school)	N1 (advanced)	4	802	fresh;vivid;clear;brilliant;Korea	fresh;vivid	551	590	1302	1289	1920	25
@@ -1753,7 +1753,7 @@
 苔	艸	艹	台	⿳	Phono-semantic compound			タイ(漢)、ダイ(呉)	こけ、こけら		8	Jinmeiyō (used in names)		pre-1	2340	moss;lichen		2356	2443				
 袋	衣		代	品u	Phono-semantic compound	タイ	ふくろ	タイ(漢)、ダイ(呉)	ふくろ		11	Jōyō (2nd grade of junior high school)	N2 (intermediate)	3	1127	sack;bag;pouch	sack;bag	1006	1081	1360	1254	880	42
 貸	貝		代	品u	Phono-semantic compound	タイ	か（す）	タイ(呉)	か（す）、か（し）、かし		12	Kyōiku-Jōyō (5th grade of primary school)	N4 (basic)	6	1226	lend		1007	1082	340	340	252	27
-退	辵	辶		⿺	Compound ideograph	タイ	しりぞ（く）、しりぞ（ける）	タイ(呉)	しりぞ（く）、しりぞ（ける）、ひ（く）、の（く）、の（ける）、ど（く）、しさ（る）、すさ（る）	たい、のき	9	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	6	475	retreat;withdraw;retire;resign;repel;expel;reject	retreat	1465	1575	599	599	954	27
+退	辵	辶		⿺	Compound ideograph	タイ	しりぞ（く）、しりぞ（ける）	タイ(呉)	しりぞ（く）、しりぞ（ける）、ひ（く）、の（く）、の（ける）、ど（く）、しさ（る）、すさ（る）	たい、のき	9	Kyōiku-Jōyō (6th grade of primary school)	N3 (lower intermediate)	6	475	retreat;withdraw;retire;resign;repel;expel;reject	retreat	1465	1575	599	599	954	27
 逮	辵	辶		⿺	Compound ideograph	タイ		タイ(漢)、ダイ(呉)、テイ(漢)	およ（ぶ）、とら（える）		11	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1393	apprehend;chase;catch a criminal	apprehend;catch a criminal	1160	1244	644	644	1811	25
 隊	阜	⻖		⿰	Compound ideograph	タイ		タイ(漢)、ダイ(呉)	くみ、お（ちる）		12	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	7	288	regiment;party;company;squad;group	regiment;party;group	1306	1403	1077	1077	1877	28
 黛	黑	黒	代	品u	Phono-semantic compound			タイ(漢)、ダイ(呉)	まゆずみ、まゆ、かきまゆ	まゆずみ	16	Jinmeiyō (used in names)		pre-1		blackened eyebrows		2864	2877				
@@ -1872,7 +1872,7 @@
 猪	犬	犭	者	品l	Phono-semantic compound			チョ(呉)	い、いのしし	い、しし	11	Jinmeiyō (used in names)		pre-1	1795	boar		1262	1352				
 苧	艸	艹		⿳				チョ(漢)、ジョ(呉)	お、からんし、からむし		8	Hyōgaiji		pre-1	3365	hemp;flax							
 著	艸	艹	者	⿳	Phono-semantic compound	チョ	あらわ（す）、いちじる（しい）	チョ(呉)、チャク(漢)、ジャク(呉)	あらわ（す）、いちじる（しい）、つ（く）、き（る）	あき、あきら、つぎ、つぐ	11	Kyōiku-Jōyō (6th grade of primary school)	N2 (intermediate)	5	857	renowned;publish;write;remarkable;phenomenal;put on;don;wear;arrival;finish (race);counter for suits of clothing;literary work;author;conspicuous	renowned;author;conspicuous	1258	1347	931	931	871	33
-貯	貝			品l	Compound ideograph	チョ		チョ(呉)	た（める）、たくわ（える）	おさむ、もる	12	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	1642	savings;store;lay in;keep;wear mustache;lay up	savings;lay up	194	206	942	942	924	26
+貯	貝			品l	Compound ideograph	チョ		チョ(呉)	た（める）、たくわ（える）	おさむ、もる	12	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	7	1642	savings;store;lay in;keep;wear mustache;lay up	savings;lay up	194	206	942	942	924	26
 丁	一		丁	囗	Pictograph	チョウ、テイ		テイ(漢)、チョウ(呉)、トウ(漢)	ひのと、わかもの、あ（たる）	あたる、あつ、つよし、のり、ひのと、よぼろ	2	Kyōiku-Jōyō (3rd grade of primary school)	N1 (advanced)	8	933	street;ward;town;counter for guns, tools, leaves or cakes of something;even number;4th calendar sign;town subsection;miscellaneous counter	street;town subsection;miscellaneous counter	91	95	246	246	1024	2
 兆	儿		兆	囗	Pictograph	チョウ	きざ（す）、きざ（し）	チョウ(漢)、ジョウ(呉)	きざ（す）、きざ（し）、うらな（い）	とき、よし	6	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	1721	portent;10^12;trillion;sign;omen;symptoms	portent;omen;trillion	235	250	15	15	337	37
 凋	冫			⿰				チョウ(呉)	しぼ（む）		10	Hyōgaiji		pre-1	3134	wither;droop;lame		2135	2262				
@@ -1895,7 +1895,7 @@
 眺	目		兆	⿰	Phono-semantic compound	チョウ	なが（める）	チョウ(呉)	なが（める）		11	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1320	stare;watch;look at;see;scrutinize;look out over	stare;look out over	237	252	1398	1833	1560	45
 聴	耳			⿰4	Compound ideograph	チョウ	き（く）	チョウ(呉)、テイ(漢)	き（く）、ゆる（す）	あき、あきら、とし、より	17	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	967	listen;headstrong;naughty;careful inquiry	listen	827	890	1010	1010	1664	37
 脹	肉	⺼	長	⿰	Phono-semantic compound			チョウ(呉)	は（れる）、ふく（らむ）、ふく（れる）、ふく（よか）		12	Jinmeiyō (former Jōyō kanji)		pre-1	3070	dilate;distend;bulge;fill out;swell		1923	2073	1981			
-腸	肉	⺼	昜	品l	Phono-semantic compound	チョウ		チョウ(漢)、ジョウ(呉)	はらわた、わた		13	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	7	1810	intestines;guts;bowels;viscera	intestines	544	583	1322	1862	1680	
+腸	肉	⺼	昜	品l	Phono-semantic compound	チョウ		チョウ(漢)、ジョウ(呉)	はらわた、わた		13	Kyōiku-Jōyō (6th grade of primary school)	N1 (advanced)	7	1810	intestines;guts;bowels;viscera	intestines	544	583	1322	1862	1680	
 蝶	虫		枼	品l	Phono-semantic compound			チョウ(漢)、ジョウ(呉)			15	Jinmeiyō (used in names)		pre-1	1854	butterfly		521	560				
 調	言	訁	周	⿰	Phono-semantic compound	チョウ	しら（べる）、ととの（う）、ととの（える）	チョウ(漢)、ジョウ(呉)	しら（べる）、しら（べ）、ととの（う）、ととの（える）、みつぎ、やわら（ぐ）、あざけ（る）	しげ、しらべ、つき、つぎ、つぐ、なり、のり、みつぎ	15	Kyōiku-Jōyō (3rd grade of primary school)	N3 (lower intermediate)	8	220	tune;tone;meter;key (music);writing style;prepare;exorcise;investigate	tune;tone;investigate;prepare	349	373	531	531	906	10
 諜	言	訁		品l	Compound ideograph			チョウ(漢)、ジョウ(呉)	ちょう（ずる）、うかが（う）、しめ（す）、ふだ、さぐ（る）		16	Hyōgaiji		pre-1	2354	spy out;reconnoiter		2726	2757		2141		
@@ -1945,7 +1945,7 @@
 鶴	鳥			品r	Compound ideograph		つる	カク(漢)、ガク(呉)	つる、しろ（い）	ず、たず、つ、つる	21	Jōyō (high school)	N1 (advanced)	2	1198	crane;stork	crane	1943	2093		1669		49
 亭	亠		亭	⿱	Compound ideograph	テイ		テイ(漢)、ジョウ(呉)、チン(唐)	あずまや	たかし	9	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1334	pavilion;restaurant;mansion;arbor;cottage;vaudeville;music hall;stage name;inn	pavilion;inn	311	333	1392	1404	1034	50
 低	人	亻	氐	品l	Phono-semantic compound	テイ	ひく（い）、ひく（める）、ひく（まる）	テイ(漢)、タイ(呉)	ひく（い）、ひく（める）、ひく（まる）、た（れる）	ひら	7	Kyōiku-Jōyō (4th grade of primary school)	N4 (basic)	7	568	lower;short;humble;low	lower;low	1831	1973	103	103	113	11
-停	人	亻	亭	⿰	Phono-semantic compound	テイ		テイ(漢)、ジョウ(呉)、チョウ(慣)	と（める）、と（まる）、とど（まる）	とどむ	11	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	965	halt;stopping	halt	977	1051	740	740	328	23
+停	人	亻	亭	⿰	Phono-semantic compound	テイ		テイ(漢)、ジョウ(呉)、チョウ(慣)	と（める）、と（まる）、とど（まる）	とどむ	11	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	7	965	halt;stopping	halt	977	1051	740	740	328	23
 偵	人	亻	貞	⿰	Phono-semantic compound	テイ		テイ(漢)、チョウ(呉)	うかが（う）		11	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1387	spy		981	1056	1833	1617	1060	31
 剃	刀	刂		⿰	Phono-semantic compound			テイ(漢)、タイ(呉)	まい、そ（る）、す（る）		9	Hyōgaiji (former Jinmeiyō candidate)		pre-1	2251	shave		2146	2271		2231		
 貞	貝		貞	⿱	Compound ideograph	テイ		テイ(漢)、チョウ(呉)	さだ、ただ（しい）	さだ、ただ、ただし、ただす、つら、みさお	9	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1350	upright;chastity;constancy;righteousness;chaste	upright;chaste	55	58	1832	2052	1776	
@@ -1979,7 +1979,7 @@
 泥	水	氵		⿰	Compound ideograph	デイ	どろ	デイ(漢)、ナイ(呉)	どろ、なず（む）	どろ、ぬり、ね、ひじ	8	Jōyō (3rd grade of junior high school)	N2 (intermediate)	pre-2	1396	mud;mire;adhere to;be attached to	mud	1055	1135	1208	1696	679	31
 摘	手	扌	啇	⿰	Phono-semantic compound	テキ	つ（む）	テキ(漢)、チャク(呉)、タク(漢)	つ（む）、つま（む）	つみ	14	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1263	pinch;pick;pluck;trim;clip;summarize	pinch;pick	657	709	688	688	1379	36
 擢	手	扌		品l				テキ(慣)、ダク(呉)、タク(漢)	ぬ（く）、ぬき（んでる）		17	Jinmeiyō (used in names)		pre-1	2512	excel in;surpass;pull out;select		2272	2370				
-敵	攴	攵	啇	⿰	Phono-semantic compound	テキ	かたき	テキ(漢)、ジャク(呉)	かたき、あだ、かな（う）	とし	15	Kyōiku-Jōyō (5th grade of primary school)	N1 (advanced)	6	565	enemy;foe;opponent	enemy	443	475	1101	1101	1391	21
+敵	攴	攵	啇	⿰	Phono-semantic compound	テキ	かたき	テキ(漢)、ジャク(呉)	かたき、あだ、かな（う）	とし	15	Kyōiku-Jōyō (6th grade of primary school)	N1 (advanced)	6	565	enemy;foe;opponent	enemy	443	475	1101	1101	1391	21
 滴	水	氵	啇	⿰	Phono-semantic compound	テキ	しずく、したた（る）	テキ(漢)、チャク(呉)	しずく、したた（る）、た（れる）		14	Jōyō (1st grade of junior high school)	N2 (intermediate)	4	1976	drip;drop		442	474	1222	1279	706	47
 的	白			⿰	Compound ideograph	テキ	まと	テキ(漢)、チャク(呉)	まと、あき（らか）	あきら、まさ、まと	8	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	28	bull's eye;mark;target;object;adjective ending;adjectival suffix	bull's eye;target;adjectival suffix	69	73	465	465	753	14
 笛	竹	⺮	由	⿱	Phono-semantic compound	テキ	ふえ	テキ(漢)、ジャク(呉)	ふえ	ふえ	11	Kyōiku-Jōyō (3rd grade of primary school)	N1 (advanced)	8	1770	flute;clarinet;pipe;whistle;bagpipe;piccolo	flute	1111	1192	1354	1257	1602	19
@@ -1987,8 +1987,8 @@
 鏑	金	釒		⿰				テキ(漢)、チャク(呉)	かぶら、かぶらや、やじり		19	Hyōgaiji		pre-1	2877	arrowhead		2758					
 溺	水	氵		⿲	Compound ideograph	デキ	おぼ（れる）	デキ(漢)、ニャク(呉)、ニョウ(呉)、ジョウ(漢)	いばり、おぼ（れる）、ゆばり		13	Jōyō (high school)	N3 (lower intermediate)	2	2165	drown;indulge;drowning	drowning	2308	1324		1703		
 哲	口			品u	Compound ideograph	テツ		テツ(漢)、テチ(呉)	さとい、あき（らか）、し（る）、さば（く）、さと（い）	あき、あきら、さと、さとし、さとる、てつ、のり、よし	10	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1158	philosophy;clear;sagacious	philosophy;sagacious	1131	1212	1729	1328	1132	42
-徹	彳			⿲	Phono-semantic compound	テツ		テツ(漢)、テチ(呉)	とお（る）、とお（す）、つらぬ（く）	あきら、いたる、おさむ、とお、とおる、ひとし、みち、ゆき	15	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1203	penetrate;clear;pierce;strike home;sit up (all night);go through	penetrate;go through	886	951	1097	1097	1286	41
-撤	手	扌		⿲	Phono-semantic compound	テツ		テツ(漢)、テチ(呉)	す（てる）		15	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1528	remove;withdraw;disarm;dismantle;reject;exclude	remove;withdraw	760	822	1096	1096	1382	41
+徹	彳		𰕎	⿲	Phono-semantic compound	テツ		テツ(漢)、テチ(呉)	とお（る）、とお（す）、つらぬ（く）	あきら、いたる、おさむ、とお、とおる、ひとし、みち、ゆき	15	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1203	penetrate;clear;pierce;strike home;sit up (all night);go through	penetrate;go through	886	951	1097	1097	1286	41
+撤	手	扌	𰕎	⿲	Phono-semantic compound	テツ		テツ(漢)、テチ(呉)	す（てる）		15	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1528	remove;withdraw;disarm;dismantle;reject;exclude	remove;withdraw	760	822	1096	1096	1382	41
 轍	車			⿲				テツ(漢)、デチ(呉)	わだちい、わだち、のり、あとかた		19	Hyōgaiji		pre-1	3007	rut;wheel track							
 迭	辵	辶	失	⿺	Phono-semantic compound	テツ		テツ(漢)、デチ(呉)	たが（いに）、か（わる）		8	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	2959	transfer;alternation;alternate	transfer;alternate	847	910	1435	1480	1806	
 鉄	金	釒	失	⿰	Phono-semantic compound	テツ		テツ(漢)、テチ(呉)	くろがね、かね	かね、きみ、とし、まがね	13	Kyōiku-Jōyō (3rd grade of primary school)	N3 (lower intermediate)	8	410	iron		846	909	170	170	976	10
@@ -2083,7 +2083,7 @@
 働	人	亻	動	⿲	Phono-semantic compound	ドウ	はたら（く）	ドウ(慣)	はたら（く）		13	Kyōiku-Jōyō (4th grade of primary school)	N4 (basic)	7	582	work;(kokuji)	work	1678	1809	375	375	120	11
 動	力		動	⿰	Compound ideograph	ドウ	うご（く）、うご（かす）	ドウ(慣)、ズウ(呉)、トウ(漢)	うご（く）、うご（かす）、やや（もすれば）	いつ	11	Kyōiku-Jōyō (3rd grade of primary school)	N4 (basic)	8	43	move;motion;change;confusion;shift;shake	move	1676	1806	374	374	130	12
 同	口		同	⿵	Compound ideograph	ドウ	おな（じ）	ドウ(慣)、ズウ(呉)、トウ(漢)	おな（じ）、とも（に）	あつ、あつむ、とも、のぶ、ひとし	6	Kyōiku-Jōyō (2nd grade of primary school)	N4 (basic)	9	40	same;agree;equal	same	180	192	412	412	136	5
-堂	土			⿱	Compound ideograph	ドウ		ドウ(呉)、トウ(漢)	ざしき、たかどの	たか	11	Kyōiku-Jōyō (4th grade of primary school)	N4 (basic)	7	655	public chamber;hall		798	861	1667	1406	144	17
+堂	土			⿱	Compound ideograph	ドウ		ドウ(呉)、トウ(漢)	ざしき、たかどの	たか	11	Kyōiku-Jōyō (5th grade of primary school)	N4 (basic)	7	655	public chamber;hall		798	861	1667	1406	144	17
 導	寸		道	⿱	Phono-semantic compound	ドウ	みちび（く）	ドウ(呉)、トウ(漢)	みちび（く）、しるべ	おさ、みち	15	Kyōiku-Jōyō (5th grade of primary school)	N2 (intermediate)	6	663	guidance;leading;conduct;usher;guide	guidance;guide	278	296	875	875	481	23
 憧	心	忄		品l	Compound ideograph	ショウ	あこが（れる）	ショウ(漢)、ドウ(慣)、シュ(呉)	あこが（れる）		15	Jōyō (high school)	N1 (advanced)	2	2048	yearn after;long for;aspire to;admire;adore;yearn	yearn	2280	681		1958		
 撞	手	扌	童	品l	Phono-semantic compound			トウ(漢)、ドウ(呉)、シュ(慣)	つ（く）		15	Jinmeiyō (used in names)		pre-1	3216	thrust;pierce;stab;prick		2245	2351				
@@ -2097,17 +2097,17 @@
 峠	山			品l	Compound ideograph		とうげ		とうげ		9	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1724	mountain peak;mountain pass;climax;crest;(kokuji)	mountain peak;mountain pass	773	835	1787	1806	1239	
 鴇	鳥			品r				ホウ(呉)	とき、のがん		15	Hyōgaiji		pre-1		wild goose;madam of a brothel;crested ibis							
 匿	匸			⿷	Compound ideograph	トク		トク(慣)、ニョク(呉)、ジョク(漢)	かくま（う）、かく（れる）	のく	10	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	2115	hide;shelter;shield;conceal	hide;conceal	1692	1827	1932	1844	1108	
-得	彳			品l	Compound ideograph	トク	え（る）、う（る）	トク(呉)	え（る）、う（る）	あり、う、え、なり、のり、やす	11	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	213	gain;get;find;earn;acquire;can;may;able to;profit;advantage;benefit	gain;acquire	876	941	949	949	523	19
-徳	彳			⿰4	Compound ideograph	トク		トク(呉)		あきら、あつ、あつし、あり、いさお、え、かつ、さと、ただし、とこ、とみ、なり、なる、のぼる、のり、めぐむ、やす、よし	14	Kyōiku-Jōyō (5th grade of primary school)	N1 (advanced)	6	621	benevolence;virtue;goodness;commanding respect	benevolence;virtue	885	950	1239	1471	1284	31
+得	彳			品l	Compound ideograph	トク	え（る）、う（る）	トク(呉)	え（る）、う（る）	あり、う、え、なり、のり、やす	11	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	7	213	gain;get;find;earn;acquire;can;may;able to;profit;advantage;benefit	gain;acquire	876	941	949	949	523	19
+徳	彳			⿰4	Compound ideograph	トク		トク(呉)		あきら、あつ、あつし、あり、いさお、え、かつ、さと、ただし、とこ、とみ、なり、なる、のぼる、のり、めぐむ、やす、よし	14	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	6	621	benevolence;virtue;goodness;commanding respect	benevolence;virtue	885	950	1239	1471	1284	31
 涜	水	氵		品l				トク(漢)、ドク(呉)	けが（す）、けが（れ）、みぞ、あなど（る）		10	Hyōgaiji		pre-1		defile;blaspheme;ditch;(extended shinjitai);(kokuji)		2297	2393		2166		
 特	牛	牜		品l	Compound ideograph	トク		トク(漢)、ドク(呉)	とりわけ、おうし、ひと（り）、ひと（つ）	こと、よし	10	Kyōiku-Jōyō (4th grade of primary school)	N4 (basic)	7	216	special		246	261	461	461	215	11
 督	目			品u	Compound ideograph	トク		トク(呉)	かしら、み（る）、ただ（す）、うなが（す）、ひき（いる）	おさむ、かみ、こう、すけ、すすむ、ただ、ただす、まさ、よし	13	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	790	coach;command;urge;lead;supervise;commander	coach;supervise;commander	719	776	1002	1002	1563	29
 禿	禾			⿱				トク(呉)	ちび（る）、かむろ、は（げる）、はげ、ち（びる）		7	Hyōgaiji (former Jinmeiyō candidate)		pre-1	2393	become bald;bare;wear out;waste away;little girl employed at a brothel		2606	2652				
 篤	竹	⺮		⿱	Compound ideograph	トク		トク(呉)	あつ（い）	あつ、あつし、しげ、すみ	16	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	2070	fervent;kind;cordial;serious;deliberate;devoted	fervent;devoted	1988	2142	1987	2021	1607	
-毒	毋			⿱	Compound ideograph	ドク		ドク(呉)、トク(漢)、ダイ(呉)、タイ(漢)	そこ（なう）、わる（い）		8	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	1036	poison;virus;venom;germ;harm;injury;spite	poison	1531	1651	996	996	659	15
+毒	毋			⿱	Compound ideograph	ドク		ドク(呉)、トク(漢)、ダイ(呉)、タイ(漢)	そこ（なう）、わる（い）		8	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	7	1036	poison;virus;venom;germ;harm;injury;spite	poison	1531	1651	996	996	659	15
 独	犬	犭		⿰	Compound ideograph	ドク	ひと（り）	ドク(呉)、トク(漢)	ひと（り）	かつ	9	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	6	452	single;alone;spontaneously;Germany	single;alone;Germany	522	561	881	881	728	26
 読	言	訁		品l	Compound ideograph	ドク、トク、トウ*	よ（む）	ドク(呉)、トク(漢)、トウ(漢)、ズ(呉)	よ（む）	おと、とみ、よし、よみ	14	Kyōiku-Jōyō (2nd grade of primary school)	N5 (beginner)	9	397	read;(kokuji)	read	348	372	123	123	88	10
-栃	木			⿰	Compound ideograph		とち		とち		9	Jōyō (high school)	N1 (advanced)	2	2219	horse chestnut;(kokuji)	horse chestnut	514	553		2005		
+栃	木			⿰	Compound ideograph		とち		とち		9	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	2	2219	horse chestnut;(kokuji)	horse chestnut	514	553		2005		
 橡	木			品l				ショウ(漢)、ゾウ(呉)	とち、くぬぎ、つるばみ		16	Hyōgaiji		pre-1		horse chestnut;(kokuji)							
 凸	凵			囗	Pictograph	トツ		トツ(漢)、トチ(呉)	でこ	たかし	5	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	2617	convex;beetle brow;uneven	convex	34	34	1955	2098	1086	
 突	穴			⿱	Compound ideograph	トツ	つ（く）	トツ(漢)、ドチ(呉)	つ（く）、つつ（く）		8	Jōyō (1st grade of junior high school)	N2 (intermediate)	4	389	stab;protruding;thrusting;thrust;pierce;prick;dash;collision;sudden	stab;dash;thrust	1319	1416	1072	1072	785	26
@@ -2129,7 +2129,7 @@
 呑	口			⿱	Compound ideograph			ドン(慣)、トン(呉)	の（む）		7	Hyōgaiji (former Jinmeiyō candidate)		pre-1		drink		2080	2225				
 曇	日			⿳	Compound ideograph	ドン	くも（る）	ドン(呉)、タン(漢)	くも（る）		16	Jōyō (1st grade of junior high school)	N2 (intermediate)	4	1985	cloudy weather;cloud up;cloudy	cloudy weather;cloudy	424	453	712	712	608	45
 鈍	金	釒		⿰	Phono-semantic compound	ドン	にぶ（い）、にぶ（る）	ドン(呉)、トン(漢)	にぶ（い）、にぶ（る）、にぶ、なま（る）、なまく（ら）、にび、のろ（い）		12	Jōyō (1st grade of junior high school)	N2 (intermediate)	4	1887	dull;slow;foolish;blunt	dull	1495	1611	1170	1157	975	46
-奈	大			⿱	Compound ideograph	ナ		ナイ(呉)、ダイ(漢)、ナ(呉)、ダ(漢)	いかん、からなし、なん（ぞ）、いかん（ぞ）	なに	8	Jōyō (high school)	N1 (advanced)	2	746	Nara;what?;nara	nara	1094	1175		2003		36
+奈	大			⿱	Compound ideograph	ナ		ナイ(呉)、ダイ(漢)、ナ(呉)、ダ(漢)	いかん、からなし、なん（ぞ）、いかん（ぞ）	なに	8	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	2	746	Nara;what?;nara	nara	1094	1175		2003		36
 那	邑	⻏		⿰	Compound ideograph	ナ		ナ(呉)、ダ(漢)	なに、なんぞ、いかん、なん（ぞ）、いかん（ぞ）	とも、ふゆ、やす	7	Jōyō (high school)	N1 (advanced)	2	958	what?;interrogative	interrogative	2960	1992		1905		
 内	冂			囗	Compound ideograph	ナイ、ダイ*	うち	ナイ(呉)、ダイ(漢)	うち、い（る）	うち、うつ、ただ、ちか、のぶ、はる、まさ、みつ	4	Kyōiku-Jōyō (2nd grade of primary school)	N3 (lower intermediate)	9	57	inside;within;between;among;house;home	inside	1019	1095	50	50	345	3
 乍	丿			囗				サ(漢)、ジャ(呉)	たちま（ち）、なが（ら）		5	Hyōgaiji		pre-1	3019	though;notwithstanding;while;during;both;all							
@@ -2141,7 +2141,7 @@
 鍋	金	釒		⿰	Phono-semantic compound		なべ	カ(呉)	なべ		17	Jōyō (high school)	N3 (lower intermediate)	2	1655	pot;pan;kettle	pot	2757	1388	1186	1772		35
 楢	木			⿰				ユウ(漢)、ユ(呉)	なら		13	Jinmeiyō (used in names)		pre-1	2922	oak		2493	2556				
 馴	馬			⿰				ジュン(呉)、シュン(漢)	な（れる）、な（らす）、したが（う）、すな（お）、よ（い）、おし（え）		13	Jinmeiyō (used in names)		pre-1	1669	get used to;experienced;tamed		2807	2822				
-縄	糸			品l	Compound ideograph	ジョウ	なわ	ジョウ(呉)、ショウ(漢)	なわ、ただ（す）	ただ、つぐ、つな、なお、なわ、のり、まさ	15	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1161	straw rope;cord;rope	straw rope;rope	1377	1477	1735	1118	1642	36
+縄	糸			品l	Compound ideograph	ジョウ	なわ	ジョウ(呉)、ショウ(漢)	なわ、ただ（す）	ただ、つぐ、つな、なお、なわ、のり、まさ	15	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	pre-2	1161	straw rope;cord;rope	straw rope;rope	1377	1477	1735	1118	1642	36
 畷	田			⿲				テツ(漢)、テチ(呉)、テイ(漢)、タイ(呉)	なわて		13	Hyōgaiji		pre-1		rice field ridge path		2072	2221				
 南	十			⿱	Compound ideograph	ナン、ナ*	みなみ	ナン(呉)、ナ(慣)、ダン(漢)	みなみ	あけ、なみ、みな、みなみ、よし	9	Kyōiku-Jōyō (2nd grade of primary school)	N5 (beginner)	9	345	south		1613	1740	93	93	29	6
 楠	木			⿰				ナン(呉)、ダン(漢)	くす、くすのき	くす、くすのき	13	Jinmeiyō (used in names)		pre-1	2149	camphor tree		1614	1741				
@@ -2334,7 +2334,7 @@
 肥	肉	⺼		⿰	Compound ideograph	ヒ	こ（える）、こえ、こ（やす）、こ（やし）	ヒ(漢)、ビ(呉)	こ（える）、こえ、こ（やす）、こ（やし）、ふと（る）	うま、こえ、とし、とみ、とも、みつ、ゆたか	8	Kyōiku-Jōyō (5th grade of primary school)	N1 (advanced)	6	1445	fertilizer;get fat;fertile;manure;pamper;fatten	fertilizer;fatten	1756	1893	1316	1354	1668	25
 被	衣	衤	皮	⿰	Phono-semantic compound	ヒ	こうむ（る）	ヒ(漢)、ビ(呉)	こうむ（る）、おお（う）、かぶ（る）、かぶ（せる）、かず（ける）	ます	10	Jōyō (1st grade of junior high school)	N2 (intermediate)	4	825	incur;cover;veil;brood over;shelter;wear;put on;be exposed (film);receiving;be subjected to	incur;be subjected to	807	870	628	628	881	20
 誹	言	訁		⿰				ヒ(呉)	そし（る）		15	Hyōgaiji (former Jinmeiyō candidate)		pre-1	2981	ridicule;slander		2724	2755		2177		
-費	貝			⿱	Phono-semantic compound	ヒ	つい（やす）、つい（える）	ヒ(呉)	つい（やす）、つい（える）	もち	12	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	829	expense;cost;spend;consume;waste	expense	1238	1326	189	189	925	22
+費	貝			⿱	Phono-semantic compound	ヒ	つい（やす）、つい（える）	ヒ(呉)	つい（やす）、つい（える）	もち	12	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	7	829	expense;cost;spend;consume;waste	expense	1238	1326	189	189	925	22
 避	辵	辶		⿺	Compound ideograph	ヒ	さ（ける）	ヒ(漢)、ビ(呉)	さ（ける）、よ（ける）		16	Jōyō (1st grade of junior high school)	N1 (advanced)	4	990	evade;avoid;avert;ward off;shirk;shun	evade;avoid	1501	1618	1075	1075	1822	38
 非	非		非	囗	Ideograph	ヒ		ヒ(呉)	あら（ず）、わる（い）、そし（る）		8	Kyōiku-Jōyō (5th grade of primary school)	N2 (intermediate)	6	515	un-;mistake;negative;injustice;non-;is not	un-;is not;negative	1632	1760	530	530	1001	17
 飛	飛			囗	Pictograph	ヒ	と（ぶ）、と（ばす）	ヒ(呉)	と（ぶ）、と（ばす）、たか（い）	たか	9	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	350	fly;skip (pages);scatter	fly	1887	2032	511	511	1013	20
@@ -2365,11 +2365,11 @@
 逼	辵	辶		⿺				ヒツ(慣)、ヒョク(漢)、ヒキ(呉)	せま（る）、むかばき		13	Hyōgaiji		pre-1	2885	urge;force;imminent;spur on		2420	2500				
 桧	木		会	⿰4	Phono-semantic compound			カイ(漢)、ケ(呉)	ひのき、ひ		10	Jinmeiyō (used in names)		pre-1	3355	Japanese cypress		2495	2558				
 姫	女			⿰	Compound ideograph		ひめ	キ(呉)	ひめ	ひめ	10	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1018	princess;daughter of noble birth	princess;daughter of noble birth	849	912	1806	1140	1191	44
-媛	女		爰	品l	Phono-semantic compound	エン	ひめ	エン(呉)、オン(呉)	ひめ	ひめ	12	Jōyō (high school)	N1 (advanced)	2	2262	beautiful woman;princess	beautiful woman	1950	2100		2008		
+媛	女		爰	品l	Phono-semantic compound	エン	ひめ	エン(呉)、オン(呉)	ひめ	ひめ	12	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	2	2262	beautiful woman;princess	beautiful woman	1950	2100		2008		
 紐	糸		丑	⿰	Phono-semantic compound			チュウ(慣)、ジュウ(漢)、ニュウ(呉)	ひも		10	Jinmeiyō (used in names)		pre-1	1937	string;cord;braid;lace;tape;strap;ribbon		2661	2703		2207		
 百	白			⿱	Phono-semantic compound	ヒャク		ヒャク(呉)、ハク(漢)	もも	お、と、はげむ、も、もも	6	Kyōiku-Jōyō (1st grade of primary school)	N5 (beginner)	10	430	hundred		38	38	11	11	74	4
 謬	言	訁		品l				ビュウ(漢)、ミュウ(呉)	あやま（る）		18	Hyōgaiji		pre-1		mistake		2720	2752				
-俵	人	亻	表	⿰	Phono-semantic compound	ヒョウ	たわら	ヒョウ(呉)	たわら		10	Kyōiku-Jōyō (5th grade of primary school)	N1 (advanced)	6	2018	bag;bale;sack;counter for bags;straw sack	bag;straw sack	1547	1667	1886	1622	1053	46
+俵	人	亻	表	⿰	Phono-semantic compound	ヒョウ	たわら	ヒョウ(呉)	たわら		10	Kyōiku-Jōyō (6th grade of primary school)	N1 (advanced)	6	2018	bag;bale;sack;counter for bags;straw sack	bag;straw sack	1547	1667	1886	1622	1053	46
 彪	彡			⿺				ヒュウ(呉)、ヒョウ(慣)	あや、まだら	あきら、あや、たけ、たけし、つよし、とら	11	Jinmeiyō (used in names)		pre-1	3222	spotted;mottled;patterned;small tiger		2876					
 標	木		票	品l	Phono-semantic compound	ヒョウ		ヒョウ(呉)	しるべ、しるし、しめ、こずえ、しる（す）	えだ、かた、こずえ、しな、すえ、たか、とお、ひで	15	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	901	signpost;seal;mark;stamp;imprint;symbol;emblem;trademark;evidence;souvenir;target	signpost;mark	1608	1734	540	540	642	13
 氷	水			囗	Compound ideograph	ヒョウ	こおり、ひ	ヒョウ(呉)	こおり、ひ、こお（る）	きよ、ひ	5	Kyōiku-Jōyō (3rd grade of primary school)	N3 (lower intermediate)	8	1290	icicle;ice;hail;freeze;congeal	icicle;ice	131	138	679	679	662	4
@@ -2404,7 +2404,7 @@
 埠	土			品l	Compound ideograph			フ(唐)、ブ(呉)、ホ(漢)	つか、はとば		11	Hyōgaiji		pre-1	2696	wharf		2189	2304		2276		
 夫	大		夫	囗	Compound ideograph	フ、フウ*	おっと	フ(呉)、フウ(慣)	おっと、それ、おとこ	あき、お、すけ	4	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	282	husband;man;man laborer	husband;man laborer	838	901	891	891	445	15
 婦	女			⿰4	Compound ideograph	フ		フ(慣)、ブ(呉)、フウ(漢)	よめ、おんな		11	Kyōiku-Jōyō (5th grade of primary school)	N2 (intermediate)	6	794	lady;woman;wife;bride;adult woman	lady;adult woman	1151	1234	892	892	454	28
-富	宀			⿳	Compound ideograph	フ、フウ*	と（む）、とみ	フ(呉)、フウ(漢)	と（む）、とみ	あつ、あつし、さかえ、と、とます、とみ、とめり、とめる、とよ、ひさ、ふく、みつる、ゆたか、よし	12	Kyōiku-Jōyō (5th grade of primary school)	N2 (intermediate)	6	744	wealth;enrich;abundant;rich	wealth;rich	193	205	834	834	472	31
+富	宀			⿳	Compound ideograph	フ、フウ*	と（む）、とみ	フ(呉)、フウ(漢)	と（む）、とみ	あつ、あつし、さかえ、と、とます、とみ、とめり、とめる、とよ、ひさ、ふく、みつる、ゆたか、よし	12	Kyōiku-Jōyō (4th grade of primary school)	N2 (intermediate)	6	744	wealth;enrich;abundant;rich	wealth;rich	193	205	834	834	472	31
 冨	冖			⿳	Compound ideograph			フ(呉)、フウ(漢)	と（む）、とみ	あつ、あつし、さかえ、と、とます、とみ、とめり、とめる、とよ、ひさ、ふく、みつる、ゆたか、よし	11	Jinmeiyō (traditional variant of Jōyō)		pre-1	2845	enrich;wealthy;abundant							
 布	巾		布	⿸	Pictograph	フ	ぬの	フ(呉)、ホ(漢)	ぬの、し（く）	しき、しく、たえ、ぬの、のぶ、よし	5	Kyōiku-Jōyō (5th grade of primary school)	N2 (intermediate)	6	657	linen;cloth;spread;distribute	linen;cloth;spread	405	433	1362	1299	494	19
 府	广		付	⿸	Phono-semantic compound	フ		フ(呉)	くら、みやこ	あつ、くら、もと	8	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	443	borough;urban prefecture;govt office;representative body;storehouse;municipality	borough;municipality;urban prefecture	1002	1077	558	558	509	16
@@ -2423,7 +2423,7 @@
 負	貝			⿱	Compound ideograph	フ	ま（ける）、ま（かす）、お（う）	フ(慣)、ブ(呉)、フウ(漢)	ま（ける）、ま（かす）、お（う）、たの（む）、そむ（く）	え、おい、ひ、ます	9	Kyōiku-Jōyō (3rd grade of primary school)	N3 (lower intermediate)	8	525	defeat;negative;minus;bear;owe;assume a responsibility;lose	defeat;bear;lose	63	67	302	302	918	9
 賦	貝			⿰	Compound ideograph	フ		フ(呉)	みつぎ、わか（つ）	ます	15	Jōyō (1st grade of junior high school)	N1 (advanced)	4	2613	levy;ode;prose;poem;tribute;installment	levy;installment	378	404	1837	2039	1786	
 赴	走			⿺	Compound ideograph	フ	おもむ（く）	フ(呉)	おもむ（く）、つ（げる）	はや、ゆく	9	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1857	proceed;get;become;tend;proceed to	proceed to	386	412	1769	1814	1789	
-阜	阜			囗	Pictograph	フ		フ(慣)、ブ(呉)、フウ(漢)	おか、ゆた（か）		8	Jōyō (high school)	N1 (advanced)	2	1950	hill;mound;left village radical (no. 170);large hill	large hill	2928	1360		2009		39
+阜	阜			囗	Pictograph	フ		フ(慣)、ブ(呉)、フウ(漢)	おか、ゆた（か）		8	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	2	1950	hill;mound;left village radical (no. 170);large hill	large hill	2928	1360		2009		39
 附	阜	⻖	付	⿲	Phono-semantic compound	フ		フ(漢)、ブ(呉)	つ（ける）、つ（く）	ちか、つく、ます、より、よる	8	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1670	affixed;attach;refer to;append	affixed;attach	1303	1400	1536	2115	1867	
 侮	人	亻		品l	Compound ideograph	ブ	あなど（る）	ブ(漢)、ム(呉)	あなど（る）、あなず（る）		8	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	2120	scorn;despise;make light of;contempt;insult	scorn;insult	989	1064	1457	1452	1047	
 撫	手	扌	無	⿰	Phono-semantic compound			ブ(慣)、フ(呉)	な（でる）		15	Jinmeiyō (used in names)		pre-1	1695	stroke;pat;smooth down		2270	2368		2198		
@@ -2461,7 +2461,7 @@
 扮	手	扌		品l	Compound ideograph			ハン(漢)、ヘン(呉)、フン(呉)	ふん（する）、やつ（す）、よそお（う）、かざ（る）		7	Hyōgaiji		pre-1	2531	impersonate;dress up;disguise;thin shingles		2246	2352				
 焚	火			品u				フン(漢)、ブン(呉)	た（く）、や（く）、やきがり		12	Jinmeiyō (used in names)		pre-1	2277	burn;kindle;build a fire;boil;cook		2537	2597		2235		
 奮	大			⿳	Compound ideograph	フン	ふる（う）	フン(呉)	ふる（う）		16	Kyōiku-Jōyō (6th grade of primary school)	N1 (advanced)	5	1415	stirred up;be invigorated;flourish;rouse up	stirred up;rouse up	565	607	1054	1054	1183	50
-粉	米		分	品l	Phono-semantic compound	フン	こ、こな	フン(呉)	こ、こな、デシメートル		10	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	1381	flour;powder;dust	flour;powder	920	988	1250	1281	804	31
+粉	米		分	品l	Phono-semantic compound	フン	こ、こな	フン(呉)	こ、こな、デシメートル		10	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	7	1381	flour;powder;dust	flour;powder	920	988	1250	1281	804	31
 糞	米			⿳	Compound ideograph			フン(呉)	くそ、けが（れ）、はら（う）、つちか（う）		17	Hyōgaiji (former Jinmeiyō candidate)		pre-1	2163	shit;feces;excrement		2653	2695				
 紛	糸		分	品l	Phono-semantic compound	フン	まぎ（れる）、まぎ（らす）、まぎ（らわす）、まぎ（らわしい）	フン(呉)	まぎ（れる）、まぎ（らす）、まぎ（らわす）、まぎ（らわしい）、まが（う）、まぐ（れ）、みだ（れる）	お、もろ	10	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	1456	distract;be mistaken for;go astray;divert;confused	distract;confused	1358	1458	653	653	1622	42
 雰	雨	⻗	分	⿱	Phono-semantic compound	フン		フン(呉)	きり		12	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1593	atmosphere;fog	atmosphere	2028	2184	1647	1530	1888	14
@@ -2643,7 +2643,7 @@
 湊	水	氵	奏	品l	Phono-semantic compound			ソウ(漢)、ス(呉)	みなと、あつ（まる）		12	Jinmeiyō (used in names)		pre-1	2390	port;harbor		2309	2402				
 蓑	艸	艹		⿱				サイ(呉)、サ(呉)	みの		13	Jinmeiyō (used in names)		pre-1	2807	straw raincoat		2354	2442				
 稔	禾		念	⿰4	Phono-semantic compound			ジン(漢)、ニン(呉)、ネン(慣)	みの（る）、みのり、とし、つ（む）	とし、なり、なる、みのる、ゆたか	13	Jinmeiyō (used in names)		pre-1	2479	harvest;ripen		2607	2653				
-脈	肉	⺼		⿰	Compound ideograph	ミャク		ミャク(呉)、バク(漢)	すじ		10	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	7	1288	vein;pulse;hope	vein;pulse	1856	2000	1324	1360	1676	31
+脈	肉	⺼		⿰	Compound ideograph	ミャク		ミャク(呉)、バク(漢)	すじ		10	Kyōiku-Jōyō (5th grade of primary school)	N1 (advanced)	7	1288	vein;pulse;hope	vein;pulse	1856	2000	1324	1360	1676	31
 妙	女			⿰	Compound ideograph	ミョウ		ミョウ(呉)、ビョウ(漢)	たえ、わか（い）	たう、たえ、ただ、たふ、たゆ	7	Jōyō (1st grade of junior high school)	N1 (advanced)	4	844	exquisite;strange;queer;mystery;miracle;excellent;delicate;charming;marvelous	exquisite;marvelous	123	130	1030	1030	1188	28
 粍	米			⿰					ミリ、ミリメートル		10	Hyōgaiji		pre-1		millimeter;(kokuji)		2948	2955				
 民	氏		民	囗	Compound ideograph	ミン	たみ	ミン(呉)、ビン(漢)	たみ	たみ、ひと、み、みたみ、もと	5	Kyōiku-Jōyō (4th grade of primary school)	N4 (basic)	7	175	people;nation;subjects	people	1834	1976	451	451	206	7
@@ -2757,7 +2757,7 @@
 与	一			囗	Compound ideograph	ヨ	あた（える）	ヨ(呉)	あた（える）、あずか（る）、くみ（する）、ともに	あたう、あたえ、あと、あとう、くみ、すえ、ため、とも、のぶ、ひとし、もと、もろ、よし	3	Jōyō (1st grade of junior high school)	N2 (intermediate)	4	445	bestow;participate in;give;award;impart;provide;cause;gift;godsend	bestow;give	1246	1335	940	940	285	25
 誉	言			⿱	Compound ideograph	ヨ	ほま（れ）	ヨ(呉)	ほま（れ）、ほ（める）	しげ、たか、たかし、のり、ほまる、ほまれ、ほむ、ほん、もと、やす、よし	13	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1423	reputation;praise;honor;glory	reputation;honor	1939	2089	1885	1245	1754	40
 輿	車			⿱				ヨ(呉)	かご、こし、めしつかい、くるま、の（せる）、おお（い）、はじ（め）		17	Jinmeiyō (used in names)		pre-1	2319	palanquin;bier		2860	2874				
-預	頁		予	品r	Phono-semantic compound	ヨ	あず（ける）、あず（かる）	ヨ(呉)	あず（ける）、あず（かる）、あらかじ（め）	さき、まさ、やす、よし	13	Kyōiku-Jōyō (5th grade of primary school)	N2 (intermediate)	6	1368	deposit;custody;leave with;entrust to	deposit	1595	1721	943	943	1007	30
+預	頁		予	品r	Phono-semantic compound	ヨ	あず（ける）、あず（かる）	ヨ(呉)	あず（ける）、あず（かる）、あらかじ（め）	さき、まさ、やす、よし	13	Kyōiku-Jōyō (6th grade of primary school)	N2 (intermediate)	6	1368	deposit;custody;leave with;entrust to	deposit	1595	1721	943	943	1007	30
 傭	人	亻	庸	⿰	Phono-semantic compound			ヨウ(漢)、ヨ(呉)	やと（う）、あた（い）、ひと（しい）		13	Jinmeiyō (used in names)		pre-1	2389	employ;hire		2128					
 幼	幺			⿰	Compound ideograph	ヨウ	おさな（い）	ヨウ(慣)、ユウ(呉)	おさな（い）、いとけな（い）	わか	5	Kyōiku-Jōyō (6th grade of primary school)	N2 (intermediate)	5	1003	infancy;childhood;very young	infancy;very young	1378	1478	1389	1134	505	28
 妖	女			⿰	Compound ideograph	ヨウ	あや（しい）	ヨウ(呉)	あや（しい）、なま（めく）、わざわ（い）、なまめ（かしい）		7	Jōyō (high school)	N1 (advanced)	2	1458	attractive;bewitching;calamity;bewitched	bewitched	2078	458		1907		
@@ -2815,7 +2815,7 @@
 吏	口			囗	Compound ideograph	リ		リ(呉)	つかさ	おさ、さと、つかさ	6	Jōyō (2nd grade of junior high school)	N1 (advanced)	3	2107	officer;an official;official	officer;official	693	748	1688	2068	1126	
 履	尸			⿸	Compound ideograph	リ	は（く）	リ(呉)	は（く）、くつ、ふ（む）	ふみ	15	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1645	footgear;shoes;boots;put on (the feet);fulfill	footgear;fulfill	1057	1137	1287	1427	1234	19
 李	木			⿱				リ(呉)	すもも、おさ（める）	もも	7	Jinmeiyō (used in names)		pre-1	1434	plum		2511	2571				
-梨	木			品u	Phono-semantic compound		なし	リ(呉)	なし	なし	11	Jōyō (high school)	N1 (advanced)	2	1442	pear tree;pear	pear tree;pear	907	973		2004		44
+梨	木			品u	Phono-semantic compound		なし	リ(呉)	なし	なし	11	Kyōiku-Jōyō (4th grade of primary school)	N1 (advanced)	2	1442	pear tree;pear	pear tree;pear	907	973		2004		44
 理	玉	⺩		品l	Compound ideograph	リ		リ(呉)	ことわり、すじ、おさ（める）	あや、おさ、おさむ、さだむ、すけ、たか、ただ、ただし、ただす、とし、のり、まさ、まろ、みち、よし	11	Kyōiku-Jōyō (2nd grade of primary school)	N4 (basic)	9	66	logic;arrangement;reason;justice;truth;basic principal	logic;reason;basic principal	265	283	182	182	217	7
 璃	玉	⺩	离	⿰	Phono-semantic compound	リ		リ(呉)		あき	15	Jōyō (high school)	N1 (advanced)	2	2448	glassy;lapis lazuli;crystal;glassy substance	crystal;glassy substance	2048	1606		2094		
 痢	疒		利	⿸	Phono-semantic compound	リ		リ(呉)	はらくだし		12	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	2622	diarrhea		1687	1821	1783	1849	1547	
@@ -2899,7 +2899,7 @@
 麗	鹿			品u	Compound ideograph	レイ	うるわ（しい）	レイ(漢)、ライ(呉)、リ(呉)	うるわ（しい）、うら（らか）、つら（なる）、なら（ぶ）、はな（れる）、うら（ら）	あきら、かず、つぐ、つら、よし、より	19	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1241	lovely;beautiful;graceful;resplendent;of graceful beauty	lovely;of graceful beauty	2002	2158	1986	1665	1923	28
 齢	齒	歯	令	品l	Phono-semantic compound	レイ		レイ(漢)、リョウ(呉)	よわい、とし	とし、なか、よ	17	Jōyō (1st grade of junior high school)	N2 (intermediate)	4	1057	age		1403	1505	899	899	1023	38
 暦	日		𠩵	⿸	Phono-semantic compound	レキ	こよみ	レキ(漢)、リャク(呉)	こよみ、りゃく	とし	14	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1553	calendar;almanac	calendar	213	226	1262	1700	1411	45
-歴	止		𠩵	⿸	Phono-semantic compound	レキ		レキ(漢)、リャク(呉)	へ（る）	つぐ、つね、ふる、ゆき	14	Kyōiku-Jōyō (4th grade of primary school)	N3 (lower intermediate)	7	624	curriculum;continuation;passage of time;personal history	curriculum;personal history	376	402	726	726	654	19
+歴	止		𠩵	⿸	Phono-semantic compound	レキ		レキ(漢)、リャク(呉)	へ（る）	つぐ、つね、ふる、ゆき	14	Kyōiku-Jōyō (5th grade of primary school)	N3 (lower intermediate)	7	624	curriculum;continuation;passage of time;personal history	curriculum;personal history	376	402	726	726	654	19
 列	刀	刂	列	⿰	Compound ideograph	レツ		レツ(漢)、レチ(呉)	つら（なる）、つら（ねる）、なら（べる）	しげ、つら、とく、のぶ	6	Kyōiku-Jōyō (3rd grade of primary school)	N3 (lower intermediate)	8	592	file;row;rank;tier;column	file;row	812	875	819	819	352	15
 劣	力			⿱	Compound ideograph	レツ	おと（る）	レツ(漢)、レチ(呉)	おと（る）、いや（しい）		6	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1490	inferiority;be inferior to;be worse;inferior	inferiority;inferior	862	926	1636	1650	1100	49
 烈	火	灬	列	品u	Phono-semantic compound	レツ		レツ(漢)、レチ(呉)	はげ（しい）	あきら、いさお、たけ、たけし、つよ、つら、やす、よし	10	Jōyō (1st grade of junior high school)	N1 (advanced)	4	1280	ardent;violent;vehement;furious;severe;extreme	ardent;vehement	814	877	1589	1496	1515	29
@@ -6808,6 +6808,6 @@
 𠦝	日			⿳				カン			8	Hyōgaiji				rising sun;dawn							
 𡿺	巛			⿱				ノウ			7	Hyōgaiji				brain							
 	十			⿱				ソツ			4	Hyōgaiji				compact unit;orderly unit							
-	攴	攵		⿰5				テツ			12	Hyōgaiji				pass through							
+𰕎	攴	攵		⿰5				テツ			12	Hyōgaiji				pass through							
 	肉	⺼		⿱				ダ			9	Hyōgaiji				collapsing pile of earth							
 𬵪	魚			品l					あおさば、さば		23	Hyōgaiji		1		mackarel;(kokuji)							

@@ -6808,6 +6808,6 @@
 𠦝	3		;kan;カン;	rising sun
 𡿺	3		;nou;ノウ;	brain
 	3		;sotsu;ソツ;sotu;	compact unit;orderly unit
-	3		;tetsu;テツ;tetu;	pass through
+𰕎	3		;tetsu;テツ;tetu;	pass through
 	3		;da;ダ;	collapsing pile of earth
 𬵪	3		;aosaba;saba;あおさば;さば;	mackarel

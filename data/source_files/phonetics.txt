@@ -444,5 +444,5 @@
 𧆨	リョ	2	Single-reading phonetic
 𡿺	ノウ	2	Absolute phonetic
 	ソツ	2	Single-reading phonetic
-	テツ	2	Single-reading phonetic
+𰕎	テツ	2	Single-reading phonetic
 	ダ	2	Single-reading phonetic

@@ -102,8 +102,8 @@
 102	五	いつ	五	い↴つ	<span class="HL">い</span><span class="L">つ</span>	H-L	1	five	Primary school		Very common*			
 103	五	ゴ	五					five	Primary school	N5 (beginner)	Very common*	2		
 104	五	いつつ	五つ	い↱つ↴つ	<span class="LH">い</span><span class="HL">つ</span><span class="L">つ</span>	L-H-L	2	five	Primary school	N5 (beginner)	Very common	2		
-105	井	い	井	い↴	<span class="HL">い</span>	H-(L)	1	[noun] well	Junior high school		Common*			
-106	井	セイ	井					[noun] {1} (obscure term) well curb;{2} (astronomy) Chinese Well constellation (one of the 28 mansions)	High school		Common*			
+105	井	い	井	い↴	<span class="HL">い</span>	H-(L)	1	[noun] well	Primary school		Common*			
+106	井	セイ	井					[noun] {1} (obscure term) well curb;{2} (astronomy) Chinese Well constellation (one of the 28 mansions)	Primary school		Common*			
 107	亜	ア	亜					[prefix] {1} sub-;{2} -ous (indicating a low oxidation state);-ite	Junior high school		Very common			
 108	亡	なくす	亡くす	な↱くす	<span class="LH">な</span><span class="H">くす</span>	L-H-H	0	[godan verb, transitive] {1} to lose something;{2} to get rid of;{3} to lose someone (wife, child, etc.)		N2 (intermediate)	Uncommon		を(80%),で(20%)	v5
 109	亡	ない	亡い	な↴い	<span class="HL">な</span><span class="L">い</span>	H-L	1	[い adjective] dead	High school					adji
@@ -854,7 +854,7 @@
 854	娘	むすめ	娘	む↱すめ↴	<span class="LH">む</span><span class="HL">すめ</span>	L-H-H-(L)	3	[noun] {1} (my) daughter;{2} girl (i.e. a young, unmarried woman)	Junior high school	N2 (intermediate)	Very common	29		
 855	婦	フ	婦					[noun] {1} married woman;{2} woman;lady	Primary school		Rare			
 856	婿	むこ	婿	む↴こ	<span class="HL">む</span><span class="L">こ</span>	H-L	1	[noun] {1} husband;groom;{2} (one's) son-in-law	Junior high school	N1 (advanced)	Common			
-857	媛	ひめ	媛	ひ↴め	<span class="HL">ひ</span><span class="L">め</span>	H-L	1	[noun] {1} princess;young lady of noble birth;[noun used as a suffix, noun] {2} girl;[noun] {3} {archaism} {Kyoto-ben} prostitute;[prefix] {4} small;cute	High school		Common			
+857	媛	ひめ	媛	ひ↴め	<span class="HL">ひ</span><span class="L">め</span>	H-L	1	[noun] {1} princess;young lady of noble birth;[noun used as a suffix, noun] {2} girl;[noun] {3} {archaism} {Kyoto-ben} prostitute;[prefix] {4} small;cute	Primary school		Common			
 858	嫁	よめ	嫁	よ↱め	<span class="LH">よ</span><span class="H">め</span>	L-H	0	[noun] {1} wife;bride;{2} (one's) daughter-in-law	Junior high school	N1 (advanced)	Very common	45		
 859	嫁	とつぐ	嫁ぐ	と↱つ↴ぐ	<span class="LH">と</span><span class="HL">つ</span><span class="L">ぐ</span>	L-H-L	2	[godan verb, intransitive] {1} to marry (of a woman);to become a bride;to marry into (a family);{2} (archaism) to have sexual intercourse	Junior high school		Common	45	に	v5
 860	嫁	かする	嫁する	か↱す↴る	<span class="LH">か</span><span class="HL">す</span><span class="L">る</span>	L-H-L	2	[special する verb, intransitive, transitive] {1} to wed;to be married;{2} to shift blame to someone else						vsi
@@ -995,7 +995,7 @@
 995	屯	トン	屯					ton (now usu. a metric ton, i.e. 1,000 kg)	Junior high school		Rare			
 996	山	サン	山					[suffix] Mt (suffix used with the names of mountains);Mount	Primary school		Very common*			
 997	山	やま	山	や↱ま↴	<span class="LH">や</span><span class="HL">ま</span>	L-H-(L)	2	[noun] {1} mountain;hill;{2} mine (e.g. coal mine);{3} heap;pile;[noun] {4} crown (of a hat);thread (of a screw);tread (of a tire);{5} climax;peak;critical point;{6} guess;speculation;{7} criminal case;crime;{8} festival float (esp. one mounted with a decorative halberd);{9} wall (mahjong);wall tile;[noun used as a prefix] {10} wild	Primary school	N5 (beginner)	Very common*	1		
-998	岡	おか	岡	お↱か	<span class="LH">お</span><span class="H">か</span>	L-H	0	[noun] hill;height;knoll;rising ground	High school		Very common			
+998	岡	おか	岡	お↱か	<span class="LH">お</span><span class="H">か</span>	L-H	0	[noun] hill;height;knoll;rising ground	Primary school		Very common			
 999	岩	いわ	岩	い↱わ↴	<span class="LH">い</span><span class="HL">わ</span>	L-H-(L)	2	[noun] rock;crag	Primary school	N3 (lower intermediate)	Very common	15		
 1000	岬	みさき	岬	み↱さき	<span class="LH">み</span><span class="H">さき</span>	L-H-H	0	[noun] cape (on coast)	Junior high school	N1 (advanced)	Very common			
 1001	岳	たけ	岳	た↱け↴	<span class="LH">た</span><span class="HL">け</span>	L-H-(L)	2	[noun, suffix] {1} peak;{2} mountain	Junior high school		Common	43		
@@ -1004,7 +1004,7 @@
 1004	峰	みね	峰	み↱ね↴	<span class="LH">み</span><span class="HL">ね</span>	L-H-(L)	2	[noun] {1} peak;summit;ridge;top;{2} back of a blade	Junior high school	N1 (advanced)	Very common	50		
 1005	島	しま	島	し↱ま↴	<span class="LH">し</span><span class="HL">ま</span>	L-H-(L)	2	[noun] {1} island;{2} territory (of a prostitute, organized crime gang, etc.);turf	Primary school	N3 (lower intermediate)	Very common*			
 1006	島	トウ	島					[suffix] {1} Island;[noun used as a suffix, noun] {2} insula;island;islet	Primary school		Very common*			
-1007	崎	さき	崎	さ↱き	<span class="LH">さ</span><span class="H">き</span>	L-H	0	[noun] small peninsula	Junior high school		Very common	23		
+1007	崎	さき	崎	さ↱き	<span class="LH">さ</span><span class="H">き</span>	L-H	0	[noun] small peninsula	Primary school		Very common	23		
 1008	崖	がけ	崖	が↱け	<span class="LH">が</span><span class="H">け</span>	L-H	0	[noun] cliff	High school	N1 (advanced)	Very common	47		
 1009	崩	くずれる	崩れる	く↱ずれ↴る	<span class="LH">く</span><span class="HL">ずれ</span><span class="L">る</span>	L-H-H-L	3	[ichidan verb, intransitive] to collapse;to crumble	Junior high school	N1 (advanced)	Very common	39	が(63%),に(25%),で(13%)	v1
 1010	崩	くずす	崩す	く↱ず↴す	<span class="LH">く</span><span class="HL">ず</span><span class="L">す</span>	L-H-L	2	[godan verb, transitive] to destroy;to pull down;to make change (money)	Junior high school	N1 (advanced)	Very common	37	を	v5
@@ -1702,7 +1702,7 @@
 1702	桟	サン	桟					[noun] {1} frame (i.e. of a sliding door);{2} crosspiece;bar;{3} sliding wooden bolt (for holding a door or window shut);{4} rung (of a ladder)	Junior high school		Rare			
 1703	梅	うめ	梅	う↱め	<span class="LH">う</span><span class="H">め</span>	L-H	0	[noun] {1} Japanese apricot (Prunus mume);Chinese plum;{2} lowest (of a three-tier ranking system)	Primary school	N1 (advanced)	Very common	17		
 1704	梢	こずえ	梢	こ↱ずえ	<span class="LH">こ</span><span class="H">ずえ</span>	L-H-H	0	[noun] treetop;tip of a branch		N1 (advanced)	Common			
-1705	梨	なし	梨	な↱し↴	<span class="LH">な</span><span class="HL">し</span>	L-H-(L)	2	[noun] nashi (Pyrus pyrifolia, esp. var. culta);Japanese pear;Asian pear;sand pear;apple pear	High school		Very common	44		
+1705	梨	なし	梨	な↱し↴	<span class="LH">な</span><span class="HL">し</span>	L-H-(L)	2	[noun] nashi (Pyrus pyrifolia, esp. var. culta);Japanese pear;Asian pear;sand pear;apple pear	Primary school		Very common	44		
 1706	棒	ボウ	棒					[noun] pole;rod;stick	Primary school	N2 (intermediate)	Very common	31		
 1707	棚	たな	棚	た↱な	<span class="LH">た</span><span class="H">な</span>	L-H	0	[noun] {1} shelf;shelves;ledge;rack;{2} trellis	Junior high school	N1 (advanced)	Very common	44		
 1708	棟	トウ	棟					[noun] {1} large building;building with a long roof;[suffix] {2} counter for buildings, apartments, etc.	Junior high school	N1 (advanced)	Very common*			
@@ -1829,7 +1829,7 @@
 1829	決	ケツ	決					[noun] decision;vote	Primary school		Rare	8		
 1830	沈	しずむ	沈む	し↱ずむ	<span class="LH">し</span><span class="H">ずむ</span>	L-H-H	0	[godan verb, intransitive] to sink;to feel depressed;to descend	Junior high school	N2 (intermediate)	Very common	43	に(55%),が(45%)	v5
 1831	沈	しずめる	沈める	し↱ずめる	<span class="LH">し</span><span class="H">ずめる</span>	L-H-H-H	0	[ichidan verb, transitive] {1} to sink;to submerge;{2} to floor (an opponent)	Junior high school	N1 (advanced)	Common	43	を(75%),に(25%)	v1
-1832	沖	おき	沖	お↱き	<span class="LH">お</span><span class="H">き</span>	L-H	0	[noun] open sea	Junior high school	N1 (advanced)	Very common			
+1832	沖	おき	沖	お↱き	<span class="LH">お</span><span class="H">き</span>	L-H	0	[noun] open sea	Primary school	N1 (advanced)	Very common			
 1833	沖	ちゅうする	沖する	ちゅ↱うす↴る	<span class="LH">ちゅ</span><span class="HL">うす</span><span class="L">る</span>	L-H-H-L	3	[special する verb, intransitive] to rise up into the air;to ascend into the sky			Rare			vsi
 1834	沙	サ	沙					one hundred-millionth	High school		Very common			
 1835	没	ボツ	没					[noun, noun used as a suffix] {1} discard;[noun] {2} death;{3} (abbreviation) rejection (of a manuscript, etc.);[noun used as a prefix] {4} lacking;without	Junior high school		Uncommon			
@@ -1975,7 +1975,7 @@
 1975	潔	いさぎよい	潔い	い↱さぎよ↴い	<span class="LH">い</span><span class="HL">さぎよ</span><span class="L">い</span>	L-H-H-H-L	4	[い adjective] {1} manly;sportsmanlike;gracious;gallant;resolute;brave;{2} pure (heart, actions, etc.);upright;blameless;{3} (archaism) unsullied (e.g. scenery or object);pure;clean	High school		Uncommon	28		adji
 1976	潜	ひそむ	潜む	ひ↱そ↴む	<span class="LH">ひ</span><span class="HL">そ</span><span class="L">む</span>	L-H-L	2	[godan verb, intransitive] to lurk;to lie dormant;to be hidden;to be concealed;to be stashed	Junior high school		Common	41	に	v5
 1977	潜	もぐる	潜る	も↱ぐ↴る	<span class="LH">も</span><span class="HL">ぐ</span><span class="L">る</span>	L-H-L	2	[godan verb, intransitive] {1} to dive (into or under water);{2} to get under;to get into;to get in;to creep into;to crawl under;to bury oneself;to burrow into;to dig oneself into;to snuggle under;{3} to hide oneself (esp. from the government);to conceal oneself;to go underground	Junior high school	N1 (advanced)	Common	43	に	v5
-1978	潟	かた	潟	か↱た↴	<span class="LH">か</span><span class="HL">た</span>	L-H-(L)	2	[noun] lagoon	Junior high school		Common	42		
+1978	潟	かた	潟	か↱た↴	<span class="LH">か</span><span class="HL">た</span>	L-H-(L)	2	[noun] lagoon	Primary school		Common	42		
 1979	潤	うるむ	潤む	う↱る↴む	<span class="LH">う</span><span class="HL">る</span><span class="L">む</span>	L-H-L	2	[godan verb, intransitive] {1} to be wet;to be moist;{2} to get dim;to become blurred;to get cloudy;to get muddy;to be bleared;{3} to become tear-choked	Junior high school		Uncommon			v5
 1980	潤	うるおす	潤す	う↱るお↴す	<span class="LH">う</span><span class="HL">るお</span><span class="L">す</span>	L-H-H-L	3	[godan verb, transitive] {1} to moisten;to wet;{2} to profit;to enrich;to benefit	Junior high school		Rare		を	v5
 1981	潤	うるおう	潤う	う↱るお↴う	<span class="LH">う</span><span class="HL">るお</span><span class="L">う</span>	L-H-H-L	3	[godan verb, intransitive] {1} to be moist;to be damp;to get wet;to be watered;{2} to profit by;to receive benefits;to receive favors (favours);{3} to become rich;to become at ease financially	Junior high school	N1 (advanced)	Rare	49		v5
@@ -2035,7 +2035,7 @@
 2035	煮	にる	煮る	に↱る	<span class="LH">に</span><span class="H">る</span>	L-H	0	[ichidan verb, transitive] to boil;to simmer;to stew;to seethe	Junior high school	N1 (advanced)	Common	49	を(60%),に(40%)	v1
 2036	煮	にえる	煮える	に↱える	<span class="LH">に</span><span class="H">える</span>	L-H-H	0	[ichidan verb, intransitive] to boil;to cook;to be cooked	Junior high school	N1 (advanced)	Uncommon		が	v1
 2037	煮	にやす	煮やす	に↱やす	<span class="LH">に</span><span class="H">やす</span>	L-H-H	0	[godan verb, transitive] to cook inside	Junior high school		Rare			v5
-2038	熊	くま	熊	く↱ま↴	<span class="LH">く</span><span class="HL">ま</span>	L-H-(L)	2	[noun] bear (animal)	High school		Very common	35		
+2038	熊	くま	熊	く↱ま↴	<span class="LH">く</span><span class="HL">ま</span>	L-H-(L)	2	[noun] bear (animal)	Primary school		Very common	35		
 2039	熟	うれる	熟れる	う↱れ↴る	<span class="LH">う</span><span class="HL">れ</span><span class="L">る</span>	L-H-L	2	[ichidan verb, intransitive] to ripen;to mellow;to mature	Junior high school		Rare	33		v1
 2040	熱	あつい	熱い	あ↱つ↴い	<span class="LH">あ</span><span class="HL">つ</span><span class="L">い</span>	L-H-L	2	[い adjective] hot (thing)	Primary school	N3 (lower intermediate)	Very common	13		adji
 2041	熱	ネツ	熱					[noun] {1} heat;{2} fever;temperature;{3} zeal;passion;enthusiasm;{4} mania;craze;rage	Primary school	N3 (lower intermediate)	Very common	13		
@@ -2479,7 +2479,7 @@
 2479	練	ねる	練る	ね↴る	<span class="HL">ね</span><span class="L">る</span>	H-L	1	[godan verb, transitive] {1} to knead;to thicken into a paste (stirring over a flame);{2} to polish (a plan, etc.);to refine;to elaborate;to work out;{3} to train;to drill;to exercise;{4} to gloss (silk);to soften;to degum;{5} to tan (leather);{6} to temper (steel);{7} to walk in procession;to parade;to march	Primary school	N1 (advanced)	Common		を	v5
 2480	縁	エン	縁					[noun] {1} fate;destiny (esp. as a mysterious force that binds two people together);{2} relationship (e.g. between two people);bond;link;connection;{3} family ties;affinity;{4} opportunity;chance (to meet someone and start a relationship);{5} (Buddhist term) pratyaya (indirect conditions, as opposed to direct causes);{6} narrow open-air veranda	Junior high school	N1 (advanced)	Very common*	44		
 2481	縁	ふち	縁	ふ↱ち↴	<span class="LH">ふ</span><span class="HL">ち</span>	L-H-(L)	2	[noun] rim;brim;edge;brink	Junior high school	N1 (advanced)	Very common*	44		
-2482	縄	なわ	縄	な↱わ↴	<span class="LH">な</span><span class="HL">わ</span>	L-H-(L)	2	[noun] {1} rope;cord;{2} policeman's rope	Junior high school	N1 (advanced)	Very common	36		
+2482	縄	なわ	縄	な↱わ↴	<span class="LH">な</span><span class="HL">わ</span>	L-H-(L)	2	[noun] {1} rope;cord;{2} policeman's rope	Primary school	N1 (advanced)	Very common	36		
 2483	縛	しばる	縛る	し↱ば↴る	<span class="LH">し</span><span class="HL">ば</span><span class="L">る</span>	L-H-L	2	[godan verb, transitive] to tie;to bind	Junior high school	N1 (advanced)	Very common		を(43%),に(29%),で(29%)	v5
 2484	縦	たて	縦	た↴て	<span class="HL">た</span><span class="L">て</span>	H-L	1	[noun] {1} the vertical;height;{2} front-to-back;length;{3} north-to-south;[noun, の adjective] {4} vertical (relationship);hierarchy;[noun] {5} (weaving) warp	Primary school	N1 (advanced)	Very common	34		
 2485	縫	ぬう	縫う	ぬ↴う	<span class="HL">ぬ</span><span class="L">う</span>	H-L	1	[godan verb, transitive] {1} to sew;to stitch;{2} to weave one's way (e.g. through a crowd)	Junior high school	N1 (advanced)	Common		を	v5
@@ -2659,7 +2659,7 @@
 2659	英	エイ	英					[noun, noun used as a prefix, noun used as a suffix] (abbreviation) Britain;British	Primary school		Very common			
 2660	茂	しげる	茂る	し↱げ↴る	<span class="LH">し</span><span class="HL">げ</span><span class="L">る</span>	L-H-L	2	[godan verb, intransitive] to grow thickly;to be in full leaf;to be rampant;to luxuriate;to be luxurious	Junior high school	N1 (advanced)	Common	40	が(50%),と(50%)	v5
 2661	茎	くき	茎	く↱き↴	<span class="LH">く</span><span class="HL">き</span>	L-H-(L)	2	[noun] stalk;stem	Junior high school	N1 (advanced)	Uncommon			
-2662	茨	いばら	茨	い↱ばら	<span class="LH">い</span><span class="H">ばら</span>	L-H-H	0	[noun] {1} thorny shrub;{2} wild rose;briar;{3} thorn;{4} (architectural) cusp	High school		Rare			
+2662	茨	いばら	茨	い↱ばら	<span class="LH">い</span><span class="H">ばら</span>	L-H-H	0	[noun] {1} thorny shrub;{2} wild rose;briar;{3} thorn;{4} (architectural) cusp	Primary school		Rare			
 2663	茶	チャ	茶					[noun] {1} tea;{2} tea plant (Camellia sinensis);{3} tea preparation;making tea;{4} (abbreviation) brown;[noun, な adjective] {5} (archaism) mockery	Primary school	N4 (basic)	Very common			
 2664	茹	ゆでる	茹でる	ゆ↱で↴る	<span class="LH">ゆ</span><span class="HL">で</span><span class="L">る</span>	L-H-L	2	[ichidan verb, transitive] to boil		N1 (advanced)	Rare		を	v1
 2665	草	くさ	草	く↱さ↴	<span class="LH">く</span><span class="HL">さ</span>	L-H-(L)	2	[noun] {1} grass;weed;herb;thatch;{2} (archaism) ninja;[prefix] {3} not genuine;substandard	Primary school	N3 (lower intermediate)	Very common*	5		
@@ -3222,7 +3222,7 @@
 3222	闇	やみ	闇	や↱み↴	<span class="LH">や</span><span class="HL">み</span>	L-H-(L)	2	[noun, の adjective] {1} darkness;the dark;dark;{2} bewilderment;despair;hopelessness;{3} black-marketeering;shady;illegal;under-the-table	High school	N1 (advanced)	Very common	48		
 3223	闘	たたかう	闘う	た↱たかう	<span class="LH">た</span><span class="H">たかう</span>	L-H-H-H	0	[godan verb, intransitive] to fight;to battle;to combat;to struggle against;to wage war;to engage in contest	Junior high school		Common	37	と(82%),で(18%)	v5
 3224	闘	たたかい	闘い	た↱たかい	<span class="LH">た</span><span class="H">たかい</span>	L-H-H-H	0	[noun] battle;fight;struggle;conflict			Common			
-3225	阪	さか	阪	さ↱か↴	<span class="LH">さ</span><span class="HL">か</span>	L-H-(L)	2	[noun] slope;hill	High school		Rare			
+3225	阪	さか	阪	さ↱か↴	<span class="LH">さ</span><span class="HL">か</span>	L-H-(L)	2	[noun] slope;hill	Primary school		Rare			
 3226	防	ふせぐ	防ぐ	ふ↱せ↴ぐ	<span class="LH">ふ</span><span class="HL">せ</span><span class="L">ぐ</span>	L-H-L	2	[godan verb, transitive] to defend (against);to protect;to prevent	Primary school	N2 (intermediate)	Very common	20	を	v5
 3227	防	ふせぎ	防ぎ	ふ↱せぎ↴	<span class="LH">ふ</span><span class="HL">せぎ</span>	L-H-H-(L)	3	[noun] defense;defence;protecting;preventing			Rare			
 3228	阻	はばむ	阻む	は↱ば↴む	<span class="LH">は</span><span class="HL">ば</span><span class="L">む</span>	L-H-L	2	[godan verb, transitive, intransitive] to keep someone from doing;to stop;to prevent;to check;to hinder;to obstruct;to oppose;to thwart	High school	N1 (advanced)	Uncommon	46	を	v5
@@ -3383,11 +3383,11 @@
 3383	館	やかた	館	や↱かた	<span class="LH">や</span><span class="H">かた</span>	L-H-H	0	[noun] {1} mansion;small castle;{2} (honorific) nobleman;noblewoman;{3} boat cabin			Very common*			
 3384	首	くび	首	く↱び	<span class="LH">く</span><span class="H">び</span>	L-H	0	[noun] {1} neck;{2} head;{3} unemployed person	Primary school	N4 (basic)	Very common*	6		
 3385	首	シュ	首					counter for songs and poems	Primary school		Very common*			
-3386	香	か	香	か↱	<span class="LH">か</span>	L-(H)	0	[noun] smell (esp. a good smell);fragrance;scent;aroma;perfume	Junior high school		Very common*			
-3387	香	キョウ	香					[noun] (abbreviation) spear (shogi);lance	High school		Very common*			
-3388	香	コウ	香					[noun] incense	Junior high school		Very common*			
-3389	香	かおり	香り	か↱おり	<span class="LH">か</span><span class="H">おり</span>	L-H-H	0	[noun] aroma;fragrance;scent;smell	Junior high school	N2 (intermediate)	Very common	37		
-3390	香	かおる	香る	か↱おる	<span class="LH">か</span><span class="H">おる</span>	L-H-H	0	[godan verb, intransitive] to smell sweet;to be fragrant	Junior high school		Rare		が	v5
+3386	香	か	香	か↱	<span class="LH">か</span>	L-(H)	0	[noun] smell (esp. a good smell);fragrance;scent;aroma;perfume	Primary school		Very common*			
+3387	香	キョウ	香					[noun] (abbreviation) spear (shogi);lance	Primary school		Very common*			
+3388	香	コウ	香					[noun] incense	Primary school		Very common*			
+3389	香	かおり	香り	か↱おり	<span class="LH">か</span><span class="H">おり</span>	L-H-H	0	[noun] aroma;fragrance;scent;smell	Primary school	N2 (intermediate)	Very common	37		
+3390	香	かおる	香る	か↱おる	<span class="LH">か</span><span class="H">おる</span>	L-H-H	0	[godan verb, intransitive] to smell sweet;to be fragrant	Primary school		Rare		が	v5
 3391	馬	うま	馬	う↱ま↴	<span class="LH">う</span><span class="HL">ま</span>	L-H-(L)	2	[noun] {1} horse;{2} promoted bishop (shogi)	Primary school	N3 (lower intermediate)	Very common	8		
 3392	馳	チ	馳					treat;hospitality						
 3393	駄	ダ	駄					[prefix] {1} poor;low-grade;trivial;insignificant;worthless;[noun used as a suffix] {2} load;pack;horse load;[noun] {3} packhorse	Junior high school		Rare			
@@ -3432,8 +3432,8 @@
 3432	鳴	なく	鳴く	な↱く	<span class="LH">な</span><span class="H">く</span>	L-H	0	[godan verb, intransitive] {1} to sing (bird);{2} to bark;to purr;to make sound (animal)	Primary school	N3 (lower intermediate)	Very common	10	が(55%),に(25%),で(15%),と(5%)	v5
 3433	鶏	にわとり	鶏	に↱わとり	<span class="LH">に</span><span class="H">わとり</span>	L-H-H-H	0	[noun] {1} (domestic) chicken;{2} chicken (meat)	Junior high school		Common			
 3434	鶴	つる	鶴	つ↴る	<span class="HL">つ</span><span class="L">る</span>	H-L	1	[noun] crane (any bird of the family Gruidae, esp. the red-crowned crane, Grus japonensis)	High school		Very common	49		
-3435	鹿	か	鹿					[noun] deer (esp. the sika deer, Cervus nippon)	High school		Very common*			
-3436	鹿	しか	鹿	し↱か	<span class="LH">し</span><span class="H">か</span>	L-H	0	[noun] deer (esp. the sika deer, Cervus nippon)	High school		Very common*	36		
+3435	鹿	か	鹿					[noun] deer (esp. the sika deer, Cervus nippon)	Primary school		Very common*			
+3436	鹿	しか	鹿	し↱か	<span class="LH">し</span><span class="H">か</span>	L-H	0	[noun] deer (esp. the sika deer, Cervus nippon)	Primary school		Very common*	36		
 3437	麓	ふもと	麓	ふ↱もと↴	<span class="LH">ふ</span><span class="HL">もと</span>	L-H-H-(L)	3	[noun] foot (of a mountain or hill);bottom;base	High school	N2 (intermediate)	Common			
 3438	麗	うるわしい	麗しい	う↱るわし↴い	<span class="LH">う</span><span class="HL">るわし</span><span class="L">い</span>	L-H-H-H-L	4	[い adjective] beautiful;lovely	High school		Uncommon			adji
 3439	麦	むぎ	麦	む↴ぎ	<span class="HL">む</span><span class="L">ぎ</span>	H-L	1	[noun] wheat;barley;oat (oats)	Primary school		Common	5		

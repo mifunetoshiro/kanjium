@@ -30,7 +30,7 @@ CONTENTS:
      Pinyin comes from CC-CEDICT (http://www.mdbg.net/chindict/chindict.php?page=cc-cedict).
 
    Please attribute only the changes and additions of this database to me, by e.g. displaying the following or similar text on your website or the "About" page in your application (and on the iTunes App Store/Google Play Store description):<br />
-     "The pitch accent notation, verb particle data, phonetics, homonyms and other additions or modifications to EDICT, KANJIDIC or KRADFILE were provided by Uros Ozvatic through his free database."
+     "The pitch accent notation, verb particle data, phonetics, homonyms and other additions or modifications to EDICT, KANJIDIC or KRADFILE were provided by Uros O. through his free database."
 
 -----------
 

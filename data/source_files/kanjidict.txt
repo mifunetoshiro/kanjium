@@ -1727,11 +1727,11 @@
 唾	口			⿰	Compound ideograph	ダ	つば	ダ(慣)、タ(呉)	つば、つばき		11	Jōyō (high school)	N1 (advanced)	2	2154	saliva;sputum	saliva	2165	1706		1987		
 堕	土			品u	Compound ideograph	ダ		ダ(呉)、タ(漢)、キ(呉)	お（ちる）、くず（す）、くず（れる）、こぼ（つ）		12	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	2174	degenerate;descend to;lapse into	degenerate	1314	1411	1669	1837	1156	
 妥	女			⿱	Compound ideograph	ダ		ダ(慣)、タ(呉)	やす（らか）、おだ（やか）	やす、やすし	7	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	2013	gentle;peace;depravity;come to terms	gentle;come to terms	728	785	603	603	1189	14
-惰	心	忄		品l	Phono-semantic compound	ダ		ダ(呉)、タ(漢)	おこた（る）		12	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	2790	lazy;laziness	lazy	629	676	1496	1836	1305	
+惰	心	忄	𲺋	品l	Phono-semantic compound	ダ		ダ(呉)、タ(漢)	おこた（る）		12	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	2790	lazy;laziness	lazy	629	676	1496	1836	1305	
 打	手	扌		⿰	Compound ideograph	ダ	う（つ）	ダ(唐)、チョウ(呉)、テイ(漢)	う（つ）、う（ち）、ぶ（つ）、ダース		5	Kyōiku-Jōyō (3rd grade of primary school)	N3 (lower intermediate)	8	308	strike;hit;knock;pound;dozen	strike;hit	653	705	263	263	554	4
 柁	木			品l				ダ(呉)、タ(漢)	かじ		9	Hyōgaiji		pre-1		rudder;helm;wheel							
 舵	舟		它	品l	Phono-semantic compound			ダ(呉)、タ(漢)	かじ		11	Jinmeiyō (used in names)		pre-1	2269	rudder;helm;wheel		2674	2715		2275		
-楕	木			品l	Phono-semantic compound			ダ(慣)、タ(呉)	こばんがた		13	Jinmeiyō (used in names)		pre-1	2601	ellipse		2531	2591				
+楕	木		𲺋	品l	Phono-semantic compound			ダ(慣)、タ(呉)	こばんがた		13	Jinmeiyō (used in names)		pre-1	2601	ellipse		2531	2591				
 陀	阜	⻖	它	品l	Phono-semantic compound			ダ(呉)、タ(漢)	けわ（しい）、ななめ		8	Jinmeiyō (used in names)		pre-1	1911	steep		2955	2952				
 駄	馬			⿰	Compound ideograph	ダ		ダ(呉)、タ(漢)	の（せる）		14	Jōyō (3rd grade of junior high school)	N1 (advanced)	pre-2	1267	burdensome;pack horse;horse load;send by horse;good for nothing	burdensome;good for nothing	1986	2140	1595	1613	1909	50
 騨	馬			⿰4	Compound ideograph			タ(漢)、ダ(呉)、ダン(呉)、テン(呉)、タン(呉)			19	Hyōgaiji		pre-1		dappled grey horse;(extended shinjitai)		2804	2819				
@@ -6809,5 +6809,5 @@
 𡿺	巛			⿱				ノウ			7	Hyōgaiji				brain							
 	十			⿱				ソツ			4	Hyōgaiji				compact unit;orderly unit							
 𰕎	攴	攵		⿰5				テツ			12	Hyōgaiji				pass through							
-	肉	⺼		⿱				ダ			9	Hyōgaiji				collapsing pile of earth							
+𲺋	肉	⺼		⿱				ダ			9	Hyōgaiji				collapsing pile of earth							
 𬵪	魚			品l					あおさば、さば		23	Hyōgaiji		1		mackarel;(kokuji)							

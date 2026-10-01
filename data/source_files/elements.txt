@@ -1727,11 +1727,11 @@
 唾	11	1	⿰	丨丿一口叶	垂	口,垂,丿,一		saliva
 堕	12	1	品u	丿一月土⻖圣厷有	陏	陏,土,月,⻖,有,⺼		degenerate
 妥	7	1	⿱	女爫安		女,爫	綏,餒	gentle;come to terms
-惰	12	1	品l	丿一月工忄厷		月,工,忄,		lazy
+惰	12	1	品l	丿一月工忄厷	𲺋	月,工,忄,𲺋		lazy
 打	5	1	⿰	亅一扌丁		丁,扌,一,亅	咑	strike;hit
 柁	9	3	品l	木匕宀札	它	木,它,匕,宀		rudder
 舵	11	2	品l	舟匕宀	它	舟,它,匕,宀		rudder
-楕	13	2	品l	丿一月工木札厷		木,月,工,		ellipse
+楕	13	2	品l	丿一月工木札厷	𲺋	木,月,工,𲺋		ellipse
 陀	8	2	品l	匕宀⻖	它	它,匕,宀,⻖		steep
 駄	14	1	⿰	大馬丶馭	太	馬,太,大,丶		burdensome;good for nothing
 騨	19	3	⿰4	十⺍田馬馭	単	馬,単,十,⺍,田		dappled grey horse
@@ -6809,5 +6809,5 @@
 𡿺	7	3	⿱	凵㐅⺍	凶	凶,凵,⺍	悩,脳	brain
 	4	3	⿱	十亠		亠,十	卒,倅,埣,悴,淬,猝,瘁,碎,粹,翠,萃,醉,率,蟀	compact unit
 𰕎	12	3	⿰5	月⺼攵厶亠	育	育,攵,月,⺼,厶,亠	徹,撤,轍	pass through
-	9	3	⿱	月⺼丿一工厷	左	左,月,⺼,工	惰,楕	collapsing pile of earth
+𲺋	9	3	⿱	月⺼丿一工厷	左	左,月,⺼,工	惰,楕	collapsing pile of earth
 𬵪	23	3	品l	魚⺈魞田丨一心虫日厶忌	惠	魚,惠,田,心,虫,日		mackarel
